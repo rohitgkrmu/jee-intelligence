@@ -21,6 +21,11 @@ import {
   RotateCcw,
 } from "lucide-react";
 
+interface QuestionOption {
+  id: string;
+  text: string;
+}
+
 interface Question {
   id: string;
   examType: "MAIN" | "ADVANCED";
@@ -33,7 +38,7 @@ interface Question {
   questionType: string;
   difficulty: "EASY" | "MEDIUM" | "HARD";
   questionText: string;
-  options?: { A?: string; B?: string; C?: string; D?: string };
+  options?: QuestionOption[];
   correctAnswer?: string;
   solution?: string;
 }
@@ -564,19 +569,19 @@ export function PYQBrowser() {
                 </div>
 
                 {/* Options */}
-                {q.options && Object.keys(q.options).length > 0 && (
+                {q.options && Array.isArray(q.options) && q.options.length > 0 && (
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mb-4">
-                    {Object.entries(q.options).map(([key, value]) => (
+                    {q.options.map((option) => (
                       <div
-                        key={key}
+                        key={option.id}
                         className={`p-2 rounded-lg text-sm ${
-                          showAnswers && q.correctAnswer?.includes(key)
+                          showAnswers && q.correctAnswer?.includes(option.id)
                             ? "bg-green-500/20 border border-green-500/30"
                             : "bg-[var(--background-dark)]"
                         }`}
                       >
-                        <span className="font-medium mr-2">({key})</span>
-                        {value}
+                        <span className="font-medium mr-2">({option.id})</span>
+                        {option.text}
                       </div>
                     ))}
                   </div>
