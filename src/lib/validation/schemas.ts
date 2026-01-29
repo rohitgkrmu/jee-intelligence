@@ -170,3 +170,47 @@ export const PaginationSchema = z.object({
 });
 
 export type PaginationInput = z.infer<typeof PaginationSchema>;
+
+// Mock Test schemas
+export const MockTestStartSchema = z.object({
+  mockTestId: z.string().cuid(),
+  lead: LeadSchema,
+});
+
+export type MockTestStartInput = z.infer<typeof MockTestStartSchema>;
+
+export const MockTestAnswerSchema = z.object({
+  questionId: z.string().cuid(),
+  answer: z.string(),
+  timeSpent: z.number().int().min(0).default(0),
+});
+
+export type MockTestAnswerInput = z.infer<typeof MockTestAnswerSchema>;
+
+export const MockTestAutosaveSchema = z.object({
+  answers: z.record(
+    z.string(),
+    z.object({
+      answer: z.string(),
+      timeSpent: z.number().int().min(0),
+    })
+  ),
+  visitedQuestions: z.array(z.string()),
+  markedForReview: z.array(z.string()),
+  currentSubject: z.enum(["physics", "chemistry", "mathematics"]),
+  currentIndex: z.number().int().min(0).max(29),
+});
+
+export type MockTestAutosaveInput = z.infer<typeof MockTestAutosaveSchema>;
+
+export const MockTestSubmitSchema = z.object({
+  answers: z.record(
+    z.string(),
+    z.object({
+      answer: z.string(),
+      timeSpent: z.number().int().min(0),
+    })
+  ),
+});
+
+export type MockTestSubmitInput = z.infer<typeof MockTestSubmitSchema>;

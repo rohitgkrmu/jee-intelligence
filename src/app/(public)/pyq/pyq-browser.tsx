@@ -261,7 +261,7 @@ export function PYQBrowser() {
             )}
           </Button>
           <Button
-            variant={showAnswers ? "default" : "outline"}
+            variant={showAnswers ? "primary" : "outline"}
             onClick={() => setShowAnswers(!showAnswers)}
             className="gap-2"
           >
@@ -660,7 +660,7 @@ export function PYQBrowser() {
               return (
                 <Button
                   key={pageNum}
-                  variant={pagination.page === pageNum ? "default" : "ghost"}
+                  variant={pagination.page === pageNum ? "primary" : "ghost"}
                   size="sm"
                   onClick={() => setPagination((prev) => ({ ...prev, page: pageNum }))}
                 >

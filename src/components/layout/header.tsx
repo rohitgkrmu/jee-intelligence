@@ -4,12 +4,13 @@ import * as React from "react";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
-import { Menu, X, BarChart2, FileText, Sparkles, BookOpen } from "lucide-react";
+import { Menu, X, BarChart2, ClipboardList, Sparkles, BookOpen } from "lucide-react";
 
 const navLinks = [
   { href: "/jee-intelligence", label: "Weightage Analysis", icon: BarChart2 },
+  { href: "/mock-test", label: "Full Mock Test", icon: ClipboardList },
   { href: "/pyq", label: "PYQ Browser", icon: BookOpen },
-  { href: "/diagnostic", label: "Free Diagnostic", icon: Sparkles },
+  { href: "/diagnostic", label: "Quick Diagnostic", icon: Sparkles },
 ];
 
 export function Header() {
@@ -57,9 +58,9 @@ export function Header() {
 
         {/* Desktop CTA */}
         <div className="hidden md:flex items-center gap-3">
-          <Link href="/diagnostic">
+          <Link href="/mock-test">
             <Button variant="gradient" size="md">
-              Start Free Diagnostic
+              Take Free Mock Test
             </Button>
           </Link>
         </div>
@@ -95,9 +96,9 @@ export function Header() {
               );
             })}
             <div className="mt-4 pt-4 border-t border-[var(--border-dark)]">
-              <Link href="/diagnostic" onClick={() => setMobileMenuOpen(false)}>
+              <Link href="/mock-test" onClick={() => setMobileMenuOpen(false)}>
                 <Button variant="gradient" size="lg" className="w-full">
-                  Start Free Diagnostic
+                  Take Free Mock Test
                 </Button>
               </Link>
             </div>

@@ -136,10 +136,69 @@ model Lead {
   createdAt          DateTime            @default(now())
   updatedAt          DateTime            @updatedAt
   diagnosticAttempts DiagnosticAttempt[]
+  mockTestAttempts   MockTestAttempt[]
 
   @@index([email])
   @@index([createdAt])
   @@map("leads")
+}
+
+model MockTest {
+  id             String            @id @default(cuid())
+  name           String
+  description    String?
+  examType       ExamType          @default(MAIN)
+  duration       Int               @default(10800) // 3 hours in seconds
+  totalQuestions Int               @default(90)
+  isActive       Boolean           @default(true)
+  createdAt      DateTime          @default(now())
+  updatedAt      DateTime          @updatedAt
+  attempts       MockTestAttempt[]
+
+  @@map("mock_tests")
+}
+
+model MockTestAttempt {
+  id                 String        @id @default(cuid())
+  mockTestId         String
+  leadId             String
+  reportToken        String        @unique @default(cuid())
+  status             AttemptStatus @default(IN_PROGRESS)
+
+  // Questions by subject (30 each)
+  physicsQuestions   String[]
+  chemistryQuestions String[]
+  mathQuestions      String[]
+
+  // State tracking
+  answers            Json? // { questionId: { answer, timeSpent } }
+  visitedQuestions   String[]      @default([])
+  markedForReview    String[]      @default([])
+
+  // Scores (calculated on submit)
+  physicsScore       Int?
+  chemistryScore     Int?
+  mathScore          Int?
+  totalScore         Int?
+  correctCount       Int           @default(0)
+  incorrectCount     Int           @default(0)
+  unansweredCount    Int           @default(90)
+
+  // Timing
+  startedAt          DateTime      @default(now())
+  completedAt        DateTime?
+  totalTimeSeconds   Int?
+
+  // Tracking
+  ipAddress          String?
+  fingerprint        String?
+
+  mockTest           MockTest      @relation(fields: [mockTestId], references: [id])
+  lead               Lead          @relation(fields: [leadId], references: [id])
+
+  @@index([leadId])
+  @@index([reportToken])
+  @@map("mock_test_attempts")
 }
 
 model AdminUser {
