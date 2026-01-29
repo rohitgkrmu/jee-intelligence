@@ -1,0 +1,747 @@
+{
+  "filename": "JEE_Main_2026_Jan_21_Shift2_Physics.pdf",
+  "examYear": 2026,
+  "examSession": "Jan 21 Shift 2",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "Refractive index of prism is √2. What should be angle of incidence for a light ray such that the emerging ray grazes out the surface:",
+      "options": [
+        {
+          "id": "A",
+          "text": "60°"
+        },
+        {
+          "id": "B",
+          "text": "30°"
+        },
+        {
+          "id": "C",
+          "text": "90°"
+        },
+        {
+          "id": "D",
+          "text": "45°"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Optics",
+      "topic": "Refraction through Prism",
+      "concept": "Total internal reflection and grazing emergence",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "For YDSE experiment, for angular fringe width:\nStatement-1: If distance between slits and screen increases then width increases.\nStatement-2: Angular fringe width depends on frequency of source.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement 1 is true & Statement 2 is false"
+        },
+        {
+          "id": "B",
+          "text": "Statement 1 is false & Statement 2 is true"
+        },
+        {
+          "id": "C",
+          "text": "Both are true"
+        },
+        {
+          "id": "D",
+          "text": "Both are false"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Optics",
+      "topic": "Young's Double Slit Experiment",
+      "concept": "Angular fringe width",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "Two capillaries are dipped in two different liquids having meniscus radius R₁, R₂ (R₁ > R₂) and surface Tension T₁ & T₂. If density of liquids are same:",
+      "options": [
+        {
+          "id": "A",
+          "text": "h₁ = h₂ then T₁ = T₂"
+        },
+        {
+          "id": "B",
+          "text": "h₁ > h₂ then T₁ = T₂"
+        },
+        {
+          "id": "C",
+          "text": "h₁ > h₂ then T₁ < T₂"
+        },
+        {
+          "id": "D",
+          "text": "h₁ < h₂ then T₁ = T₂"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Surface Tension",
+      "concept": "Capillary rise",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "A particle is performing S.H.M. with frequency f₀. If frequency of oscillations of its kinetic energy is 176 Hz, find out f₀",
+      "options": [],
+      "correctAnswer": "88",
+      "questionType": "NUMERICAL",
+      "chapter": "Oscillations",
+      "topic": "Simple Harmonic Motion",
+      "concept": "Frequency of kinetic energy in SHM",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "In steady-state find charge on capacitor. Assume diodes are ideal:",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 μC"
+        },
+        {
+          "id": "B",
+          "text": "10 μC"
+        },
+        {
+          "id": "C",
+          "text": "12 μC"
+        },
+        {
+          "id": "D",
+          "text": "20 μC"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "DC Circuits",
+      "concept": "Steady state analysis with diodes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "A boat can row at speed 36 km/hr in still water. The river is flowing at 18 km/hr speed. If boat crosses the river in minimum time then find drift of boat:",
+      "options": [],
+      "correctAnswer": "100",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Relative Motion",
+      "concept": "River crossing problem",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "A charged particle (m, q) is accelerated through a potential difference of 1.21 volt. If de-broglie wavelength of this particle is found to be α × 10⁻¹² m. Find out α [h = 6.6 × 10⁻³⁴ J-sec mq = 18 × 10⁻⁴⁶]:",
+      "options": [],
+      "correctAnswer": "10",
+      "questionType": "NUMERICAL",
+      "chapter": "Modern Physics",
+      "topic": "de Broglie Wavelength",
+      "concept": "de Broglie wavelength of accelerated particle",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "Two persons are travelling in same direction in car along two parallel tracks separated by 10 m with speeds 36 km/hr and 72 km/hr. If mass of man and car is 1000 kg each. Find angular momentum of one car with person with respect to another:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10⁴ kg m²/s"
+        },
+        {
+          "id": "B",
+          "text": "3.6 × 10⁴ kg m²/s"
+        },
+        {
+          "id": "C",
+          "text": "7.2 × 10⁴ kg m²/s"
+        },
+        {
+          "id": "D",
+          "text": "10⁵ kg m²/s"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Angular momentum",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "Keeping the significant figures in view the sum of the 5.01 m, 153.2m and 0.123m is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "158.33 m"
+        },
+        {
+          "id": "B",
+          "text": "158.3 m"
+        },
+        {
+          "id": "C",
+          "text": "158.333 m"
+        },
+        {
+          "id": "D",
+          "text": "158.4 m"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Measurements",
+      "topic": "Significant Figures",
+      "concept": "Addition with significant figures",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "Figure shows a ball falling in a viscous medium with coefficient of viscosity η. If error in measurement of radius is Δr & that is measurement of terminal velocity is Δv₀. Density of ball & liquid is exactly known, then fractional error in measurement of η (coefficient of viscosity)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Δη/η = 2Δr/r + Δv₀/v₀"
+        },
+        {
+          "id": "B",
+          "text": "Δη/η = 2Δr/r - Δv₀/v₀"
+        },
+        {
+          "id": "C",
+          "text": "Δη/η = Δr/2r + Δv₀/v₀"
+        },
+        {
+          "id": "D",
+          "text": "Δη/η = Δr/2r - Δv₀/v₀"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Measurements",
+      "topic": "Error Analysis",
+      "concept": "Fractional error in derived quantities",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "A ring and two rods each of mass M are able to rotate freely about its centre as shown. Find acceleration of each block? There is no slipping between string and pulley.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(M + m)g/(5M + m)"
+        },
+        {
+          "id": "B",
+          "text": "2(M + m)g/(8M + m)"
+        },
+        {
+          "id": "C",
+          "text": "3(M + m)g/(8M + 3m)"
+        },
+        {
+          "id": "D",
+          "text": "2(M + m)g/(5M + 2m)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Rolling motion with pulley system",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "Current i is flowing in the long wire as shown in figure. Find magnetic field at centre of circle.",
+      "options": [
+        {
+          "id": "A",
+          "text": "B = μ₀i/R + μ₀i/(2πR)"
+        },
+        {
+          "id": "B",
+          "text": "B = μ₀i/(2R) + μ₀i/R"
+        },
+        {
+          "id": "C",
+          "text": "B = μ₀i/(2R) + μ₀i/(2πR)"
+        },
+        {
+          "id": "D",
+          "text": "B = μ₀i/R + μ₀i/R"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Field",
+      "concept": "Magnetic field due to current carrying conductors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "If position of a particle is given x = t² + t + 1. Mass of particle is 2 kg. Find work done by force from t = 2 sec to t = 3 sec.",
+      "options": [
+        {
+          "id": "A",
+          "text": "24 Joule"
+        },
+        {
+          "id": "B",
+          "text": "21 Joule"
+        },
+        {
+          "id": "C",
+          "text": "28 Joule"
+        },
+        {
+          "id": "D",
+          "text": "20 Joule"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Work and Energy",
+      "concept": "Work done by constant force",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "Terminal velocity of a spherical ball of radius 6mm in a liquid is given as 20 cm/sec. Find terminal velocity (in cm/s) of a ball of 3mm radius in same liquid.",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Viscosity",
+      "concept": "Terminal velocity",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "The total length of potential wire PQ is 50 cm in the arrangement shown in the figure. Find out balance length PO (in cm).",
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "35"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Potentiometer",
+      "concept": "Balance condition in potentiometer",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "In YDSE experiment, central maxima shift by 20 mm if a slab of thickness 20 μm and refractive index μ is placed in front of one of the slit. If distance between slits is 4 × 10⁻⁴ m and screen is placed 1m away from slits. Then refractive index is μ/10. Find μ.",
+      "options": [],
+      "correctAnswer": "14",
+      "questionType": "NUMERICAL",
+      "chapter": "Optics",
+      "topic": "Young's Double Slit Experiment",
+      "concept": "Path difference due to glass slab",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "A medium having conductivity 10 siemen/meter. Electromagnetic waves of frequency 100 MHz are passed through this medium. Find ratio of maximum displacement current & conduction current. (Given: εᵣ = 2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "400"
+        },
+        {
+          "id": "B",
+          "text": "600"
+        },
+        {
+          "id": "C",
+          "text": "900"
+        },
+        {
+          "id": "D",
+          "text": "1000"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Displacement Current",
+      "concept": "Displacement current vs conduction current",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "In a circuit, there is a battery with internal resistance r and emf E, which is connected to external load resistance R as shown. Find value of R so that maximum power dissipates across R:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R = r"
+        },
+        {
+          "id": "B",
+          "text": "R = r/2"
+        },
+        {
+          "id": "C",
+          "text": "R = 2r"
+        },
+        {
+          "id": "D",
+          "text": "R = 2r"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "DC Circuits",
+      "concept": "Maximum power transfer theorem",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "PHYSICS",
+      "questionText": "Two spheres of same mass m radius r and charge Q at separation 4r are moving with same speed u towards each other as shown in figure. Find the uₘᵢₙ so that they collide",
+      "options": [
+        {
+          "id": "A",
+          "text": "√(KQ² - Gm²)/(4mr)"
+        },
+        {
+          "id": "B",
+          "text": "√(KQ² - Gm²)/(2mr)"
+        },
+        {
+          "id": "C",
+          "text": "√(KQ² - Gm²)/(8mr)"
+        },
+        {
+          "id": "D",
+          "text": "√(2KQ² - Gm²)/(8mr)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Energy Conservation",
+      "concept": "Collision with electrostatic and gravitational forces",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "PHYSICS",
+      "questionText": "In an L-C circuit at t = 0 capacitor is fully charged and zero current in circuit. At t = t₀, 25% energy of capacitor goes into inductor then value of t₀ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "π√(LC)/3"
+        },
+        {
+          "id": "B",
+          "text": "π√(LC)/6"
+        },
+        {
+          "id": "C",
+          "text": "3π√(LC)/2"
+        },
+        {
+          "id": "D",
+          "text": "π√(LC)/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "LC Oscillations",
+      "concept": "Energy oscillations in LC circuit",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "Find ω such that block does not slip on the surface of cylinder:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ω = √(g/r)"
+        },
+        {
+          "id": "B",
+          "text": "ω = √(μg/r)"
+        },
+        {
+          "id": "C",
+          "text": "ω = √(gr)"
+        },
+        {
+          "id": "D",
+          "text": "ω = √(g/μr)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Circular Motion",
+      "concept": "Critical angular velocity for no slipping",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "For a diatomic gas undergoing an isobaric process, work done is 100 Joules then calculate heat supplied during the process:",
+      "options": [
+        {
+          "id": "A",
+          "text": "350"
+        },
+        {
+          "id": "B",
+          "text": "400"
+        },
+        {
+          "id": "C",
+          "text": "450"
+        },
+        {
+          "id": "D",
+          "text": "700"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "First Law of Thermodynamics",
+      "concept": "Isobaric process for diatomic gas",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "For the given network, the net resistance across AB = x. Then find the value of x:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x = R(√2 + 1)"
+        },
+        {
+          "id": "B",
+          "text": "x = R(√3 + 1)"
+        },
+        {
+          "id": "C",
+          "text": "x = R(√2 - 1)"
+        },
+        {
+          "id": "D",
+          "text": "x = R(√3 - 1)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Network Analysis",
+      "concept": "Equivalent resistance calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "Vᵣₘₛ of O₂ gas at 47°C is equal to Vᵣₘₛ of H₂ at what temp in celsius:",
+      "options": [
+        {
+          "id": "A",
+          "text": "−253°C"
+        },
+        {
+          "id": "B",
+          "text": "−20°C"
+        },
+        {
+          "id": "C",
+          "text": "+20°C"
+        },
+        {
+          "id": "D",
+          "text": "+253°C"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinetic Theory",
+      "topic": "Kinetic Theory of Gases",
+      "concept": "RMS velocity of gas molecules",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "Energy of an electron in Bohr's model is −0.04E₀ eV, where E₀ is ground state energy. If L is angular momentum of electron & h is Planck's constant then 2πL/h is:",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Modern Physics",
+      "topic": "Bohr's Model",
+      "concept": "Quantization of angular momentum",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T11:23:02.727Z"
+}

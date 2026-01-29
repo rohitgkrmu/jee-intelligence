@@ -7,7 +7,7 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import { TrendChart } from "@/components/charts/trend-chart";
 import { WeightageChart } from "@/components/charts/weightage-chart";
 import { Sparkline } from "@/components/charts/sparkline";
-import { TrendingUp, TrendingDown, Minus, Loader2 } from "lucide-react";
+import { TrendingUp, TrendingDown, Minus, Loader2, Target, BarChart3, Zap, Brain } from "lucide-react";
 
 interface ConceptTrend {
   concept: string;
@@ -42,8 +42,49 @@ interface ROIConcept {
   recommendation: string;
 }
 
+interface DifficultyStats {
+  chapter: string;
+  subject: string;
+  totalQuestions: number;
+  easy: number;
+  medium: number;
+  hard: number;
+  averageDifficulty: number;
+  hardRatio: number;
+}
+
+interface SubjectDifficultyProfile {
+  subject: string;
+  easyPercentage: number;
+  mediumPercentage: number;
+  hardPercentage: number;
+  totalQuestions: number;
+  hardestChapters: { chapter: string; hardRatio: number }[];
+  easiestChapters: { chapter: string; easyRatio: number }[];
+}
+
+interface PredictedTopic {
+  topic: string;
+  chapter: string;
+  subject: string;
+  confidence: "high" | "medium" | "low";
+  reason: string;
+  historicalFrequency: number;
+  lastAppeared: number;
+  gapYears: number;
+}
+
+interface ChapterPrediction {
+  chapter: string;
+  subject: string;
+  expectedQuestions: number;
+  confidence: number;
+  trend: "increasing" | "stable" | "decreasing";
+  hotTopics: string[];
+}
+
 export function InsightsSection() {
-  const [activeTab, setActiveTab] = useState("trends");
+  const [activeTab, setActiveTab] = useState("predictions");
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState<{
     conceptTrends: ConceptTrend[];
@@ -52,23 +93,37 @@ export function InsightsSection() {
     roiConcepts: ROIConcept[];
     risingConcepts: ConceptTrend[];
     fallingConcepts: ConceptTrend[];
+    difficulty: {
+      chapterDifficulty: DifficultyStats[];
+      subjectProfiles: SubjectDifficultyProfile[];
+      overallStats: { totalQuestions: number; easyCount: number; mediumCount: number; hardCount: number };
+    };
+    predictions: {
+      topicPredictions: PredictedTopic[];
+      chapterPredictions: ChapterPrediction[];
+      insights: { highConfidencePredictions: number; totalAnalyzedTopics: number; yearsCovered: number[] };
+    };
   } | null>(null);
 
   useEffect(() => {
     async function fetchData() {
       try {
-        const [trendsRes, weightageRes, roiRes, risingRes] = await Promise.all([
+        const [trendsRes, weightageRes, roiRes, risingRes, difficultyRes, predictionsRes] = await Promise.all([
           fetch("/api/insights/trends"),
           fetch("/api/insights/weightage"),
           fetch("/api/insights/roi"),
           fetch("/api/insights/rising-concepts"),
+          fetch("/api/insights/difficulty"),
+          fetch("/api/insights/predictions"),
         ]);
 
-        const [trends, weightage, roi, rising] = await Promise.all([
+        const [trends, weightage, roi, rising, difficulty, predictions] = await Promise.all([
           trendsRes.json(),
           weightageRes.json(),
           roiRes.json(),
           risingRes.json(),
+          difficultyRes.json(),
+          predictionsRes.json(),
         ]);
 
         setData({
@@ -78,6 +133,8 @@ export function InsightsSection() {
           roiConcepts: roi.conceptROI || [],
           risingConcepts: rising.risingConcepts || [],
           fallingConcepts: rising.fallingConcepts || [],
+          difficulty: difficulty,
+          predictions: predictions,
         });
       } catch (error) {
         console.error("Error fetching insights:", error);
@@ -105,7 +162,6 @@ export function InsightsSection() {
     );
   }
 
-  // Prepare chart data
   const trendChartData =
     data.subjectTrends.length > 0
       ? data.subjectTrends[0].yearlyCounts.map((yc) => {
@@ -157,15 +213,322 @@ export function InsightsSection() {
     }
   };
 
+  const getConfidenceBadge = (confidence: string) => {
+    switch (confidence) {
+      case "high":
+        return <Badge variant="success">High Confidence</Badge>;
+      case "medium":
+        return <Badge variant="warning">Medium</Badge>;
+      default:
+        return <Badge variant="secondary">Low</Badge>;
+    }
+  };
+
   return (
     <Tabs value={activeTab} onValueChange={setActiveTab}>
-      <TabsList className="mb-8 mx-auto">
+      <TabsList className="mb-8 mx-auto flex-wrap">
+        <TabsTrigger value="predictions" className="gap-1">
+          <Brain className="w-4 h-4" /> Predictions
+        </TabsTrigger>
+        <TabsTrigger value="difficulty" className="gap-1">
+          <BarChart3 className="w-4 h-4" /> Difficulty
+        </TabsTrigger>
         <TabsTrigger value="trends">Trends</TabsTrigger>
         <TabsTrigger value="weightage">Weightage</TabsTrigger>
-        <TabsTrigger value="rising">Rising Topics</TabsTrigger>
-        <TabsTrigger value="roi">High ROI</TabsTrigger>
+        <TabsTrigger value="roi" className="gap-1">
+          <Target className="w-4 h-4" /> High ROI
+        </TabsTrigger>
       </TabsList>
 
+      {/* PREDICTIONS TAB */}
+      <TabsContent value="predictions">
+        <div className="space-y-6">
+          <div className="grid md:grid-cols-3 gap-4 mb-6">
+            <Card className="bg-gradient-to-br from-green-500/10 to-transparent border-green-500/20">
+              <CardContent className="pt-6">
+                <div className="text-3xl font-bold text-green-400">
+                  {data.predictions?.insights?.highConfidencePredictions || 0}
+                </div>
+                <p className="text-sm text-[var(--text-muted)]">High Confidence Predictions</p>
+              </CardContent>
+            </Card>
+            <Card className="bg-gradient-to-br from-blue-500/10 to-transparent border-blue-500/20">
+              <CardContent className="pt-6">
+                <div className="text-3xl font-bold text-blue-400">
+                  {data.predictions?.insights?.totalAnalyzedTopics || 0}
+                </div>
+                <p className="text-sm text-[var(--text-muted)]">Topics Analyzed</p>
+              </CardContent>
+            </Card>
+            <Card className="bg-gradient-to-br from-purple-500/10 to-transparent border-purple-500/20">
+              <CardContent className="pt-6">
+                <div className="text-3xl font-bold text-purple-400">
+                  {data.predictions?.insights?.yearsCovered?.length || 0} Years
+                </div>
+                <p className="text-sm text-[var(--text-muted)]">Data Coverage</p>
+              </CardContent>
+            </Card>
+          </div>
+
+          <div className="grid lg:grid-cols-2 gap-6">
+            <Card>
+              <CardHeader>
+                <CardTitle className="flex items-center gap-2">
+                  <Zap className="w-5 h-5 text-yellow-400" />
+                  Topics Likely to Appear
+                </CardTitle>
+                <p className="text-sm text-[var(--text-muted)]">
+                  Based on historical patterns and gap analysis
+                </p>
+              </CardHeader>
+              <CardContent>
+                <div className="space-y-3 max-h-[400px] overflow-y-auto">
+                  {data.predictions?.topicPredictions?.slice(0, 12).map((pred, index) => (
+                    <div
+                      key={index}
+                      className="p-4 rounded-lg border border-[var(--border-dark)] bg-[var(--background-elevated)]"
+                    >
+                      <div className="flex items-start justify-between mb-2">
+                        <div>
+                          <p className="font-medium">{pred.topic}</p>
+                          <p className="text-xs text-[var(--text-muted)]">
+                            {pred.chapter} | {pred.subject}
+                          </p>
+                        </div>
+                        {getConfidenceBadge(pred.confidence)}
+                      </div>
+                      <p className="text-xs text-[var(--text-secondary)]">{pred.reason}</p>
+                      <div className="flex items-center gap-4 mt-2 text-xs text-[var(--text-muted)]">
+                        <span>Gap: {pred.gapYears} years</span>
+                        <span>History: {pred.historicalFrequency}x</span>
+                      </div>
+                    </div>
+                  )) || (
+                    <p className="text-[var(--text-muted)] text-center py-10">
+                      No predictions available yet
+                    </p>
+                  )}
+                </div>
+              </CardContent>
+            </Card>
+
+            <Card>
+              <CardHeader>
+                <CardTitle>Chapter-wise Expected Questions</CardTitle>
+                <p className="text-sm text-[var(--text-muted)]">
+                  Predicted distribution for upcoming exam
+                </p>
+              </CardHeader>
+              <CardContent>
+                <div className="space-y-3 max-h-[400px] overflow-y-auto">
+                  {data.predictions?.chapterPredictions?.slice(0, 12).map((pred, index) => (
+                    <div
+                      key={index}
+                      className="flex items-center justify-between p-3 rounded-lg border border-[var(--border-dark)] bg-[var(--background-elevated)]"
+                    >
+                      <div>
+                        <p className="font-medium text-sm">{pred.chapter}</p>
+                        <div className="flex items-center gap-2 mt-1">
+                          <Badge variant={getSubjectColor(pred.subject) as "default" | "cyan" | "purple" | "secondary"} size="sm">
+                            {pred.subject.slice(0, 3)}
+                          </Badge>
+                          {pred.trend === "increasing" && (
+                            <TrendingUp className="w-3 h-3 text-green-400" />
+                          )}
+                          {pred.trend === "decreasing" && (
+                            <TrendingDown className="w-3 h-3 text-red-400" />
+                          )}
+                        </div>
+                      </div>
+                      <div className="text-right">
+                        <p className="text-lg font-bold">{pred.expectedQuestions}</p>
+                        <p className="text-xs text-[var(--text-muted)]">expected</p>
+                      </div>
+                    </div>
+                  )) || (
+                    <p className="text-[var(--text-muted)] text-center py-10">
+                      No chapter predictions available
+                    </p>
+                  )}
+                </div>
+              </CardContent>
+            </Card>
+          </div>
+        </div>
+      </TabsContent>
+
+      {/* DIFFICULTY TAB */}
+      <TabsContent value="difficulty">
+        <div className="space-y-6">
+          {data.difficulty?.overallStats && (
+            <div className="grid md:grid-cols-4 gap-4">
+              <Card className="bg-gradient-to-br from-green-500/10 to-transparent border-green-500/20">
+                <CardContent className="pt-6">
+                  <div className="text-3xl font-bold text-green-400">
+                    {data.difficulty.overallStats.easyCount}
+                  </div>
+                  <p className="text-sm text-[var(--text-muted)]">Easy Questions</p>
+                  <p className="text-xs text-green-400/60">
+                    {((data.difficulty.overallStats.easyCount / data.difficulty.overallStats.totalQuestions) * 100).toFixed(1)}%
+                  </p>
+                </CardContent>
+              </Card>
+              <Card className="bg-gradient-to-br from-yellow-500/10 to-transparent border-yellow-500/20">
+                <CardContent className="pt-6">
+                  <div className="text-3xl font-bold text-yellow-400">
+                    {data.difficulty.overallStats.mediumCount}
+                  </div>
+                  <p className="text-sm text-[var(--text-muted)]">Medium Questions</p>
+                  <p className="text-xs text-yellow-400/60">
+                    {((data.difficulty.overallStats.mediumCount / data.difficulty.overallStats.totalQuestions) * 100).toFixed(1)}%
+                  </p>
+                </CardContent>
+              </Card>
+              <Card className="bg-gradient-to-br from-red-500/10 to-transparent border-red-500/20">
+                <CardContent className="pt-6">
+                  <div className="text-3xl font-bold text-red-400">
+                    {data.difficulty.overallStats.hardCount}
+                  </div>
+                  <p className="text-sm text-[var(--text-muted)]">Hard Questions</p>
+                  <p className="text-xs text-red-400/60">
+                    {((data.difficulty.overallStats.hardCount / data.difficulty.overallStats.totalQuestions) * 100).toFixed(1)}%
+                  </p>
+                </CardContent>
+              </Card>
+              <Card className="bg-gradient-to-br from-blue-500/10 to-transparent border-blue-500/20">
+                <CardContent className="pt-6">
+                  <div className="text-3xl font-bold text-blue-400">
+                    {data.difficulty.overallStats.totalQuestions}
+                  </div>
+                  <p className="text-sm text-[var(--text-muted)]">Total Analyzed</p>
+                </CardContent>
+              </Card>
+            </div>
+          )}
+
+          <div className="grid lg:grid-cols-2 gap-6">
+            <Card>
+              <CardHeader>
+                <CardTitle>Hardest Chapters</CardTitle>
+                <p className="text-sm text-[var(--text-muted)]">
+                  Chapters with highest proportion of hard questions
+                </p>
+              </CardHeader>
+              <CardContent>
+                <div className="space-y-3">
+                  {data.difficulty?.chapterDifficulty?.slice(0, 10).map((chapter, index) => (
+                    <div
+                      key={index}
+                      className="p-3 rounded-lg border border-[var(--border-dark)] bg-[var(--background-elevated)]"
+                    >
+                      <div className="flex items-center justify-between mb-2">
+                        <div>
+                          <p className="font-medium text-sm">{chapter.chapter}</p>
+                          <Badge variant={getSubjectColor(chapter.subject) as "default" | "cyan" | "purple" | "secondary"} size="sm">
+                            {chapter.subject}
+                          </Badge>
+                        </div>
+                        <div className="text-right">
+                          <p className="text-lg font-bold text-red-400">
+                            {(chapter.hardRatio * 100).toFixed(0)}%
+                          </p>
+                          <p className="text-xs text-[var(--text-muted)]">hard</p>
+                        </div>
+                      </div>
+                      <div className="flex gap-1 h-2 rounded-full overflow-hidden bg-[var(--background-dark)]">
+                        <div
+                          className="bg-green-500 h-full"
+                          style={{ width: `${(chapter.easy / chapter.totalQuestions) * 100}%` }}
+                        />
+                        <div
+                          className="bg-yellow-500 h-full"
+                          style={{ width: `${(chapter.medium / chapter.totalQuestions) * 100}%` }}
+                        />
+                        <div
+                          className="bg-red-500 h-full"
+                          style={{ width: `${(chapter.hard / chapter.totalQuestions) * 100}%` }}
+                        />
+                      </div>
+                      <div className="flex justify-between mt-1 text-xs text-[var(--text-muted)]">
+                        <span>Easy: {chapter.easy}</span>
+                        <span>Medium: {chapter.medium}</span>
+                        <span>Hard: {chapter.hard}</span>
+                      </div>
+                    </div>
+                  )) || (
+                    <p className="text-[var(--text-muted)] text-center py-10">
+                      No difficulty data available
+                    </p>
+                  )}
+                </div>
+              </CardContent>
+            </Card>
+
+            <Card>
+              <CardHeader>
+                <CardTitle>Subject Difficulty Profiles</CardTitle>
+                <p className="text-sm text-[var(--text-muted)]">
+                  Difficulty distribution by subject
+                </p>
+              </CardHeader>
+              <CardContent>
+                <div className="space-y-6">
+                  {data.difficulty?.subjectProfiles?.map((profile, index) => (
+                    <div key={index}>
+                      <div className="flex items-center justify-between mb-2">
+                        <Badge variant={getSubjectColor(profile.subject) as "default" | "cyan" | "purple" | "secondary"}>
+                          {profile.subject}
+                        </Badge>
+                        <span className="text-sm text-[var(--text-muted)]">
+                          {profile.totalQuestions} questions
+                        </span>
+                      </div>
+                      <div className="flex gap-1 h-4 rounded-full overflow-hidden bg-[var(--background-dark)]">
+                        <div
+                          className="bg-green-500 h-full flex items-center justify-center text-xs font-medium"
+                          style={{ width: `${profile.easyPercentage}%` }}
+                        >
+                          {profile.easyPercentage > 15 && `${profile.easyPercentage.toFixed(0)}%`}
+                        </div>
+                        <div
+                          className="bg-yellow-500 h-full flex items-center justify-center text-xs font-medium"
+                          style={{ width: `${profile.mediumPercentage}%` }}
+                        >
+                          {profile.mediumPercentage > 15 && `${profile.mediumPercentage.toFixed(0)}%`}
+                        </div>
+                        <div
+                          className="bg-red-500 h-full flex items-center justify-center text-xs font-medium"
+                          style={{ width: `${profile.hardPercentage}%` }}
+                        >
+                          {profile.hardPercentage > 15 && `${profile.hardPercentage.toFixed(0)}%`}
+                        </div>
+                      </div>
+                      {profile.hardestChapters.length > 0 && (
+                        <div className="mt-2">
+                          <p className="text-xs text-[var(--text-muted)] mb-1">Hardest chapters:</p>
+                          <div className="flex flex-wrap gap-1">
+                            {profile.hardestChapters.slice(0, 3).map((ch, idx) => (
+                              <Badge key={idx} variant="error" size="sm">
+                                {ch.chapter} ({(ch.hardRatio * 100).toFixed(0)}%)
+                              </Badge>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  )) || (
+                    <p className="text-[var(--text-muted)] text-center py-10">
+                      No subject profiles available
+                    </p>
+                  )}
+                </div>
+              </CardContent>
+            </Card>
+          </div>
+        </div>
+      </TabsContent>
+
+      {/* TRENDS TAB */}
       <TabsContent value="trends">
         <div className="grid lg:grid-cols-2 gap-6">
           <Card>
@@ -220,6 +583,7 @@ export function InsightsSection() {
         </div>
       </TabsContent>
 
+      {/* WEIGHTAGE TAB */}
       <TabsContent value="weightage">
         <div className="grid lg:grid-cols-2 gap-6">
           <Card>
@@ -274,84 +638,13 @@ export function InsightsSection() {
         </div>
       </TabsContent>
 
-      <TabsContent value="rising">
-        <div className="grid lg:grid-cols-2 gap-6">
-          <Card>
-            <CardHeader>
-              <CardTitle className="flex items-center gap-2">
-                <TrendingUp className="w-5 h-5 text-green-400" />
-                Rising Concepts
-              </CardTitle>
-            </CardHeader>
-            <CardContent>
-              <div className="space-y-3">
-                {data.risingConcepts.slice(0, 10).map((concept, index) => (
-                  <div
-                    key={index}
-                    className="flex items-center justify-between p-3 rounded-lg border border-green-500/20 bg-green-500/5"
-                  >
-                    <div>
-                      <p className="font-medium text-sm">{concept.concept}</p>
-                      <p className="text-xs text-[var(--text-muted)]">
-                        {concept.chapter} | {concept.subject}
-                      </p>
-                    </div>
-                    <Badge variant="success">
-                      +{(concept.slope * 100).toFixed(0)}%
-                    </Badge>
-                  </div>
-                ))}
-                {data.risingConcepts.length === 0 && (
-                  <p className="text-[var(--text-muted)] text-center py-10">
-                    No rising concepts found
-                  </p>
-                )}
-              </div>
-            </CardContent>
-          </Card>
-
-          <Card>
-            <CardHeader>
-              <CardTitle className="flex items-center gap-2">
-                <TrendingDown className="w-5 h-5 text-red-400" />
-                Declining Concepts
-              </CardTitle>
-            </CardHeader>
-            <CardContent>
-              <div className="space-y-3">
-                {data.fallingConcepts.slice(0, 10).map((concept, index) => (
-                  <div
-                    key={index}
-                    className="flex items-center justify-between p-3 rounded-lg border border-red-500/20 bg-red-500/5"
-                  >
-                    <div>
-                      <p className="font-medium text-sm">{concept.concept}</p>
-                      <p className="text-xs text-[var(--text-muted)]">
-                        {concept.chapter} | {concept.subject}
-                      </p>
-                    </div>
-                    <Badge variant="error">
-                      {(concept.slope * 100).toFixed(0)}%
-                    </Badge>
-                  </div>
-                ))}
-                {data.fallingConcepts.length === 0 && (
-                  <p className="text-[var(--text-muted)] text-center py-10">
-                    No declining concepts found
-                  </p>
-                )}
-              </div>
-            </CardContent>
-          </Card>
-        </div>
-      </TabsContent>
-
+      {/* ROI TAB */}
       <TabsContent value="roi">
         <Card>
           <CardHeader>
             <CardTitle>High ROI Topics</CardTitle>
             <p className="text-sm text-[var(--text-muted)]">
-              Topics with the best return on investment (frequency × scoring potential)
+              Topics with the best return on investment (frequency x scoring potential)
             </p>
           </CardHeader>
           <CardContent>

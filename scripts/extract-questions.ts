@@ -327,11 +327,30 @@ async function main(): Promise<void> {
 
   console.log(`Found ${pdfFiles.length} PDF files in ${EXAM_PAPERS_DIR}`);
 
+  // Check for --force flag to re-extract already processed files
+  const forceReextract = args.includes("--force");
+
+  // Get list of already extracted files
+  const existingExtractions = new Set(
+    fs.readdirSync(OUTPUT_DIR)
+      .filter(f => f.endsWith(".json"))
+      .map(f => f.replace(".json", ".pdf"))
+  );
+
   // Determine which files to process
   let filesToProcess: string[] = [];
 
   if (args.includes("--all")) {
-    filesToProcess = pdfFiles;
+    if (forceReextract) {
+      filesToProcess = pdfFiles;
+    } else {
+      // Skip already extracted files
+      filesToProcess = pdfFiles.filter(f => !existingExtractions.has(f));
+      const skipped = pdfFiles.length - filesToProcess.length;
+      if (skipped > 0) {
+        console.log(`Skipping ${skipped} already extracted files (use --force to re-extract)`);
+      }
+    }
   } else if (args.includes("--file")) {
     const fileIndex = args.indexOf("--file");
     const filename = args[fileIndex + 1];

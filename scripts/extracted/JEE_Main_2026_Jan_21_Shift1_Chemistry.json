@@ -1,0 +1,752 @@
+{
+  "filename": "JEE_Main_2026_Jan_21_Shift1_Chemistry.pdf",
+  "examYear": 2026,
+  "examSession": "Jan 21 Shift 1",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "CHEMISTRY",
+      "questionText": "PbCl₂ + K₂CrO₄ → A + KCl\nA + excess NaOH → B + Na₂CrO₄\nPbSO₄ + CH₃COONH₄ → C + (NH₄)₂SO₄\nFind A, B, C.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A : PbCrO₄, B : PbO₂, C : Pb(OH)₂"
+        },
+        {
+          "id": "B",
+          "text": "A : PbCrO₄, B : Na₂[Pb(OH)₄], C : Pb(CH₃COO)₂"
+        },
+        {
+          "id": "C",
+          "text": "A : PbCrO₄, B : PbO, C : [Pb(NH₃)₄]²⁺"
+        },
+        {
+          "id": "D",
+          "text": "A : PbO₂, B : Pb(OH)₂, C : [Pb(CH₃COO)₄]²⁻"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Chemical Reactions",
+      "concept": "Lead compounds reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement-I: Among [NiCl₄]²⁻, [Ni(CN)₄]²⁻, [Ni(CO)₄] & CH₄ the sp³ hybridized species(s) are 3.\nStatement-II: Number of Amphoteric pair(s) among (SnO,SnO₂); (PbO, PbO₂); (GeO, GeO₂) are 3.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statements are correct"
+        },
+        {
+          "id": "B",
+          "text": "Statement-I correct; Statement-II incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Statement-II correct; Statement-I incorrect"
+        },
+        {
+          "id": "D",
+          "text": "Both statements are incorrect"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Hybridization and Amphoteric Oxides",
+      "concept": "Hybridization of coordination compounds and oxide properties",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement-I: Among SF₄, XeF₄, [NiCl₄]²⁻, [PtCl₄]²⁻, [Pt(CN)₄]²⁻, [Ni(CN)₄]²⁻, SeF₄ there are 3 tetrahedral species\nStatement-II: Among three pairs {[Ni(CO)₄], [NiCl₄]²⁻}, {[Ni(CO)₄], [Ni(CN)₄]²⁻} and {[Ni(CN)₄]²⁻, [NiCl₄]²⁻} only two pairs are diamagnetic.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statements are correct"
+        },
+        {
+          "id": "B",
+          "text": "Statement-I correct; Statement-II incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Statement-II correct; Statement-I incorrect"
+        },
+        {
+          "id": "D",
+          "text": "Both statements are incorrect"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Molecular Geometry and Magnetism",
+      "concept": "Geometry and magnetic properties of coordination compounds",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "CHEMISTRY",
+      "questionText": "MnO₄²⁻ in acidic medium, disproportionates to",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mn₂O₇ and MnO"
+        },
+        {
+          "id": "B",
+          "text": "MnO₄⁻ and MnO"
+        },
+        {
+          "id": "C",
+          "text": "MnO₄⁻ and MnO₄"
+        },
+        {
+          "id": "D",
+          "text": "MnO₄⁻ and MnO₂"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Redox Reactions",
+      "concept": "Disproportionation of manganate",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following is the correct order with respect to the property indicated against it?\n(1) B > S > P > F (Ionization energy)\n(2) K₂O > Na₂O > MgO > Al₂O₃ (Basic nature)\n(3) K > Na > Al > Mg (Metallic character)\n(4) Cl > F > S > P (EA)\nWhich of the following option is correct",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 2, 3 are correct"
+        },
+        {
+          "id": "B",
+          "text": "2, 4 are correct"
+        },
+        {
+          "id": "C",
+          "text": "1, 2, 4 are correct"
+        },
+        {
+          "id": "D",
+          "text": "1, 2, 3 are correct"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Periodic Properties",
+      "concept": "Periodic trends in properties",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements:\nStatement-I: All the pair of molecules (PbO, PbO₂); (SnO, SnO₂) and (GeO, GeO₂) contains amphoteric oxides.\nStatement-II: AlCl₃, BH₃, BeH₂ and NO₂ all have incomplete octet.\nIn the light of above statement, choose the correct option.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statements are correct"
+        },
+        {
+          "id": "B",
+          "text": "Statement-I correct; Statement-II incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Statement-I incorrect; Statement-II correct"
+        },
+        {
+          "id": "D",
+          "text": "Both statements are incorrect"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Chemical Bonding and Oxides",
+      "concept": "Amphoteric oxides and incomplete octet",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "CHEMISTRY",
+      "questionText": "14.0 gm calcium metal is allowed to react with excess HCl at 1.0 atm pressure & 273 K. Which of the following statement is incorrect?\n[Molar mass in g-mol⁻¹, Ca = 40, Cl = 35.5]",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.35 mole of H₂ gas is evolved"
+        },
+        {
+          "id": "B",
+          "text": "The limiting reagent is calcium metal"
+        },
+        {
+          "id": "C",
+          "text": "33.3 g of CaCl₂ is produced"
+        },
+        {
+          "id": "D",
+          "text": "7.84 L of H₂ gas is evolved"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Stoichiometry",
+      "concept": "Chemical reactions and calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "CHEMISTRY",
+      "questionText": "80 ml unknown gaseous hydrocarbon sparked in presence of 264 ml of O₂ gas. After complete combustion gaseous mixture cooled down to 278K & 1 atm then its volume is equal to 224 ml. After passing the mixture through aqueous KOH volume becomes 64 ml then formula of hydrocarbon will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "C₂H₂"
+        },
+        {
+          "id": "B",
+          "text": "C₂H₆"
+        },
+        {
+          "id": "C",
+          "text": "C₂H₄"
+        },
+        {
+          "id": "D",
+          "text": "C₄H₄ or None"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Hydrocarbons",
+      "concept": "Combustion analysis of hydrocarbons",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "CHEMISTRY",
+      "questionText": "One mole of the gas undergo following process:\n(1) P₂/P₁ = V₁/V₂\n(2) P₂/P₁ = V₁²/V₂²\n(3) P₂/P₁ = V₁³/V₂³\n(4) P₂ = P₁, V₂ = 44.8\nIn which of the following work done by the gas is maximum.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1)"
+        },
+        {
+          "id": "B",
+          "text": "(2)"
+        },
+        {
+          "id": "C",
+          "text": "(3)"
+        },
+        {
+          "id": "D",
+          "text": "(4)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Thermodynamics",
+      "concept": "Work done in thermodynamic processes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "CHEMISTRY",
+      "questionText": "Two solution of PQ & PQ₂ respectively (Non-volatile, Non-ionisable) containing 1 gm solute in 50 gm solvent (Kᵦ = 5 K-kg/mol) elevation in b.p. of solutions are 1.176°C & 0.689°C respectively. Calculate molar masses of P & Q?",
+      "options": [
+        {
+          "id": "A",
+          "text": "75, 25"
+        },
+        {
+          "id": "B",
+          "text": "60, 25"
+        },
+        {
+          "id": "C",
+          "text": "25, 60"
+        },
+        {
+          "id": "D",
+          "text": "25, 75"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Colligative Properties",
+      "concept": "Elevation in boiling point",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "CHEMISTRY",
+      "questionText": "For the reaction: A₂ + B₂ ⇌ 2AB at 500K: log K = 2.2\nCalculate the value of x from the given thermodynamic data.",
+      "options": [
+        {
+          "id": "A",
+          "text": "70"
+        },
+        {
+          "id": "B",
+          "text": "60"
+        },
+        {
+          "id": "C",
+          "text": "50"
+        },
+        {
+          "id": "D",
+          "text": "80"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Thermodynamics",
+      "concept": "Gibbs free energy and equilibrium constant",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement-1: Electrical discharge is passed through the H₂ gas. H₂ dissociates into H atoms & the energetically excited atoms emit discrete frequencies.\nStatement-2: Frequency of 2nd balmer line of He⁺ is equal to 1st line of lyman series of H atom.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statements are correct"
+        },
+        {
+          "id": "B",
+          "text": "Both statements are incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Statement-1 is correct and statement-2 is incorrect"
+        },
+        {
+          "id": "D",
+          "text": "Statement-1 is incorrect and statement-2 correct"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Atomic Structure",
+      "concept": "Hydrogen spectrum and atomic emission",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "CHEMISTRY",
+      "questionText": "X → (i) KMnO₄/OH⁻ (ii) H⁺/H₂O → COOH-COOH + COOH-COOH via H₂/Ni\nX is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cyclohexene"
+        },
+        {
+          "id": "B",
+          "text": "Benzene"
+        },
+        {
+          "id": "C",
+          "text": "Cyclobutene"
+        },
+        {
+          "id": "D",
+          "text": "Cyclohexadiene"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Alkenes",
+      "concept": "Oxidation of alkenes and cyclic compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "CHEMISTRY",
+      "questionText": "Compound P when pass on from ammonia & heating gives compound Q which is further treated with KOH + Br₂ gives compound R with mol. formula C₆H₇N then find the correct structure of P, Q, R respectively.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Benzoic acid, benzamide, aniline"
+        },
+        {
+          "id": "B",
+          "text": "Benzoic acid, ammonium benzoate, benzene"
+        },
+        {
+          "id": "C",
+          "text": "Ammonium benzoate, benzamide, benzene"
+        },
+        {
+          "id": "D",
+          "text": "Benzoic acid, aniline, benzene"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Hofmann bromamide reaction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "CHEMISTRY",
+      "questionText": "An Alkene P (C₄H₈), gives optically active product Q which further react with ammonia and gives R. R react with NaNO₂ + HCl followed by hydrolysis gives S.\nP, Q, R, S are respectively:",
+      "options": [
+        {
+          "id": "A",
+          "text": "But-2-ene, 2-chlorobutane, 2-aminobutane, butan-2-ol"
+        },
+        {
+          "id": "B",
+          "text": "But-1-ene, 2-chlorobutane, 2-aminobutane, butan-2-ol"
+        },
+        {
+          "id": "C",
+          "text": "But-2-ene, 1-chlorobutane, 1-aminobutane, butan-1-ol"
+        },
+        {
+          "id": "D",
+          "text": "Methylpropene, 2-chlorobutane, 2-aminobutane, butan-2-ol"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Alkenes and Amines",
+      "concept": "Addition reactions and diazotization",
+      "difficulty": "HARD",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement-A: Tryptophan, arginine are essential amino acid.\nStatement-B: Glycine has no chiral center\nStatement-C: Proline has 6-membered ring\nStatement-D: Cysteine is amino acid having sulphur atom\nIdentify correct statement.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B"
+        },
+        {
+          "id": "B",
+          "text": "A, B, D"
+        },
+        {
+          "id": "C",
+          "text": "A, C, D"
+        },
+        {
+          "id": "D",
+          "text": "A, B, C"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Biomolecules",
+      "concept": "Amino acids structure and properties",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement-A: Propanal & propanone are functional group isomers.\nStatement-B: Ethoxy ethane and methoxy propane are metamers.\nStatement-C: But-2-ene show optical isomerism.\nStatement-D: But-2-ene and But-1-ene are functional isomers.\nStatement-E: Pentane & 2,2-dimethyl propane are chain isomers.\nIdentify the correct statement.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B, E"
+        },
+        {
+          "id": "B",
+          "text": "A, B, C"
+        },
+        {
+          "id": "C",
+          "text": "B, E"
+        },
+        {
+          "id": "D",
+          "text": "A, B"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Isomerism",
+      "concept": "Types of isomerism",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "CHEMISTRY",
+      "questionText": "In Carius method, 0.75 gm of an organic compound gave 1.2 gm of barium sulphate, find % of sulphur (molar mass of S is 32 gm mol⁻¹)\nMolar mass of barium sulphate is 233 gm mol⁻¹",
+      "options": [
+        {
+          "id": "A",
+          "text": "16.48%"
+        },
+        {
+          "id": "B",
+          "text": "4.55%"
+        },
+        {
+          "id": "C",
+          "text": "21.97%"
+        },
+        {
+          "id": "D",
+          "text": "10.30%"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Qualitative Analysis",
+      "concept": "Carius method for sulfur estimation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "CHEMISTRY",
+      "questionText": "Compound A gives +ve iodoform test but –ve tollen's test. Acidic hydrolysis of A gives product P which gives positive tollen's test and also positive iodoform test. Compound A can be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dimethyl acetal of acetone"
+        },
+        {
+          "id": "B",
+          "text": "Dimethyl acetal of acetaldehyde"
+        },
+        {
+          "id": "C",
+          "text": "Acetaldehyde"
+        },
+        {
+          "id": "D",
+          "text": "Methyl acetate"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aldehydes and Ketones",
+      "concept": "Chemical tests for carbonyl compounds",
+      "difficulty": "HARD",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following least stable resonating structure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "NO₂ with negative charge on N"
+        },
+        {
+          "id": "B",
+          "text": "NO₂ with positive charges on adjacent atoms"
+        },
+        {
+          "id": "C",
+          "text": "NO₂ with negative charge on O"
+        },
+        {
+          "id": "D",
+          "text": "NO₂ neutral structure"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Resonance",
+      "concept": "Stability of resonating structures",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "CHEMISTRY",
+      "questionText": "For two chemical reaction A & B, if the difference between their activation energy is 20 KJ of 300K determine ln(k₂/k₁):\n[R=8.3 J/mol-K]",
+      "options": [],
+      "correctAnswer": "8",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Kinetics",
+      "concept": "Arrhenius equation and activation energy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "CHEMISTRY",
+      "questionText": "10 moles of O₂ gas is heated at constant volume from 30°C to 40°C. The change in the internal energy of gas is ______ cal.\nCₚ = 7 Cal/mol-K, R = 2 Cal/(mol·K)",
+      "options": [],
+      "correctAnswer": "500",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Thermodynamics",
+      "concept": "Internal energy change at constant volume",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "CHEMISTRY",
+      "questionText": "pH & conductance of a standard solution of HX are 5 & 4×10⁻⁵ S respectively. The standard solution is present in cell having length between electrodes 15 cm & Area is 1 cm² then calculate limiting molar conductivity(Sm²mol⁻¹) of standard solution.\n[Assume degree of dissociation of HX << 1]",
+      "options": [],
+      "correctAnswer": "6",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "concept": "Molar conductivity and pH relationship",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "CHEMISTRY",
+      "questionText": "NaCl(s) + K₂Cr₂O₇(s) → A → B → C\nIf number of O₂²⁻ ion in C = X\nIf number of O atom in C = Y\nIf oxidation state of Cr in C = Z\nThen (X + Y + Z) is _",
+      "options": [],
+      "correctAnswer": "13",
+      "questionType": "NUMERICAL",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Chemical Reactions",
+      "concept": "Chromium compound reactions and oxidation states",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "CHEMISTRY",
+      "questionText": "Benzene undergoes: (i) HNO₃/H₂SO₄ (ii) Sn/HCl (iii) CH₃COCl (iv) HNO₃/H₂SO₄ (v) H₂O/OH⁻\nFind % of N in the final product.",
+      "options": [],
+      "correctAnswer": "20.29",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Nitration and reduction of benzene derivatives",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T11:17:05.760Z"
+}

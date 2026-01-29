@@ -1,0 +1,638 @@
+{
+  "filename": "JEE_Main_2026_Jan_21_Shift2_Math.pdf",
+  "examYear": 2026,
+  "examSession": "Jan 21 Shift 2",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "The largest n ∈ N for which 7^n divides 101! is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "17"
+        },
+        {
+          "id": "D",
+          "text": "18"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Number Theory",
+      "topic": "Factorials and Divisibility",
+      "concept": "Legendre's formula for highest power of prime in factorial",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f(x) = x³ + x²f'(1) + 2xf'(2) + f'(3), then the value of f'(5) =",
+      "options": [
+        {
+          "id": "A",
+          "text": "117/5"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "-27"
+        },
+        {
+          "id": "D",
+          "text": "-117/5"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Differentiation",
+      "concept": "Finding derivatives using given conditions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "Let O be the vertex of the parabola y² = 16x. The locus of centroid of △OPA when P lies on parabola and A lies on x-axis and ∠OPA = 90°, is",
+      "options": [
+        {
+          "id": "A",
+          "text": "y² = 8(3x - 16)"
+        },
+        {
+          "id": "B",
+          "text": "9y² = 8(3x - 16)"
+        },
+        {
+          "id": "C",
+          "text": "y² = 8(3x + 16)"
+        },
+        {
+          "id": "D",
+          "text": "9y² = 8(3x + 16)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola",
+      "concept": "Locus of centroid with angle condition",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "If a₁, a₂, a₃, ..., a₁₀ are in G.P. with common ratio 1/2 and a₁ + a₂ + ... + a₁₀ = 62, then a₁ =",
+      "options": [
+        {
+          "id": "A",
+          "text": "2^(2√2 - 1)"
+        },
+        {
+          "id": "B",
+          "text": "2^(2 - √2)"
+        },
+        {
+          "id": "C",
+          "text": "2^√2 - 1"
+        },
+        {
+          "id": "D",
+          "text": "2^(1 - √2)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sequences and Series",
+      "topic": "Geometric Progression",
+      "concept": "Sum of G.P. with fractional common ratio",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "If ∫₀¹ cot⁻¹(1 - 2x + 4x²) dx = a tan⁻¹2 + b ln5, then (a + b) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Integration",
+      "concept": "Integration by substitution and King's property",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Let α and β be the roots of equation x² + 2ax + (3a + 10) = 0 such that α < 1 < β. Then the set of all possible values of a is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(-11/5, ∞) ∪ (5, ∞)"
+        },
+        {
+          "id": "B",
+          "text": "(-∞, -3)"
+        },
+        {
+          "id": "C",
+          "text": "(-∞, -8) ∪ (5, ∞)"
+        },
+        {
+          "id": "D",
+          "text": "(-11/5, ∞)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Algebra",
+      "topic": "Quadratic Equations",
+      "concept": "Roots lying on opposite sides of a number",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Given A = [3 4; 1 1] and B = [29 49; 13 18] such that (AB)ⁿ = [x 0; y 0], then value of (x, y) satisfying above equation",
+      "options": [
+        {
+          "id": "A",
+          "text": "x = 11, y = 1"
+        },
+        {
+          "id": "B",
+          "text": "x = -1, y = 2"
+        },
+        {
+          "id": "C",
+          "text": "x = 1, y = 5"
+        },
+        {
+          "id": "D",
+          "text": "x = 11, y = 2"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Linear Algebra",
+      "topic": "Matrix Operations",
+      "concept": "Powers of matrices and eigenvalues",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of solutions of equation tan3x = cotx in x ∈ (0, 2π) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations",
+      "concept": "Solutions of tan and cot equations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the line L pass through the point (-3,5,2) and make equal angle with the positive coordinate axes. If distance of L from the point (-2,r,1) is 14/√3, then sum of all possible values of r is",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "21"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Lines in Space",
+      "concept": "Distance from point to line in 3D",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "If area bounded by curve 1 - 2x ≤ y ≤ 4 - x² and x, y ≥ 0 is equal to α/β where G.C.D(α, β) = 1. Find α + β",
+      "options": [
+        {
+          "id": "A",
+          "text": "73"
+        },
+        {
+          "id": "B",
+          "text": "69"
+        },
+        {
+          "id": "C",
+          "text": "70"
+        },
+        {
+          "id": "D",
+          "text": "54"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Area under Curves",
+      "concept": "Area between curves and coordinate axes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "Lines L₁ & L₂ are (x-1)/2 = y/1 = (z-1)/2 and x/2 = (y-1)/1 = (z+1)/1 respectively. If a line L with direction ratios (1, 1, 1) intersects L₁ & L₂ at A & B respectively, then find (AB)²:",
+      "options": [
+        {
+          "id": "A",
+          "text": "27"
+        },
+        {
+          "id": "B",
+          "text": "26"
+        },
+        {
+          "id": "C",
+          "text": "18"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Lines in Space",
+      "concept": "Intersection of lines and distance between points",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "Let z₀ be the complex number satisfying |z - 5| ≤ 3 and having maximum positive argument, then |5z₀ + 12|²/(3 + 4i)(5iz₀ + 16) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "16"
+        },
+        {
+          "id": "B",
+          "text": "26"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "20"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Complex Numbers",
+      "topic": "Complex Numbers and Geometry",
+      "concept": "Maximum argument in a circular region",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f(x) = lim(n→∞) [∑(k=1 to n) k²/3ⁿ] / [∑(k=1 to n) k/3ⁿ] (where [] represents greatest integer function) then ∑(j=1 to 12) f(j) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Limits and Greatest Integer Function",
+      "concept": "Limit of ratio of sums with greatest integer function",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "If probability distribution is given by P(x) = (8a+1)/30, (4a+1)/30, (2a+1)/30, b/30 for x = 0,1,2,3 respectively. If σ² + μ² = 2 where σ is standard deviation and μ is mean of distribution then a/b is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1000/71"
+        },
+        {
+          "id": "B",
+          "text": "1110/71"
+        },
+        {
+          "id": "C",
+          "text": "990/71"
+        },
+        {
+          "id": "D",
+          "text": "994/71"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Probability Distributions",
+      "concept": "Mean, variance and standard deviation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "If the line x + 4y - √70 = 0 touches the ellipse 3x² + 4y² = 1 at point P in the first quadrant then one of the focal distances of P is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(√11 - 3)/(2√11)"
+        },
+        {
+          "id": "B",
+          "text": "√11/(3√2 + √5)"
+        },
+        {
+          "id": "C",
+          "text": "(√11 - 3)/(2√5)"
+        },
+        {
+          "id": "D",
+          "text": "√11/(3√2 + √7)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Ellipse",
+      "concept": "Tangent to ellipse and focal distances",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "Let y² = 16x, from point (16,16) a focal chord is passing. Point (α,β) divides the focal chord internally in ratio 2:3 then minimum value of (α+β) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "22"
+        },
+        {
+          "id": "B",
+          "text": "11"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola",
+      "concept": "Focal chord and section formula",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "If three vectors are given with |p⃗| = 2√3, |q⃗| = 2, angle between p⃗ and q⃗ is θ and cosθ = 1/3, then find |p⃗×(q⃗-3r⃗)|² - 3|r⃗|²",
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "102"
+        },
+        {
+          "id": "C",
+          "text": "104"
+        },
+        {
+          "id": "D",
+          "text": "108"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vectors",
+      "topic": "Vector Operations",
+      "concept": "Cross product and vector relations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "Let set A = {2,3,4,5,9} and R = {(x,y) : 2x ≥ 3y, x,y ∈ A}. If n is number of elements in R and m is the number of elements required to make R symmetric then find n + m",
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Set Theory and Relations",
+      "topic": "Relations",
+      "concept": "Symmetric relations and counting",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "MATHEMATICS",
+      "questionText": "If ¹⁵C₀/¹¹C₀ + ¹⁵C₁/¹¹C₁ + ¹⁵C₂/¹¹C₂ + ... + ¹⁵C₁₂/¹¹C₁₂ = ¹⁴C₀ + ¹⁴C₁ + ... + ¹⁴C₁₂/λ, then 30λ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "16"
+        },
+        {
+          "id": "B",
+          "text": "32"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "28"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Combinatorics",
+      "topic": "Binomial Coefficients",
+      "concept": "Properties of binomial coefficients",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "MATHEMATICS",
+      "questionText": "If x ∈ [3π/2, 2π], then maximum value of the expression 1/sin²x + 1/cos²x is 2ⁿ/(n-7) (where n ∈ N) then n is equal to",
+      "correctAnswer": "29",
+      "questionType": "NUMERICAL",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Functions",
+      "concept": "Maximum value of trigonometric expressions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T11:21:51.377Z"
+}

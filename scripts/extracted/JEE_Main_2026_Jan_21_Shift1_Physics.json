@@ -1,0 +1,747 @@
+{
+  "filename": "JEE_Main_2026_Jan_21_Shift1_Physics.pdf",
+  "examYear": 2026,
+  "examSession": "Jan 21 Shift 1",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "Which logic gate is given in the figure?\n\nC\nA\nB",
+      "options": [
+        {
+          "id": "A",
+          "text": "XOR"
+        },
+        {
+          "id": "B",
+          "text": "NOR"
+        },
+        {
+          "id": "C",
+          "text": "NAND"
+        },
+        {
+          "id": "D",
+          "text": "OR"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Semiconductor Electronics",
+      "topic": "Logic Gates",
+      "concept": "NAND gate truth table",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "Given energy density equation for unsteady flow:\n\nρ/2 × A₁/Bt² + P + ρvg(h + Bt)\n\nFind dimension of A and B.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[A] = MT⁻¹, [B] = LT⁻¹"
+        },
+        {
+          "id": "B",
+          "text": "[A] = MT⁻², [B] = LT⁻¹"
+        },
+        {
+          "id": "C",
+          "text": "[A] = MT⁻¹, [B] = LT⁻²"
+        },
+        {
+          "id": "D",
+          "text": "[A] = M²T⁻¹, [B] = LT⁻¹"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Measurements",
+      "topic": "Dimensional Analysis",
+      "concept": "Dimensional analysis of fluid flow equations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "An α-particle is projected from infinity towards a fixed gold nucleus with energy 7.7 MeV. Find minimum distance between α-particle and gold nucleus:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.4 × 10⁻¹³ m"
+        },
+        {
+          "id": "B",
+          "text": "0.3 × 10⁻¹³ m"
+        },
+        {
+          "id": "C",
+          "text": "0.5 × 10⁻¹³ m"
+        },
+        {
+          "id": "D",
+          "text": "0.7 × 10⁻¹³ m"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Coulomb's Law",
+      "concept": "Energy conservation in Coulomb scattering",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "From a ring of area 1 m² and resistance 100Ω a magnetic field B = sin(100t) T is passing perpendicular to the ring. Find heat produced in one time period in joule:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "π"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Faraday's Law",
+      "concept": "Heat dissipation due to induced EMF",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "A charge q₁ = 10⁻⁶C is at (0, 0, 0). Another charge q₂ = 2μC is taken from A (4, 4, 2) to B(2, 2, 1). Find work done by external:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 × 10⁻⁷ J"
+        },
+        {
+          "id": "B",
+          "text": "2 × 10⁻⁷ J"
+        },
+        {
+          "id": "C",
+          "text": "3 × 10⁻⁵ J"
+        },
+        {
+          "id": "D",
+          "text": "4 × 10⁻⁷ J"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Potential",
+      "concept": "Work done in electric field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "An electromagnetic wave has electric field component Ez = (63 V/m) sin(ωt–kx). The corresponding magnetic field component should be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "By = –2.1 × 10⁻⁷ sin(ωt – kx)"
+        },
+        {
+          "id": "B",
+          "text": "By = 2.1 × 10⁻⁷ sin(ωt + kx)"
+        },
+        {
+          "id": "C",
+          "text": "Bz = 63 sin(ωt – kx)"
+        },
+        {
+          "id": "D",
+          "text": "Bz = 2.1 × 10⁻⁷ sin(ωt + kx)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Wave Propagation",
+      "concept": "Relationship between E and B in EM waves",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "As shown in the figure find volume flow rate at cross section-B. Given area at A is 6 cm² and at B is 3 cm², height difference is 5 cm:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2/2 m³/s"
+        },
+        {
+          "id": "B",
+          "text": "2/3 m³/s"
+        },
+        {
+          "id": "C",
+          "text": "3/2 m³/s"
+        },
+        {
+          "id": "D",
+          "text": "3/3 m³/s"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Bernoulli's Equation",
+      "concept": "Continuity equation and Bernoulli's principle",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "As shown in the figure find force required to move rod with constant velocity 15 m/s in uniform magnetic field B = 4T, length = 2m, resistance = 2Ω:",
+      "options": [
+        {
+          "id": "A",
+          "text": "480 N"
+        },
+        {
+          "id": "B",
+          "text": "500 N"
+        },
+        {
+          "id": "C",
+          "text": "380 N"
+        },
+        {
+          "id": "D",
+          "text": "280 N"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Motional EMF",
+      "concept": "Force on current carrying conductor in magnetic field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "A gas based geyser heats water at rate of 5 litres per minute from 27° to 87°C. If the rate of consumption of energy by gas geyser is x × 10⁴ W. Find value of 'x':",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.1"
+        },
+        {
+          "id": "B",
+          "text": "0.2"
+        },
+        {
+          "id": "C",
+          "text": "4.2"
+        },
+        {
+          "id": "D",
+          "text": "0.42"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Calorimetry",
+      "concept": "Rate of heat transfer",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "Given acceleration as a function of time a = t³î + (3t/4)ĵ. Initially (t = 0) position is 0î + 0ĵ + 0k̂ and particle is at rest. Find position and velocity at any instant:",
+      "options": [
+        {
+          "id": "A",
+          "text": "v = (t⁴/4)î + (3t²/8)ĵ, r = (t⁵/20)î + (t³/8)ĵ"
+        },
+        {
+          "id": "B",
+          "text": "v = (3t³/4)î + (3t²/8)ĵ, r = (t⁵/20)î + (t³/8)ĵ"
+        },
+        {
+          "id": "C",
+          "text": "v = (t⁴/4)î + (3t²/8)ĵ, r = (t⁶/20)î + (t²/8)ĵ"
+        },
+        {
+          "id": "D",
+          "text": "v = (t⁴/2)î + (t²/3)ĵ, r = (t⁵/20)î + (t³/8)ĵ"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Kinematics",
+      "concept": "Integration of acceleration to find velocity and position",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "DERIVATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "In the diagram shown time taken by a pulse to travel on string 1 is t₁ while on string 2 is t₂. Find t₁/t₂. Given μ₁ = 2 × 10⁻⁴ kg/m, μ₂ = 4 × 10⁻⁴ kg/m:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/√2"
+        },
+        {
+          "id": "B",
+          "text": "1/3"
+        },
+        {
+          "id": "C",
+          "text": "√2/1"
+        },
+        {
+          "id": "D",
+          "text": "1/2"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Waves",
+      "topic": "Wave Speed",
+      "concept": "Wave speed on strings with different linear mass densities",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "A light wave described by E = 60 (sin (3 × 10¹⁵)t + sin (12 × 10¹⁵)t) (in SI unit) falls on a metal surface of work function 2.8 eV. The maximum kinetic energy of ejected photon is approximately (in eV). Given: h = 6.6 × 10⁻³⁴ J-s:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5.1 eV"
+        },
+        {
+          "id": "B",
+          "text": "6.1 eV"
+        },
+        {
+          "id": "C",
+          "text": "4.1 eV"
+        },
+        {
+          "id": "D",
+          "text": "3.1 eV"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Photoelectric Effect",
+      "concept": "Einstein's photoelectric equation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "Two equal rods are joined to form a single rod of 120 cm. Find final rod length when temperature is raised from 30°C to 100°C. Given: αA = 1.2 × 10⁻⁵/°C, αB = 24 × 10⁻⁶/°C:",
+      "options": [
+        {
+          "id": "A",
+          "text": "121.15 cm"
+        },
+        {
+          "id": "B",
+          "text": "122.15 cm"
+        },
+        {
+          "id": "C",
+          "text": "120.15 cm"
+        },
+        {
+          "id": "D",
+          "text": "119.15 cm"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Thermal Expansion",
+      "concept": "Linear thermal expansion of composite rods",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "A graph of potential energy as position is given below. Give the order of magnitude of forces.",
+      "options": [
+        {
+          "id": "A",
+          "text": "|FCD| < |FAB| = |FDE| < |FBC|"
+        },
+        {
+          "id": "B",
+          "text": "|FCD| < |FAB| > |FDE| < |FBC|"
+        },
+        {
+          "id": "C",
+          "text": "|FCD| < |FAB| < |FDE| < |FBC|"
+        },
+        {
+          "id": "D",
+          "text": "|FCD| = |FAB| = |FDE| < |FBC|"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Energy",
+      "concept": "Relationship between force and potential energy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "A rod of mass m and length ℓ is attached to two ideal strings. Find tension in left string just after right string is cut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "mg/2"
+        },
+        {
+          "id": "B",
+          "text": "mg/4"
+        },
+        {
+          "id": "C",
+          "text": "2mg/3"
+        },
+        {
+          "id": "D",
+          "text": "mg/5"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Dynamics",
+      "concept": "Torque and angular acceleration",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "A capacitor of capacitance 'C' is given. Find the capacitance after dielectric is inserted as shown, with K = 3 and thickness d/3:",
+      "options": [
+        {
+          "id": "A",
+          "text": "9C/7"
+        },
+        {
+          "id": "B",
+          "text": "3C/7"
+        },
+        {
+          "id": "C",
+          "text": "6C/7"
+        },
+        {
+          "id": "D",
+          "text": "5C/7"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Capacitance",
+      "concept": "Parallel plate capacitor with partial dielectric",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "A magnet is dropped inside a coil as shown in figure. Its acceleration as it falls through the coil is 'a'. Choose the correct option.",
+      "options": [
+        {
+          "id": "A",
+          "text": "a = g"
+        },
+        {
+          "id": "B",
+          "text": "a > g"
+        },
+        {
+          "id": "C",
+          "text": "a < g"
+        },
+        {
+          "id": "D",
+          "text": "a = 0"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Lenz's Law",
+      "concept": "Opposition to motion due to induced current",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "Two rods are joined together as shown. If moment of inertia about Hinge is (x/12)mℓ². Find x. (Both rods have mass m and length ℓ):",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "13"
+        },
+        {
+          "id": "D",
+          "text": "17"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Inertia",
+      "concept": "Moment of inertia of composite bodies",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "PHYSICS",
+      "questionText": "Find energy required for a satellite to go from r = 1.5 RE to r = 3RE. (Given: Mass of satellite is 100 kg. Radius of Earth RE = 6 × 10⁶ m and acceleration due to gravity g = 10 m/s²):",
+      "options": [
+        {
+          "id": "A",
+          "text": "10⁹ J"
+        },
+        {
+          "id": "B",
+          "text": "10¹¹ J"
+        },
+        {
+          "id": "C",
+          "text": "10¹⁰ J"
+        },
+        {
+          "id": "D",
+          "text": "10⁸ J"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Gravitational Potential Energy",
+      "concept": "Energy required to change orbital radius",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "PHYSICS",
+      "questionText": "A collimated beam of light of diameter 2mm is propagating along x-axis. The beam is required to be expanded in a collimated beam of diameter 14mm using a system of two convex lenses. If first lens has focal length 40mm then focal length of 2nd lens is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "270 mm"
+        },
+        {
+          "id": "B",
+          "text": "260 mm"
+        },
+        {
+          "id": "C",
+          "text": "290 mm"
+        },
+        {
+          "id": "D",
+          "text": "280 mm"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Ray Optics",
+      "topic": "Lens Systems",
+      "concept": "Beam expander using two lenses",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "In YDSE arrangement d = 0.1 cm, D = 50 cm. If a thin film placed as in the figure in front of S₁ central maxima forms 0.2 cm above centre. The thickness of film should be (in μm). μ = 1.5:",
+      "options": [],
+      "correctAnswer": "8",
+      "questionType": "NUMERICAL",
+      "chapter": "Wave Optics",
+      "topic": "Young's Double Slit Experiment",
+      "concept": "Effect of thin film on fringe pattern",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "Initial temperature of 10 moles O₂ is 30°C. Find change in internal energy (in calorie) if final temperature becomes 40°C. Given CP = 7 cal/(mole·°C), R = 2 cal/(mole·°C):",
+      "options": [],
+      "correctAnswer": "500",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Internal Energy",
+      "concept": "Change in internal energy of ideal gas",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "Compound microscope has f₀ = 2 cm, fₑ = 4 cm and tube length = 32 cm. For normal adjustment find magnification:",
+      "options": [],
+      "correctAnswer": "100",
+      "questionType": "NUMERICAL",
+      "chapter": "Ray Optics",
+      "topic": "Optical Instruments",
+      "concept": "Magnification of compound microscope",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "Find heat (in joule) dissipated in 1 minute in external circuit. Circuit has 9V battery with 1Ω internal resistance, external resistors 2Ω, 4Ω, 2Ω, 1Ω in Wheatstone bridge configuration:",
+      "options": [],
+      "correctAnswer": "1620",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Electrical Circuits",
+      "concept": "Heat dissipation in Wheatstone bridge",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "There are two springs of spring constant k₁ = (20 ± 0.3) N/m and k₂ = (30 ± 0.2) N/m. If they are connected in parallel then percentage error in equivalent spring constant of combination is _____%. ",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Units and Measurements",
+      "topic": "Error Analysis",
+      "concept": "Percentage error in parallel combination",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T11:19:25.877Z"
+}

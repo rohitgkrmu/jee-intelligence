@@ -1,0 +1,739 @@
+{
+  "filename": "JEE_Main_2026_Jan_21_Shift2_Chemistry.pdf",
+  "examYear": 2026,
+  "examSession": "Jan 21 Shift 2",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "CHEMISTRY",
+      "questionText": "When 8.74 g MnO₂ is treated with HCl then what will be the weight of Cl₂(g), obtained : [Molar mass of MnO₂ = 87.4 g/mol]",
+      "options": [
+        {
+          "id": "A",
+          "text": "7.1 g"
+        },
+        {
+          "id": "B",
+          "text": "17.1 g"
+        },
+        {
+          "id": "C",
+          "text": "14.2 g"
+        },
+        {
+          "id": "D",
+          "text": "3.55 g"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Redox Reactions",
+      "concept": "Stoichiometry in redox reactions",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "CHEMISTRY",
+      "questionText": "Calculate Bond Energy of C – H bond in CH₄. Given : ΔHf of CH₄(g) = – x kJ/mol, ΔHsub of carbon = y kJ/mol, B.E. of H – H = z kJ/mol.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(x + y + z)/4"
+        },
+        {
+          "id": "B",
+          "text": "(y + 2z + x)/4"
+        },
+        {
+          "id": "C",
+          "text": "(y + 2z - x)/4"
+        },
+        {
+          "id": "D",
+          "text": "(2y + z - x)/4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Thermodynamics",
+      "concept": "Bond energy calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "CHEMISTRY",
+      "questionText": "Following transition are made by an electron in a hydrogen like species. Find energy order of emitted photon: (A) 1st line of Lyman Series (B) 2nd line of Balmer Series (C) 3rd line of Paschen Series (D) 4th line of Brackett Series",
+      "options": [
+        {
+          "id": "A",
+          "text": "D > A > B > C"
+        },
+        {
+          "id": "B",
+          "text": "A > B > C > D"
+        },
+        {
+          "id": "C",
+          "text": "B > C > D > A"
+        },
+        {
+          "id": "D",
+          "text": "A > C > B > D"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Atomic Structure",
+      "concept": "Hydrogen spectrum and energy levels",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "CHEMISTRY",
+      "questionText": "For a Daniel cell, select correct variation of E°cell with time",
+      "options": [
+        {
+          "id": "A",
+          "text": "Graph showing decreasing E°cell with time"
+        },
+        {
+          "id": "B",
+          "text": "Graph showing constant E°cell with time"
+        },
+        {
+          "id": "C",
+          "text": "Graph showing increasing E°cell with time"
+        },
+        {
+          "id": "D",
+          "text": "Graph showing oscillating E°cell with time"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "concept": "Standard electrode potential",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "CHEMISTRY",
+      "questionText": "A(g) → B(g) + C(g). Initial pressure of A is 1 bar after 100 min. total pressure becomes 1.5 bar. Find value of rate constant of the reaction assuming first order reaction.",
+      "options": [
+        {
+          "id": "A",
+          "text": "6.9 × 10⁻⁴ min⁻¹"
+        },
+        {
+          "id": "B",
+          "text": "6.9 × 10⁻³ min⁻¹"
+        },
+        {
+          "id": "C",
+          "text": "6.9 × 10⁻⁵ min⁻¹"
+        },
+        {
+          "id": "D",
+          "text": "6.9 × 10⁻² min⁻¹"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Kinetics",
+      "concept": "First order kinetics",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement-I : The correct order for radius is Al > Mg > Mg²⁺ > Al³⁺. Statement-II : Atomic size always depends on electronegativity.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statements I and II are correct."
+        },
+        {
+          "id": "B",
+          "text": "Both statements I and II are false."
+        },
+        {
+          "id": "C",
+          "text": "Statement I is correct and II is false."
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false and II is correct."
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Periodic Properties",
+      "concept": "Atomic and ionic radii",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement-I : Bond dissociation energy order is : Cl₂ > Br₂ > F₂ > I₂. Statement-II : Bond dissociation energy is independent of bond order",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statements I and II are correct."
+        },
+        {
+          "id": "B",
+          "text": "Both statements I and II are false."
+        },
+        {
+          "id": "C",
+          "text": "Statement I is correct and II is false."
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false and II is correct."
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Bonding",
+      "concept": "Bond dissociation energy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "CHEMISTRY",
+      "questionText": "NaCl(solid) + H₂SO₄(conc.) + K₂Cr₂O₇(s) → Product",
+      "options": [
+        {
+          "id": "A",
+          "text": "Product is CrO₂Cl₂ and oxidation state of Cr = +6"
+        },
+        {
+          "id": "B",
+          "text": "Product is Cr₂O₂Cl₂ and oxidation state of Cr = +6"
+        },
+        {
+          "id": "C",
+          "text": "Product is Cr₂O₂Cl₂ and oxidation state of Cr = +3"
+        },
+        {
+          "id": "D",
+          "text": "Product is CrO₂Cl₂ and oxidation state of Cr = +3"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "p-Block Elements",
+      "concept": "Chromyl chloride test",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of following is correct order of bond length?",
+      "options": [
+        {
+          "id": "A",
+          "text": "C–H < C≡N < C=O < C–O"
+        },
+        {
+          "id": "B",
+          "text": "C≡N < C–H < C–O < C=O"
+        },
+        {
+          "id": "C",
+          "text": "C–H < C≡N < C–O < C=O"
+        },
+        {
+          "id": "D",
+          "text": "C–O < C≡N < C=O < C–H"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Bonding",
+      "concept": "Bond lengths",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement-I : The correct order of electron affinity is Cl > Br > S > O. Statement-II : Correct order of ionic character is PbCl₂ < PbCl₄ , UF₆ < UF₄ , SnCl₄ > SnCl₂",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is correct and statement II is incorrect."
+        },
+        {
+          "id": "B",
+          "text": "Both statement I and II are correct."
+        },
+        {
+          "id": "C",
+          "text": "Statement I is incorrect and statement II is correct."
+        },
+        {
+          "id": "D",
+          "text": "Both statement I and II are incorrect."
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Periodic Properties",
+      "concept": "Electron affinity and ionic character",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement-I : Among [Mn(H₂O)₆]²⁺ and [Cr(H₂O)₆]²⁺ , the more stable complex is [Mn(H₂O)₆]²⁺. Statement-II : Magnetic moment of K₃[Fe(CN)₆] > K₄[Fe(CN)₆].",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statements I and II both are correct."
+        },
+        {
+          "id": "B",
+          "text": "Statement I is correct and Statement II is incorrect."
+        },
+        {
+          "id": "C",
+          "text": "Statement I is incorrect and statement II is correct."
+        },
+        {
+          "id": "D",
+          "text": "Both statements I and II are incorrect."
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Coordination Compounds",
+      "concept": "Complex stability and magnetic moments",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "CHEMISTRY",
+      "questionText": "Rate of reaction of nucleophilic substitution with KCN in polar protic solvent for compounds (A) CH₂–Br with OH substituent (B) CH₂–Br with NH₂ substituent (C) CH₂–Br with NO₂ substituent (D) CH₂–Br with NO₂ substituent",
+      "options": [
+        {
+          "id": "A",
+          "text": "A > B > C > D"
+        },
+        {
+          "id": "B",
+          "text": "B > A > C > D"
+        },
+        {
+          "id": "C",
+          "text": "A > B > D > C"
+        },
+        {
+          "id": "D",
+          "text": "B > A > D > C"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "SN1 reaction rates",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "CHEMISTRY",
+      "questionText": "Match correctly from the reagents given in Column-I with the named reaction given in Column-II. (P) Pd-BaSO₄ (Q) CrO₂Cl₂ + CS₂ (R) SnCl₂+HCl (S) CO + HCl + AlCl₃ anhydrous with (1) Etard reaction (2) Stephen's reduction (3) Gattermann's Koch reaction (4) Rosenmund's reduction",
+      "options": [
+        {
+          "id": "A",
+          "text": "P-1, Q-4, R-2, S-3"
+        },
+        {
+          "id": "B",
+          "text": "P-3, Q-2, R-4, S-1"
+        },
+        {
+          "id": "C",
+          "text": "P-4, Q-1, R-2, S-3"
+        },
+        {
+          "id": "D",
+          "text": "P-1, Q-3, R-4, S-2"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Named Reactions",
+      "concept": "Organic reaction mechanisms",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "CHEMISTRY",
+      "questionText": "Match the list-I with list-II (P) Cis-2-Butene, trans-2-butene (Q) Diethyl ether, Butanol (R) 1-Butene, 2-Butene (S) n-Pentane, Isopentane with (1) Functional isomers (2) Stereoisomers (3) Position isomers (4) Chain isomers",
+      "options": [
+        {
+          "id": "A",
+          "text": "P-2, Q-3, R-4, S-1"
+        },
+        {
+          "id": "B",
+          "text": "P-2, Q-1, R-3, S-4"
+        },
+        {
+          "id": "C",
+          "text": "P-3, Q-2, R-4, S-1"
+        },
+        {
+          "id": "D",
+          "text": "P-4, Q-2, R-1, S-3"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Isomerism",
+      "concept": "Types of isomerism",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following statement is/are correct? (a) Nucleotide containing 1,4-linkage. (b) Quaternary structure of protein is compact folded structure. (c) During denaturation of protein secondary and tertiary structure destroyed and primary structure retained. (d) Enthalpy of enzymatic hydrolysis of sucrose is greater than acid catalysed hydrolysis of sucrose.",
+      "options": [
+        {
+          "id": "A",
+          "text": "a, b, c"
+        },
+        {
+          "id": "B",
+          "text": "b, c"
+        },
+        {
+          "id": "C",
+          "text": "a, d"
+        },
+        {
+          "id": "D",
+          "text": "b, c, d"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Biomolecules",
+      "concept": "Protein structure and nucleotides",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "CHEMISTRY",
+      "questionText": "Find correct order of rate of reaction of CH₃Br with given nucleophiles: OH⁻, PhO⁻, HCOO⁻, ClO₄⁻",
+      "options": [
+        {
+          "id": "A",
+          "text": "OH⁻ > PhO⁻ > HCOO⁻ > ClO₄⁻"
+        },
+        {
+          "id": "B",
+          "text": "PhO⁻ > OH⁻ > HCOO⁻ > ClO₄⁻"
+        },
+        {
+          "id": "C",
+          "text": "OH⁻ > PhO⁻ > ClO₄⁻ > HCOO⁻"
+        },
+        {
+          "id": "D",
+          "text": "PhO⁻ > OH⁻ > ClO₄⁻ > HCOO⁻"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Nucleophilic strength",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement-1: There is 2sp³, 1 sp² and 1 sp hybridised carbon present in CH = C = O. Statement-2: The given compound has two chiral centres.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 is incorrect but Statement-2 is correct"
+        },
+        {
+          "id": "B",
+          "text": "Statement-1 is correct but Statement-2 is incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Both statements are correct."
+        },
+        {
+          "id": "D",
+          "text": "Both statements are incorrect."
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Chemical Bonding and Stereochemistry",
+      "concept": "Hybridization and chirality",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "CHEMISTRY",
+      "questionText": "1 gm of unknown organic compound produce 1.49 of Mg₂P₂O₇ determine % of P in unknown organic compound:",
+      "options": [
+        {
+          "id": "A",
+          "text": "11.61"
+        },
+        {
+          "id": "B",
+          "text": "21.61"
+        },
+        {
+          "id": "C",
+          "text": "31.61"
+        },
+        {
+          "id": "D",
+          "text": "41.61"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Qualitative Analysis",
+      "concept": "Estimation of phosphorus",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "CHEMISTRY",
+      "questionText": "Calculate E°(Cl⁻/AgCl/Ag) (in millivolt) Given: E°(Ag⁺/Ag) = 0.79 V, Ksp(AgCl) = 10⁻¹⁰, (2.303 RT)/F = 0.059.",
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "200"
+        },
+        {
+          "id": "C",
+          "text": "300"
+        },
+        {
+          "id": "D",
+          "text": "400"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "concept": "Electrode potentials",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "CHEMISTRY",
+      "questionText": "In following 4 molecules one is optically active and find the % of carbon in chiral compound: 1-Chlorobutane, 2-Chloropropane, 2-Chlorobutane, 1-Chloro-2, 2-Dimethyl propane",
+      "options": [
+        {
+          "id": "A",
+          "text": "11.61"
+        },
+        {
+          "id": "B",
+          "text": "21.61"
+        },
+        {
+          "id": "C",
+          "text": "51.89"
+        },
+        {
+          "id": "D",
+          "text": "41.61"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Stereochemistry",
+      "concept": "Optical activity and molecular composition",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "CHEMISTRY",
+      "questionText": "For a living cell, osmotic pressure is 12 atm at 300 K, which is isotonic with NaCl(aq.) solution then strength of NaCl solution is _____ × 10⁻² g/L. [R = 0.08 L-atm/mol-K]",
+      "correctAnswer": "1462",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Solutions",
+      "concept": "Osmotic pressure",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "CHEMISTRY",
+      "questionText": "Find concentration of X²⁻ at equilibrium in 0.1 M H₂X ? (in order of 10⁻¹⁵) Given : Ka₁ = 2.5 × 10⁻⁸, Ka₂ = 1 × 10⁻¹³.",
+      "correctAnswer": "100",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Ionic Equilibrium",
+      "concept": "Diprotic acid equilibrium",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "CHEMISTRY",
+      "questionText": "Elevation of Boiling point of a solution containing 15 gm solute in 150 gm solvent is 0.5°C, and relative lowering in vapour pressure is x × 10⁻² then find x (Assume dilute solution) Given molar mass of solvent = 300 gm/mole, Kb = 5 K-kg/mole",
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Solutions",
+      "concept": "Colligative properties",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "CHEMISTRY",
+      "questionText": "Among the following V³⁺, Ti²⁺, Ni²⁺, Fe²⁺, Co²⁺ for which spin only magnetic moment > 3, and which can form high spin octahedral complex. Find the sum of unpaired electrons in those complexes.",
+      "correctAnswer": "7",
+      "questionType": "NUMERICAL",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Coordination Compounds",
+      "concept": "Magnetic moments and crystal field theory",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "CHEMISTRY",
+      "questionText": "Starting from nitrobenzene, after the given sequence of reactions: (1) Br₂/Fe (2) Sn/HCl (3) pH neutral solution (4) Br₂/H₂O (5) NaNO₂ HCl (6) CuBr, find the number of bromine atoms in major product?",
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Multi-step organic synthesis",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T11:20:44.276Z"
+}

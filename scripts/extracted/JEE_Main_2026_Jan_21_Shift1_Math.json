@@ -1,0 +1,534 @@
+{
+  "filename": "JEE_Main_2026_Jan_21_Shift1_Math.pdf",
+  "examYear": 2026,
+  "examSession": "Jan 21 Shift 1",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "If α & β are roots of the quadratic equation x² + x + 1 = 0, then the value of (α + β)⁴ + (α² + β²)⁴ + (α³ + β³)⁴ + ...... + (α²⁵ + β²⁵)⁴ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "145"
+        },
+        {
+          "id": "B",
+          "text": "140"
+        },
+        {
+          "id": "C",
+          "text": "415"
+        },
+        {
+          "id": "D",
+          "text": "541"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Algebra",
+      "topic": "Quadratic Equations",
+      "concept": "Complex roots and their properties",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "If A = [α 2; 1 β], B = [1 1; 1 α], A² - 4A + 2I = O and B² - 3B + I = O then the value of adj(A³B³) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "-5"
+        },
+        {
+          "id": "B",
+          "text": "-15"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "-7"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Matrices",
+      "topic": "Matrix Operations",
+      "concept": "Adjoint of matrix products",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the parabola x² = 4y and consider its vertex O and a variable point P on the parabola and consider another point Q which divides OP in the ratio 2:3 internally. Then the equation of chord of locus Q whose mid point is (1, 2):",
+      "options": [
+        {
+          "id": "A",
+          "text": "5x - 4y + 3 = 0"
+        },
+        {
+          "id": "B",
+          "text": "4x - 5y + 3 = 0"
+        },
+        {
+          "id": "C",
+          "text": "5x + 4y + 3 = 0"
+        },
+        {
+          "id": "D",
+          "text": "4x + 5y + 3 = 0"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola",
+      "concept": "Locus and chord properties",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f : R → R be twice differentiable function such that f''(x)m² - 2m.f'(x) + f(x) = 0 for all m ∈ R has equal roots where f(0) = 1, f'(0) = 2 and f(ln x - x) is increasing in the interval (α, β), then find (α + β).",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Differential Equations",
+      "concept": "Second order differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Given two sets A = {1, 2, 3, ........, 6} and B = {1, 2, 3, ......., 9}, find the number of increasing functions f : A → B, such that f(i) ≥ i ∀ i ∈ {1, 2, 3, ......, 6}:",
+      "options": [
+        {
+          "id": "A",
+          "text": "26"
+        },
+        {
+          "id": "B",
+          "text": "27"
+        },
+        {
+          "id": "C",
+          "text": "28"
+        },
+        {
+          "id": "D",
+          "text": "29"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Combinatorics",
+      "topic": "Functions",
+      "concept": "Counting increasing functions with constraints",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Tangents are drawn from P to the circle x² + y² - 4x - 6y + 12 = 0 touching at A & B such that ∠AOB = 60° (O is centre of circle) then locus of P is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x² + y² - 4x - 6y + 35/3 = 0"
+        },
+        {
+          "id": "B",
+          "text": "x² + y² - 6x - 4y + 35/3 = 0"
+        },
+        {
+          "id": "C",
+          "text": "x² + y² - 4x - 6y + 35 = 0"
+        },
+        {
+          "id": "D",
+          "text": "x² + y² - 4x - 6y + 40 = 0"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle",
+      "concept": "Tangent properties and locus",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "L₁ & L₂ are two parallel lines and ABC is an equilateral triangle, such that A & B lie on L₁ & L₂ respectively. Vertex C is at a distance of 6 unit from L₁ & 3 unit from L₂. Then Area of ABC is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "21√3/3"
+        },
+        {
+          "id": "B",
+          "text": "21√3"
+        },
+        {
+          "id": "C",
+          "text": "23√3/3"
+        },
+        {
+          "id": "D",
+          "text": "23√3"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Triangles",
+      "concept": "Area of equilateral triangle with constraints",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "Area bounded inside ellipse x² + 4y² = 4 and outside area bounded by curve y = |x| - 1 and y = 1 - |x|:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2π + 1"
+        },
+        {
+          "id": "B",
+          "text": "2π - 1"
+        },
+        {
+          "id": "C",
+          "text": "2π + 2"
+        },
+        {
+          "id": "D",
+          "text": "2π - 2"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Integration",
+      "concept": "Area bounded by curves",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "If y = y(x) and (1 + x²)dy + (1 - tan⁻¹x)dx = 0 and y(0) = 1 then y(1) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(π/4 - 1)√(3π/2)"
+        },
+        {
+          "id": "B",
+          "text": "(π/4 + 1)√(3π/2)"
+        },
+        {
+          "id": "C",
+          "text": "(π/4 - 1)√(3π + 2)"
+        },
+        {
+          "id": "D",
+          "text": "(π/4 + 1)√(3π + 2)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Differential Equations",
+      "concept": "First order differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of cosec10° - √3 sec10° is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Identities",
+      "concept": "Simplification of trigonometric expressions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "Let H be a Hyperbola confocal with ellipse x²/36 + y²/16 = 1 having eccentricity √5, then length of latus rectum of H is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "96/5"
+        },
+        {
+          "id": "B",
+          "text": "9/5"
+        },
+        {
+          "id": "C",
+          "text": "96"
+        },
+        {
+          "id": "D",
+          "text": "√5"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Conic Sections",
+      "concept": "Confocal conics and latus rectum",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of integral ∫_{-π/6}^{π/6} 4x/(1 + sin²(x/6)) dx is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "π"
+        },
+        {
+          "id": "B",
+          "text": "2π"
+        },
+        {
+          "id": "C",
+          "text": "4π"
+        },
+        {
+          "id": "D",
+          "text": "8π"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Integration",
+      "concept": "Definite integration with substitution",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the expansion (ax² + bx + c)(1 - 2x)²⁶. If the coefficient of x² and x³ are zero and coefficient of x is -56 then (a + b + c) is:",
+      "options": [],
+      "correctAnswer": "1403",
+      "questionType": "NUMERICAL",
+      "chapter": "Algebra",
+      "topic": "Binomial Theorem",
+      "concept": "Coefficient comparison in binomial expansion",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "Sum of roots of equation √(x-1) - 5√(x-1) + 6 = 0 is:",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Algebra",
+      "topic": "Equations involving radicals",
+      "concept": "Sum of roots with substitution",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "If Domain of f(x) = cos⁻¹((2x+5)/(11-3x)) + sin⁻¹(2x²-3x+1) is [a,b], find value of (a+2b):",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Functions and Domain",
+      "concept": "Domain of inverse trigonometric functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "Given aₙ₊₁ = (2n+1)aₙ²/(2n²(n+1)) for n ≥ 1 such that a₁ = 1, then evaluate Σₙ₌₁^∞ (aₙ²/n):",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Recurrence Relations",
+      "concept": "Infinite series with recursive sequences",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "If a₁, a₂, a₃... are increasing geometric progression such that a₁ + a₃ + a₅ = 21 and a₁a₃a₅ = 64, then value of a₁ + a₂ + a₃ is:",
+      "options": [],
+      "correctAnswer": "7",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Geometric Progression",
+      "concept": "Properties of GP with given conditions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of ∫₀^π (6 + sin x + sin 3x + sin 2x) dx is:",
+      "options": [],
+      "correctAnswer": "17",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Integration",
+      "concept": "Definite integration of trigonometric functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a twice differentiable function f(x) on R such that f(3) = 18, f'(3) = 0 and f''(3) = 4, then the value of lim_{x→1} [f(x+2) - 2]/f(3) × e^(18/(x-1)²) is:",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Limits and Derivatives",
+      "concept": "L'Hopital's rule with exponential functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider set S = {1,2,3,...,50} where m,n ∈ S. If P is the no. of ways such that 6ᵐ + 9ⁿ is divisible by 5 and Q is the no. of ways in which (m+n) is the square of prime number. Find (P+Q):",
+      "options": [],
+      "correctAnswer": "1333",
+      "questionType": "NUMERICAL",
+      "chapter": "Number Theory",
+      "topic": "Modular Arithmetic",
+      "concept": "Divisibility and counting problems",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T11:18:06.955Z"
+}
