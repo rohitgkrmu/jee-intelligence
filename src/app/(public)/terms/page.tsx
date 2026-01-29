@@ -2,7 +2,15 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Terms of Service",
-  description: "Terms of Service for JEE Intelligence by ZenithSchool.ai",
+  description:
+    "Terms of Service for JEE Pulse by ZenithSchool.ai. Understand the terms governing your use of our JEE preparation and diagnostic platform.",
+  alternates: {
+    canonical: "/terms",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function TermsPage() {

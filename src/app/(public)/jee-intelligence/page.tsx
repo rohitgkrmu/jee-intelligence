@@ -16,9 +16,17 @@ import {
 import { InsightsSection } from "./insights-section";
 
 export const metadata: Metadata = {
-  title: "JEE Pulse - Trend Intelligence",
+  title: "JEE Trend Analysis 2025 - Chapter Weightage, Rising Topics & Patterns",
   description:
-    "Discover JEE exam patterns, high-frequency concepts, and AI-powered insights to optimize your preparation strategy.",
+    "Free JEE Main & Advanced trend analysis with AI. Discover chapter weightage, high-frequency concepts, rising topics, and difficulty patterns from 5+ years of data. 500+ questions analyzed.",
+  alternates: {
+    canonical: "/jee-intelligence",
+  },
+  openGraph: {
+    title: "JEE Trend Analysis 2025 - Chapter Weightage & Rising Topics",
+    description:
+      "AI-powered JEE pattern analysis. Chapter weightage, rising concepts, and study recommendations from 500+ analyzed questions.",
+  },
 };
 
 export const revalidate = 3600; // Revalidate every hour

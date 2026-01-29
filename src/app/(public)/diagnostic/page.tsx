@@ -2,9 +2,17 @@ import { Metadata } from "next";
 import { DiagnosticStartForm } from "./start-form";
 
 export const metadata: Metadata = {
-  title: "JEE Readiness Diagnostic",
+  title: "Free JEE Diagnostic Test - Check Your JEE Readiness in 10 Minutes",
   description:
-    "Take our free 12-question diagnostic test to assess your JEE preparation and get personalized recommendations.",
+    "Take our free 12-question JEE diagnostic test. Assess your Physics, Chemistry & Maths preparation in 10 minutes. Get instant AI-powered analysis and personalized study recommendations.",
+  alternates: {
+    canonical: "/diagnostic",
+  },
+  openGraph: {
+    title: "Free JEE Diagnostic Test - Check Your Readiness",
+    description:
+      "12-question JEE diagnostic test. Get instant AI analysis and personalized study plan in 10 minutes. 100% free.",
+  },
 };
 
 export default function DiagnosticPage() {

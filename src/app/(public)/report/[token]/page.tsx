@@ -4,7 +4,14 @@ import { ReportView } from "./report-view";
 
 export const metadata: Metadata = {
   title: "Your JEE Readiness Report",
-  description: "View your personalized JEE readiness assessment and study recommendations.",
+  description:
+    "View your personalized JEE readiness assessment, subject-wise analysis, and AI-powered study recommendations.",
+  robots: {
+    index: false,
+    follow: false,
+    noarchive: true,
+    nosnippet: true,
+  },
 };
 
 async function getReport(token: string) {
