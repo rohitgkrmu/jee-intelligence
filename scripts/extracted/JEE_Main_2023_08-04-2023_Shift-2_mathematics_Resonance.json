@@ -1,0 +1,819 @@
+{
+  "filename": "JEE_Main_2023_08-04-2023_Shift-2_mathematics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "The area of the quadrilateral ABCD with vertices A(2, 1, 1), B(1, 2, 5), C(−2, −3, 5) and D(1, −6, −7) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "√388"
+        },
+        {
+          "id": "B",
+          "text": "48"
+        },
+        {
+          "id": "C",
+          "text": "54"
+        },
+        {
+          "id": "D",
+          "text": "√389"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vector Algebra",
+      "topic": "Area of Quadrilateral",
+      "concept": "Cross product for area calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of 36(4cos²9° − 1)(4cos²27° − 1)(4cos²81° − 1)(4cos²243° − 1) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "27"
+        },
+        {
+          "id": "B",
+          "text": "18"
+        },
+        {
+          "id": "C",
+          "text": "54"
+        },
+        {
+          "id": "D",
+          "text": "36"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Products",
+      "concept": "Product of cosine values",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = {θ ∈ (0, 2π) : (1 + 2sinθ − sinθi)/(1 − sinθ) is purely imaginary}. The sum of elements in A is",
+      "options": [
+        {
+          "id": "A",
+          "text": "π"
+        },
+        {
+          "id": "B",
+          "text": "2π"
+        },
+        {
+          "id": "C",
+          "text": "3π"
+        },
+        {
+          "id": "D",
+          "text": "4π"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Complex Numbers",
+      "topic": "Purely Imaginary Numbers",
+      "concept": "Condition for purely imaginary complex numbers",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "If the probability that the random variable X takes values x is given by P(X = x) = k(x + 1)3^(-x), x = 0, 1, 2, 3, ..., where k is a constant, then P(X ≥ 2) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "20/27"
+        },
+        {
+          "id": "B",
+          "text": "7/18"
+        },
+        {
+          "id": "C",
+          "text": "7/27"
+        },
+        {
+          "id": "D",
+          "text": "11/18"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Probability Distribution",
+      "concept": "Geometric series in probability",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "For a, b ∈ Z and a − b ≤ 10, let the angle between the plane P: ax + y − z = b and the line l: (x − 1)/1 = (a − y)/1 = (z + 1)/1 be cos⁻¹(1/3). If the distance of the point (6, −6, 4) from the plane P is 3√6, then a⁴ + b² is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "32"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "48"
+        },
+        {
+          "id": "D",
+          "text": "85"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Angle between Line and Plane",
+      "concept": "Distance from point to plane",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Let aₙ be the nth term of the series 5 + 8 + 14 + 23 + 35 + 50 + ... and Sₙ = Σ(k=1 to n) aₖ. Then S₃₀ − a₄₀ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "11280"
+        },
+        {
+          "id": "B",
+          "text": "11290"
+        },
+        {
+          "id": "C",
+          "text": "11310"
+        },
+        {
+          "id": "D",
+          "text": "11260"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sequences and Series",
+      "topic": "Series Sum",
+      "concept": "Sum of sequence terms",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = {1, 2, 3, 4, 5, 6, 7}. Then the relation R = {(x, y) ∈ A × A : x + y = 7} is",
+      "options": [
+        {
+          "id": "A",
+          "text": "reflexive but neither symmetric nor transitive"
+        },
+        {
+          "id": "B",
+          "text": "transitive but neither symmetric nor reflexive"
+        },
+        {
+          "id": "C",
+          "text": "symmetric but neither reflexive nor transitive"
+        },
+        {
+          "id": "D",
+          "text": "an equivalence relation"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Relations and Functions",
+      "topic": "Properties of Relations",
+      "concept": "Reflexive, symmetric, transitive properties",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "The absolute difference of the coefficients of x¹⁰ and x⁷ in the expansion of (2x² + 1/(2x))¹¹ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "10³ − 10"
+        },
+        {
+          "id": "B",
+          "text": "13³ − 13"
+        },
+        {
+          "id": "C",
+          "text": "11³ − 11"
+        },
+        {
+          "id": "D",
+          "text": "12³ − 12"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial Expansion",
+      "concept": "Coefficient comparison in binomial expansion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "The integral ∫(log(x²/(x²−1)) − 2x/(x²−1))dx is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "x²/(x²−1) − 2x + C"
+        },
+        {
+          "id": "B",
+          "text": "x²log(x²/(x²−1)) − 2x + C"
+        },
+        {
+          "id": "C",
+          "text": "x²/(x²−1) − 2x"
+        },
+        {
+          "id": "D",
+          "text": "x²log(x²/(x²−1)) − 2x"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integration",
+      "topic": "Integration by Parts",
+      "concept": "Logarithmic integration",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "If A = [α 1; 0 5], A⁻¹ = βA + I and α + β = −2, then 4α² + β² + γ² is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "19"
+        },
+        {
+          "id": "C",
+          "text": "14"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Matrices",
+      "topic": "Matrix Inverse",
+      "concept": "Inverse of 2×2 matrix",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "The negation of ((p → q) ∧ (~p)) is equivalent to",
+      "options": [
+        {
+          "id": "A",
+          "text": "p ∧ (q ∨ (~p))"
+        },
+        {
+          "id": "B",
+          "text": "p ∨ q"
+        },
+        {
+          "id": "C",
+          "text": "p ∧ (q ∨ (~p))"
+        },
+        {
+          "id": "D",
+          "text": "p ∨ (~p)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mathematical Logic",
+      "topic": "Logical Connectives",
+      "concept": "Negation of compound statements",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "If α > β > 0 are the roots of the equation ax² + bx + 1 = 0, and lim(x→1⁻) [cos⁻¹((bx + a)/(1 + x²)) − 1/2] = k(1/(1−α) − 1/(1−β)), then k is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "2√2"
+        },
+        {
+          "id": "C",
+          "text": "√2"
+        },
+        {
+          "id": "D",
+          "text": "1/√2"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Limits",
+      "topic": "Limit Evaluation",
+      "concept": "Limits involving inverse trigonometric functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "If the number of words, with or without meaning, which can be made using all the letters of the word MATHEMATICS in which C and S do not come together, is (6!)k, then k is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "1890"
+        },
+        {
+          "id": "B",
+          "text": "2835"
+        },
+        {
+          "id": "C",
+          "text": "5670"
+        },
+        {
+          "id": "D",
+          "text": "945"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Permutations and Combinations",
+      "topic": "Permutations with Restrictions",
+      "concept": "Arrangements with forbidden positions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S be the set of all values of θ ∈ [−π, π] for which the system of linear equations x + y + √3z = 0, −x + (tanθ)y + √7z = 0, x + y + (tanθ)z = 0 has non-trivial solution. Then Σ(θ∈S) θ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "π/20"
+        },
+        {
+          "id": "B",
+          "text": "π/30"
+        },
+        {
+          "id": "C",
+          "text": "π/10"
+        },
+        {
+          "id": "D",
+          "text": "−π/10"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Determinants",
+      "topic": "System of Linear Equations",
+      "concept": "Non-trivial solutions and determinants",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P be the plane passing through the line (x−1)/1 = (y+2)/(-3) = (z−5)/7 and the point (2, 4, −3). If the image of the point (−1, 3, 4) in the plane P is (α, β, γ) then α + β + γ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "12"
+        },
+        {
+          "id": "B",
+          "text": "9"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "11"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Image of Point in Plane",
+      "concept": "Reflection of point across plane",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "Let O be the origin and OP and OQ be the tangents to the circle x² + y² − 6x + 4y + 8 = 0 at the points P and Q on it. If the circumcircle of the triangle OPQ passes through the point (α, 1/2), then a value of α is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/2"
+        },
+        {
+          "id": "B",
+          "text": "−1/2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "5/2"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle and Tangents",
+      "concept": "Circumcircle of triangle with tangent conditions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the mean and variance of 12 observations be 9/2 and 4 respectively. Later on, it was observed that two observations were considered as 9 and 10 instead of 7 and 14 respectively. If the correct variance is m/n, where m and n are coprime, then m + n is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "316"
+        },
+        {
+          "id": "B",
+          "text": "317"
+        },
+        {
+          "id": "C",
+          "text": "314"
+        },
+        {
+          "id": "D",
+          "text": "315"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Statistics",
+      "topic": "Mean and Variance",
+      "concept": "Correction of statistical measures",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the vectors u₁ = î + âĵ + k̂, u₂ = b̂î + ĵ + k̂ and u₃ = îĵ + ĵ + ck̂ be coplanar. If the vectors v₁ = (a+b)î + cĵ + ck̂, v₂ = aî + (b+c)ĵ + ak̂ and v₃ = bî + bĵ + (c+a)k̂ are also coplanar, then 6(a + b + c) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vector Algebra",
+      "topic": "Coplanar Vectors",
+      "concept": "Condition for coplanarity of vectors",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A(0, 1), B(1, 1) and C(1, 0) be the mid-points of the sides of a triangle with incentre at the point D. If the focus of the parabola y² = 4ax passing through D is (α + β/2, 0), where α and β are rational numbers, then α/β is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "9/2"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola and Incentre",
+      "concept": "Properties of incentre and parabola",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "MATHEMATICS",
+      "questionText": "25¹⁹⁰ − 19¹⁹⁰ − 8¹⁹⁰ + 2¹⁹⁰ is divisible by",
+      "options": [
+        {
+          "id": "A",
+          "text": "34 but not by 14"
+        },
+        {
+          "id": "B",
+          "text": "neither 14 nor 34"
+        },
+        {
+          "id": "C",
+          "text": "14 but not by 34"
+        },
+        {
+          "id": "D",
+          "text": "both 14 and 34"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Number Theory",
+      "topic": "Divisibility",
+      "concept": "Modular arithmetic and divisibility rules",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the solution curve x = x(y), 0 < y < π/2, of the differential equation (e^(3x + ln(cos y)) + 1)dx = (sin y / cos y) · (2 ln(cos y))dy satisfy x(π/3) = (1/2)ln(e/2). If x(π/6) = (1/2)ln(e/m) - ln(e/n), where m and n are coprime, then mn is equal to",
+      "correctAnswer": "12",
+      "questionType": "NUMERICAL",
+      "chapter": "Differential Equations",
+      "topic": "First Order Differential Equations",
+      "concept": "Solving differential equations with substitution",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "MATHEMATICS",
+      "questionText": "Let 0 < z < y < x be three real numbers such that 1/x, 1/y, 1/z are in an arithmetic progression and x, y/2, z are in a geometric progression. If xy + yz + zx = (3/2)xyz, then 3(x + y + z)² is equal to",
+      "correctAnswer": "150",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "AP and GP",
+      "concept": "Relationship between AP, GP and algebraic identities",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "MATHEMATICS",
+      "questionText": "Let k and m be positive real numbers such that the function f(x) = {kx² for x ≤ 1; mx² + 1 for x > 1} is differentiable for all x > 0. Then f(8) · f(1/8) · 8 is equal to",
+      "correctAnswer": "309",
+      "questionType": "NUMERICAL",
+      "chapter": "Continuity and Differentiability",
+      "topic": "Piecewise Functions",
+      "concept": "Continuity and differentiability conditions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "MATHEMATICS",
+      "questionText": "If domain of the function log_e((6x² − 5x + 1)/(1 − x²)) + cos⁻¹((2x² − 3x + 4)/(5 − x)) is (α, β) ∪ (γ, δ], then 18(α² + β² + γ² + δ²) is equal to",
+      "correctAnswer": "20",
+      "questionType": "NUMERICAL",
+      "chapter": "Functions",
+      "topic": "Domain of Functions",
+      "concept": "Domain of composite functions involving logarithm and inverse trigonometry",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "MATHEMATICS",
+      "questionText": "Let [t] denote the greatest integer function. If ∫₀^(2.4) [x² − 5x + 3]dx = α + β + γ + δ, then α + β + γ + δ is equal to",
+      "correctAnswer": "6",
+      "questionType": "NUMERICAL",
+      "chapter": "Integration",
+      "topic": "Integration of Greatest Integer Function",
+      "concept": "Integration with step functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P₁ be the plane 3x − y − 7z = 11 and P₂ be the plane passing through the points (2, −1, 0), (2, 0, −1), and (5, 1, 1). If the foot of the perpendicular drawn from the point (7, 4, −1) on the line of intersection of the planes P₁ and P₂ is (α, β, γ), then α + β + γ is equal to",
+      "correctAnswer": "11",
+      "questionType": "NUMERICAL",
+      "chapter": "3D Geometry",
+      "topic": "Line of Intersection of Planes",
+      "concept": "Perpendicular from point to line in 3D",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "MATHEMATICS",
+      "questionText": "The ordinates of the points P and Q on the parabola with focus (3, 0) and directrix x = −3 are in the ratio 3:1. If R(α, β) is the point of intersection of the tangents to the parabola at P and Q, then α/β is equal to",
+      "correctAnswer": "16",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola",
+      "concept": "Intersection of tangents to parabola",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "MATHEMATICS",
+      "questionText": "Let m and n be the numbers of real roots of the quadratic equations x² − 12x + [x] + 31 = 0 and x² − 5|x + 2| − 4 = 0 respectively, where [x] denotes the greatest integer ≤ x. Then m² + mn + n² is equal to",
+      "correctAnswer": "9",
+      "questionType": "NUMERICAL",
+      "chapter": "Quadratic Equations",
+      "topic": "Equations with Greatest Integer Function",
+      "concept": "Graphical solution of equations with floor function",
+      "difficulty": "HARD",
+      "skills": [
+        "GRAPHICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "MATHEMATICS",
+      "questionText": "Let R = {a, b, c, d, e} and S = {1, 2, 3, 4}. Total number of onto functions f: R → S such that f(a) ≠ 1, is equal to",
+      "correctAnswer": "180",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Onto Functions",
+      "concept": "Counting onto functions with restrictions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the area enclosed by the lines x + y = 2, y = 0, x = 0 and the curve f(x) = min{1/x, [3x/4]} where [·] denotes the greatest integer ≤ x, be A. Then the value of 12A is",
+      "correctAnswer": "17",
+      "questionType": "NUMERICAL",
+      "chapter": "Integration",
+      "topic": "Area under Curves",
+      "concept": "Area bounded by piecewise functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "GRAPHICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:43:35.616Z"
+}

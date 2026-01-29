@@ -1,0 +1,819 @@
+{
+  "filename": "JEE_Main_2023_11-04-2023_Shift-2_mathematics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "If λ²x³/(x²+x+1) = (8/9)(10³x + 81), then λ, λ/3 are the roots of the equation",
+      "options": [
+        {
+          "id": "A",
+          "text": "4x² – 24x + 27 = 0"
+        },
+        {
+          "id": "B",
+          "text": "4x² – 24x – 27 = 0"
+        },
+        {
+          "id": "C",
+          "text": "4x² + 24x + 27 = 0"
+        },
+        {
+          "id": "D",
+          "text": "4x² + 24x – 27 = 0"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Algebra",
+      "topic": "Quadratic Equations",
+      "concept": "Finding quadratic equation from roots",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a, b, c and d be positive real numbers such that a + b + c + d = 11. If the maximum value of a⁵b³c²d is 3750, then the value of λ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "110"
+        },
+        {
+          "id": "B",
+          "text": "90"
+        },
+        {
+          "id": "C",
+          "text": "55"
+        },
+        {
+          "id": "D",
+          "text": "108"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Algebra",
+      "topic": "AM-GM Inequality",
+      "concept": "Maximum value using AM-GM",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = {1, 3, 4, 6, 9} and B = {2, 4, 5, 8, 10}. Let R be a relation defined on A × B such that R = {((a₁, b₁), (a₂, b₂)): a₁ ≤ b₂ and b₁ ≤ a₂}. Then the number of elements in the set R is",
+      "options": [
+        {
+          "id": "A",
+          "text": "180"
+        },
+        {
+          "id": "B",
+          "text": "26"
+        },
+        {
+          "id": "C",
+          "text": "160"
+        },
+        {
+          "id": "D",
+          "text": "52"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Set Theory",
+      "topic": "Relations",
+      "concept": "Counting elements in relation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P be the plane passing through the points (5, 3, 0), (13, 3, –2) and (1, 6, 2). For λ ∈ ℕ, if the distances of the points A (3, 4, λ) and B (2, λ, a) from the plane P are 2 and 3 respectively, then the positive value of a is",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Planes",
+      "concept": "Distance from point to plane",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "The converse of ((~ p) ∨ q) → r is",
+      "options": [
+        {
+          "id": "A",
+          "text": "((~p) ∨ q) → r"
+        },
+        {
+          "id": "B",
+          "text": "(~ r) → p ∧ q"
+        },
+        {
+          "id": "C",
+          "text": "(~r) → ((~p) ∨ q)"
+        },
+        {
+          "id": "D",
+          "text": "(p ∧ (~ q)) → (~ r)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mathematical Logic",
+      "topic": "Logical Statements",
+      "concept": "Converse of conditional statement",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "The domain of the function f(x) = √([x]² – 3[x] – 10) is (where [x] denotes the greatest integer less than or equal to x)",
+      "options": [
+        {
+          "id": "A",
+          "text": "(-∞, -2) ∪ [6, ∞)"
+        },
+        {
+          "id": "B",
+          "text": "(-∞, -2) ∪ (5, ∞)"
+        },
+        {
+          "id": "C",
+          "text": "(-∞, -3] ∪ [6, ∞)"
+        },
+        {
+          "id": "D",
+          "text": "(-∞, -3] ∪ (5, ∞)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Domain and Range",
+      "concept": "Domain with greatest integer function",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "If the radius of the largest circle with centre (2, 0) inscribed in the ellipse x² + 4y² = 36 is r, then 12r² is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "92"
+        },
+        {
+          "id": "B",
+          "text": "69"
+        },
+        {
+          "id": "C",
+          "text": "72"
+        },
+        {
+          "id": "D",
+          "text": "115"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Conic Sections",
+      "topic": "Ellipse",
+      "concept": "Circle inscribed in ellipse",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the function f : [0, 2] → ℝ be defined as f(x) = min{e^(x-[x]), e^(2x-[2x])} where [t] denotes the greatest integer less than or equal to t. Then the value of the integral ∫₀² xf(x) dx is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(e - 1) + (e²/2)"
+        },
+        {
+          "id": "B",
+          "text": "2e - 1"
+        },
+        {
+          "id": "C",
+          "text": "1 + (3e/2)"
+        },
+        {
+          "id": "D",
+          "text": "2e - 1/2"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integration",
+      "topic": "Definite Integration",
+      "concept": "Integration with piecewise functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "The angle of elevation of the top P of a tower from the feet of one person standing due South of the tower is 45° and from the feet of another person standing due west of the tower is 30°. If the height of the tower is 5 meters, then the distance (in meters) between the two persons is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "5√2 + 5"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "5√5"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Heights and Distances",
+      "concept": "Angle of elevation problems",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "If f : ℝ → ℝ be a continuous function satisfying ∫₀^(π/2) f(2sin²x) dx = 0 and ∫₀^(π/4) f(2cos²x) dx = λ, then the value of λ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "-π/3"
+        },
+        {
+          "id": "B",
+          "text": "π/3"
+        },
+        {
+          "id": "C",
+          "text": "-π/2"
+        },
+        {
+          "id": "D",
+          "text": "π/2"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integration",
+      "topic": "Definite Integration",
+      "concept": "Properties of definite integrals",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f and g be two functions defined by f(x) = {x+1 if x≥0, 1-x if x<0} and g(x) = {1-x if x≥0, 1+x if x<0}. Then (g∘f)(x) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Continuous everywhere but not differentiable at x = 1"
+        },
+        {
+          "id": "B",
+          "text": "Continuous everywhere but not differentiable exactly at one point"
+        },
+        {
+          "id": "C",
+          "text": "not continuous at x = -1"
+        },
+        {
+          "id": "D",
+          "text": "differentiable everywhere"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Continuity and Differentiability",
+      "concept": "Composite functions and differentiability",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "If the letters of the word MATHS are permuted and all possible words so formed are arranged as in a dictionary with serial numbers, then the serial number of the word THAMS is",
+      "options": [
+        {
+          "id": "A",
+          "text": "103"
+        },
+        {
+          "id": "B",
+          "text": "102"
+        },
+        {
+          "id": "C",
+          "text": "104"
+        },
+        {
+          "id": "D",
+          "text": "101"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Permutations and Combinations",
+      "topic": "Permutations",
+      "concept": "Dictionary arrangement of words",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "Let y = y(x) be the solution of the differential equation (x+1)⁵ dy/dx = (x⁷/²)/(1+x)², x > 0. If y(1) = 2, then y(2) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "697/128"
+        },
+        {
+          "id": "B",
+          "text": "693/128"
+        },
+        {
+          "id": "C",
+          "text": "679/128"
+        },
+        {
+          "id": "D",
+          "text": "637/128"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Differential Equations",
+      "topic": "First Order Differential Equations",
+      "concept": "Linear differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "The sum of the coefficients of three consecutive terms in the binomial expansion of (1 + x)^(n+2), which are in the ratio 1 : 3 : 5, is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "63"
+        },
+        {
+          "id": "C",
+          "text": "92"
+        },
+        {
+          "id": "D",
+          "text": "41"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial Coefficients",
+      "concept": "Properties of binomial coefficients",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "For a∈ℂ, let A = {z∈ℂ : Re (a + z̄) > Im (ā + z)} and B = {z∈ℂ : Re (a + z̄) < Im (ā + z)}. Then among the two statements: (S1) : If Re (a), Im (a) > 0, then the set A contains all the real numbers (S2): If Re (a), Im (a) < 0, then the set B contains all the real numbers,",
+      "options": [
+        {
+          "id": "A",
+          "text": "only (S2) is true"
+        },
+        {
+          "id": "B",
+          "text": "only (S1) is true"
+        },
+        {
+          "id": "C",
+          "text": "both are true"
+        },
+        {
+          "id": "D",
+          "text": "both are false"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Complex Numbers",
+      "topic": "Complex Number Properties",
+      "concept": "Real and imaginary parts of complex numbers",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the line passing through the points P (2, –1, 2) and Q (5, 3, 4) meet the plane x – y + z = 4 at the point R. Then the distance of the point R from the plane x + 2y + 3z + 2 = 0 measured parallel to the line (x-7)/(-2) = y/3 = (z+2)/(-1) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "√189"
+        },
+        {
+          "id": "B",
+          "text": "√31"
+        },
+        {
+          "id": "C",
+          "text": "√61"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Lines and Planes",
+      "concept": "Distance between point and plane along a line",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the mean of 6 observations 1, 2, 4, 5, x and y be 5 and their variance be 10. Then their mean deviation about the mean is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "10/3"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "7/3"
+        },
+        {
+          "id": "D",
+          "text": "8/3"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Statistics",
+      "topic": "Measures of Central Tendency and Dispersion",
+      "concept": "Mean deviation about mean",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "If four distinct points with position vectors ā, b̄, c̄ and d̄ are coplanar, then [ā b̄ c̄] is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "[b̄ d̄ ā] + [ā c̄ d̄] + [c̄ b̄ d̄]"
+        },
+        {
+          "id": "B",
+          "text": "[d̄ c̄ b̄] + [c̄ ā d̄] + [ā b̄ d̄]"
+        },
+        {
+          "id": "C",
+          "text": "[ā b̄ d̄] + [d̄ c̄ ā] + [c̄ b̄ d̄]"
+        },
+        {
+          "id": "D",
+          "text": "[ā c̄ d̄] + [ā d̄ b̄] + [b̄ d̄ c̄]"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vectors",
+      "topic": "Scalar Triple Product",
+      "concept": "Coplanar vectors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "MATHEMATICS",
+      "questionText": "If the system of linear equations 7x +11y + z = 13, 5x + 4y + 7z = λ, 175x + 194y + 57z = 361 has infinitely many solutions, then λ + μ + 2β is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Linear Algebra",
+      "topic": "System of Linear Equations",
+      "concept": "Conditions for infinitely many solutions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "MATHEMATICS",
+      "questionText": "If the 1011th term from the end in the binomial expansion of (4x/5 - 5/(2x))^2022 is 1024 times 1011th term from the beginning, then |x| is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial Expansion",
+      "concept": "Terms in binomial expansion",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the tangent to the parabola y² = 12x at the point (3, a) be perpendicular to the line 2x + 2y = 3. Then the square of distance of the point (6, – 4) from the normal to the hyperbola λ²x² – 9y² = 9λ² at its point (−1, λ + 2) is equal to _______.",
+      "correctAnswer": "116",
+      "questionType": "NUMERICAL",
+      "chapter": "Conic Sections",
+      "topic": "Parabola and Hyperbola",
+      "concept": "Tangent and normal to conics",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of points, where the curve f(x) = e^(8x) – e^(6x) – 3e^(4x) – e^(2x) + 1, x ∈ ℝ cuts x – axis, is equal to __________.",
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Functions",
+      "topic": "Roots of Functions",
+      "concept": "Finding zeros of exponential functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "MATHEMATICS",
+      "questionText": "For k ∈ ℕ, if the sum of the series 1 + (3k⁴ + 8k³ + 13k² + 19k)/4 + ... is 10, then the value of k is _________.",
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Infinite Series",
+      "concept": "Sum of infinite series",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "MATHEMATICS",
+      "questionText": "If A is the area in the first quadrant enclosed by the curve C: 2x² – y + 1 = 0, the tangent to C at the point (1, 3) and the line x + y = 1, then the value of 60A is ________.",
+      "correctAnswer": "16",
+      "questionType": "NUMERICAL",
+      "chapter": "Integration",
+      "topic": "Area under Curves",
+      "concept": "Area bounded by curves and lines",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = {1, 2, 3, 4, 5} and B = {1, 2, 3, 4, 5, 6}. Then the number of functions f: A→B satisfying f(1) + f(2) = f(4)-1 is equal to _________.",
+      "correctAnswer": "360",
+      "questionType": "NUMERICAL",
+      "chapter": "Functions",
+      "topic": "Counting Functions",
+      "concept": "Functions with constraints",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S = {z ∈ ℂ - {2i, -i}: (z - 8i)/(z + 15) - (z - 3i)/(z - 2i) ∈ ℝ}. If -13/11 + αi ∈ S, α ∈ ℝ - {0}, then 242α² is equal to ________.",
+      "correctAnswer": "1680",
+      "questionType": "NUMERICAL",
+      "chapter": "Complex Numbers",
+      "topic": "Complex Number Locus",
+      "concept": "Real part conditions for complex expressions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the line l: x = (y+1)/(-2) = (z-3)/λ, λ ∈ ℝ meet the plane P: x + 2y + 3z = 4 at the point (α, β, γ). If the angle between the line l and the plane P is cos⁻¹(5/√14), then α + 2β + 6γ is equal to ________.",
+      "correctAnswer": "11",
+      "questionType": "NUMERICAL",
+      "chapter": "3D Geometry",
+      "topic": "Lines and Planes",
+      "concept": "Angle between line and plane",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the probability of getting head for a biased coin be 1/4. It is tossed repeatedly until a head appears. Let N be the number of tosses required. If the probability that the equation 64x² + 5Nx + 1 = 0 has no real root is p/q, where p and q are co-prime, then q – p is equal to _______.",
+      "correctAnswer": "27",
+      "questionType": "NUMERICAL",
+      "chapter": "Probability",
+      "topic": "Geometric Distribution",
+      "concept": "Probability with quadratic discriminant",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "MATHEMATICS",
+      "questionText": "Let ā = î + 2ĵ + 3k̂ and b̄ = î + ĵ - k̂. If c̄ is a vector such that ā · c̄ = 11, ā × c̄ · b̄ = 27 and b̄ · c̄ = -3|b̄|, then |ā + c̄|² is equal to _______.",
+      "correctAnswer": "285",
+      "questionType": "NUMERICAL",
+      "chapter": "Vectors",
+      "topic": "Vector Operations",
+      "concept": "Scalar and vector products",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "MATHEMATICS",
+      "questionText": "If the line l₁: 3y – 2x = 3 is the angular bisector of the lines l₂: x – y + 1 = 0 and l₃: αx + βy + γ = 0, then α² + β² – α – β is equal to ________.",
+      "correctAnswer": "348",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Straight Lines",
+      "concept": "Angular bisector of two lines",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:59:57.258Z"
+}

@@ -1,0 +1,207 @@
+{
+  "filename": "JEE_Main_2023_10-04-2023_Shift-2_mathematics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "If the points P and Q are respectively the circumcenter and the orthocentre of a triangle ABC, then PA + PB + PC is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "QP"
+        },
+        {
+          "id": "B",
+          "text": "2PQ"
+        },
+        {
+          "id": "C",
+          "text": "PQ"
+        },
+        {
+          "id": "D",
+          "text": "2QP"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Triangle Centers",
+      "concept": "Circumcenter and Orthocenter relation",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "If S_n = 4 + 11 + 21 + 34 + 50 + ... to n terms, then (1/60)(S_29 - S_9) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "220"
+        },
+        {
+          "id": "B",
+          "text": "226"
+        },
+        {
+          "id": "C",
+          "text": "227"
+        },
+        {
+          "id": "D",
+          "text": "223"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sequences and Series",
+      "topic": "Arithmetic-Geometric Progression",
+      "concept": "Sum of series with second order differences",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "If A = (1/(7!6!5!)) × [[5,6,7],[6,7,8],[7,8,9]], then |adj(adj(2A))| is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "2^8"
+        },
+        {
+          "id": "B",
+          "text": "2^16"
+        },
+        {
+          "id": "C",
+          "text": "2^12"
+        },
+        {
+          "id": "D",
+          "text": "2^20"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Matrices and Determinants",
+      "topic": "Adjoint of Matrix",
+      "concept": "Properties of adjoint matrices",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "The statement ~[p ∧ (~(p → q))] is equivalent to",
+      "options": [
+        {
+          "id": "A",
+          "text": "~(p ∨ q)"
+        },
+        {
+          "id": "B",
+          "text": "~(p ∧ q)"
+        },
+        {
+          "id": "C",
+          "text": "(~(p ∧ q)) ∨ q"
+        },
+        {
+          "id": "D",
+          "text": "(p → q) ∨ (~p)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mathematical Logic",
+      "topic": "Logical Equivalences",
+      "concept": "Simplification of logical statements",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Eight persons are to be transported from city A to city B in three cars of different makes. If each car can accommodate at most three persons, then the number of ways, in which they can be transported, is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1120"
+        },
+        {
+          "id": "B",
+          "text": "1680"
+        },
+        {
+          "id": "C",
+          "text": "3360"
+        },
+        {
+          "id": "D",
+          "text": "560"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Permutations and Combinations",
+      "topic": "Distribution Problems",
+      "concept": "Distribution of objects into groups",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "MATHEMATICS",
+      "questionText": "In the figure, θ₁ + θ₂ = π/2 and 3(BE) = 4(AB). If the area of triangle CAB is (32-3√3)/3 unit², when θ₁θ₂ is the largest, then the perimeter (in unit) of triangle CED is equal to",
+      "options": [],
+      "correctAnswer": "6",
+      "questionType": "NUMERICAL",
+      "chapter": "Trigonometry",
+      "topic": "Optimization in Triangles",
+      "concept": "Maximization using trigonometric identities",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "MATHEMATICS",
+      "questionText": "The sum of all the four-digit numbers that can be formed using all the digits 2, 1, 2, 3 is equal to",
+      "options": [],
+      "correctAnswer": "26664",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Digit Problems",
+      "concept": "Sum of numbers formed by given digits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:51:24.731Z"
+}

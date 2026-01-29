@@ -10,12 +10,23 @@
 import fs from "fs";
 import path from "path";
 import { PrismaClient } from "@prisma/client";
+import { Pool } from "pg";
+import { PrismaPg } from "@prisma/adapter-pg";
 import dotenv from "dotenv";
 
 dotenv.config();
 
 const EXTRACTED_DIR = path.join(process.cwd(), "scripts", "extracted");
-const prisma = new PrismaClient();
+
+// Initialize Prisma with PG adapter (same as src/lib/db.ts)
+const databaseUrl = process.env.DATABASE_URL;
+if (!databaseUrl) {
+  console.error("DATABASE_URL environment variable is required");
+  process.exit(1);
+}
+const pool = new Pool({ connectionString: databaseUrl });
+const adapter = new PrismaPg(pool);
+const prisma = new PrismaClient({ adapter });
 
 // Dataset source name for PW papers
 const DATASET_SOURCE_NAME = "PW JEE Main Papers 2007-2025";

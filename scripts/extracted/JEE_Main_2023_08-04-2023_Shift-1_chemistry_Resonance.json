@@ -1,0 +1,821 @@
+{
+  "filename": "JEE_Main_2023_08-04-2023_Shift-1_chemistry_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 61,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements: Statement – I : Lithium and Magnesium do not form superoxide Statement – II : The ionic radius of Li+ is larger than ionic radius of Mg2+. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is incorrect but Statement II is correct"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are correct"
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are incorrect"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Alkali and Alkaline Earth Metals",
+      "topic": "Properties of alkali metals",
+      "concept": "Superoxide formation and ionic radii comparison",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "subject": "CHEMISTRY",
+      "questionText": "What is the purpose of adding gypsum to cement ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To facilitate the hydration of cement"
+        },
+        {
+          "id": "B",
+          "text": "To speed up the process of setting"
+        },
+        {
+          "id": "C",
+          "text": "To give a hard mass"
+        },
+        {
+          "id": "D",
+          "text": "To slow down the process of setting"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemistry in Everyday Life",
+      "topic": "Cement chemistry",
+      "concept": "Role of gypsum in cement setting",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II: A compound is reacted with reagents in List I to form products in List II.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-IV, B-III, C-II, D-I"
+        },
+        {
+          "id": "B",
+          "text": "A-III, B-I, C-II, D-IV"
+        },
+        {
+          "id": "C",
+          "text": "A-III, B-I, C-IV, D-II"
+        },
+        {
+          "id": "D",
+          "text": "A-I, B-III, C-IV, D-II"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic compounds reactions",
+      "concept": "Diazonium salt reactions including Sandmeyer reaction and coupling reaction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "subject": "CHEMISTRY",
+      "questionText": "Sulphur (S) containing amino acids from the following are: (a) isoleucine (b) cysteine (c) lysine (d) methionine (e) glutamic acid",
+      "options": [
+        {
+          "id": "A",
+          "text": "b, c, e"
+        },
+        {
+          "id": "B",
+          "text": "a, b, c"
+        },
+        {
+          "id": "C",
+          "text": "a, d"
+        },
+        {
+          "id": "D",
+          "text": "b, d"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Biomolecules",
+      "topic": "Amino acids",
+      "concept": "Sulphur containing amino acids (cysteine and methionine)",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "subject": "CHEMISTRY",
+      "questionText": "Which halogen is known to cause the reaction given below: 2Cu2+ + 4X– → Cu2X2(s) + X2",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only Chlorine"
+        },
+        {
+          "id": "B",
+          "text": "Only Bromine"
+        },
+        {
+          "id": "C",
+          "text": "All halogens"
+        },
+        {
+          "id": "D",
+          "text": "Only Iodine"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "p-Block Elements",
+      "topic": "Halogens",
+      "concept": "Instability of CuI2 and redox reactions of copper halides",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct order of spin only magnetic moments for the following complex ions is",
+      "options": [
+        {
+          "id": "A",
+          "text": "[MnBr4]2– < [CoF6]3– < [Fe(CN)6]3– < [Mn(CN)6]3–"
+        },
+        {
+          "id": "B",
+          "text": "[CoF6]3– < [MnBr4]2– < [Fe(CN)6]3– < [Mn(CN)6]3–"
+        },
+        {
+          "id": "C",
+          "text": "[Fe(CN)6]3– < [CoF6]3– < [MnBr4]2– < [Mn(CN)6]3–"
+        },
+        {
+          "id": "D",
+          "text": "[Fe(CN)6]3– < [Mn(CN)6]3– < [CoF6]3– < [MnBr4]2–"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Crystal field theory",
+      "concept": "Spin only magnetic moment calculation for coordination complexes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "subject": "CHEMISTRY",
+      "questionText": "The major product formed in the following reaction is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Product A structure"
+        },
+        {
+          "id": "B",
+          "text": "Product B structure"
+        },
+        {
+          "id": "C",
+          "text": "Product C structure"
+        },
+        {
+          "id": "D",
+          "text": "Product D structure"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reduction reactions",
+      "concept": "Selective reduction using LiBH4/EtOH - chemoselective reduction of esters over carboxylic acids",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following metals can be extracted through alkali leaching technique ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Au"
+        },
+        {
+          "id": "B",
+          "text": "Cu"
+        },
+        {
+          "id": "C",
+          "text": "Sn"
+        },
+        {
+          "id": "D",
+          "text": "Pb"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Metallurgy",
+      "topic": "Extraction of metals",
+      "concept": "Hydrometallurgy - alkali leaching of amphoteric cassiterite ore (SnO2)",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Butan -1 – ol has higher boiling point than ethoxyethane. Reason R: Extensive hydrogen bonding leads to stronger association of molecules. In the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is false but R is true"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are true but R is not the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "A is true but R is false"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Alcohols and Ethers",
+      "concept": "Intermolecular hydrogen bonding affecting boiling points",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II: List I (Reagents used) with List II (Compound with Functional group detected)",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-III, B-IV, C-I, D-II"
+        },
+        {
+          "id": "B",
+          "text": "A-IV, B-I, C-II, D-III"
+        },
+        {
+          "id": "C",
+          "text": "A-II, B-IV, C-III, D-I"
+        },
+        {
+          "id": "D",
+          "text": "A-III, B-IV, C-II, D-I"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Qualitative analysis",
+      "concept": "Functional group tests - Fehling's test, phenol test, carbylamine test, haloform test",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following complex is octahedral, diamagnetic and the most stable ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Co(H2O)6]Cl2"
+        },
+        {
+          "id": "B",
+          "text": "K3[Co(CN)6]"
+        },
+        {
+          "id": "C",
+          "text": "[Ni(NH3)6]Cl2"
+        },
+        {
+          "id": "D",
+          "text": "Na3[CoCl6]"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Crystal field theory",
+      "concept": "Octahedral complexes - geometry, magnetism, and stability with strong field ligands",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "subject": "CHEMISTRY",
+      "questionText": "Choose the halogen which is most reactive towards SN1 reaction in the given compounds (A, B, C & D)",
+      "options": [
+        {
+          "id": "A",
+          "text": "A – Br(b) ; B – I(b) ; C – Br(b) ; D – Br(b)"
+        },
+        {
+          "id": "B",
+          "text": "A – Br(b) ; B – I(a) ; C – Br(a) ; D – Br(a)"
+        },
+        {
+          "id": "C",
+          "text": "A – Br(a) ; B – I(a) ; C – Br(a) ; D – Br(a)"
+        },
+        {
+          "id": "D",
+          "text": "A – Br(a) ; B – I(a) ; C – Br(b) ; D – Br(a)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "concept": "SN1 reaction mechanism and carbocation stability",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "subject": "CHEMISTRY",
+      "questionText": "2IO3– + xI– + 12H+ → 6I2 + 6H2O What is the value of x ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Redox Reactions",
+      "topic": "Balancing redox equations",
+      "concept": "Balancing redox reactions using oxidation states",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct order of electronegativity for given elements is :",
+      "options": [
+        {
+          "id": "A",
+          "text": "P < Br < C < At"
+        },
+        {
+          "id": "B",
+          "text": "Br < P < At < C"
+        },
+        {
+          "id": "C",
+          "text": "Br > C > At > P"
+        },
+        {
+          "id": "D",
+          "text": "C < P < At < Br"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Periodic Table",
+      "topic": "Periodic properties",
+      "concept": "Electronegativity trends in periodic table",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II: List I (Artificial sweeteners) with List II (Properties)",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-IV, B-III, C-I, D-II"
+        },
+        {
+          "id": "B",
+          "text": "A-II, B-IV, C-I, D-III"
+        },
+        {
+          "id": "C",
+          "text": "A-II, B-IV, C-III, D-I"
+        },
+        {
+          "id": "D",
+          "text": "A-II, B-III, C-IV, D-I"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemistry in Everyday Life",
+      "topic": "Artificial sweeteners",
+      "concept": "Properties of different artificial sweeteners",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "subject": "CHEMISTRY",
+      "questionText": "The water gas on reacting with cobalt as a catalyst forms",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ethanol"
+        },
+        {
+          "id": "B",
+          "text": "Methanoic acid"
+        },
+        {
+          "id": "C",
+          "text": "Methanal"
+        },
+        {
+          "id": "D",
+          "text": "Methanol"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Industrial processes",
+      "concept": "Water gas reaction with cobalt catalyst to form methanol",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II: List I (Species) with List II (Maximum allowed concentration in ppm in drinking water)",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-I, B-II, C-III, D-IV"
+        },
+        {
+          "id": "B",
+          "text": "A-IV, B-III, C-II, D-I"
+        },
+        {
+          "id": "C",
+          "text": "A-II, B-I, C-III, D-IV"
+        },
+        {
+          "id": "D",
+          "text": "A-III, B-II, C-I, D-IV"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Environmental Chemistry",
+      "topic": "Water pollution",
+      "concept": "Maximum allowable concentrations of pollutants in drinking water",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following represent the Freundlich adsorption isotherms ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "B, C, D only"
+        },
+        {
+          "id": "B",
+          "text": "A, B, D only"
+        },
+        {
+          "id": "C",
+          "text": "A, C, D only"
+        },
+        {
+          "id": "D",
+          "text": "A, B only"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Surface Chemistry",
+      "topic": "Adsorption",
+      "concept": "Freundlich adsorption isotherm graphical representations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "subject": "CHEMISTRY",
+      "questionText": "The reaction (1/2)H2(g) + AgCl(s) → H+(aq) + Cl–(aq) + Ag(s) occurs in which of the given galvanic cell.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pt | H2(g) | HCl(soln) | AgNO3(soln) | Ag"
+        },
+        {
+          "id": "B",
+          "text": "Pt | H2(g) | HCl(soln) | AgCl(s) | Ag"
+        },
+        {
+          "id": "C",
+          "text": "Ag | AgCl(s) | KCl(soln) | AgNO3 | Ag"
+        },
+        {
+          "id": "D",
+          "text": "Pt | H2(g) | KCl(soln) | AgCl(s) | Ag"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrochemistry",
+      "topic": "Galvanic cells",
+      "concept": "Galvanic cell notation and electrode reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "subject": "CHEMISTRY",
+      "questionText": "In chromyl chloride, the number of d-electrons present on chromium is same as in (Given at no. of Ti : 22, V : 23, Cr ; 24, Mn : 25, Fe : 26)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mn (VII)"
+        },
+        {
+          "id": "B",
+          "text": "Fe (III)"
+        },
+        {
+          "id": "C",
+          "text": "Ti (III)"
+        },
+        {
+          "id": "D",
+          "text": "V (IV)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "d and f Block Elements",
+      "topic": "Electronic configuration",
+      "concept": "d-electron count in different oxidation states of transition metals",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "subject": "CHEMISTRY",
+      "questionText": "The vapour pressure vs, temperature curve for a solution solvent system is shown below. The boiling point of the solvent is ________________°C. Given 1.00",
+      "options": [],
+      "correctAnswer": "82",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Colligative properties",
+      "concept": "Normal boiling point determination from vapor pressure curves",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "subject": "CHEMISTRY",
+      "questionText": "0.5 g of an organic compound (X) with 60% carbon will produce _________ x 10– g of CO2 on complete combustion.",
+      "options": [],
+      "correctAnswer": "11",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Quantitative analysis",
+      "concept": "Calculation of CO2 produced in combustion analysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of given statements which is/are correct is ___________ (A) The stronger the temperature dependence of the rate constant, the higher is the activation energy. (B) If a reaction has Zero activation energy, its rate is independent of temperature. (C) The stronger the temperature dependence of the rate constant, the smaller is the activation energy. (D) It there is no correlation between the temperature and the rate constant then it means that the reaction has negative activation energy.",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "INTEGER",
+      "chapter": "Chemical Kinetics",
+      "topic": "Temperature dependence of rate constants",
+      "concept": "Arrhenius equation and activation energy relationship",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of following factors which affect the percent covalent character of the ionic bond is _____ (A) Polarising power of cation (B) Extent of distortion of anion (C) Polarisability of the anion (D) Polarising power of anion",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "INTEGER",
+      "chapter": "Chemical Bonding",
+      "topic": "Fajan's rules",
+      "concept": "Factors affecting covalent character in ionic bonds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "subject": "CHEMISTRY",
+      "questionText": "The titration curve of weak acid vs. strong base with phenolphthalein as indictor) is shown below. The Kphenolphthalein = 4 x 10–10. Given : log2 = 0.3 The number of following statements which is/are correct about phenolphthalein is ____________ A. It can be used as an indicator for the titration of weak acid with weak base. B. It begins to change colour at pH = 8.4 C. It is a weak organic base D. It is colourless in acidic medium",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "INTEGER",
+      "chapter": "Ionic Equilibrium",
+      "topic": "Acid-base indicators",
+      "concept": "Properties and behavior of phenolphthalein indicator",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "subject": "CHEMISTRY",
+      "questionText": "Three bulbs are filled with CH4, CO2 and Ne as shown in the picture. The bulbs are connected through pipes of zero volume. When the stopcocks are opened and the temperature is kept constant throughout, the pressure of the system is found to be _______ atm. (Nearest integer)",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "INTEGER",
+      "chapter": "States of Matter",
+      "topic": "Gas laws",
+      "concept": "Gas mixing and pressure calculation using ideal gas law",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "subject": "CHEMISTRY",
+      "questionText": "Molar mass of the hydrocarbon (X) which on ozonolysis consumes one mole of O3 per mole of (X) and gives one mole each of ethanol and propanone is ___________ g mol–1 (Molar mass of C : 12 g mol–1, H : 1 g mol–1)",
+      "options": [],
+      "correctAnswer": "70",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Alkenes",
+      "concept": "Ozonolysis of alkenes and molecular formula determination",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of following statements which is/are incorrect is ____________ (A) Line emission spectra are used to study the electronic structure (B) The emission spectra of atoms in the gas phase show a continuous spread of wavelength from red to violet (C) An absorption spectrum is like the photographic negative of an emission spectrum (D) The element helium was discovered in the sun by spectroscopic method",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "INTEGER",
+      "chapter": "Structure of Atom",
+      "topic": "Atomic spectra",
+      "concept": "Properties of emission and absorption spectra",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "subject": "CHEMISTRY",
+      "questionText": "When a 60 W electric heater is immersed in a gas for 100s in a constant volume container with adiabatic walls, the temperature of the gas rises by 5°C. The heat capacity of the given gas is _________ JK–1 (Nearest integer)",
+      "options": [],
+      "correctAnswer": "1200",
+      "questionType": "INTEGER",
+      "chapter": "Thermodynamics",
+      "topic": "Heat capacity",
+      "concept": "Heat capacity calculation from energy input and temperature change",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "subject": "CHEMISTRY",
+      "questionText": "XeF4 reacts with SbF5 to form [XeFm]n+ [SbFy]z– m + n + y + z = ______________",
+      "options": [],
+      "correctAnswer": "11",
+      "questionType": "INTEGER",
+      "chapter": "p-Block Elements",
+      "topic": "Noble gas compounds",
+      "concept": "Formation of xenon compounds and their ionic structures",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:40:15.658Z"
+}

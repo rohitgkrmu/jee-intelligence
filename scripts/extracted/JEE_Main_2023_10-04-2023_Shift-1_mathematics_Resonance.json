@@ -1,0 +1,829 @@
+{
+  "filename": "JEE_Main_2023_10-04-2023_Shift-1_mathematics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "For the system of linear equations: 2x - y + 3z = 5, 3x + 2y - z = 7, 4x + 5y + λz = μ, which of the following is NOT correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The system has infinitely many solutions for λ = -6 and μ = 9"
+        },
+        {
+          "id": "B",
+          "text": "The system is inconsistent for λ = -5 and μ = 8"
+        },
+        {
+          "id": "C",
+          "text": "The system has infinitely many solutions for λ = -5 and μ = 9"
+        },
+        {
+          "id": "D",
+          "text": "The system has a unique solution for λ ≠ -5 and μ = 8"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Linear Algebra",
+      "topic": "System of Linear Equations",
+      "concept": "Consistency and solutions of linear systems",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the first term a and the common ratio r of a geometric progression be positive integers. If the sum of squares of its first three terms is 33033, then the sum of these three terms is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "241"
+        },
+        {
+          "id": "B",
+          "text": "220"
+        },
+        {
+          "id": "C",
+          "text": "210"
+        },
+        {
+          "id": "D",
+          "text": "231"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sequences and Series",
+      "topic": "Geometric Progression",
+      "concept": "Sum of terms in GP",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "A line segment AB of length ℓ moves such that the points A and B remain on the periphery of a circle of radius R. Then the locus of the point, that divides the line segment AB in the ratio 2:3, is a circle of radius",
+      "options": [
+        {
+          "id": "A",
+          "text": "R√19/7"
+        },
+        {
+          "id": "B",
+          "text": "2R/3"
+        },
+        {
+          "id": "C",
+          "text": "R√19/5"
+        },
+        {
+          "id": "D",
+          "text": "3R/5"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Locus",
+      "concept": "Locus of point dividing chord in given ratio",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let two vertices of a triangle ABC be (2, 4, 6) and (0, -2, -5), and its centroid be (2, 1, -1). If the image of the third vertex in the plane x + 2y + 4z = 11 is (α, β, γ), then α + β + γ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "72"
+        },
+        {
+          "id": "B",
+          "text": "76"
+        },
+        {
+          "id": "C",
+          "text": "74"
+        },
+        {
+          "id": "D",
+          "text": "70"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Centroid and Reflection",
+      "concept": "Image of point in plane",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Let N denote the sum of the numbers obtained when two dice are rolled. If the probability that 2^N < N! is m/n, where m and n are co-prime, then 4m - 3n is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Probability with dice",
+      "concept": "Probability calculation with constraints",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "If f(x) = tan⁻¹((log_e(123x))/(log_e(1234x))), x > 0, then the least value of f(x) + f(4/x) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Inverse Trigonometric Functions",
+      "concept": "Minimum value of function",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f be a differentiable function such that x²f(x) - x = ∫₀ˣ 4tf(t)dt, f(1) = 2/3. Then 18f(3) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "210"
+        },
+        {
+          "id": "B",
+          "text": "160"
+        },
+        {
+          "id": "C",
+          "text": "180"
+        },
+        {
+          "id": "D",
+          "text": "150"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Differential Equations",
+      "concept": "Solving integro-differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "DERIVATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "The shortest distance between the lines (x-2)/1 = (y+2)/2 = z/(-2) and (x+4)/(-1) = (y-1)/2 = z/0 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Lines in 3D",
+      "concept": "Shortest distance between skew lines",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the ellipse E: x² + 9y² = 9 intersect the positive x- and y-axes at the points A and B respectively. Let the major axis of E be a diameter of the circle C. Let the line passing through A and B meet the circle C at the point P. If the area of the triangle with vertices A, P and the origin O is m/n, where m and n are co-prime, then m - n is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "18"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "17"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Ellipse and Circle",
+      "concept": "Intersection of line with conic sections",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "If A is a 3 × 3 matrix and |A| = 2, then |3adj(|3A|A²)| is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "3¹¹ × 6¹⁰"
+        },
+        {
+          "id": "B",
+          "text": "3¹² × 6¹¹"
+        },
+        {
+          "id": "C",
+          "text": "3¹² × 6¹⁰"
+        },
+        {
+          "id": "D",
+          "text": "3¹⁰ × 6¹¹"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Linear Algebra",
+      "topic": "Matrices",
+      "concept": "Determinant and adjoint of matrices",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the complex number z = x + iy be such that (3-i)/(2z+i) is purely imaginary. If x + y² = 0, then y⁴ + y² - y is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2/3"
+        },
+        {
+          "id": "B",
+          "text": "3/2"
+        },
+        {
+          "id": "C",
+          "text": "4/3"
+        },
+        {
+          "id": "D",
+          "text": "3/4"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Complex Numbers",
+      "topic": "Complex Numbers",
+      "concept": "Purely imaginary complex numbers",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "cos(π/33) × cos(2π/33) × cos(4π/33) × cos(8π/33) × cos(16π/33) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "1/96"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Product of cosines",
+      "concept": "Product formula for cosines",
+      "difficulty": "HARD",
+      "skills": [
+        "DERIVATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "If ∫ e^(sin x) × (cos x - 2sin x)/(sin x)² dx = ψ(x) and ψ(0) = 1, then ψ(π/3) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "e^(√3/4)"
+        },
+        {
+          "id": "B",
+          "text": "e^(-√3/4)"
+        },
+        {
+          "id": "C",
+          "text": "(1/2)e^(√3/4)"
+        },
+        {
+          "id": "D",
+          "text": "(1/2)e^(-√3/4)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Integration",
+      "concept": "Integration by substitution",
+      "difficulty": "HARD",
+      "skills": [
+        "DERIVATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "A square piece of tin of side 30 cm is to be made into a box without top by cutting a square from each corner and folding up the flaps to form a box. If the volume of the box is maximum, then its surface area (in cm²) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "800"
+        },
+        {
+          "id": "B",
+          "text": "1025"
+        },
+        {
+          "id": "C",
+          "text": "675"
+        },
+        {
+          "id": "D",
+          "text": "900"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Maxima and Minima",
+      "concept": "Optimization problems",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "The negation of the statement (p ∧ q) ∨ (q ∧ (~r)) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "((~p) ∨ r) ∧ (~q)"
+        },
+        {
+          "id": "B",
+          "text": "((~p) ∨ (~q)) ∧ (~r)"
+        },
+        {
+          "id": "C",
+          "text": "(p ∧ r) ∨ (~q)"
+        },
+        {
+          "id": "D",
+          "text": "((~p) ∨ (~q)) ∧ (~r)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mathematical Reasoning",
+      "topic": "Logic",
+      "concept": "Negation of logical statements",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "An arc PQ of a circle subtends a right angle at its centre O. The mid-point of the arc PQ is R. If OP = u⃗, OR = v⃗, OQ = u⃗, then α, β² are the roots of the equation",
+      "options": [
+        {
+          "id": "A",
+          "text": "3x² + 2x - 1 = 0"
+        },
+        {
+          "id": "B",
+          "text": "x² + x - 2 = 0"
+        },
+        {
+          "id": "C",
+          "text": "3x² - 2x - 1 = 0"
+        },
+        {
+          "id": "D",
+          "text": "x² - x - 2 = 0"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vectors",
+      "topic": "Vector algebra",
+      "concept": "Dot product and vector relations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "The slope of tangent at any point (x, y) on a curve y = y(x) is (2y² - x²)/(2xy), x > 0. If y(2) = 0, then a value of y(8) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "4√3"
+        },
+        {
+          "id": "B",
+          "text": "2√3"
+        },
+        {
+          "id": "C",
+          "text": "4√2"
+        },
+        {
+          "id": "D",
+          "text": "-2√3"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Differential Equations",
+      "concept": "Solving differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "DERIVATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "Let O be the origin and the position vector of the point P be î + 2ĵ + 3k̂. If the position vectors of the points A, B and C are 2î + ĵ + 3k̂, 2î + 4ĵ + 2k̂ and -4î + 2ĵ + k̂ respectively, then the projection of the vector OP⃗ on a vector perpendicular to the vectors AB⃗ and AC⃗ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "8/√3"
+        },
+        {
+          "id": "B",
+          "text": "10/√3"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "7/√3"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vectors",
+      "topic": "Vector projections",
+      "concept": "Projection of vector on cross product",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "MATHEMATICS",
+      "questionText": "If the coefficient of x⁷ in (ax + 1/(bx²))¹³ and the coefficient of x⁻⁵ in (ax + 1/(bx²))¹³ are equal, then a⁴b⁴ is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "44"
+        },
+        {
+          "id": "B",
+          "text": "11"
+        },
+        {
+          "id": "C",
+          "text": "33"
+        },
+        {
+          "id": "D",
+          "text": "22"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial expansion",
+      "concept": "Coefficients in binomial expansion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P be the point of intersection of the line (x-3)/3 = (2y+2)/(-2) = (z-1)/2 and the plane x + y + z = 2. If the distance of the point P from the plane 3x - 4y + 12z = 32 is q, then q and 2q are the roots of the equation",
+      "options": [
+        {
+          "id": "A",
+          "text": "x² - 18x - 72 = 0"
+        },
+        {
+          "id": "B",
+          "text": "x² + 18x + 72 = 0"
+        },
+        {
+          "id": "C",
+          "text": "x² + 18x - 72 = 0"
+        },
+        {
+          "id": "D",
+          "text": "x² - 18x + 72 = 0"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Line and plane intersection",
+      "concept": "Distance from point to plane",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "MATHEMATICS",
+      "questionText": "If the mean of the frequency distribution is 28, then its variance is",
+      "options": [],
+      "correctAnswer": "151",
+      "questionType": "NUMERICAL",
+      "chapter": "Statistics",
+      "topic": "Mean and Variance",
+      "concept": "Variance calculation from frequency distribution",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of permutations, of the digits 1, 2, 3, ..., 7 without repetition, which neither contain the string 153 nor the string 2467, is",
+      "options": [],
+      "correctAnswer": "4898",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Permutations with restrictions",
+      "concept": "Inclusion-exclusion principle",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "MATHEMATICS",
+      "questionText": "The coefficient of x⁷ in (1 - x + 2x³)¹⁰ is",
+      "options": [],
+      "correctAnswer": "960",
+      "questionType": "NUMERICAL",
+      "chapter": "Binomial Theorem",
+      "topic": "Multinomial expansion",
+      "concept": "Coefficient in multinomial expansion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of elements in the set {n ∈ Z : |n² - 10n + 19| < 6} is",
+      "options": [],
+      "correctAnswer": "6",
+      "questionType": "NUMERICAL",
+      "chapter": "Sets and Relations",
+      "topic": "Modulus inequality",
+      "concept": "Solving absolute value inequalities",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "MATHEMATICS",
+      "questionText": "Some couples participated in a mixed doubles badminton tournament. If the number of matches played, so that no couple played in a match, is 840, then the total numbers of persons, who participated in the tournament, is",
+      "options": [],
+      "correctAnswer": "16",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Combinations with restrictions",
+      "concept": "Counting problems with constraints",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "MATHEMATICS",
+      "questionText": "Let y = p(x) be the parabola passing through the points (-1, 0), (0, 1) and (1, 0). If the area of the region {(x, y): (x + 1)² + (y - 1)² ≤ 1, y ≤ p(x)} is A, then 12(π/4 - A) is equal to",
+      "options": [],
+      "correctAnswer": "16",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Area under curves",
+      "concept": "Area between curves and circle",
+      "difficulty": "HARD",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a common tangent to the curves y² = 4x and (x - 4)² + y² = 16 touch the curves at the points P and Q. Then (PQ)² is equal to",
+      "options": [],
+      "correctAnswer": "32",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Common tangents",
+      "concept": "Common tangent to parabola and circle",
+      "difficulty": "HARD",
+      "skills": [
+        "DERIVATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f : (-2,2) → R be defined by f(x) = {x²/(x-[x]) for -2 < x < 0; (1-x)/[x] for 0 ≤ x < 2} where [x] denotes the greatest integer function. If m and n respectively are the number of points in (-2, 2) at which y = |f(x)| is not continuous and not differentiable, then m + n is equal to",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Continuity and Differentiability",
+      "concept": "Discontinuity and non-differentiability of modulus functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a, b, c be three distinct positive real numbers such that (2a)^(ln a) = (bc)^(ln b) and b/2 = (a/c)^(ln c/ln 2). Then 6a + 5bc is equal to",
+      "options": [],
+      "correctAnswer": "8",
+      "questionType": "NUMERICAL",
+      "chapter": "Functions",
+      "topic": "Logarithmic equations",
+      "concept": "Solving logarithmic equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "MATHEMATICS",
+      "questionText": "The sum of all those terms, of the arithmetic progression 3, 8, 13, ...... 373, which are not divisible by 3, is equal to",
+      "options": [],
+      "correctAnswer": "9525",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Arithmetic Progression",
+      "concept": "Sum of AP terms with conditions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:48:03.525Z"
+}

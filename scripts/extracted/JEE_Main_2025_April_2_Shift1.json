@@ -1,0 +1,137 @@
+{
+  "filename": "JEE_Main_2025_April_2_Shift1.pdf",
+  "examYear": 2025,
+  "examSession": "April 2 Shift 1",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "A vessel with square cross-section and height of 6 m is vertically partitioned. A small window of 100 cm² with hinged door is fitted at a depth of 3 m in the partition wall. One part of the vessel is filled completely with water and the other side is filled with the liquid having density 1.5 × 10³ kg/m³. What force one needs to apply on the hinged door so that it does not get opened? (Acceleration due to gravity = 10 m/s²)",
+      "options": [],
+      "correctAnswer": "150",
+      "questionType": "NUMERICAL",
+      "chapter": "Fluid Mechanics",
+      "topic": "Pressure",
+      "concept": "Hydrostatic pressure",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "A steel wire of length 2 m and Young's modulus 2.0 × 10¹¹ Nm⁻² is stretched by a force. If Poisson ratio and transverse strain for the wire are 0.2 and 10⁻³ respectively, then the elastic potential energy density of the wire is __________ × 10⁵ (in SI units)",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanical Properties of Solids",
+      "topic": "Elastic Properties",
+      "concept": "Elastic potential energy density",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "If the measured angular separation between the second minimum to the left of the central maximum and the third minimum to the right of the central maximum is 30° in a single slit diffraction pattern recorded using 628 nm light, then the width of the slit is _________ μm.",
+      "options": [],
+      "correctAnswer": "6",
+      "questionType": "INTEGER",
+      "chapter": "Wave Optics",
+      "topic": "Diffraction",
+      "concept": "Single slit diffraction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "γA is the specific heat ratio of monoatomic gas A having 3 translational degrees of freedom. γB is the specific heat ratio of polyatomic gas B having 3 translational, 3 rotational degrees of freedom and 1 vibrational mode. If γA/γB = (1 + 1/n), then the value of n is________.",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "INTEGER",
+      "chapter": "Kinetic Theory",
+      "topic": "Specific Heat",
+      "concept": "Degrees of freedom and specific heat ratio",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "A person travelling on a straight line moves with a uniform velocity v₁ for a distance x and with a uniform velocity v₂ for the next x/3 distance. The average velocity in this motion is 50/7 m/s. If v₁ is 5 m/s then v₂ = _____ m/s.",
+      "options": [],
+      "correctAnswer": "10",
+      "questionType": "INTEGER",
+      "chapter": "Motion in a Straight Line",
+      "topic": "Kinematics",
+      "concept": "Average velocity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "MATHEMATICS",
+      "questionText": "Let [•] denote the greatest integer function. If ∫₀³ᵉ dx/(eˣ-1) = α - log_e 3, then [α] is equal to",
+      "options": [],
+      "correctAnswer": "8",
+      "questionType": "INTEGER",
+      "chapter": "Integral Calculus",
+      "topic": "Definite Integration",
+      "concept": "Integration involving exponential functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f: R → R be a thrice differentiable odd function satisfying f''(x) ≥ 0, f'(x) = f(x), f(0) = 0, f'(0) = 3. Then 9f(log_e 3) is equal to _______.",
+      "options": [],
+      "correctAnswer": "36",
+      "questionType": "INTEGER",
+      "chapter": "Differential Calculus",
+      "topic": "Differential Equations",
+      "concept": "Properties of differentiable functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "MATHEMATICS",
+      "questionText": "The absolute difference between the squares of the radii of the two circles passing through the point (-9,4) and touching the lines x+y = 3 and x-y = 3, is equal to _______.",
+      "options": [],
+      "correctAnswer": "768",
+      "questionType": "INTEGER",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle",
+      "concept": "Circles touching lines",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T08:20:05.645Z"
+}

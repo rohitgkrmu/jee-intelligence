@@ -1,0 +1,219 @@
+{
+  "filename": "JEE_Main_2023_11-04-2023_Shift-2_chemistry_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 61,
+      "subject": "CHEMISTRY",
+      "questionText": "Alkali metal from the following with least melting point is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rb"
+        },
+        {
+          "id": "B",
+          "text": "Na"
+        },
+        {
+          "id": "C",
+          "text": "K"
+        },
+        {
+          "id": "D",
+          "text": "Cs"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Periodic Properties",
+      "topic": "Alkali Metals",
+      "concept": "Melting point trend in alkali metals",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "subject": "CHEMISTRY",
+      "questionText": "Which hydride among the following is less stable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "HF"
+        },
+        {
+          "id": "B",
+          "text": "BeH₂"
+        },
+        {
+          "id": "C",
+          "text": "NH₃"
+        },
+        {
+          "id": "D",
+          "text": "LiH"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Bonding",
+      "topic": "Hydrides",
+      "concept": "Stability of hydrides",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "subject": "CHEMISTRY",
+      "questionText": "The magnetic moment is measured in Bohr Magneton (BM). Spin only magnetic moment of Fe in [Fe(H₂O)₆]³⁺ and [Fe(CN)₆]³⁻ complexes respectively is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5.92 B.M. and 1.732 B.M."
+        },
+        {
+          "id": "B",
+          "text": "6.92 B.M. in both"
+        },
+        {
+          "id": "C",
+          "text": "3.87 B.M. and 1.732 B.M."
+        },
+        {
+          "id": "D",
+          "text": "4.89 B.M. and 6.92 B.M."
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "Magnetic Properties",
+      "concept": "Spin-only magnetic moment",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "subject": "CHEMISTRY",
+      "questionText": "A solution is prepared by adding 2 g of X to 1 mole of water. Mass percent of X in the solution is",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%"
+        },
+        {
+          "id": "B",
+          "text": "5%"
+        },
+        {
+          "id": "C",
+          "text": "10%"
+        },
+        {
+          "id": "D",
+          "text": "2%"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solutions",
+      "topic": "Concentration Terms",
+      "concept": "Mass percentage",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "subject": "CHEMISTRY",
+      "questionText": "What weight of glucose must be dissolved in 100 g of water to lower the vapour pressure by 0.20 mm Hg? (Assume dilute solution is being formed) Given: Vapour pressure of pure water is 54.2 mm Hg at room temperature. Molar mass of glucose is 180 g mol⁻¹.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.69 g"
+        },
+        {
+          "id": "B",
+          "text": "2.59 g"
+        },
+        {
+          "id": "C",
+          "text": "3.59 g"
+        },
+        {
+          "id": "D",
+          "text": "3.69 g"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solutions",
+      "topic": "Colligative Properties",
+      "concept": "Vapour pressure lowering",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "subject": "CHEMISTRY",
+      "questionText": "Mg(NO₃)₂·XH₂O and Ba(NO₃)₂·YH₂O, represent formula of the crystalline forms of nitrate salts. Sum of X and Y is _____.",
+      "options": [],
+      "correctAnswer": "6",
+      "questionType": "NUMERICAL",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Hydrated Salts",
+      "concept": "Water of crystallization",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "subject": "CHEMISTRY",
+      "questionText": "The volume of hydrogen liberated at STP by treating 2.4 g of magnesium with excess of hydrochloric acid is _____ × 10⁻² L. Given: Molar volume of gas is 22.4 L at STP. Molar mass of magnesium is 24 g mol⁻¹",
+      "options": [],
+      "correctAnswer": "224",
+      "questionType": "NUMERICAL",
+      "chapter": "Stoichiometry",
+      "topic": "Gas Laws",
+      "concept": "Volume calculation at STP",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "subject": "CHEMISTRY",
+      "questionText": "4.5 moles each of hydrogen and iodine is heated in a sealed ten litre vessel. At equilibrium, 3 moles of HI were found. The equilibrium constant for H₂(g) + I₂(g) ⇌ 2HI(g) is _____.",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Equilibrium",
+      "topic": "Equilibrium Constant",
+      "concept": "Calculation of Kc",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:58:19.123Z"
+}

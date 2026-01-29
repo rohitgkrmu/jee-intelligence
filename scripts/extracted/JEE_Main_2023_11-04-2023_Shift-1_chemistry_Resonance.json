@@ -1,0 +1,824 @@
+{
+  "filename": "JEE_Main_2023_11-04-2023_Shift-1_chemistry_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 61,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List-I with List-II:\nList-I: A. K, B. KCl, C. KOH, D. Li\nList-II: I. Thermonuclear reactions, II. Fertilizer, III. Sodium potassium pump, IV. Absorbent of CO₂\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-III, B-IV, C-II, D-I"
+        },
+        {
+          "id": "B",
+          "text": "A-III, B-II, C-IV, D-I"
+        },
+        {
+          "id": "C",
+          "text": "A-IV, B-III, C-I, D-II"
+        },
+        {
+          "id": "D",
+          "text": "A-IV, B-I, C-III, D-II"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "General Chemistry",
+      "topic": "Applications of Elements and Compounds",
+      "concept": "Uses of alkali metals and their compounds",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "subject": "CHEMISTRY",
+      "questionText": "R-CO-H (where R=alkyl) undergoes the following reactions:\n(i) KMnO₄ → 'A' (Major Product)\n(ii) A + (i) NH₂NH₂, KOH (ii) H₃O⁺ → 'B' (Major Product)\n'A' and 'B' in the above reactions are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A = R-CO₂H, B = R-CH₃"
+        },
+        {
+          "id": "B",
+          "text": "A = R-CO₂H, B = R-C(=O)-NHNH₂"
+        },
+        {
+          "id": "C",
+          "text": "A = R-CHO, B = R-CH₃"
+        },
+        {
+          "id": "D",
+          "text": "A = R-CHO, B = R-CO₂H"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aldehydes and Ketones",
+      "concept": "Oxidation and reduction reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List-I with List-II:\nList-I Species: A. H₃O⁺, B. Acetylide anion, C. NH₄⁺, D. ClO₂⁻\nList-II Geometry/Shape: I. Tetrahedral, II. Linear, III. Pyramidal, IV. Bent\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-III, B-IV, C-II, D-I"
+        },
+        {
+          "id": "B",
+          "text": "A-III, B-IV, C-I, D-II"
+        },
+        {
+          "id": "C",
+          "text": "A-III, B-II, C-I, D-IV"
+        },
+        {
+          "id": "D",
+          "text": "A-III, B-I, C-II, D-IV"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Bonding",
+      "topic": "Molecular Geometry",
+      "concept": "VSEPR theory and molecular shapes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "subject": "CHEMISTRY",
+      "questionText": "25 mL of silver nitrate solution (1M) is added dropwise to 25 mL of potassium iodide (1.05 M) solution. The ion(s) present in very small quantity in the solution is/are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ag⁺ and I⁻ both"
+        },
+        {
+          "id": "B",
+          "text": "I⁻ only"
+        },
+        {
+          "id": "C",
+          "text": "K⁺ only"
+        },
+        {
+          "id": "D",
+          "text": "NO₃⁻ only"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Ionic Equilibrium",
+      "topic": "Precipitation Reactions",
+      "concept": "Solubility and precipitation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "subject": "CHEMISTRY",
+      "questionText": "When a solution of mixture having two inorganic salts was treated with freshly prepared ferrous sulphate in acidic medium, a dark brown ring was formed whereas on treatment with neutral FeCl₃, it gave deep red colour which disappeared on boiling and a brown red ppt was formed. The mixture contains:",
+      "options": [
+        {
+          "id": "A",
+          "text": "C₂O₄²⁻ & NO₃⁻"
+        },
+        {
+          "id": "B",
+          "text": "SO₃²⁻ & C₂O₄²⁻"
+        },
+        {
+          "id": "C",
+          "text": "CH₃COO⁻ & NO₃⁻"
+        },
+        {
+          "id": "D",
+          "text": "SO₃²⁻ & CH₃COO⁻"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Qualitative Analysis",
+      "topic": "Anion Detection",
+      "concept": "Chemical tests for anions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "subject": "CHEMISTRY",
+      "questionText": "The complex that dissolves in water as [Fe₃(OH)₂(OAc)₆]Cl is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Fe₃(OH)₂(OAc)₆]Cl"
+        },
+        {
+          "id": "B",
+          "text": "K₃[Co(NO₂)₆]"
+        },
+        {
+          "id": "C",
+          "text": "(NH₄)₃[As(Mo₃O₁₀)₄]"
+        },
+        {
+          "id": "D",
+          "text": "Fe₄[Fe(CN)₆]₃"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "Complex Compounds",
+      "concept": "Solubility of coordination compounds",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "subject": "CHEMISTRY",
+      "questionText": "The set which does not have ambidentate ligand(s) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "EDTA⁴⁻, NCS⁻, C₂O₄²⁻"
+        },
+        {
+          "id": "B",
+          "text": "C₂O₄²⁻, NO₂⁻, NCS⁻"
+        },
+        {
+          "id": "C",
+          "text": "NO₂⁻, C₂O₄²⁻, EDTA⁴⁻"
+        },
+        {
+          "id": "D",
+          "text": "C₂O₄²⁻, ethylene diamine, H₂O"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "Ligands",
+      "concept": "Ambidentate ligands",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "subject": "CHEMISTRY",
+      "questionText": "Thin layer chromatography of a mixture shows the following observation. The correct order of elution in the silica gel column chromatography is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "B, A, C"
+        },
+        {
+          "id": "B",
+          "text": "A, C, B"
+        },
+        {
+          "id": "C",
+          "text": "B, C, A"
+        },
+        {
+          "id": "D",
+          "text": "C, A, B"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "General Chemistry",
+      "topic": "Chromatography",
+      "concept": "Column chromatography and polarity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following complex has a possibility to exist as meridional isomer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Co(en)₂Cl]"
+        },
+        {
+          "id": "B",
+          "text": "[Co(NH₃)₃(NO₂)₃]"
+        },
+        {
+          "id": "C",
+          "text": "[Co(en)₃]"
+        },
+        {
+          "id": "D",
+          "text": "[Pt(NH₃)₂Cl₂]"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "Isomerism",
+      "concept": "Geometrical isomerism in coordination compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "subject": "CHEMISTRY",
+      "questionText": "In the extraction process of copper, the product obtained after carrying out the reactions:\n(i) 2Cu₂S + 3O₂ → 2Cu₂O + 2SO₂\n(ii) 2Cu₂O + Cu₂S → 6Cu + SO₂\nis called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Copper matte"
+        },
+        {
+          "id": "B",
+          "text": "Blister copper"
+        },
+        {
+          "id": "C",
+          "text": "Copper scrap"
+        },
+        {
+          "id": "D",
+          "text": "Reduced copper"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Metallurgy",
+      "topic": "Extraction of Metals",
+      "concept": "Copper extraction process",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "subject": "CHEMISTRY",
+      "questionText": "For compound having the formula GaAlCl₄, the correct option from the following is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cl forms bond with both Al and Ga in GaAlCl₄"
+        },
+        {
+          "id": "B",
+          "text": "Oxidation state of Ga in the salt GaAlCl₄ is +3"
+        },
+        {
+          "id": "C",
+          "text": "Ga is more electronegative than Al and is present as a cationic part of the salt GaAlCl₄"
+        },
+        {
+          "id": "D",
+          "text": "Ga is coordinated with Cl in GaAlCl₄"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Periodic Properties",
+      "topic": "Group 13 Elements",
+      "concept": "Electronegativity and ionic compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements:\nStatement-I: Methane and steam passed over a heated Ni catalyst produces hydrogen gas.\nStatement-II: Sodium nitrite reacts with NH₄Cl to give H₂O, N₂ and NaCl.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is incorrect but Statement II is correct"
+        },
+        {
+          "id": "B",
+          "text": "Both the statements I and II are incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "id": "D",
+          "text": "Both the statements I and II are correct"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "General Chemistry",
+      "topic": "Chemical Reactions",
+      "concept": "Industrial processes and chemical reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "subject": "CHEMISTRY",
+      "questionText": "The polymer X consists of linear molecules and is closely packed. It is prepared in the presence of triethylaluminium and titanium tetrachloride under low pressure. The polymer X is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polytetrafluoroethene"
+        },
+        {
+          "id": "B",
+          "text": "High density polythene"
+        },
+        {
+          "id": "C",
+          "text": "Polyacrylonitrile"
+        },
+        {
+          "id": "D",
+          "text": "Low density polythene"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Polymers",
+      "topic": "Addition Polymers",
+      "concept": "Ziegler-Natta polymerization",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:\nAssertion A: In the photoelectric effect, the electrons are ejected from the metal surface as soon as the beam of light of frequency greater than threshold frequency strikes the surface.\nReason R: When the photon of any energy strikes an electron in the atom, transfer of energy from the photon to the electron takes place.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is correct but R is not correct"
+        },
+        {
+          "id": "B",
+          "text": "A is not correct but R is correct"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct and R is the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Structure",
+      "topic": "Photoelectric Effect",
+      "concept": "Quantum theory of light",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements:\nStatement I: If BOD is 4 ppm and dissolved oxygen is 8 ppm, then it is a good quality water.\nStatement II: If the concentration of zinc and nitrate salts are 5 ppm each, then it can be a good quality water.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both the statements I and II are incorrect"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Statement I is incorrect but Statement II is correct"
+        },
+        {
+          "id": "D",
+          "text": "Both the statements I and II are correct"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Environmental Chemistry",
+      "topic": "Water Pollution",
+      "concept": "Water quality parameters",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "subject": "CHEMISTRY",
+      "questionText": "For elements B, C, N, Li, Be, O and F, the correct order of first ionization enthalpy is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Li < B < Be < C < O < N < F"
+        },
+        {
+          "id": "B",
+          "text": "Li < Be < B < C < O < N < F"
+        },
+        {
+          "id": "C",
+          "text": "B < Li < Be < C < N < O < F"
+        },
+        {
+          "id": "D",
+          "text": "Li < Be < B < C < N < O < F"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Periodic Properties",
+      "topic": "Ionization Enthalpy",
+      "concept": "Trends in ionization enthalpy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "subject": "CHEMISTRY",
+      "questionText": "o-Phenylenediamine reacts with HNO₂ to give 'X' as major product. 'X' is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure A"
+        },
+        {
+          "id": "B",
+          "text": "Structure B"
+        },
+        {
+          "id": "C",
+          "text": "Structure C"
+        },
+        {
+          "id": "D",
+          "text": "Structure D"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Amines",
+      "concept": "Reaction of aromatic amines with nitrous acid",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "subject": "CHEMISTRY",
+      "questionText": "Arrange the following compounds in increasing order of rate of aromatic electrophilic substitution reaction:",
+      "options": [
+        {
+          "id": "A",
+          "text": "b, c, a, d"
+        },
+        {
+          "id": "B",
+          "text": "d, b, a, c"
+        },
+        {
+          "id": "C",
+          "text": "d, b, c, a"
+        },
+        {
+          "id": "D",
+          "text": "c, a, b, d"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Electrophilic aromatic substitution reactivity",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "subject": "CHEMISTRY",
+      "questionText": "L-isomer of tetrose X (C₄H₈O₄) gives positive Schiff's test and has two chiral carbons. On acetylation, 'X' yields triacetate. 'X' also undergoes following reactions: 'X' with HNO₃ gives 'A', 'X' with NaBH₄ gives 'B' (Chiral compound). 'X' is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure A"
+        },
+        {
+          "id": "B",
+          "text": "Structure B"
+        },
+        {
+          "id": "C",
+          "text": "Structure C"
+        },
+        {
+          "id": "D",
+          "text": "Structure D"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Carbohydrates",
+      "concept": "Structure and reactions of tetroses",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "subject": "CHEMISTRY",
+      "questionText": "For the given two nucleophilic substitution reactions, find out the correct statement from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reactions (I) and (II) both are of 1st order"
+        },
+        {
+          "id": "B",
+          "text": "Reactions (I) and (II) both are of 2nd order"
+        },
+        {
+          "id": "C",
+          "text": "Reaction (I) is of 1st order and reaction (II) is of 2nd order"
+        },
+        {
+          "id": "D",
+          "text": "Reaction (I) is of 2nd order and reaction (II) is of 1st order"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "SN1 and SN2 mechanisms",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "subject": "CHEMISTRY",
+      "questionText": "0.004 M K₂SO₄ solution is isotonic with 0.01 M glucose solution. Percentage dissociation of K₂SO₄ is ____________ (Nearest integer)",
+      "options": [],
+      "correctAnswer": "75",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Colligative Properties",
+      "concept": "Osmotic pressure and van't Hoff factor",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "subject": "CHEMISTRY",
+      "questionText": "In an electrochemical reaction of lead, at standard temperature, if E°(Pb²⁺/Pb) = m Volt and E°(Pb⁴⁺/Pb) = n Volt, then the value of E°(Pb²⁺/Pb⁴⁺) is given by m - xn. The value of x is_________. (Nearest integer)",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Standard Electrode Potentials",
+      "concept": "Calculation of standard electrode potentials",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "subject": "CHEMISTRY",
+      "questionText": "The ratio of spin-only magnetic moment values μₑff [Cr(CN)₆]³⁻ / μₑff [Cr(H₂O)₆]³⁺ is __________.",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Chemistry",
+      "topic": "Magnetic Properties",
+      "concept": "Spin-only magnetic moment",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "subject": "CHEMISTRY",
+      "questionText": "A solution of sugar is obtained by mixing 200 g of its 25% solution and 500 g of its 40% solution (both by mass). The mass percentage of the resulting sugar solution is _____________ (Nearest integer)",
+      "options": [],
+      "correctAnswer": "36",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Concentration of Solutions",
+      "concept": "Mass percentage calculations",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "subject": "CHEMISTRY",
+      "questionText": "An atomic substance A of molar mass 12 g mol⁻¹ has a cubic crystal structure with edge length of 300 pm. The no. of atoms present in one unit cell of A is _________. (Nearest integer)\nGiven the density of A is 3.0 g mL⁻¹ and Nₐ = 6.02 × 10²³ mol⁻¹",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Solid State",
+      "topic": "Crystal Structures",
+      "concept": "Calculation of number of atoms in unit cell",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "subject": "CHEMISTRY",
+      "questionText": "The ratio x/y on completion of the above reaction is ______.",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Grignard Reagents",
+      "concept": "Reactions of Grignard reagents",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of hyperconjugation structures involved to stabilize carbocation formed in the above reaction is.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Carbocations",
+      "concept": "Hyperconjugation and carbocation stability",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "subject": "CHEMISTRY",
+      "questionText": "A mixture of 1 mole of H₂O and 1 mole of CO is taken in a 10 litre container and heated to 725K. At equilibrium 40% of water by mass reacts with carbon monoxide according to the equation: CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g). The equilibrium constant Kc × 10² for the reaction is_____. (Nearest integer)",
+      "options": [],
+      "correctAnswer": "44",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Equilibrium",
+      "topic": "Equilibrium Constants",
+      "concept": "Calculation of equilibrium constant",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "subject": "CHEMISTRY",
+      "questionText": "Solid fuel used in rocket is a mixture of Fe₂O₃ and Al (in ratio 1:2). The heat evolved (kJ) per gram of the mixture is ___________ (Nearest integer)\nGiven: ΔHf°(Al₂O₃) = –1700 kJ mol⁻¹\nΔHf°(Fe₂O₃) = –840 kJ mol⁻¹\nMolar mass of Fe, Al and O are 56, 27 and 16 g mol⁻¹ respectively",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Enthalpy of Formation",
+      "concept": "Heat calculations in chemical reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "subject": "CHEMISTRY",
+      "questionText": "KClO₃ + 6FeSO₄ + 3H₂SO₄ → KCl + 3Fe₂(SO₄)₃ + 3H₂O\nThe above reaction was studied at 300 K by monitoring the concentration of FeSO₄ in which initial concentration was 10 M and after half an hour became 8.8 M. The rate of production of Fe₂(SO₄)₃ is _______ × 10⁻⁶ mol L⁻¹ s⁻¹. (Nearest integer)",
+      "options": [],
+      "correctAnswer": "333",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Kinetics",
+      "topic": "Reaction Rates",
+      "concept": "Rate of reaction calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:54:33.544Z"
+}

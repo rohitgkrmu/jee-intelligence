@@ -1,0 +1,238 @@
+{
+  "filename": "JEE_Main_2023_06-04-2023_Shift-1_physics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "The number of air molecules per cm³ increased from 3 × 10¹⁹ to 12 × 10¹⁹. The ratio of collision frequency of air molecule before and after the increase in number respectively is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.75"
+        },
+        {
+          "id": "B",
+          "text": "1.25"
+        },
+        {
+          "id": "C",
+          "text": "0.25"
+        },
+        {
+          "id": "D",
+          "text": "0.50"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinetic Theory of Gases",
+      "topic": "Molecular Collisions",
+      "concept": "Collision frequency",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "PHYSICS",
+      "questionText": "Two resistance are given as R₁ = (10 ± 0.5)Ω and R₂ = (15 ± 0.5)Ω. The percentage error in the measurement of equivalent resistance when they are connected in parallel is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "6.33"
+        },
+        {
+          "id": "B",
+          "text": "5.33"
+        },
+        {
+          "id": "C",
+          "text": "2.33"
+        },
+        {
+          "id": "D",
+          "text": "4.33"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Resistance in Parallel",
+      "concept": "Error propagation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "PHYSICS",
+      "questionText": "By what percentage will the transmission range of a TV tower be affected when the height of the tower is increased by 21%?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%"
+        },
+        {
+          "id": "B",
+          "text": "12%"
+        },
+        {
+          "id": "C",
+          "text": "15%"
+        },
+        {
+          "id": "D",
+          "text": "14%"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Communication Systems",
+      "topic": "Radio Wave Propagation",
+      "concept": "Transmission range",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "PHYSICS",
+      "questionText": "A source supplies heat to a system at the rate of 1000 W. If the system performs work at a rate of 200 W. The rate at which internal energy of the system increases is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "500 W"
+        },
+        {
+          "id": "B",
+          "text": "1200 W"
+        },
+        {
+          "id": "C",
+          "text": "800 W"
+        },
+        {
+          "id": "D",
+          "text": "600 W"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "First Law of Thermodynamics",
+      "concept": "Energy conservation",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "PHYSICS",
+      "questionText": "A particle is moving with constant speed in a circular path. When the particle turns by an angle 90°, the ratio of instantaneous velocity to its average velocity is: x√2. The value of x will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Circular Motion",
+      "concept": "Average vs instantaneous velocity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "PHYSICS",
+      "questionText": "A steel rod has a radius of 20 mm and a length of 2.0 m. A force of 62.8 kN stretches it along its length. Young's modulus of steel is 2.0 ×10¹¹ N/m². The longitudinal strain produced in the wire is _____×10⁻⁵",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Elasticity",
+      "concept": "Young's modulus and strain",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "PHYSICS",
+      "questionText": "An ideal transformer with purely resistive load operates at 12 kV on the primary side. It supplies electrical energy to a number of nearby houses at 120 V. The average rate of energy consumption in the houses served by the transformer is 60 kW. The value of resistive load (Rs) required in the secondary circuit will be ____________ Ω.",
+      "options": [],
+      "correctAnswer": "240",
+      "questionType": "NUMERICAL",
+      "chapter": "Alternating Current",
+      "topic": "Transformers",
+      "concept": "Power in transformers",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "PHYSICS",
+      "questionText": "The length of a metallic wire is increased by 20% and its area of cross section is reduced by 4%. The percentage change in resistance of the metallic wire is _____________.",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Resistance",
+      "concept": "Factors affecting resistance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "PHYSICS",
+      "questionText": "A person driving car at a constant speed of 15 m/s is approaching a vertical wall. The person notices a change of 40Hz in the frequency of his car's horn upon reflection from the wall. The frequency of horn is ________Hz. (Given: Speed of sound : 330 m/s)",
+      "options": [],
+      "correctAnswer": "420",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Doppler Effect",
+      "concept": "Doppler shift with reflection",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-28T12:18:50.920Z"
+}

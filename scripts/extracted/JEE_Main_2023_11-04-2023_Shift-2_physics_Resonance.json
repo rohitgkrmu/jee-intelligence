@@ -1,0 +1,827 @@
+{
+  "filename": "JEE_Main_2023_11-04-2023_Shift-2_physics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "A car P travelling at 20 ms⁻¹ sounds its horn at a frequency of 400 Hz. Another car Q is travelling being the first car in the same direction with a velocity 40 ms⁻¹. The frequency heard by the passenger of the car Q is approximately [Take, velocity of sound = 360 ms⁻¹]",
+      "options": [
+        {
+          "id": "A",
+          "text": "485 Hz"
+        },
+        {
+          "id": "B",
+          "text": "421 Hz"
+        },
+        {
+          "id": "C",
+          "text": "471 Hz"
+        },
+        {
+          "id": "D",
+          "text": "514 Hz"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Waves",
+      "topic": "Doppler Effect",
+      "concept": "Moving source and observer",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "PHYSICS",
+      "questionText": "A capacitor of capacitance C is charged to a potential V. The flux of the electric field through a closed surface enclosing the positive plate of the capacitor is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "CV/2ε₀"
+        },
+        {
+          "id": "B",
+          "text": "2CV/ε₀"
+        },
+        {
+          "id": "C",
+          "text": "Zero"
+        },
+        {
+          "id": "D",
+          "text": "CV/ε₀"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Gauss's Law",
+      "concept": "Electric flux through closed surface",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "PHYSICS",
+      "questionText": "A plane electromagnetic wave of frequency 20 MHz propagates in free space along x-direction. At a particular space and time, E⃗ = 6.6ĵ V/m. What is B⃗ at this point?",
+      "options": [
+        {
+          "id": "A",
+          "text": "−2.2 × 10⁻⁸î T"
+        },
+        {
+          "id": "B",
+          "text": "−2.2 × 10⁻⁸k̂ T"
+        },
+        {
+          "id": "C",
+          "text": "2.2 × 10⁻⁸î T"
+        },
+        {
+          "id": "D",
+          "text": "2.2 × 10⁻⁸k̂ T"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Properties of EM Waves",
+      "concept": "Relation between E and B in EM wave",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "PHYSICS",
+      "questionText": "The energy of He⁺ ion in its first excited state is, (The ground state energy for the Hydrogen atom is −13.6 eV):",
+      "options": [
+        {
+          "id": "A",
+          "text": "−13.6 eV"
+        },
+        {
+          "id": "B",
+          "text": "−3.4 eV"
+        },
+        {
+          "id": "C",
+          "text": "−54.4 eV"
+        },
+        {
+          "id": "D",
+          "text": "−27.2 eV"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atoms",
+      "topic": "Bohr Model",
+      "concept": "Energy levels of hydrogen-like atoms",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "PHYSICS",
+      "questionText": "If force (F), velocity (V) and time (T) are considered as fundamental physical quantity, then dimensional formula of density will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "F²V⁻²T⁶"
+        },
+        {
+          "id": "B",
+          "text": "FV⁴T⁻⁶"
+        },
+        {
+          "id": "C",
+          "text": "FV⁻²T²"
+        },
+        {
+          "id": "D",
+          "text": "FV⁻⁴T⁻²"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Measurements",
+      "topic": "Dimensional Analysis",
+      "concept": "Dimensional formula with different fundamental quantities",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "PHYSICS",
+      "questionText": "An electron is allowed to move with constant velocity along the axis of current carrying straight solenoid.\nA. The electron will experience magnetic force along the axis of the solenoid.\nB. The electron will not experience magnetic force.\nC. The electron will continue to move along the axis of the solenoid.\nD. The electron will be accelerated along the axis of the solenoid.\nE. The electron will follow parabolic path-inside the solenoid.\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A and D only"
+        },
+        {
+          "id": "B",
+          "text": "B, C and D only"
+        },
+        {
+          "id": "C",
+          "text": "B and C only"
+        },
+        {
+          "id": "D",
+          "text": "B and E only"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Moving Charges and Magnetism",
+      "topic": "Magnetic Force",
+      "concept": "Force on charged particle in magnetic field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "PHYSICS",
+      "questionText": "A projectile is projected at 30° from horizontal with initial velocity 40 ms⁻¹. The velocity of the projectile at t = 2s from the start will be: (given g = 10 m/s²)",
+      "options": [
+        {
+          "id": "A",
+          "text": "40/√3 m/s⁻¹"
+        },
+        {
+          "id": "B",
+          "text": "20√3 m/s⁻¹"
+        },
+        {
+          "id": "C",
+          "text": "20 m/s⁻¹"
+        },
+        {
+          "id": "D",
+          "text": "zero"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Motion in a Plane",
+      "topic": "Projectile Motion",
+      "concept": "Velocity components at given time",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "PHYSICS",
+      "questionText": "The root mean square speed of molecules of nitrogen gas at 27°C is approximately: (Given mass of a nitrogen molecule = 4.6 × 10⁻²⁶ kg and take Boltzmann constant KB = 1.4 × 10⁻²³ JK⁻¹)",
+      "options": [
+        {
+          "id": "A",
+          "text": "1260 m/s"
+        },
+        {
+          "id": "B",
+          "text": "91 m/s"
+        },
+        {
+          "id": "C",
+          "text": "27.4 m/s"
+        },
+        {
+          "id": "D",
+          "text": "523 m/s"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinetic Theory",
+      "topic": "Kinetic Theory of Gases",
+      "concept": "RMS speed of gas molecules",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "PHYSICS",
+      "questionText": "The Thermodynamics process, in which internal energy of the system remains constant is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "isochoric"
+        },
+        {
+          "id": "B",
+          "text": "Isobaric"
+        },
+        {
+          "id": "C",
+          "text": "Adiabatic"
+        },
+        {
+          "id": "D",
+          "text": "Isothermal"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Isothermal process properties",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "PHYSICS",
+      "questionText": "The current flowing through R₂ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/3 A"
+        },
+        {
+          "id": "B",
+          "text": "1/2 A"
+        },
+        {
+          "id": "C",
+          "text": "2/3 A"
+        },
+        {
+          "id": "D",
+          "text": "1/4 A"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Kirchhoff's Laws",
+      "concept": "Current distribution in circuit",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "PHYSICS",
+      "questionText": "In satellite communication, the uplink frequency band used is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "76 – 88 MHz"
+        },
+        {
+          "id": "B",
+          "text": "3.7 – 4.2 GHz"
+        },
+        {
+          "id": "C",
+          "text": "5.925 – 6.425 GHz"
+        },
+        {
+          "id": "D",
+          "text": "420 – 890 MHz"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Communication Systems",
+      "topic": "Satellite Communication",
+      "concept": "Frequency bands in satellite communication",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "PHYSICS",
+      "questionText": "A body of mass 500 g moves along x-axis such that its velocity varies with displacements x according to the relation v = √(10x) m/s the force acting on the body is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "25 N"
+        },
+        {
+          "id": "B",
+          "text": "125 N"
+        },
+        {
+          "id": "C",
+          "text": "5 N"
+        },
+        {
+          "id": "D",
+          "text": "166 N"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Laws of Motion",
+      "topic": "Newton's Laws",
+      "concept": "Force from velocity-displacement relation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "PHYSICS",
+      "questionText": "Eight equal drops of water are falling through air with a steady speed of 10 cm/s. If the drops coalesce, the new velocity is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 cm/s"
+        },
+        {
+          "id": "B",
+          "text": "40 cm/s"
+        },
+        {
+          "id": "C",
+          "text": "16 cm/s"
+        },
+        {
+          "id": "D",
+          "text": "10 cm/s"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Properties of Matter",
+      "topic": "Viscosity",
+      "concept": "Terminal velocity and drop coalescence",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "PHYSICS",
+      "questionText": "If V is the gravitational potential due to sphere of uniform density on its surface, then its value at the center of sphere will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "V"
+        },
+        {
+          "id": "B",
+          "text": "3V/2"
+        },
+        {
+          "id": "C",
+          "text": "4V/3"
+        },
+        {
+          "id": "D",
+          "text": "V/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Gravitational Potential",
+      "concept": "Potential inside and on surface of sphere",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "PHYSICS",
+      "questionText": "When one light ray is reflected from a plane mirror with 30° angle of reflection, the angle of deviation of the ray after reflection is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "140°"
+        },
+        {
+          "id": "B",
+          "text": "110°"
+        },
+        {
+          "id": "C",
+          "text": "120°"
+        },
+        {
+          "id": "D",
+          "text": "130°"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Ray Optics",
+      "topic": "Reflection",
+      "concept": "Deviation in plane mirror",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "PHYSICS",
+      "questionText": "The ratio of the de-Broglie wavelengths of proton and electron having same Kinetic energy: (Assume mp = me × 1849)",
+      "options": [
+        {
+          "id": "A",
+          "text": "2:43"
+        },
+        {
+          "id": "B",
+          "text": "1:30"
+        },
+        {
+          "id": "C",
+          "text": "1:43"
+        },
+        {
+          "id": "D",
+          "text": "1:62"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Dual Nature of Radiation and Matter",
+      "topic": "de Broglie Wavelength",
+      "concept": "Wavelength ratio for particles with same KE",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "PHYSICS",
+      "questionText": "A space ship of mass 2 × 10⁴ kg is launched into a circular orbit close to the earth surface. The additional velocity to be imparted to the space ship in the orbit to overcome the gravitational pull will be (if g = 10 m/s² and radius of earth = 6400 km)",
+      "options": [
+        {
+          "id": "A",
+          "text": "11.2(√2 - 1) km/s"
+        },
+        {
+          "id": "B",
+          "text": "7.9(√2 - 1) km/s"
+        },
+        {
+          "id": "C",
+          "text": "8(√2 - 1) km/s"
+        },
+        {
+          "id": "D",
+          "text": "7.4(√2 - 1) km/s"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Orbital Motion",
+      "concept": "Escape velocity from circular orbit",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion (A): A bar magnet dropped through a metallic cylindrical pipe takes more time to come down compared to a non-magnetic bar with same geometry and mass.\nReason (R): For the magnetic bar, Eddy currents are produced in the metallic pipe which oppose the motion of the magnetic bar.\nIn the light of the above statement, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "A is false but R is true"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "A is true but R is false"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Eddy Currents",
+      "concept": "Magnetic braking due to eddy currents",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "PHYSICS",
+      "questionText": "The logic operations performed by the given digital circuit is equivalent to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "NAND"
+        },
+        {
+          "id": "B",
+          "text": "NOR"
+        },
+        {
+          "id": "C",
+          "text": "AND"
+        },
+        {
+          "id": "D",
+          "text": "OR"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electronic Devices",
+      "topic": "Logic Gates",
+      "concept": "Digital circuit analysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "PHYSICS",
+      "questionText": "When vector A⃗ = 2î + 3ĵ + 2k̂ is subtracted from vector B⃗, it gives a vector equal to 2ĵ. Then the magnitude of vector B⃗ will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "√6"
+        },
+        {
+          "id": "B",
+          "text": "√5"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "√13"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mathematical Tools",
+      "topic": "Vectors",
+      "concept": "Vector subtraction and magnitude",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "PHYSICS",
+      "questionText": "A block of mass 5 kg starting from rest pulled up on a smooth incline plane making an angle of 30° with horizontal with an effective acceleration of 1 ms⁻². The power delivered by the pulling force at t = 10 s from the start is ____ W. [Use g = 10 ms⁻²] (Calculate the nearest integer value)",
+      "options": [],
+      "correctAnswer": "300",
+      "questionType": "NUMERICAL",
+      "chapter": "Work, Energy and Power",
+      "topic": "Power",
+      "concept": "Power calculation on inclined plane",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "PHYSICS",
+      "questionText": "A coil has an inductance of 2H and resistance of 4Ω. A 10V is applied across the coil. The energy stored in the magnetic field after the current has built up to its equilibrium value will be ____ × 10⁻² J.",
+      "options": [],
+      "correctAnswer": "625",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Self Inductance",
+      "concept": "Energy stored in inductor at steady state",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "PHYSICS",
+      "questionText": "As shown in the figure, a plane mirror is fixed at a height of 50 cm from the bottom of tank containing water (μ = 4/3). The height of water in the tank is 8 cm. A small bulb is placed at the bottom of the water tank. The distance of image of the bulb formed by mirror from the bottom of the tank is ____cm.",
+      "options": [],
+      "correctAnswer": "98",
+      "questionType": "NUMERICAL",
+      "chapter": "Ray Optics",
+      "topic": "Refraction and Reflection",
+      "concept": "Image formation through refraction and reflection",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "PHYSICS",
+      "questionText": "A circular plate is rotating in horizontal plane, about an axis passing through its center and perpendicular to the plate, with an angular velocity ω. A person sits at the center having two dumbbells in his hands. When he stretches out his hands, the moment of inertia of the system becomes triple. If E be the initial Kinetic energy of the system, then final Kinetic energy will be E/x. The value of x is.",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "System of Particles and Rotational Motion",
+      "topic": "Rotational Dynamics",
+      "concept": "Conservation of angular momentum and rotational KE",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "PHYSICS",
+      "questionText": "A metallic cube of side 15 cm moving along y-axis at a uniform velocity of 2 ms⁻¹. In a region of uniform magnetic field of magnitude 0.5T directed along z-axis. In equilibrium the potential difference between the faces of higher and lower potential developed because of the motion through the field will be ___ mV.",
+      "options": [],
+      "correctAnswer": "150",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Motional EMF",
+      "concept": "EMF due to conductor moving in magnetic field",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "PHYSICS",
+      "questionText": "The surface tension of soap solution is 3.5 × 10⁻² Nm⁻¹. The amount of work done required to increase the radius of soap bubble from 10 cm to 20 cm is________× 10⁻⁴ J. (take π = 22/7)",
+      "options": [],
+      "correctAnswer": "264",
+      "questionType": "NUMERICAL",
+      "chapter": "Properties of Matter",
+      "topic": "Surface Tension",
+      "concept": "Work done in changing surface area of soap bubble",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "PHYSICS",
+      "questionText": "In the given circuit C₁ = 2μF, C₂ = 0.2μF, C₃ = 2μF, C₄ = 4μF, C₅ = 2μF, C₆ = 2μF. The charge stored on capacitor C₄ is _____ μC.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Capacitors",
+      "concept": "Charge distribution in capacitor network",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "PHYSICS",
+      "questionText": "A wire of density 8 × 10³ kg/m³ is stretched between two clamps 0.5 m apart. The extension developed in the wire is 3.2 × 10⁻⁴ m. If Y = 8 × 10¹⁰ N/m², the fundamental frequency of vibration in the wire will be ________Hz.",
+      "options": [],
+      "correctAnswer": "80",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Standing Waves",
+      "concept": "Fundamental frequency of stretched wire",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "PHYSICS",
+      "questionText": "A nucleus disintegrates into two nuclear parts, in such a way that ratio of their nuclear sizes is 1 : 2^(2/3). Their respective speed have a ratio of n : 1. The value of n is _______.",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Nuclei",
+      "topic": "Nuclear Physics",
+      "concept": "Conservation of momentum in nuclear disintegration",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "PHYSICS",
+      "questionText": "Two identical cells each of emf 1.5 V are connected in series across a 10Ω resistance. An ideal voltmeter connected across 10Ω resistance reads 1.5 V. The internal resistance of each cell is ______Ω.",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "EMF and Internal Resistance",
+      "concept": "Circuit analysis with internal resistance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T08:01:30.323Z"
+}

@@ -1,0 +1,169 @@
+{
+  "filename": "JEE_Main_2025_April_4_Shift1.pdf",
+  "examYear": 2025,
+  "examSession": "April 4 Shift 1",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "A circular ring and a solid sphere having same radius roll down on an inclined plane from rest without slipping. The ratio of their velocities when reached at the bottom of the plane is √(x/5), where x = _______.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Rotational Mechanics",
+      "topic": "Rolling Motion",
+      "concept": "Velocity ratio for rolling objects",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "Two slabs with square cross section of different materials (1,2) with equal sides (l) and thickness d₁ and d₂ such that d₂ = 2d₁ and l > d₂. Considering lower edges of these slabs are fixed to the floor, we apply equal shearing force on the narrow faces. The angle of deformation is θ₁ = 2θ₂. If the shear moduli of material 1 is 4×10⁹ N/m², then shear moduli of material 2 is x×10⁹ N/m², where value of x is _____.",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Properties of Matter",
+      "topic": "Elastic Moduli",
+      "concept": "Shear modulus and deformation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "Distance between object and its image (magnified by -1/3) is 30 cm. The focal length of the mirror used is (x) cm, where magnitude of value of x is _______.",
+      "options": [],
+      "correctAnswer": "45",
+      "questionType": "NUMERICAL",
+      "chapter": "Ray Optics",
+      "topic": "Spherical Mirrors",
+      "concept": "Mirror formula with magnification",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "Four capacitor each of capacitance 16μF are connected as shown in the figure. The capacitance between points A and B is: _______(in μF).",
+      "options": [],
+      "correctAnswer": "64",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Capacitors",
+      "concept": "Capacitor combinations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "Conductor wire ABCDE with each arm 10 cm in length is placed in magnetic field of √2/1 Tesla, perpendicular to its plane. When conductor is pulled towards right with constant velocity of 10 cm/s, induced emf between points A and E is ________ mV.",
+      "options": [],
+      "correctAnswer": "10",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Motional EMF",
+      "concept": "EMF in moving conductor",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "CHEMISTRY",
+      "questionText": "In Dumas' method for estimation of nitrogen 1g of an organic compound gave 150 mL of nitrogen collected at 300K temperature and 900 mm Hg pressure. The percentage composition of nitrogen in the compound is _____ % (nearest integer). (Aqueous tension at 300 K = 15mm Hg)",
+      "options": [],
+      "correctAnswer": "20",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Quantitative Analysis",
+      "concept": "Dumas method for nitrogen estimation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "KMnO₄ acts as an oxidising agent in acidic medium. 'X' is the difference between the oxidation states of Mn in reactant and product. 'Y' is the number of 'd' electrons present in the brown red precipitate formed at the end of the acetate ion test with neutral ferric chloride. The value of X + Y is _____.",
+      "options": [],
+      "correctAnswer": "10",
+      "questionType": "NUMERICAL",
+      "chapter": "d-Block Elements",
+      "topic": "Redox Reactions",
+      "concept": "Oxidation states and qualitative analysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "Fortification of food with iron is done using FeSO₄·7H₂O. The mass in grams of the FeSO₄·7H₂O required to achieve 12 ppm of iron in 150 kg of wheat is __________ (Nearest integer) [Given: Molar mass of Fe, S and O respectively are 56, 32 and 16 g mol⁻¹]",
+      "options": [],
+      "correctAnswer": "9",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemistry in Everyday Life",
+      "topic": "Food Chemistry",
+      "concept": "ppm calculations and molar mass",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "The pH of a 0.01 M weak acid HX (Ka = 4×10⁻¹⁰) is found to be 5. Now the acid solution is diluted with excess of water so that the pH of the solution changes to 6. The new concentration of the diluted weak acid is given as x×10⁻⁴ M. The value of x is ______ (nearest integer)",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Ionic Equilibrium",
+      "topic": "Weak Acids",
+      "concept": "pH calculations and dilution effects",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "The total number of hydrogen bonds of a DNA-double Helix strand whose one strand has the following sequence of bases is _____.\n5'-G-G-C-A-A-A-T-C-G-G-C-T-A-3'",
+      "options": [],
+      "correctAnswer": "33",
+      "questionType": "NUMERICAL",
+      "chapter": "Biomolecules",
+      "topic": "Nucleic Acids",
+      "concept": "DNA base pairing and hydrogen bonding",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T08:31:24.764Z"
+}

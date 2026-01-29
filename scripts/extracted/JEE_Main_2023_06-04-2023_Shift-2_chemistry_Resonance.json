@@ -1,0 +1,821 @@
+{
+  "filename": "JEE_Main_2023_06-04-2023_Shift-2_chemistry_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 61,
+      "subject": "CHEMISTRY",
+      "questionText": "The volume of 0.02 M aqueous HBr required to neutralize 10.0 mL of 0.01 M aqueous Ba(OH)₂ is (Assume complete neutralization)",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.5 mL"
+        },
+        {
+          "id": "B",
+          "text": "5.0 mL"
+        },
+        {
+          "id": "C",
+          "text": "10.0 mL"
+        },
+        {
+          "id": "D",
+          "text": "7.5 mL"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Acids and Bases",
+      "topic": "Neutralization",
+      "concept": "Acid-base titrations",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "subject": "CHEMISTRY",
+      "questionText": "The product, which is not obtained during the electrolysis of brine solution is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "HCl"
+        },
+        {
+          "id": "B",
+          "text": "H₂"
+        },
+        {
+          "id": "C",
+          "text": "NaOH"
+        },
+        {
+          "id": "D",
+          "text": "Cl₂"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrochemistry",
+      "topic": "Electrolysis",
+      "concept": "Electrolysis of brine",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "subject": "CHEMISTRY",
+      "questionText": "The group of chemicals used as pesticide is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sodium chlorate, DDT, PAN"
+        },
+        {
+          "id": "B",
+          "text": "Aldrin, Sodium chlorate, Sodium arsinite"
+        },
+        {
+          "id": "C",
+          "text": "DDT, Aldrin"
+        },
+        {
+          "id": "D",
+          "text": "Dieldrin, Sodium arsinite, Tetrachloroethene"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemistry in Everyday Life",
+      "topic": "Pesticides",
+      "concept": "Organic pesticides",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "subject": "CHEMISTRY",
+      "questionText": "In the following reaction, 'B' is [reaction diagram shown]",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Structure 1]"
+        },
+        {
+          "id": "B",
+          "text": "[Structure 2]"
+        },
+        {
+          "id": "C",
+          "text": "[Structure 3]"
+        },
+        {
+          "id": "D",
+          "text": "[Structure 4]"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reactions",
+      "concept": "Organic reaction mechanisms",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "subject": "CHEMISTRY",
+      "questionText": "During the reaction of permanganate with thiosulphate, the change in oxidation of manganese occurs by value of 3. Identify which of the below medium will favour the reaction.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both aqueous acidic and neutral"
+        },
+        {
+          "id": "B",
+          "text": "Both aqueous acidic and faintly alkaline"
+        },
+        {
+          "id": "C",
+          "text": "aqueous acidic"
+        },
+        {
+          "id": "D",
+          "text": "aqueous neutral"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Redox Reactions",
+      "topic": "Oxidation-Reduction",
+      "concept": "Permanganate reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "subject": "CHEMISTRY",
+      "questionText": "Element not present in Nessler's reagent is",
+      "options": [
+        {
+          "id": "A",
+          "text": "I"
+        },
+        {
+          "id": "B",
+          "text": "N"
+        },
+        {
+          "id": "C",
+          "text": "Hg"
+        },
+        {
+          "id": "D",
+          "text": "K"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Analytical Chemistry",
+      "topic": "Reagents",
+      "concept": "Nessler's reagent composition",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "subject": "CHEMISTRY",
+      "questionText": "Which one of the following elements will remain as liquid inside pure boiling water?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Br"
+        },
+        {
+          "id": "B",
+          "text": "Li"
+        },
+        {
+          "id": "C",
+          "text": "Ga"
+        },
+        {
+          "id": "D",
+          "text": "Cs"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Periodic Table",
+      "topic": "Physical Properties",
+      "concept": "Boiling points and reactivity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II\nList I (Natural Amino acid): (A) Arginine (B) Aspartic acid (C) Asparagine (D) Alanine\nList II (One Letter Code): (I) D (II) N (III) A (IV) R\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A – I, B – III, C – IV, D – II"
+        },
+        {
+          "id": "B",
+          "text": "A – III, B – I, C – II, D – IV"
+        },
+        {
+          "id": "C",
+          "text": "A – IV, B – I, C – III, D – II"
+        },
+        {
+          "id": "D",
+          "text": "A – IV, B – I, C – II, D – III"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Biomolecules",
+      "topic": "Amino Acids",
+      "concept": "Amino acid codes",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements: one is labelled as \"Assertion A\" and the other is labelled as \"Reason R\"\nAssertion A: In the complex Ni(CO)₄ and Fe(CO)₅, the metals have zero oxidation state.\nReason R: Low oxidation states are found when a complex has ligands capable of π-donor character in addition to the σ-bonding.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are correct and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is not correct but R is correct"
+        },
+        {
+          "id": "D",
+          "text": "A is correct but R is not correct"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "Metal Carbonyls",
+      "concept": "Oxidation states and bonding",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "subject": "CHEMISTRY",
+      "questionText": "Find out the major product from the following reaction. [reaction diagram shown]",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Structure 1]"
+        },
+        {
+          "id": "B",
+          "text": "[Structure 2]"
+        },
+        {
+          "id": "C",
+          "text": "[Structure 3]"
+        },
+        {
+          "id": "D",
+          "text": "[Structure 4]"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Organometallic Reactions",
+      "concept": "Grignard reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "subject": "CHEMISTRY",
+      "questionText": "Structures of BeCl₂ in solid state, vapour phase and at very high temperature respectively are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polymeric, Dimeric, Monomeric"
+        },
+        {
+          "id": "B",
+          "text": "Dimeric, Polymeric, Monomeric"
+        },
+        {
+          "id": "C",
+          "text": "Polymeric, Monomeric, Dimeric"
+        },
+        {
+          "id": "D",
+          "text": "Monomeric, Dimeric, Polymeric"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Bonding",
+      "topic": "Molecular Structure",
+      "concept": "Phase-dependent structures",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "subject": "CHEMISTRY",
+      "questionText": "From the figure of column chromatography given below, identify incorrect statements.\n(A) Compound 'c' is more polar than 'a' and 'b'\n(B) Compound 'a' is least polar\n(C) Compound 'b' comes out of the column below 'c' and after 'a'\n(D) Compound 'a' spends more time in the column\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "B and D only"
+        },
+        {
+          "id": "B",
+          "text": "B, C and D only"
+        },
+        {
+          "id": "C",
+          "text": "A, B and C only"
+        },
+        {
+          "id": "D",
+          "text": "A, B and D only"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Surface Chemistry",
+      "topic": "Chromatography",
+      "concept": "Column chromatography principles",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following reaction that goes from A to B in three steps as shown below: Choose the correct option [energy diagram shown]",
+      "options": [
+        {
+          "id": "A",
+          "text": "Number of intermediates: 2, Number of activated complexes: 3, Rate determining step: II"
+        },
+        {
+          "id": "B",
+          "text": "Number of intermediates: 3, Number of activated complexes: 2, Rate determining step: II"
+        },
+        {
+          "id": "C",
+          "text": "Number of intermediates: 2, Number of activated complexes: 3, Rate determining step: III"
+        },
+        {
+          "id": "D",
+          "text": "Number of intermediates: 2, Number of activated complexes: 3, Rate determining step: I"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Kinetics",
+      "topic": "Reaction Mechanisms",
+      "concept": "Energy diagrams and reaction pathways",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "subject": "CHEMISTRY",
+      "questionText": "If the radius of the first orbit of hydrogen atom is a₀, then de Broglie's wavelength of electron in 3rd orbit is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3π₀"
+        },
+        {
+          "id": "B",
+          "text": "6πa₀"
+        },
+        {
+          "id": "C",
+          "text": "πa₀/3"
+        },
+        {
+          "id": "D",
+          "text": "6πa₀"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Structure",
+      "topic": "Wave-Particle Duality",
+      "concept": "De Broglie wavelength",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "subject": "CHEMISTRY",
+      "questionText": "Formation of which complex, among the following, is not a confirmatory test of Pb²⁺ ions",
+      "options": [
+        {
+          "id": "A",
+          "text": "lead iodide"
+        },
+        {
+          "id": "B",
+          "text": "lead nitrate"
+        },
+        {
+          "id": "C",
+          "text": "lead sulphate"
+        },
+        {
+          "id": "D",
+          "text": "lead chromate"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Analytical Chemistry",
+      "topic": "Qualitative Analysis",
+      "concept": "Lead ion tests",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "subject": "CHEMISTRY",
+      "questionText": "The IUPAC name of K₃[Co(C₂O₄)₃] is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Potassium tris(oxalato)cobalt(III)"
+        },
+        {
+          "id": "B",
+          "text": "Potassium tris(oxalato)cobaltate(III)"
+        },
+        {
+          "id": "C",
+          "text": "Potassium trioxalatocobalt(III)"
+        },
+        {
+          "id": "D",
+          "text": "Potassium trioxalatocobaltate(III)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "IUPAC Nomenclature",
+      "concept": "Complex compound naming",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements:\nStatement I: Morphine is a narcotic analgesic. It helps in relieving pain without producing sleep.\nStatement II: Morphine and its derivatives are obtained from opium poppy.\nIn the light of the above statements, choose the correct answer from the options given below",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are false"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is false but Statement II is true"
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are true"
+        },
+        {
+          "id": "D",
+          "text": "Statement I is true and Statement II is false"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemistry in Everyday Life",
+      "topic": "Drugs and Medicine",
+      "concept": "Narcotic analgesics",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "subject": "CHEMISTRY",
+      "questionText": "The strongest acid from the following is: [chemical structures shown]",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Structure 1]"
+        },
+        {
+          "id": "B",
+          "text": "[Structure 2]"
+        },
+        {
+          "id": "C",
+          "text": "[Structure 3]"
+        },
+        {
+          "id": "D",
+          "text": "[Structure 4]"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Phenols",
+      "concept": "Acidity of substituted phenols",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "subject": "CHEMISTRY",
+      "questionText": "Group-13 elements react with O₂ in amorphous form to form oxides of type M₂O₃ (M = element). Which among the following is the most basic oxide?",
+      "options": [
+        {
+          "id": "A",
+          "text": "B₂O₃"
+        },
+        {
+          "id": "B",
+          "text": "Al₂O₃"
+        },
+        {
+          "id": "C",
+          "text": "Tl₂O₃"
+        },
+        {
+          "id": "D",
+          "text": "Ga₂O₃"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "p-Block Elements",
+      "topic": "Group 13 Elements",
+      "concept": "Basic nature of oxides",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "subject": "CHEMISTRY",
+      "questionText": "Ion having highest hydration enthalpy among the given alkaline earth metal ions is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ba²⁺"
+        },
+        {
+          "id": "B",
+          "text": "Sr²⁺"
+        },
+        {
+          "id": "C",
+          "text": "Be²⁺"
+        },
+        {
+          "id": "D",
+          "text": "Ca²⁺"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "s-Block Elements",
+      "topic": "Alkaline Earth Metals",
+      "concept": "Hydration enthalpy",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "subject": "CHEMISTRY",
+      "questionText": "The standard reduction potentials at 298 K for the following half cells are given below:\nNO₃⁻ + 4H⁺ + 3e⁻ → NO(g) + 2H₂O E° = 0.97 V\nV²⁺(aq) + 2e⁻ → V E° = –1.19 V\nFe³⁺(aq) + 3e⁻ → Fe E° = –0.04 V\nAg⁺(aq) + e⁻ → Ag(s) E° = 0.80 V\nAu³⁺(aq) + 3e⁻ → Au(s) E° = 1.40 V\nThe number of metal(s) which will be oxidized by NO₃⁻ in aqueous solution is______.",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Redox Reactions",
+      "concept": "Standard reduction potentials",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "subject": "CHEMISTRY",
+      "questionText": "Among the following, the number of compounds which will give positive iodoform reaction is______\n(a) 1-Phenylbutan-2-one (b) 2-Methylbutan-2-ol\n(c) 3-Methylbutan-2-ol (d) 1-Phenylethanol\n(e) 3,3-dimethylbutan-2-one (f) 1-Phenylpropan-2-ol",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Aldehydes and Ketones",
+      "concept": "Iodoform reaction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "subject": "CHEMISTRY",
+      "questionText": "The equilibrium composition for the reaction PCl₃ + Cl₂ ⇌ PCl₅ at 298 K is given below:\n[PCl₃]eq = 0.2 mol L⁻¹, [Cl₂]eq = 0.1 mol L⁻¹, [PCl₅]eq = 0.40 mol L⁻¹\nIf 0.2 mol of Cl₂ is added at the same temperature, the equilibrium concentrations of PCl₅ is______ ×10⁻² mol L⁻¹\nGiven: Kc for the reaction at 298 K is 20",
+      "options": [],
+      "correctAnswer": "48",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Equilibrium",
+      "topic": "Equilibrium Constant",
+      "concept": "Le Chatelier's principle",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following pairs of solution which will be isotonic at the same temperature. The number of pairs of solutions is/are_________\n(A) 1 M aq. NaCl and 2 M aq. urea\n(B) 1 M aq. CaCl₂ and 1.5 M aq. KCl\n(C) 1.5 M aq. AlCl₃ and 2 M aq. Na₂SO₄\n(D) 2.5 M aq. KCl and 1 M aq. Al₂(SO₄)₃",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Colligative Properties",
+      "concept": "Isotonic solutions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of colloidal systems from the following, which will have 'liquid' as the dispersion medium, is _____________\nGem stones, paints. smoke, cheese, milk, hair cream, insecticide sprays, froth, soap lather",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Surface Chemistry",
+      "topic": "Colloids",
+      "concept": "Types of colloidal systems",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of species having a square planar shape from the following is _______\nXeF₄, SF₄, SiF₄, BF₄⁻, BrF₄⁻, [Cu(NH₃)₄]²⁺, [FeCl₄]²⁻, [PtCl₄]²⁻",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Bonding",
+      "topic": "Molecular Geometry",
+      "concept": "VSEPR theory and hybridization",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following data\nHeat of combustion of H₂(g) = – 241.8 kJ mol⁻¹\nHeat of combustion of C(s) = – 393.5 kJ mol⁻¹\nHeat of combustion of C₂H₅OH(l) = – 1234.7 kJ mol⁻¹\nThe heat of formation of C₂H₅OH(l) is (–)_________ kJ mol⁻¹ (Nearest integer)",
+      "options": [],
+      "correctAnswer": "278",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Enthalpy",
+      "concept": "Hess's law",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "subject": "CHEMISTRY",
+      "questionText": "Number of isomeric aromatic amines with molecular formula C₈H₁₁N, which can be synthesized by Gabriel Phthalimide synthesis is________",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Amines",
+      "concept": "Gabriel phthalimide synthesis",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "subject": "CHEMISTRY",
+      "questionText": "Number of crystal systems from the following where body centred unit cell can be found, is______\nCubic, tetragonal, orthorhombic, hexagonal, Rhombohedral, monoclinic, triclinic",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Solid State",
+      "topic": "Crystal Systems",
+      "concept": "Unit cell types",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "subject": "CHEMISTRY",
+      "questionText": "In an ice crystal, each water molecule is hydrogen bonded to______ neighbouring molecules.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Bonding",
+      "topic": "Hydrogen Bonding",
+      "concept": "Structure of ice",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:35:32.386Z"
+}

@@ -1,0 +1,823 @@
+{
+  "filename": "JEE_Main_2023_08-04-2023_Shift-1_physics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "A TV transmitting antenna is 98 m high and the receiving antenna is at the ground level. If the radius of the earth is 6400 km, the surface area covered by the transmitting antenna is approximately:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1240 km²"
+        },
+        {
+          "id": "B",
+          "text": "3942 km²"
+        },
+        {
+          "id": "C",
+          "text": "4868 km²"
+        },
+        {
+          "id": "D",
+          "text": "1549 km²"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Waves",
+      "topic": "Communication Systems",
+      "concept": "Line of sight communication",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "PHYSICS",
+      "questionText": "The engine of a train moving with speed 10 ms⁻¹ towards a platform sounds a whistle at frequency 400 Hz. The frequency heard by a passenger inside the train is: (neglect air speed. Speed of sound in air = 330 ms⁻¹)",
+      "options": [
+        {
+          "id": "A",
+          "text": "412 Hz"
+        },
+        {
+          "id": "B",
+          "text": "388 Hz"
+        },
+        {
+          "id": "C",
+          "text": "400 Hz"
+        },
+        {
+          "id": "D",
+          "text": "200 Hz"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Waves",
+      "topic": "Doppler Effect",
+      "concept": "Apparent frequency for moving source and observer",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "PHYSICS",
+      "questionText": "Graphical variation of electric field due to a uniformly charged insulating solid sphere of radius R, with distance r from the centre O is represented by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1 graph"
+        },
+        {
+          "id": "B",
+          "text": "Option 2 graph"
+        },
+        {
+          "id": "C",
+          "text": "Option 3 graph"
+        },
+        {
+          "id": "D",
+          "text": "Option 4 graph"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Field",
+      "concept": "Electric field inside and outside uniformly charged sphere",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "PHYSICS",
+      "questionText": "For the logic circuit shown, the output waveform at Y is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1 waveform"
+        },
+        {
+          "id": "B",
+          "text": "Option 2 waveform"
+        },
+        {
+          "id": "C",
+          "text": "Option 3 waveform"
+        },
+        {
+          "id": "D",
+          "text": "Option 4 waveform"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electronic Devices",
+      "topic": "Logic Gates",
+      "concept": "NAND and OR gate combinations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "PHYSICS",
+      "questionText": "At any instant the velocity of a particle of mass 500 g is (2t î + 3t² ĵ) ms⁻¹. If the force acting on the particle at t = 1s is (î + x ĵ) N. Then the value of x will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Newton's Laws",
+      "concept": "Force from velocity-time relation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "PHYSICS",
+      "questionText": "Dimension of 1/(μ₀ε₀) should be equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "T²/L²"
+        },
+        {
+          "id": "B",
+          "text": "T/L"
+        },
+        {
+          "id": "C",
+          "text": "L/T"
+        },
+        {
+          "id": "D",
+          "text": "L²/T²"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Speed of Light",
+      "concept": "Dimensional analysis of electromagnetic constants",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "PHYSICS",
+      "questionText": "In a reflecting telescope, a secondary mirror is used to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "reduce the problem of mechanical support"
+        },
+        {
+          "id": "B",
+          "text": "remove spherical aberration"
+        },
+        {
+          "id": "C",
+          "text": "make chromatic aberration zero"
+        },
+        {
+          "id": "D",
+          "text": "move the eyepiece outside the telescopic tube"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Optics",
+      "topic": "Optical Instruments",
+      "concept": "Reflecting telescope design",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "PHYSICS",
+      "questionText": "A charge particle moving in magnetic field B, has the components of velocity along B as well as perpendicular to B. The path of the charge particle will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Circular path"
+        },
+        {
+          "id": "B",
+          "text": "Helical path with the axis perpendicular to the direction of magnetic field B"
+        },
+        {
+          "id": "C",
+          "text": "Helical path with the axis along magnetic field B"
+        },
+        {
+          "id": "D",
+          "text": "Straight along the direction of magnetic field B"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Motion of Charged Particles",
+      "concept": "Helical motion in magnetic field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "PHYSICS",
+      "questionText": "Certain galvanometers have a fixed core made of non-magnetic metallic material. The function of this metallic material is",
+      "options": [
+        {
+          "id": "A",
+          "text": "to bring the coil to rest quickly"
+        },
+        {
+          "id": "B",
+          "text": "to make the magnetic field radial"
+        },
+        {
+          "id": "C",
+          "text": "to produce large deflecting torque on the coil"
+        },
+        {
+          "id": "D",
+          "text": "to oscillate the coil in magnetic field for longer period of time"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Galvanometer",
+      "concept": "Eddy current damping",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "PHYSICS",
+      "questionText": "A cylindrical wire of mass (0.4 ± 0.01) g has length (8 ± 0.04) cm and radius (6 ± 0.03) mm. The maximum error in its density will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4%"
+        },
+        {
+          "id": "B",
+          "text": "1%"
+        },
+        {
+          "id": "C",
+          "text": "3.5%"
+        },
+        {
+          "id": "D",
+          "text": "5%"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Measurements",
+      "topic": "Error Analysis",
+      "concept": "Propagation of errors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "PHYSICS",
+      "questionText": "In this figure the resistance of the coil of galvanometer G is 2 Ω. The emf of the cell is 4 V. The ratio of potential difference across C₁ and C₂ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "3/4"
+        },
+        {
+          "id": "C",
+          "text": "5/4"
+        },
+        {
+          "id": "D",
+          "text": "4/5"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Electric Circuits",
+      "concept": "Potential difference in series circuit",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "PHYSICS",
+      "questionText": "Two forces having magnitude A and A/2 are perpendicular to each other. The magnitude of their resultant is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A√5/4"
+        },
+        {
+          "id": "B",
+          "text": "A√5/2²"
+        },
+        {
+          "id": "C",
+          "text": "A√5/2"
+        },
+        {
+          "id": "D",
+          "text": "A√5"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Vectors",
+      "concept": "Resultant of perpendicular forces",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements:\nStatement I: If heat is added to a system, its temperature must increase.\nStatement II: If positive work is done by a system in a thermodynamic process, its volume must increase.\nIn the light of the above statements, choose the correct answer from the options given below",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is false but Statement II is true"
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are false"
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are true"
+        },
+        {
+          "id": "D",
+          "text": "Statement I is true but Statement II is false"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "First Law of Thermodynamics",
+      "concept": "Heat, work and internal energy relations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "PHYSICS",
+      "questionText": "For a nucleus ᴬzX having mass number A and atomic number Z\n(A) The surface energy per nucleon (bₛ) = -a₁ A²/³\n(B) The Coulomb contribution to the binding energy bc = -a₂ Z(Z-1)/A³/⁴\n(C) The volume energy bᵥ = a₃A\n(D) Decrease in the binding energy is proportional to surface area.\n(E) While estimating the surface energy, it is assumed that each nucleon interacts with 12 nucleons. (a₁, a₂ and a₃ are constants)\nChoose the most appropriate answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "C, D only"
+        },
+        {
+          "id": "B",
+          "text": "A, B, C, D only"
+        },
+        {
+          "id": "C",
+          "text": "B, C only"
+        },
+        {
+          "id": "D",
+          "text": "B, C, E only"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Nuclear Physics",
+      "topic": "Semi-empirical Mass Formula",
+      "concept": "Binding energy contributions",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "PHYSICS",
+      "questionText": "Proton (P) and electron (e) will have same de-Broglie wavelength when the ratio of their momentum is (assume, mₚ = 1849 mₑ):",
+      "options": [
+        {
+          "id": "A",
+          "text": "43:1"
+        },
+        {
+          "id": "B",
+          "text": "1:1849"
+        },
+        {
+          "id": "C",
+          "text": "1:43"
+        },
+        {
+          "id": "D",
+          "text": "1:1"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "de Broglie Wavelength",
+      "concept": "Matter waves",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "PHYSICS",
+      "questionText": "The weight of a body on the earth is 400 N. Then weight of the body when taken to a depth half of the radius of the earth will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zero"
+        },
+        {
+          "id": "B",
+          "text": "200 N"
+        },
+        {
+          "id": "C",
+          "text": "300 N"
+        },
+        {
+          "id": "D",
+          "text": "100 N"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Variation of g",
+      "concept": "Acceleration due to gravity at depth",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "PHYSICS",
+      "questionText": "An aluminium rod with Young's modulus Y = 7.0 × 10¹⁰ N/m² undergoes elastic strain of 0.04%. The energy per unit volume stored in the rod in SI unit is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5600"
+        },
+        {
+          "id": "B",
+          "text": "8400"
+        },
+        {
+          "id": "C",
+          "text": "11200"
+        },
+        {
+          "id": "D",
+          "text": "2800"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanical Properties of Solids",
+      "topic": "Elastic Energy",
+      "concept": "Energy density in elastic deformation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements:\nStatement I: If E be the total energy of a satellite moving around the earth, then its potential energy will be E/2\nStatement II: The kinetic energy of a satellite revolving in an orbit is equal to the half the magnitude of total energy E.\nIn the light of the above statements, choose the most appropriate answer from the options given below",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is incorrect but Statement II is correct"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are correct"
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are incorrect"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Satellite Motion",
+      "concept": "Energy of orbiting satellite",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "PHYSICS",
+      "questionText": "Two projectiles A and B are thrown with initial velocities of 40 m/s and 60 m/s at angles 30° and 60° with the horizontal respectively. The ratio of their ranges respectively is (g = 10 m/s²)",
+      "options": [
+        {
+          "id": "A",
+          "text": "√3:2"
+        },
+        {
+          "id": "B",
+          "text": "4:9"
+        },
+        {
+          "id": "C",
+          "text": "1:1"
+        },
+        {
+          "id": "D",
+          "text": "2:√3"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Projectile Motion",
+      "concept": "Range of projectile",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "PHYSICS",
+      "questionText": "An air bubble of volume 1 cm³ rises from the bottom of a lake 40 m deep to the surface at a temperature of 12°C. The atmospheric pressure is 1 × 10⁵ Pa, the density of water is 1000 kg/m³ and g = 10 m/s². There is no difference of the temperature of water at the depth of 40 m and on the surface. The volume of air bubble when it reaches the surface will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 cm³"
+        },
+        {
+          "id": "B",
+          "text": "3 cm³"
+        },
+        {
+          "id": "C",
+          "text": "2 cm³"
+        },
+        {
+          "id": "D",
+          "text": "5 cm³"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Gas Laws",
+      "concept": "Boyle's law application",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "PHYSICS",
+      "questionText": "An organ pipe 40 cm long is open at both ends. The speed of sound in air is 360 ms⁻¹. The frequency of the second harmonic is ____ Hz.",
+      "options": [],
+      "correctAnswer": "900",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Sound Waves",
+      "concept": "Organ pipe harmonics",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "PHYSICS",
+      "questionText": "Two vertical parallel mirrors A and B are separated by 10 cm. A point object O is placed at a distance of 2 cm from mirror A. The distance of the second nearest image behind mirror A from the mirror A is ____ cm",
+      "options": [],
+      "correctAnswer": "18",
+      "questionType": "NUMERICAL",
+      "chapter": "Optics",
+      "topic": "Reflection",
+      "concept": "Multiple reflections between parallel mirrors",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "PHYSICS",
+      "questionText": "The magnetic intensity at the center of a long current carrying solenoid is found to be 1.6 × 10³ Am⁻¹. If the number of turns is 8 per cm, then the current flowing through the solenoid is ______ A.",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Field",
+      "concept": "Solenoid magnetic field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "PHYSICS",
+      "questionText": "The momentum of a body is increased by 50%. The percentage increase in the kinetic energy of the body is ____ %",
+      "options": [],
+      "correctAnswer": "125",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Energy and Momentum",
+      "concept": "Relation between kinetic energy and momentum",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "PHYSICS",
+      "questionText": "An oscillating LC circuit consists of a 75 mH inductor and a 1.2 µF capacitor. If the maximum charge to the capacitor is 2.7 μC. The maximum current in the circuit will be _____mA",
+      "options": [],
+      "correctAnswer": "9",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Oscillations",
+      "topic": "LC Oscillations",
+      "concept": "Energy conservation in LC circuit",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "PHYSICS",
+      "questionText": "An electric dipole of dipole moment is 6.0 × 10⁻⁶ Cm placed in a uniform electric field of 1.5 × 10³ NC⁻¹ in such a way that dipole moment is along electric field. The work done in rotating dipole by 180° in this field will be______mJ.",
+      "options": [],
+      "correctAnswer": "18",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Electric Dipole",
+      "concept": "Work done in rotating dipole",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "PHYSICS",
+      "questionText": "A current of 2 A flows through a wire of cross-sectional area 25.0 mm². The number of free electrons in a cubic meter are 2.0 × 10²⁸. The drift velocity of the electrons is ______× 10⁻⁶ ms⁻¹ (given, charge on electron = 1.6 × 10⁻¹⁹ C).",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Electric Current",
+      "concept": "Drift velocity of electrons",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "PHYSICS",
+      "questionText": "A nucleus with mass number 242 and binding energy per nucleon as 7.6 MeV breaks into two fragment each with mass number 121. If each fragment nucleus has binding energy per nucleon as 8.1 MeV, the total gain in binding energy is _____ MeV",
+      "options": [],
+      "correctAnswer": "121",
+      "questionType": "NUMERICAL",
+      "chapter": "Nuclear Physics",
+      "topic": "Nuclear Fission",
+      "concept": "Energy released in nuclear fission",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "PHYSICS",
+      "questionText": "The moment of inertia of a semi-circular ring about an axis, passing through the centre and perpendicular to the plane of ring, is (1/x)MR², where R is the radius and M is the mass of the semi-circular ring. The value of x will be ____.",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Rotational Mechanics",
+      "topic": "Moment of Inertia",
+      "concept": "Moment of inertia of semi-circular ring",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "DERIVATION",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "PHYSICS",
+      "questionText": "An air bubble of diameter 6 mm rises steadily through a solution of density 1750 kg/m³ at the rate of 0.35 cm/s. The co-efficient of viscosity of the solution (neglect density of air) is _____Pas (given, g = 10 ms⁻²).",
+      "options": [],
+      "correctAnswer": "10",
+      "questionType": "NUMERICAL",
+      "chapter": "Fluid Mechanics",
+      "topic": "Viscosity",
+      "concept": "Terminal velocity in viscous medium",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:31:39.530Z"
+}

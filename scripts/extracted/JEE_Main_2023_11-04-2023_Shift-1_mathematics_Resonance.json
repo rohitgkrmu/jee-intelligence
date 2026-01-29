@@ -1,0 +1,829 @@
+{
+  "filename": "JEE_Main_2023_11-04-2023_Shift-1_mathematics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "If equation of the plane that contains the point (–2, 3, 5) and is perpendicular to each of the planes 2x + 4y + 5z = 8 and 3x – 2y + 3z = 5 is αx + βy + γz + 97 = 0 then α + β + γ = ",
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "17"
+        },
+        {
+          "id": "D",
+          "text": "18"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Plane",
+      "concept": "Plane perpendicular to two planes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "Let (α, β, γ) be the image of the point P(2, 3, 5) in the plane 2x + y – 3z = 6. Then α + β + γ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Reflection of point",
+      "concept": "Image of point in plane",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "Let y = y(x) be a solution curve of the differential equation (1 – x²y²)dx = ydx + xdy. If the line x = 1 intersects the curve y = y(x) at y = 2 and the line x = 2 intersects the curve y = y(x) at y = α, then a value of α is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(e³ - 1)/(e³ + 2)"
+        },
+        {
+          "id": "B",
+          "text": "2(e³ - 1)/(e³ + 2)"
+        },
+        {
+          "id": "C",
+          "text": "2(e³ - 1)/(e³ + 2)"
+        },
+        {
+          "id": "D",
+          "text": "(e³ - 1)/(e³ + 2)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Differential Equations",
+      "topic": "First order differential equations",
+      "concept": "Solution of differential equation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A be a 2 × 2 matrix with real entries such that A' = αA + I where α ∈ R – {–1, 1}. If det(A² – A) = 4, then the sum of all possible values of α is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/2"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "5/2"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Matrices and Determinants",
+      "topic": "Matrix properties",
+      "concept": "Transpose and determinant relation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f : [2, 4] → R be a differentiable function such that (x log_e x) f'(x) + (log x) f(x) + f(x) ≥ 1, x ∈ [2, 4] with f(2) = 1/2 and f(4) = 1/4. Consider the following two statements: (A): f(x) ≤ 1, for all x ∈ [2, 4] (B): f(x) ≥ 1/8, for all x ∈ [2, 4] Then,",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neither statement (A) nor statement (B) is true"
+        },
+        {
+          "id": "B",
+          "text": "Both the statements (A) and (B) are true"
+        },
+        {
+          "id": "C",
+          "text": "Only statement (B) is true"
+        },
+        {
+          "id": "D",
+          "text": "Only statement (A) is true"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Properties of functions",
+      "concept": "Function inequalities",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "For any vector a⃗ = a₁î + a₂ĵ + a₃k̂, with |aᵢ| < 1/10, i = 1, 2, 3, consider the following statements: (A): max{|a₁|, |a₂|, |a₃|} ≤ |a⃗| (B): |a⃗| ≤ 3 max{|a₁|, |a₂|, |a₃|}",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neither (A) nor (B) is true"
+        },
+        {
+          "id": "B",
+          "text": "Only (A) is true"
+        },
+        {
+          "id": "C",
+          "text": "Both (A) and (B) are true"
+        },
+        {
+          "id": "D",
+          "text": "Only (B) is true"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vector Algebra",
+      "topic": "Vector magnitude",
+      "concept": "Vector component inequalities",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of the integral ∫[log_e 2 to log_e e] (e^x)/(1 + e^(2x)) dx is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "log_e((2√2 - 1)/5) - 5/2"
+        },
+        {
+          "id": "B",
+          "text": "log_e((3√2 - 1)/5)/2 + 5/2"
+        },
+        {
+          "id": "C",
+          "text": "log_e((2√2 - 1)/5)/2 - 5/2"
+        },
+        {
+          "id": "D",
+          "text": "log_e((√2 - 1)/5)/2 + 5/2"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integration",
+      "topic": "Definite integration",
+      "concept": "Integration by substitution",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S = {M = [aᵢⱼ], aᵢⱼ ∈ {0, 1, 2}, 1 ≤ i, j ≤ 2} be a sample space and A = {M ∈ S : M is invertible} be an event. Then P(A) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "47/81"
+        },
+        {
+          "id": "B",
+          "text": "50/81"
+        },
+        {
+          "id": "C",
+          "text": "16/27"
+        },
+        {
+          "id": "D",
+          "text": "49/81"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Classical probability",
+      "concept": "Probability of invertible matrices",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider ellipse E_k : kx² + k²y² = 1, k = 1, 2, ..., 20. Let C_k be the circle which touches the four chords joining the end points (one on minor axis and another on major axis) of the ellipse E_k. If r_k is the radius of the circle C_k, then the value of Σ(k=1 to 20) 1/r_k² is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3320"
+        },
+        {
+          "id": "B",
+          "text": "3210"
+        },
+        {
+          "id": "C",
+          "text": "3080"
+        },
+        {
+          "id": "D",
+          "text": "2870"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Conic Sections",
+      "topic": "Ellipse",
+      "concept": "Circle touching ellipse chords",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of integral solutions x of log₇((x² - x)/7) ≥ log₇((2x - 3)/7) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Logarithmic functions",
+      "concept": "Logarithmic inequalities",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "An organization awarded 48 medals in event 'A', 25 in event 'B' and 18 in event 'C'. If these medals went to total 60 men and only five men got medals in all the three events, then, how many received medals in exactly two of three events?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "21"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sets",
+      "topic": "Venn diagrams",
+      "concept": "Set operations with three sets",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of triplets (x, y, z), where x, y, z are distinct non negative integers satisfying x + y + z = 15, is",
+      "options": [
+        {
+          "id": "A",
+          "text": "114"
+        },
+        {
+          "id": "B",
+          "text": "80"
+        },
+        {
+          "id": "C",
+          "text": "136"
+        },
+        {
+          "id": "D",
+          "text": "92"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Permutations and Combinations",
+      "topic": "Combinatorics",
+      "concept": "Solutions with distinct variables",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "Let x₁, x₂, ..., x₁₀₀ be in an arithmetic progression, with x₁ = 2 and their mean equal to 200. If yᵢ = i(xᵢ - i), 1 ≤ i ≤ 100, then the mean of y₁, y₂, ..., y₁₀₀ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "10049.50"
+        },
+        {
+          "id": "B",
+          "text": "10101.50"
+        },
+        {
+          "id": "C",
+          "text": "10051.50"
+        },
+        {
+          "id": "D",
+          "text": "10100"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sequences and Series",
+      "topic": "Arithmetic progression",
+      "concept": "Mean of derived sequence",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "Area of the region {(x, y) : x² + (y - 2)² ≤ 4, x² ≤ 2y} is",
+      "options": [
+        {
+          "id": "A",
+          "text": "π - 8/3"
+        },
+        {
+          "id": "B",
+          "text": "2π - 16/3"
+        },
+        {
+          "id": "C",
+          "text": "2π + 16/3"
+        },
+        {
+          "id": "D",
+          "text": "π + 8/3"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integration",
+      "topic": "Area under curves",
+      "concept": "Area of intersection of circle and parabola",
+      "difficulty": "HARD",
+      "skills": [
+        "GRAPHICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "Let w₁ be the point obtained by the rotation of z₁ = 5 + 4i about the origin through a right angle in the anticlockwise direction, and w₂ be the point obtained by the rotation of z₂ = 3 + 5i about the origin through a right angle in the clockwise direction. Then the principal argument of w₁ - w₂ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "-π + tan⁻¹(33/5)"
+        },
+        {
+          "id": "B",
+          "text": "-π + tan⁻¹(8/9)"
+        },
+        {
+          "id": "C",
+          "text": "π - tan⁻¹(8/9)"
+        },
+        {
+          "id": "D",
+          "text": "π - tan⁻¹(33/5)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Complex Numbers",
+      "topic": "Rotation of complex numbers",
+      "concept": "Argument of complex difference",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "Let R be a rectangle given by the lines x = 0, x = 2, y = 0 and y = 5. Let A(α, 0) and B(0, β), α ∈ [0, 2] and β ∈ [0, 5], be such that the line segment AB divides the area of the rectangle R in the ratio 4 : 1. Then, the mid-point of AB lies on a",
+      "options": [
+        {
+          "id": "A",
+          "text": "circle"
+        },
+        {
+          "id": "B",
+          "text": "parabola"
+        },
+        {
+          "id": "C",
+          "text": "straight line"
+        },
+        {
+          "id": "D",
+          "text": "hyperbola"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Locus",
+      "concept": "Locus of midpoint",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f(x) = [x² - x] + |-x + [x]|, where x ∈ R and [t] denotes the greatest integer less than or equal to t. Then f is",
+      "options": [
+        {
+          "id": "A",
+          "text": "continuous at x = 0, but not continuous at x = 1"
+        },
+        {
+          "id": "B",
+          "text": "continuous at x = 0 and x = 1"
+        },
+        {
+          "id": "C",
+          "text": "continuous at x = 1, but not continuous at x = 0"
+        },
+        {
+          "id": "D",
+          "text": "not continuous at x = 0 and x = 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Continuity",
+      "concept": "Continuity of greatest integer function",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of elements in the set S = {θ ∈ [0, 2π] : 3cos⁴θ - 5cos²θ - 2sin⁶θ + 2 = 0} is",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric equations",
+      "concept": "Solutions of trigonometric equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "MATHEMATICS",
+      "questionText": "Let sets A and B have 5 elements each. Let the mean of the elements in sets A and B be 5 and 8 respectively and the variance of the elements in sets A and B be 12 and 20 respectively. A new set C of 10 elements is formed by subtracting 3 from each element of A and adding 2 to each element of B. Then the sum of the mean and variance of the elements of C is",
+      "options": [
+        {
+          "id": "A",
+          "text": "36"
+        },
+        {
+          "id": "B",
+          "text": "32"
+        },
+        {
+          "id": "C",
+          "text": "40"
+        },
+        {
+          "id": "D",
+          "text": "38"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Statistics",
+      "topic": "Mean and variance",
+      "concept": "Combined mean and variance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a⃗ be a non-zero vector parallel to the line of intersection of the two planes described by î + ĵ, î + k̂ and î - ĵ, ĵ - k̂. If θ is the angle between the vector a⃗ and the vector b⃗ = 2î - 2ĵ + k̂ and a⃗ · b⃗ = 6, then the ordered pair (θ, |a⃗ × b⃗|) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "(π/4, 6)"
+        },
+        {
+          "id": "B",
+          "text": "(π/3, 6)"
+        },
+        {
+          "id": "C",
+          "text": "(π/3, 6√3)"
+        },
+        {
+          "id": "D",
+          "text": "(π/4, 6√3)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vector Algebra",
+      "topic": "Vector products",
+      "concept": "Line of intersection of planes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "MATHEMATICS",
+      "questionText": "In an examination, 5 students have been allotted their seats as per their roll numbers. The number of ways, in which none of the students sits on the allotted seat, is",
+      "options": [],
+      "correctAnswer": "44",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Derangements",
+      "concept": "Number of derangements",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a line l pass through the origin and be perpendicular to the lines l₁: r⃗ = (î - 11ĵ - 7k̂) + λ(î + 2ĵ + 3k̂), λ ∈ R and l₂: r⃗ = (-î + k̂) + μ(2î + 2ĵ + k̂), μ ∈ R. If P is the point of intersection of l and l₁, and Q(α, β, γ) is the foot of perpendicular from P on l₂, then 9(α + β + γ) is equal to",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "3D Geometry",
+      "topic": "Line in 3D",
+      "concept": "Perpendicular from point to line",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "MATHEMATICS",
+      "questionText": "If a and b are the roots of the equation x² - 7x - 1 = 0, then the value of (a²¹ + b²¹)/(a¹⁹ + b¹⁹) - (a¹⁷ + b¹⁷)/(a¹⁹ + b¹⁹) is equal to",
+      "options": [],
+      "correctAnswer": "51",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Recurrence relations",
+      "concept": "Roots of quadratic equation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = [[1,2,0],[a,0,3],[1,c,0]], where a, c ∈ R. If A³ = A and the positive value of a belongs to the interval (n-1, n], where n ∈ N, then n is equal to",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Matrices and Determinants",
+      "topic": "Matrix equations",
+      "concept": "Idempotent matrices",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "MATHEMATICS",
+      "questionText": "For m, n > 0, let I(m,n) = ∫₀^(π/2) t^m/(1+3t²)^n dt. If 11I(10,6) + 18I(11,5) = p(14)⁶, then p is equal to",
+      "options": [],
+      "correctAnswer": "32",
+      "questionType": "NUMERICAL",
+      "chapter": "Integration",
+      "topic": "Definite integration",
+      "concept": "Integration by parts",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S = 10⁹ + 10⁸/5¹ + 10⁷/5² + ... + 5²/10⁷ + 5¹/10⁸. Then the value of (16S - (√25)⁻⁵⁴) is equal to",
+      "options": [],
+      "correctAnswer": "2175",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Geometric series",
+      "concept": "Sum of geometric series",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of ordered triplets of the truth values of p, q and r such that the truth value of the statement (p ∧ q) → (p ∨ r) ∨ (q ∧ r) is True, is equal to",
+      "options": [],
+      "correctAnswer": "7",
+      "questionType": "NUMERICAL",
+      "chapter": "Mathematical Logic",
+      "topic": "Truth tables",
+      "concept": "Logical connectives",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "MATHEMATICS",
+      "questionText": "The mean of the coefficients of x, x², ..., x⁷ in the binomial expansion of (2 + x)⁹ is",
+      "options": [],
+      "correctAnswer": "2736",
+      "questionType": "NUMERICAL",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial coefficients",
+      "concept": "Mean of binomial coefficients",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of integral terms in the expansion of (5^(1/3) + 5^(1/4))⁶⁸⁰ is equal to",
+      "options": [],
+      "correctAnswer": "171",
+      "questionType": "NUMERICAL",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial expansion",
+      "concept": "Rational terms in binomial expansion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "MATHEMATICS",
+      "questionText": "Let Hₙ: x²/(n+1) - y²/(n+3) = 1, n ∈ N. Let k be the smallest even value of n such that the eccentricity of Hₖ is a rational number. If ℓ is the length of the latus rectum of Hₖ, then 21ℓ is equal to",
+      "options": [],
+      "correctAnswer": "306",
+      "questionType": "NUMERICAL",
+      "chapter": "Conic Sections",
+      "topic": "Hyperbola",
+      "concept": "Eccentricity and latus rectum of hyperbola",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:56:17.057Z"
+}

@@ -1,0 +1,501 @@
+{
+  "filename": "JEE_Main_2025_Jan_22_Shift2.pdf",
+  "examYear": 2025,
+  "examSession": "Jan 22 Shift 2",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "If 2x² + cos θ x - 1 = 0, θ ∈ [0,2π] has roots α and β. Then the sum of maximum and minimum value of α⁴ + β⁴ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "25/16"
+        },
+        {
+          "id": "B",
+          "text": "9/16"
+        },
+        {
+          "id": "C",
+          "text": "41/16"
+        },
+        {
+          "id": "D",
+          "text": "8/17"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Quadratic Equations",
+      "topic": "Roots of Quadratic Equations",
+      "concept": "Sum and product of roots with trigonometric coefficients",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "If θ ∈ [0,2π] satisfying the system of equations 2sin²θ = cos2θ and 2cos²θ = 3sinθ. Then the sum of all real values of θ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3π/2"
+        },
+        {
+          "id": "B",
+          "text": "π"
+        },
+        {
+          "id": "C",
+          "text": "π/2"
+        },
+        {
+          "id": "D",
+          "text": "5π/6"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations",
+      "concept": "System of trigonometric equations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = {1, 2, 3, 4} and B = {1, 4, 9, 16}. If f: A → B, then number of many-one functions from A to B are",
+      "options": [
+        {
+          "id": "A",
+          "text": "24"
+        },
+        {
+          "id": "B",
+          "text": "232"
+        },
+        {
+          "id": "C",
+          "text": "256"
+        },
+        {
+          "id": "D",
+          "text": "252"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Relations and Functions",
+      "topic": "Functions",
+      "concept": "Many-one functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "4 boys and 3 girls are to be seated in a row such that all girls seat together and two particular boys B₁ and B₂ are not adjacent to each other. Then the number of ways in which this arrangement can be done.",
+      "options": [
+        {
+          "id": "A",
+          "text": "432"
+        },
+        {
+          "id": "B",
+          "text": "430"
+        },
+        {
+          "id": "C",
+          "text": "516"
+        },
+        {
+          "id": "D",
+          "text": "1002"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Permutations and Combinations",
+      "topic": "Permutations with Restrictions",
+      "concept": "Arrangements with multiple constraints",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a⃗ and b⃗ be two unit vectors such that angle between a⃗ and b⃗ is π/3. If λa⃗ + 3b⃗ and 2a⃗ + λb⃗ are perpendicular to each other, then the product of all possible values of λ is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Vector Algebra",
+      "topic": "Dot Product",
+      "concept": "Perpendicular vectors and scalar multiplication",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider a function f(x) = ∫₀ˣ (t² - 8t + 15)/e^t dt. Then number of points of extrema are",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Integration and Differentiation",
+      "concept": "Extrema of functions defined by integrals",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "If the mean deviation about median for the number 3, 5, 7, 2k, 12, 16, 21, 24 arranged in ascending order is 6 then the median is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Statistics",
+      "topic": "Mean Deviation",
+      "concept": "Mean deviation about median",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "f(y) is the solution of differential equation √(1+y²) + (x-2tan⁻¹y)(dy/dx) = 0, f(0) = 1, find f(1/√3).",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Differential Equations",
+      "topic": "First Order Differential Equations",
+      "concept": "Solving differential equations with initial conditions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "If the sum Σᵣ₌₁³⁰ r/(²³⁰Cᵣ/²³⁰Cᵣ₋₁) = α·2²⁹, then α =",
+      "options": [
+        {
+          "id": "A",
+          "text": "225"
+        },
+        {
+          "id": "B",
+          "text": "465"
+        },
+        {
+          "id": "C",
+          "text": "345"
+        },
+        {
+          "id": "D",
+          "text": "425"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial Coefficients",
+      "concept": "Sum involving binomial coefficients",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "A: {1,2,3}, find the number of relations which are transitive and reflexive but not symmetric and contain (1,2) and (2,3).",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Relations and Functions",
+      "topic": "Relations",
+      "concept": "Properties of relations with specific conditions",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "If A is a 3×3 matrix and |A| is 1/2 and trace(A) = 3 and B = adj(adj(2A)) then find the value of |B| + trace(B).",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Matrices and Determinants",
+      "topic": "Adjoint of Matrix",
+      "concept": "Properties of adjoint and determinant",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A and B are two events such that P(A∩B) = 1/10 and P(A/B) and P(B/A) are the roots of the equation 12x² - 7x + 1 = 0, then P(A̅∪B̅)/P(A̅∩B̅) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "4/9"
+        },
+        {
+          "id": "B",
+          "text": "9/4"
+        },
+        {
+          "id": "C",
+          "text": "3/2"
+        },
+        {
+          "id": "D",
+          "text": "2/3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Conditional Probability",
+      "concept": "Conditional probability and complementary events",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "Number of terms in an arithmetic progression is 2n. Sum of terms occurring at even places is 40 and sum of terms occurring at odd places is 55. If the first term exceeds the last term by 27, then n equals to",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sequences and Series",
+      "topic": "Arithmetic Progression",
+      "concept": "Sum of terms at odd and even positions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "Perpendicular distance from the point P(-2,0,2) to the line (x+1)/2 = (y-1)/(-1) = (z+3)/2",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "3D Geometry",
+      "topic": "Distance from Point to Line",
+      "concept": "Perpendicular distance in 3D space",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "Area bounded by the curves y = x² + 4x + 4, y² = 16 - 8x, is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "8/3"
+        },
+        {
+          "id": "C",
+          "text": "4/3"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Area Under Curves",
+      "concept": "Area between curves",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "x + y + 2z = 6, 2x + 3y + az = a + 1, -x - 3y + bz = 2b has infinitely many solutions then 7a + 3b =",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Linear Algebra",
+      "topic": "System of Linear Equations",
+      "concept": "Condition for infinitely many solutions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "The perpendicular distance of point P(3,4,5) from the line r⃗ = 2î - ĵ + k̂ + λ(4î - ĵ + 5k̂) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "19/42"
+        },
+        {
+          "id": "B",
+          "text": "19/21"
+        },
+        {
+          "id": "C",
+          "text": "42/19"
+        },
+        {
+          "id": "D",
+          "text": "21/19"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Distance from Point to Line",
+      "concept": "Vector form of line and distance formula",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "In the expansion of (x + x³ - 1)⁵ + (x - x³ - 1)⁵, where α, β, γ and δ are the coefficient of x³, x⁵ and x⁷ respectively. If αu - βv = 18 and γu + δv = 20, then u + v is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "-14/15"
+        },
+        {
+          "id": "B",
+          "text": "-13/15"
+        },
+        {
+          "id": "C",
+          "text": "-3/5"
+        },
+        {
+          "id": "D",
+          "text": "-2/3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial Expansion",
+      "concept": "Coefficient extraction in binomial expansions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "DERIVATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-28T11:54:09.708Z"
+}

@@ -183,7 +183,63 @@ ${text.substring(0, 100000)}`;
     // Parse JSON from response - find the JSON array in the response
     const jsonMatch = responseText.match(/\[[\s\S]*\]/);
     if (jsonMatch) {
-      return JSON.parse(jsonMatch[0]) as ExtractedQuestion[];
+      let jsonStr = jsonMatch[0];
+
+      // Try to fix common JSON issues
+      try {
+        return JSON.parse(jsonStr) as ExtractedQuestion[];
+      } catch (parseError) {
+        console.log("  Attempting to repair malformed JSON...");
+
+        // Fix common issues:
+        // 1. Trailing commas before ] or }
+        jsonStr = jsonStr.replace(/,(\s*[}\]])/g, "$1");
+        // 2. Missing commas between objects
+        jsonStr = jsonStr.replace(/}(\s*){/g, "},{");
+        // 3. Control characters (except newlines and tabs)
+        jsonStr = jsonStr.replace(/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]/g, "");
+
+        try {
+          const result = JSON.parse(jsonStr) as ExtractedQuestion[];
+          console.log("  JSON repair successful!");
+          return result;
+        } catch (repairError) {
+          // Try a more aggressive approach - escape newlines within string values
+          console.log("  Trying aggressive JSON repair...");
+          // Find strings and escape newlines within them
+          jsonStr = jsonStr.replace(/"([^"\\]|\\.)*"/g, (match) => {
+            return match.replace(/\n/g, "\\n").replace(/\r/g, "\\r");
+          });
+
+          try {
+            const result = JSON.parse(jsonStr) as ExtractedQuestion[];
+            console.log("  Aggressive JSON repair successful!");
+            return result;
+          } catch (finalError) {
+            // Try to salvage partial results by finding complete objects
+            console.log("  Attempting to salvage partial results...");
+            const partialResults: ExtractedQuestion[] = [];
+            const objectRegex = /\{[^{}]*"questionNumber"\s*:\s*\d+[^{}]*"correctAnswer"\s*:\s*"[^"]*"[^{}]*\}/g;
+            let match;
+            while ((match = objectRegex.exec(jsonStr)) !== null) {
+              try {
+                const obj = JSON.parse(match[0]);
+                if (obj.questionNumber && obj.subject && obj.questionText) {
+                  partialResults.push(obj as ExtractedQuestion);
+                }
+              } catch {
+                // Skip malformed objects
+              }
+            }
+            if (partialResults.length > 0) {
+              console.log(`  Salvaged ${partialResults.length} questions from partial results`);
+              return partialResults;
+            }
+            console.error("  JSON repair failed:", finalError);
+            return [];
+          }
+        }
+      }
     }
 
     console.error("No JSON array found in Claude response");

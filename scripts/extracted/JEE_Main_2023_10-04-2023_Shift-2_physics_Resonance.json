@@ -1,0 +1,815 @@
+{
+  "filename": "JEE_Main_2023_10-04-2023_Shift-2_physics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "In a metallic conductor, under the effect of applied electric field, the free electrons of the conductor",
+      "options": [
+        {
+          "id": "A",
+          "text": "move in the straight line path in the same direction"
+        },
+        {
+          "id": "B",
+          "text": "drift from higher potential to lower potential"
+        },
+        {
+          "id": "C",
+          "text": "move in the curved paths from lower potential to higher potential"
+        },
+        {
+          "id": "D",
+          "text": "move with the uniform velocity throughout from lower potential to higher potential"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Drift of Electrons",
+      "concept": "Motion of electrons in electric field",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "PHYSICS",
+      "questionText": "In an experiment with vernier calipers of least count 0.1 mm, when two jaws are joined together the zero of vernier scale lies right to the zero of the main scale and 6th division of vernier scale coincides with the main scale division. While measuring the diameter of a spherical bob, the zero of vernier scale lies in between 3.2 cm and 3.3 cm marks, and 4th division of vernier scale coincides with the main scale division. The diameter of bob is measured as",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.22"
+        },
+        {
+          "id": "B",
+          "text": "3.25"
+        },
+        {
+          "id": "C",
+          "text": "3.18"
+        },
+        {
+          "id": "D",
+          "text": "3.26"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Measurements",
+      "topic": "Vernier Caliper",
+      "concept": "Zero error correction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "PHYSICS",
+      "questionText": "The distance between two plates of a capacitor is d and its capacitance is C₁, when air is the medium between the plates. If a metal sheet of thickness d/3 and of the same area as plate is introduced between the plates, the capacitance of the capacitor becomes C₂. The ratio C₁/C₂ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "4:1"
+        },
+        {
+          "id": "B",
+          "text": "2:1"
+        },
+        {
+          "id": "C",
+          "text": "3:1"
+        },
+        {
+          "id": "D",
+          "text": "1:1"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Capacitor",
+      "concept": "Effect of conductor between capacitor plates",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "PHYSICS",
+      "questionText": "The variation of stopping potential (V₀) as a function of frequency (v) of the incident light for a metal is shown in figure. The work function of the surface is",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.98 eV"
+        },
+        {
+          "id": "B",
+          "text": "1.36 eV"
+        },
+        {
+          "id": "C",
+          "text": "2.07 eV"
+        },
+        {
+          "id": "D",
+          "text": "18.6 eV"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Photoelectric Effect",
+      "concept": "Work function from stopping potential graph",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "PHYSICS",
+      "questionText": "The half life of a radioactive substance is T. The time taken, for disintegrating 7/8th part of its original mass will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "T"
+        },
+        {
+          "id": "B",
+          "text": "3T"
+        },
+        {
+          "id": "C",
+          "text": "8T"
+        },
+        {
+          "id": "D",
+          "text": "2T"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Radioactivity",
+      "concept": "Half-life calculation",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "PHYSICS",
+      "questionText": "The amplitude of magnetic field in an electromagnetic wave propagating along y-axis is 6.0×10⁻⁷ T. The maximum value of electric field in the electromagnetic wave is",
+      "options": [
+        {
+          "id": "A",
+          "text": "180 Vm⁻¹"
+        },
+        {
+          "id": "B",
+          "text": "2 × 10¹⁵ Vm⁻¹"
+        },
+        {
+          "id": "C",
+          "text": "5×10¹⁴ Vm⁻¹"
+        },
+        {
+          "id": "D",
+          "text": "6.0 × 10⁻⁷ Vm⁻¹"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "EM Waves",
+      "concept": "Relation between E and B in EM wave",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "PHYSICS",
+      "questionText": "Two projectiles are projected at 30° and 60° with the horizontal with the same speed. The ratio of the maximum height attained by the two projectiles respectively is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : √3"
+        },
+        {
+          "id": "B",
+          "text": "1: 3"
+        },
+        {
+          "id": "C",
+          "text": "2: √3"
+        },
+        {
+          "id": "D",
+          "text": "√3:1"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Projectile Motion",
+      "concept": "Maximum height of projectile",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "PHYSICS",
+      "questionText": "Young's moduli of the material of wires A and B are in the ratio of 1:4, while its area of cross section are in the ratio of 1:3. If the same amount of load is applied to both the wires, the amount of elongation produced in the wires A and B will in the ratio of [Assume length of wires A and B are same]",
+      "options": [
+        {
+          "id": "A",
+          "text": "36: 1"
+        },
+        {
+          "id": "B",
+          "text": "1: 36"
+        },
+        {
+          "id": "C",
+          "text": "1:12"
+        },
+        {
+          "id": "D",
+          "text": "12: 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Elastic Properties",
+      "concept": "Young's modulus and elongation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements:\nStatement I: For diamagnetic substance, -1 < χ < 0, where χ is the magnetic susceptibility.\nStatement II: Diamagnetic substances when placed in an external magnetic field, tend to move from stronger to weaker part of the field.\nIn the light of the above statements, choose the correct answer from the options given below",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is incorrect but Statement II is true"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is correct but Statement II is false"
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are False"
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are true"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Properties",
+      "concept": "Diamagnetic substances",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "PHYSICS",
+      "questionText": "A person travels x distance with velocity v₁ and then x distance with velocity v₂ in the same direction. The average velocity of the person is v, then the relation between v, v₁ and v₂ will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "2/v = 1/v₁ + 1/v₂"
+        },
+        {
+          "id": "B",
+          "text": "1/v = 1/v₁ + 1/v₂"
+        },
+        {
+          "id": "C",
+          "text": "v = (v₁ + v₂)/2"
+        },
+        {
+          "id": "D",
+          "text": "v = 2v₁v₂/(v₁ + v₂)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Motion in One Dimension",
+      "concept": "Average velocity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "PHYSICS",
+      "questionText": "A bar magnet is released from rest along the axis of a very long vertical copper tube. After some time the magnet will",
+      "options": [
+        {
+          "id": "A",
+          "text": "move down with an acceleration equal to g"
+        },
+        {
+          "id": "B",
+          "text": "oscillate inside the tube"
+        },
+        {
+          "id": "C",
+          "text": "move down with almost constant speed"
+        },
+        {
+          "id": "D",
+          "text": "move down with an acceleration greater than g"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Lenz's Law",
+      "concept": "Eddy currents and terminal velocity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "PHYSICS",
+      "questionText": "A gas mixture consists of 2 moles of oxygen and 4 moles of neon at temperature T. Neglecting all vibrational modes, the total internal energy of the system will be,",
+      "options": [
+        {
+          "id": "A",
+          "text": "11 RT"
+        },
+        {
+          "id": "B",
+          "text": "4RT"
+        },
+        {
+          "id": "C",
+          "text": "8RT"
+        },
+        {
+          "id": "D",
+          "text": "16RT"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Kinetic Theory",
+      "concept": "Internal energy of gas mixture",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "PHYSICS",
+      "questionText": "The ratio of intensities at two points P and Q on the screen in a Young's double slit experiment where phase difference between two waves of same amplitude are π/3 and π/2 respectively are",
+      "options": [
+        {
+          "id": "A",
+          "text": "3:1"
+        },
+        {
+          "id": "B",
+          "text": "1:3"
+        },
+        {
+          "id": "C",
+          "text": "3:2"
+        },
+        {
+          "id": "D",
+          "text": "2: 3"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Optics",
+      "topic": "Interference",
+      "concept": "Intensity in Young's double slit",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "PHYSICS",
+      "questionText": "A gas is compressed adiabatically, which one of the following statement is NOT true.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The change in the internal energy is equal to the work done on the gas"
+        },
+        {
+          "id": "B",
+          "text": "The temperature of the gas increases"
+        },
+        {
+          "id": "C",
+          "text": "There is no heat supplied to the system"
+        },
+        {
+          "id": "D",
+          "text": "There is no change in the internal energy"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Adiabatic process",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statement:\nstatement I: Rotation of the earth shows effect on the value of acceleration due to gravity (g)\nstatement II: The effect of rotation of the earth on the value of 'g' at the equator is minimum and that at the pole is maximum.\nIn the light of the above statements, choose the correct answer from the options given below",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statement I and statement II are false"
+        },
+        {
+          "id": "B",
+          "text": "statement I is true but statement II is false"
+        },
+        {
+          "id": "C",
+          "text": "Both statement I and statement II are true"
+        },
+        {
+          "id": "D",
+          "text": "statement I is false but statement II is true"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Gravitation",
+      "concept": "Effect of earth's rotation on g",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "PHYSICS",
+      "questionText": "For a periodic motion represented by the equation y = sin t + cos t the amplitude of the motion is",
+      "options": [
+        {
+          "id": "A",
+          "text": "√2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "0.5"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Oscillations",
+      "topic": "Simple Harmonic Motion",
+      "concept": "Amplitude of superposed oscillations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: An electric fan continues to rotate for some time after the current is switched off.\nReason R: Fan continues to rotate due to inertia of motion.\nIn the light of above statements, choose the most appropriate answer from the options given below.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "A is correct but R is not correct"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct and R is the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "A is not correct but R is correct"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Rotational inertia",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "PHYSICS",
+      "questionText": "A message signal of frequency 3kHz is used to modulate a carrier signal of frequency 1.5 MHz. The bandwidth of the amplitude modulated wave is",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 MHz"
+        },
+        {
+          "id": "B",
+          "text": "6 kHz"
+        },
+        {
+          "id": "C",
+          "text": "3 MHz"
+        },
+        {
+          "id": "D",
+          "text": "3 kHz"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Communication Systems",
+      "topic": "Amplitude Modulation",
+      "concept": "Bandwidth of AM wave",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "PHYSICS",
+      "questionText": "If each diode has a forward bias resistance of 25Ω in the below circuit, which of the following options is correct:",
+      "options": [
+        {
+          "id": "A",
+          "text": "I₁/I = 2/3"
+        },
+        {
+          "id": "B",
+          "text": "I₁/I = 1/2"
+        },
+        {
+          "id": "C",
+          "text": "I₁/I = 3/4"
+        },
+        {
+          "id": "D",
+          "text": "I₁/I₂ = 2"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electronics",
+      "topic": "Semiconductor Diodes",
+      "concept": "Current division in diode circuits",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "PHYSICS",
+      "questionText": "The time period of a satellite revolving above earth's surface at a height equal to R will be (given g = π² m/s², R = radius of earth)",
+      "options": [
+        {
+          "id": "A",
+          "text": "4π√R"
+        },
+        {
+          "id": "B",
+          "text": "2π√R"
+        },
+        {
+          "id": "C",
+          "text": "8π√R"
+        },
+        {
+          "id": "D",
+          "text": "32π√R"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Gravitation",
+      "concept": "Satellite orbital period",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "PHYSICS",
+      "questionText": "A square loop of side 2.0 cm is placed inside a long solenoid that has 50 turns per centimetre and carries as sinusoidally varying current of amplitude 2.5A and angular frequency 700 rad s⁻¹. The central axes of the loop and solenoid coincide. The amplitude of the emf induced in the loop is x × 10⁻⁴ V. The value of x is (Take, π = 22/7)",
+      "correctAnswer": "44",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Induced EMF",
+      "concept": "EMF in solenoid",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "PHYSICS",
+      "questionText": "A rectangular block of mass 5 kg attached to an horizontal spiral spring executes simple harmonic motion of amplitude 1 m and time period 3.14s. The maximum force exerted by spring on block is _____N.",
+      "correctAnswer": "20",
+      "questionType": "NUMERICAL",
+      "chapter": "Oscillations",
+      "topic": "Simple Harmonic Motion",
+      "concept": "Maximum force in SHM",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "PHYSICS",
+      "questionText": "An electron revolves around an infinite cylindrical wire having uniform linear charge density 2×10⁻⁸ Cm⁻¹ in circular path under the influence of attractive electrostatic field as shown in the figure. The velocity of electron with which it is revolving is _____ × 10⁶ ms⁻¹. Given mass of electron = 9 × 10⁻³¹ kg",
+      "correctAnswer": "8",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Electric Field",
+      "concept": "Circular motion in electric field",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "PHYSICS",
+      "questionText": "Figure below shows a liquid being pushed out of the tube by a piston having area of cross section 2.0 cm². The area of cross section at the outlet is 10 mm². If the piston is pushed at a speed of 4 cm s⁻¹, the speed of outgoing fluid is ______ cm s⁻¹",
+      "correctAnswer": "80",
+      "questionType": "NUMERICAL",
+      "chapter": "Fluid Mechanics",
+      "topic": "Fluid Flow",
+      "concept": "Continuity equation",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "PHYSICS",
+      "questionText": "If the maximum load carried by an elevator is 1400 kg (600 kg - Passengers + 800 kg- elevator), which is moving up with a uniform speed of 3 ms⁻¹ and the frictional force acting on it is 2000 N, then the maximum power used by the motor is ____ kW (g=10 m/s²)",
+      "correctAnswer": "48",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Work Energy Power",
+      "concept": "Power calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "PHYSICS",
+      "questionText": "A force of -Pk̂ acts on the origin of the coordinate system. The torque about the point (2,3) is P[aî + bĵ]. The ratio of a/b is x/2. The value of x is-",
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Torque calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "PHYSICS",
+      "questionText": "A point object, 'O' is placed in front of two thin symmetrical coaxial convex lenses L₁ and L₂ with focal length 24 cm and 9 cm respectively. The distance between two lenses is 10 cm and the object is placed 6 cm away from lens L₁ as shown in the figure. The distance between the object and the image formed by the system of two lenses is _____ cm.",
+      "correctAnswer": "34",
+      "questionType": "NUMERICAL",
+      "chapter": "Ray Optics",
+      "topic": "Lens Formula",
+      "concept": "Combination of lenses",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "PHYSICS",
+      "questionText": "A straight wire carrying of 14 A is bent into a semi-circular arc of radius 2.2 cm as shown in the figure. The magnetic field produced by the current at the centre (O) of the arc is ____ × 10⁻⁴T",
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Field",
+      "concept": "Magnetic field due to current loop",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "PHYSICS",
+      "questionText": "If 917 Å be the lowest wavelength of Lyman series then the lowest wavelength of Balmer series will be _______ Å",
+      "correctAnswer": "3668",
+      "questionType": "NUMERICAL",
+      "chapter": "Modern Physics",
+      "topic": "Atomic Spectra",
+      "concept": "Hydrogen spectrum series",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "PHYSICS",
+      "questionText": "A rectangular parallelopiped is measured as 1 cm × 1 cm × 100 cm. If its specific resistance is 3 × 10⁻⁷ Ωm then the resistance between its two opposite rectangular faces will be _____ ×10⁻⁷ Ω",
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Resistance",
+      "concept": "Resistance calculation",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:52:52.824Z"
+}

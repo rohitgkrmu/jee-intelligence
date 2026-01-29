@@ -1,0 +1,822 @@
+{
+  "filename": "JEE_Main_2023_10-04-2023_Shift-2_chemistry_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 61,
+      "subject": "CHEMISTRY",
+      "questionText": "Incorrect method of preparation for alcohols from the following is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hydroboration-oxidation of alkene."
+        },
+        {
+          "id": "B",
+          "text": "Reaction of Ketone with RMgBr followed by hydrolysis."
+        },
+        {
+          "id": "C",
+          "text": "Reaction of alkyl halide with aqueous NaOH."
+        },
+        {
+          "id": "D",
+          "text": "Ozonolysis of alkene."
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Alcohols",
+      "concept": "Preparation methods of alcohols",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct order of the number of unpaired electrons in the given complexes is A. [Fe(CN)₆]³⁻ B. [FeF₆]³⁻ C. [CoF₆]³⁻ D. [Cr(oxalate)₃]³⁻ E. [Ni(CO)₄] Choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A < E < D < C < B"
+        },
+        {
+          "id": "B",
+          "text": "E < A < B < D < C"
+        },
+        {
+          "id": "C",
+          "text": "E < A < D < C < B"
+        },
+        {
+          "id": "D",
+          "text": "A < E < C < B < D"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "Crystal field theory",
+      "concept": "Unpaired electrons in complexes",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "subject": "CHEMISTRY",
+      "questionText": "The decreasing order of hydride affinity for following carbocations is: Choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "C, A, D, B"
+        },
+        {
+          "id": "B",
+          "text": "A, C, D, B"
+        },
+        {
+          "id": "C",
+          "text": "C, A, B, D"
+        },
+        {
+          "id": "D",
+          "text": "A, C, B, D"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Carbocations",
+      "concept": "Hydride affinity and carbocation stability",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "subject": "CHEMISTRY",
+      "questionText": "In Carius tube, an organic compound 'X' is treated with sodium peroxide to form a mineral acid 'Y'. The solution of BaCl₂, is added to 'Y' to form a precipitate 'Z'. 'Z' is used for the quantitative estimation of an extra element. 'X' could be",
+      "options": [
+        {
+          "id": "A",
+          "text": "A nucleotide"
+        },
+        {
+          "id": "B",
+          "text": "Chloroxylenol"
+        },
+        {
+          "id": "C",
+          "text": "Methionine"
+        },
+        {
+          "id": "D",
+          "text": "Cytosine"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Qualitative analysis",
+      "concept": "Detection of sulfur in organic compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "subject": "CHEMISTRY",
+      "questionText": "The reaction used for preparation of soap from fat is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "reduction reaction"
+        },
+        {
+          "id": "B",
+          "text": "an addition reaction"
+        },
+        {
+          "id": "C",
+          "text": "alkaline hydrolysis reaction"
+        },
+        {
+          "id": "D",
+          "text": "an oxidation reaction"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Biomolecules",
+      "concept": "Saponification",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "subject": "CHEMISTRY",
+      "questionText": "Buna-S can be represented as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1"
+        },
+        {
+          "id": "B",
+          "text": "Option 2"
+        },
+        {
+          "id": "C",
+          "text": "Option 3"
+        },
+        {
+          "id": "D",
+          "text": "Option 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Polymers",
+      "concept": "Structure of Buna-S",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct order of metallic character is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Be > Ca > K"
+        },
+        {
+          "id": "B",
+          "text": "Ca > K > Be"
+        },
+        {
+          "id": "C",
+          "text": "K > Ca > Be"
+        },
+        {
+          "id": "D",
+          "text": "K > Be > Ca"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Periodic Properties",
+      "topic": "Metallic character",
+      "concept": "Periodic trends in metallic character",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II List I Complex List II Crystal Field Splitting energy (Δ₀) A. [Ti(H₂O)₆]²⁺ I. -1.2 B. [V(H₂O)₆]²⁺ II. -0.6 C. [Mn(H₂O)₆]³⁺ III. 0 D. [Fe(H₂O)₆]³⁺ IV. -0.8 Choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-II, B-IV, C-III, D-I"
+        },
+        {
+          "id": "B",
+          "text": "A-IV, B-I, C-II, D-III"
+        },
+        {
+          "id": "C",
+          "text": "A-II, B-IV, C-I, D-III"
+        },
+        {
+          "id": "D",
+          "text": "A-IV, B-I, C-III, D-II"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "Crystal field theory",
+      "concept": "Crystal field stabilization energy",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "subject": "CHEMISTRY",
+      "questionText": "In the reaction given below: The Product 'X' is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1"
+        },
+        {
+          "id": "B",
+          "text": "Option 2"
+        },
+        {
+          "id": "C",
+          "text": "Option 3"
+        },
+        {
+          "id": "D",
+          "text": "Option 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reduction reactions",
+      "concept": "LiAlH₄ reduction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R Assertion A: 3.1500g of hydrated oxalic acid dissolved in water to make 250.0 mL solution will result in 0.1 M oxalic acid solution. Reason R: Molar mass of hydrated oxalic acid is 126 g mol⁻¹ In the light of the above statements, choose the correct answer from the options given below",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is false but R is true"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "A is true but R is false"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solutions",
+      "topic": "Molarity",
+      "concept": "Calculation of molarity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "subject": "CHEMISTRY",
+      "questionText": "Number of water molecules in washing soda and soda ash respectively are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 10"
+        },
+        {
+          "id": "B",
+          "text": "1 and 0"
+        },
+        {
+          "id": "C",
+          "text": "10 and 1"
+        },
+        {
+          "id": "D",
+          "text": "10 and 0"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Group 1 elements",
+      "concept": "Hydrated salts",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "subject": "CHEMISTRY",
+      "questionText": "The major product 'P' formed in the given reaction is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1"
+        },
+        {
+          "id": "B",
+          "text": "Option 2"
+        },
+        {
+          "id": "C",
+          "text": "Option 3"
+        },
+        {
+          "id": "D",
+          "text": "Option 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic substitution",
+      "concept": "Friedel-Crafts acylation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R Assertion A: The energy required to form Mg²⁺ from Mg is much higher than that required to produce Mg⁺ Reason R: Mg²⁺ is small ion and carry more charge than Mg⁺ In the light of the above statements, choose the correct answer from the options given below.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "B",
+          "text": "A is false but R is true"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Periodic Properties",
+      "topic": "Ionization energy",
+      "concept": "Second ionization energy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "subject": "CHEMISTRY",
+      "questionText": "Gibbs energy vs T plot for the formation of oxides is given below. For the given diagram, the correct statement is -",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 600 °C, CO cannot reduce FeO"
+        },
+        {
+          "id": "B",
+          "text": "At 600°C, C can reduce FeO"
+        },
+        {
+          "id": "C",
+          "text": "At 600 °C, C can reduce ZnO"
+        },
+        {
+          "id": "D",
+          "text": "At 600 °C, CO can reduce ZnO"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Metallurgy",
+      "topic": "Extraction of metals",
+      "concept": "Ellingham diagram",
+      "difficulty": "HARD",
+      "skills": [
+        "GRAPHICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct order for acidity of the following hydroxyl compound is: Choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "C > E > D > B > A"
+        },
+        {
+          "id": "B",
+          "text": "D > E > C > A > B"
+        },
+        {
+          "id": "C",
+          "text": "E > D > C > B > A"
+        },
+        {
+          "id": "D",
+          "text": "E > C > D > A > B"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Phenols",
+      "concept": "Acidity of phenols",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II List I List II A. 16 g of CH₄ (g) I. Weight 28g B. 1 g of H₂ (g) II. 60.2 × 10²³ electrons C. 1 mole of N₂ (g) III. Weighs 32 g D. 0.5 mol of SO₂ (g) IV. Occupies 11.4 L volume at STP Choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-II, B-IV, C-III, D-I"
+        },
+        {
+          "id": "B",
+          "text": "A-I, B-III, C-II, D-IV"
+        },
+        {
+          "id": "C",
+          "text": "A-II, B-III, C-IV, D-I"
+        },
+        {
+          "id": "D",
+          "text": "A-II, B-IV, C-I, D-III"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Basic Concepts",
+      "topic": "Mole concept",
+      "concept": "Molar calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct relationships between unit cell edge length 'a' and radius of sphere 'r' for face-centred and body-centred cubic structures respectively are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2√2r = a and 4r = √3a"
+        },
+        {
+          "id": "B",
+          "text": "r = 2√2a and √3r = 4a"
+        },
+        {
+          "id": "C",
+          "text": "r = 2√2a and 4r = √3a"
+        },
+        {
+          "id": "D",
+          "text": "2√2r = a and √3r = 4a"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solid State",
+      "topic": "Crystal structures",
+      "concept": "Unit cell dimensions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R Assertion A: Physical properties of isotopes of hydrogen are different. Reason R: Mass difference between isotopes of hydrogen is very large. In the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is false but R is true"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Hydrogen",
+      "topic": "Isotopes of hydrogen",
+      "concept": "Physical properties of isotopes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "subject": "CHEMISTRY",
+      "questionText": "Ferric chloride is applied to stop bleeding because -",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fe³⁺ ions coagulate blood which is a negatively charged sol."
+        },
+        {
+          "id": "B",
+          "text": "FeCl₃ reacts with the constituents of blood which is a positively charged sol."
+        },
+        {
+          "id": "C",
+          "text": "Blood absorbs FeCl₃ and forms a complex."
+        },
+        {
+          "id": "D",
+          "text": "Cl⁻ ions cause coagulation of blood."
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Surface Chemistry",
+      "topic": "Colloids",
+      "concept": "Coagulation of colloids",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "subject": "CHEMISTRY",
+      "questionText": "The delicate balance of CO₂ and O₂ is NOT disturbed by",
+      "options": [
+        {
+          "id": "A",
+          "text": "Burning of Coal"
+        },
+        {
+          "id": "B",
+          "text": "Burning of petroleum"
+        },
+        {
+          "id": "C",
+          "text": "Deforestation"
+        },
+        {
+          "id": "D",
+          "text": "Respiration"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Environmental Chemistry",
+      "topic": "Atmospheric pollution",
+      "concept": "CO₂-O₂ balance",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "subject": "CHEMISTRY",
+      "questionText": "A(g) → 2B(g) + C(g) For the given reaction, if the initial pressure is 450 mm Hg and the pressure at time t is 720 mm Hg at a constant temperature T and constant volume V. The fraction of A(g) decomposed under these conditions is x × 10⁻¹. The value of x is (nearest integer)",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Kinetics",
+      "topic": "Reaction rates",
+      "concept": "Pressure change in gaseous reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of incorrect statement/s from the following is _____________ A. The successive half lives of zero order reactions decreases with time. B. A substance appearing as reactant in the chemical equation may not affect the rate of reaction C. Order and molecularity of a chemical reaction can be a fractional number D. The rate constant units of zero and second order reaction are mol L⁻¹ s⁻¹ and mol⁻¹ L s⁻¹ respectively",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Kinetics",
+      "topic": "Reaction kinetics",
+      "concept": "Order and molecularity",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of endothermic process/es from the following is ____________ A. I₂ (g) → 2I(g) B. HCl (g) → H(g) + Cl (g) C. H₂O(l) → H₂O (g) D. C(s) + O₂ (g) → CO₂ (g) E. Dissolution of ammonium chloride in water",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Enthalpy",
+      "concept": "Endothermic and exothermic processes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "subject": "CHEMISTRY",
+      "questionText": "The specific conductance of 0.0025 M acetic acid is 5 × 10⁻⁵ S cm⁻¹ at a certain temperature. The dissociation constant of acetic acid is ___________ × 10⁻⁷. (Nearest integer) Consider limiting molar conductivity of CH₃COOH as 400 S cm² mol⁻¹",
+      "options": [],
+      "correctAnswer": "66",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Conductance",
+      "concept": "Dissociation constant from conductance",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "subject": "CHEMISTRY",
+      "questionText": "For a metal ion, the calculated magnetic moment is 4.90 BM. This metal ion has __________ number of unpaired electrons.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Chemistry",
+      "topic": "Magnetic properties",
+      "concept": "Magnetic moment and unpaired electrons",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "subject": "CHEMISTRY",
+      "questionText": "An aqueous solution of volume 300 cm³ contains 0.63 g of protein. The osmotic pressure of the solution at 300 K is 1.29 mbar. The molar mass of the protein is __________ g mol⁻¹ Given: R = 0.083 L bar K⁻¹ mol⁻¹",
+      "options": [],
+      "correctAnswer": "40535",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Colligative properties",
+      "concept": "Osmotic pressure",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "subject": "CHEMISTRY",
+      "questionText": "The difference in the oxidation state of Xe between the oxidised product of Xe formed on complete hydrolysis of XeF₄ and XeF₄ is __________",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "p-Block Elements",
+      "topic": "Noble gases",
+      "concept": "Oxidation states of xenon",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "subject": "CHEMISTRY",
+      "questionText": "The electron in the nth orbit of Li²⁺ is excited to (n + 1) orbit using the radiation of energy 1.47 × 10⁻¹⁷ J (as shown in the diagram). The value of n is __________ Given: R_H = 2.18 × 10⁻¹⁸ J",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Atomic Structure",
+      "topic": "Bohr model",
+      "concept": "Energy transitions in hydrogen-like atoms",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of molecules from the following which contain only two lone pair of electrons is __________ H₂O, N₂, CO, XeF₄, NH₃, NO, CO₂, F₂",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Bonding",
+      "topic": "Molecular structure",
+      "concept": "Lone pairs in molecules",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "subject": "CHEMISTRY",
+      "questionText": "In alkaline medium, the reduction of permanganate anion involves a gain of electrons.",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Redox Reactions",
+      "topic": "Redox reactions",
+      "concept": "Reduction of permanganate",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:50:56.938Z"
+}

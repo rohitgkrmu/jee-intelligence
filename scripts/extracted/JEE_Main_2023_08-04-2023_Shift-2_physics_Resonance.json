@@ -1,0 +1,831 @@
+{
+  "filename": "JEE_Main_2023_08-04-2023_Shift-2_physics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "The trajectory of projectile, projected from the ground is given by y = x - x²/20. Where x and y are measured in meter. The maximum height attained by the projectile will be.",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 m"
+        },
+        {
+          "id": "B",
+          "text": "10/2 m"
+        },
+        {
+          "id": "C",
+          "text": "10 m"
+        },
+        {
+          "id": "D",
+          "text": "200 m"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Projectile Motion",
+      "concept": "Maximum height of projectile",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "PHYSICS",
+      "questionText": "The acceleration due to gravity at height h above the earth if h << R (Radius of earth) is given by",
+      "options": [
+        {
+          "id": "A",
+          "text": "g' = g(1 - 2h/R)"
+        },
+        {
+          "id": "B",
+          "text": "g' = g(1 - 2h²/R²)"
+        },
+        {
+          "id": "C",
+          "text": "g' = g(1 - h²/2R²)"
+        },
+        {
+          "id": "D",
+          "text": "g' = g(1 - h/2R)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Variation of g",
+      "concept": "Acceleration due to gravity at height",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "PHYSICS",
+      "questionText": "Electric potential at a point 'P' due to a point charge of 5 × 10⁻⁹C is 50 V. The distance of 'P' from the point charge is: (Assume, 1/4πε₀ = 9 × 10⁹ Nm²C⁻²)",
+      "options": [
+        {
+          "id": "A",
+          "text": "90 cm"
+        },
+        {
+          "id": "B",
+          "text": "0.9 cm"
+        },
+        {
+          "id": "C",
+          "text": "9 cm"
+        },
+        {
+          "id": "D",
+          "text": "3 cm"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Potential",
+      "concept": "Potential due to point charge",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "PHYSICS",
+      "questionText": "An emf of 0.08 V is induced in a metal rod of length 10 cm held normal to a uniform magnetic field of 0.4 T, when moves with a velocity of :",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 ms⁻¹"
+        },
+        {
+          "id": "B",
+          "text": "0.5 ms⁻¹"
+        },
+        {
+          "id": "C",
+          "text": "20 ms⁻¹"
+        },
+        {
+          "id": "D",
+          "text": "3.2 ms⁻¹"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Motional EMF",
+      "concept": "EMF in moving rod",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statement: one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: Electromagnets are made of soft iron.\nReason R: Soft iron has high permeability and low retentivity.\nIn the light of above, statement, choose the most appropriate answer from the options given below.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is not correct but R is correct"
+        },
+        {
+          "id": "B",
+          "text": "A is correct but R is not correct"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are correct and R is the correct explanation of A"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Materials",
+      "concept": "Properties of soft iron",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "PHYSICS",
+      "questionText": "A hydraulic automobile lift is designed to vehicles of mass 5000 kg. The area of cross section of the cylinder carrying the load is 250 cm². The maximum pressure the smaller piston would have to bear is [Assume g = 10 m/s²]",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 × 10⁵ Pa"
+        },
+        {
+          "id": "B",
+          "text": "20 × 10⁶ Pa"
+        },
+        {
+          "id": "C",
+          "text": "2 × 10⁶ Pa"
+        },
+        {
+          "id": "D",
+          "text": "200 × 10⁶ Pa"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Pascal's Law",
+      "concept": "Hydraulic lift pressure",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "PHYSICS",
+      "questionText": "The equivalent resistance between A and B as shown in figure is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 kΩ"
+        },
+        {
+          "id": "B",
+          "text": "20 kΩ"
+        },
+        {
+          "id": "C",
+          "text": "10 kΩ"
+        },
+        {
+          "id": "D",
+          "text": "30 kΩ"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Combination of Resistors",
+      "concept": "Parallel resistance combination",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "PHYSICS",
+      "questionText": "In photo electric effect\n(A) The photocurrent is proportional to the intensity of the incident radiation.\n(B) Maximum kinetic energy with which photoelectrons are emitted depends on the intensity of incident light.\n(C) Max. K.E with which photoelectron are emitted depends on the frequency of incident light.\n(D) The emission of photoelectron require a minimum threshold intensity of incident radiation.\n(E) Max K.E of the photoelectrons is independent of the frequency of the incident light.\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "B and C only"
+        },
+        {
+          "id": "B",
+          "text": "A and B only"
+        },
+        {
+          "id": "C",
+          "text": "A and C only"
+        },
+        {
+          "id": "D",
+          "text": "A and E only"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Photoelectric Effect",
+      "concept": "Properties of photoelectric effect",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "PHYSICS",
+      "questionText": "The temperature at which the kinetic energy of oxygen molecules becomes double than its value at 27°C is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1227°C"
+        },
+        {
+          "id": "B",
+          "text": "627°C"
+        },
+        {
+          "id": "C",
+          "text": "327°C"
+        },
+        {
+          "id": "D",
+          "text": "927°C"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinetic Theory of Gases",
+      "topic": "Kinetic Energy of Gas Molecules",
+      "concept": "Temperature dependence of kinetic energy",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "PHYSICS",
+      "questionText": "Work done by carnot engine operating between temperatures 127°C and 27°C is 2kJ. The amount of heat transferred to the engine by the reservoir is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.27 kJ"
+        },
+        {
+          "id": "B",
+          "text": "2kJ"
+        },
+        {
+          "id": "C",
+          "text": "8 kJ"
+        },
+        {
+          "id": "D",
+          "text": "4kJ"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Carnot Engine",
+      "concept": "Heat transfer in Carnot engine",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "PHYSICS",
+      "questionText": "The width of fringe is 2 mm on the screen in a double slits experiment for the light of wavelength of 400 nm. The width of the fringe for the light of wavelength 600 nm will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 mm"
+        },
+        {
+          "id": "B",
+          "text": "4 mm"
+        },
+        {
+          "id": "C",
+          "text": "1.33 mm"
+        },
+        {
+          "id": "D",
+          "text": "2 mm"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Optics",
+      "topic": "Young's Double Slit",
+      "concept": "Fringe width dependence on wavelength",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "PHYSICS",
+      "questionText": "For a given transistor amplifier circuit in CE configuration VCC = 1 V, RC = 1 kΩ, Rb = 100 kΩ and β = 100. Value of base current Ib is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ib = 1.0 μA"
+        },
+        {
+          "id": "B",
+          "text": "Ib = 0.1 μA"
+        },
+        {
+          "id": "C",
+          "text": "Ib = 10 μA"
+        },
+        {
+          "id": "D",
+          "text": "Ib = 100 μA"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Semiconductor Electronics",
+      "topic": "Transistor",
+      "concept": "Transistor in CE configuration",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "PHYSICS",
+      "questionText": "For particle P revolving round the centre O with radius of circular path r and angular velocity ω, as shown in below figure. the projection of OP on the x-axis at time t is",
+      "options": [
+        {
+          "id": "A",
+          "text": "x(t) = r cos(ωt + π/6)"
+        },
+        {
+          "id": "B",
+          "text": "x(t) = r cos(ωt - π/6)"
+        },
+        {
+          "id": "C",
+          "text": "x(t) = r sin(ωt + π/6)"
+        },
+        {
+          "id": "D",
+          "text": "x(t) = r cos(ωt)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Simple Harmonic Motion",
+      "topic": "Circular Motion Projection",
+      "concept": "Projection of circular motion on axis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "PHYSICS",
+      "questionText": "The waves emitted when a metal target is bombarded with high energy electrons are",
+      "options": [
+        {
+          "id": "A",
+          "text": "X-ray"
+        },
+        {
+          "id": "B",
+          "text": "Microwaves"
+        },
+        {
+          "id": "C",
+          "text": "Radio Waves"
+        },
+        {
+          "id": "D",
+          "text": "Infrared rays"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "X-rays",
+      "concept": "X-ray production",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements:\nStatement I : Area under velocity-time graph given the distance travelled by the body in a given time\nStatement II : Area under acceleration-time graph is equal to the change in velocity in the given time.\nIn the light of given statement, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are False"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is incorrect but Statement II is true."
+        },
+        {
+          "id": "C",
+          "text": "Statement I is correct but Statement II is False."
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are true."
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinematics",
+      "topic": "Graphs",
+      "concept": "Area under velocity-time and acceleration-time graphs",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "PHYSICS",
+      "questionText": "A radio active material is reduced to 1/8 of its original amount in 3 days. If 8 × 10⁻³ kg of the material is left after 5 days the initial amount of the material is",
+      "options": [
+        {
+          "id": "A",
+          "text": "40 g"
+        },
+        {
+          "id": "B",
+          "text": "32 g"
+        },
+        {
+          "id": "C",
+          "text": "64 g"
+        },
+        {
+          "id": "D",
+          "text": "256 g"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Radioactivity",
+      "concept": "Radioactive decay law",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "PHYSICS",
+      "questionText": "The orbital angular momentum of a satellite is L, when it is revolving in a circular orbit at height h from earth surface. If the distance of satellite from the earth centre is increased by eight times to its initial value, then the new angular momentum will be-",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 L"
+        },
+        {
+          "id": "B",
+          "text": "4 L"
+        },
+        {
+          "id": "C",
+          "text": "9 L"
+        },
+        {
+          "id": "D",
+          "text": "8 L"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Satellite Motion",
+      "concept": "Angular momentum of satellite",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "PHYSICS",
+      "questionText": "A bullet of mass 0.1 kg moving horizontally with speed 400 ms⁻¹ hits a wooden block of mass 3.9 kg kept on a horizontal rough surface. The bullet gets embedded into the block and moves 20 m before coming to rest. The coefficient of friction between the block and the surface is (Given g = 10 m/s²)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.50"
+        },
+        {
+          "id": "B",
+          "text": "0.90"
+        },
+        {
+          "id": "C",
+          "text": "0.25"
+        },
+        {
+          "id": "D",
+          "text": "0.65"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Momentum Conservation and Friction",
+      "concept": "Inelastic collision and friction",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "PHYSICS",
+      "questionText": "The power radiated from a linear antenna of length ℓ is proportional to (Given, λ = Wavelength of wave):",
+      "options": [
+        {
+          "id": "A",
+          "text": "ℓ/λ"
+        },
+        {
+          "id": "B",
+          "text": "(ℓ/λ)²"
+        },
+        {
+          "id": "C",
+          "text": "λ²/ℓ²"
+        },
+        {
+          "id": "D",
+          "text": "(ℓ/λ)²"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Antenna",
+      "concept": "Power radiated by antenna",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "PHYSICS",
+      "questionText": "Match List-I with List-II\nLIST-I       LIST-II\n(A) Torque     (I) ML⁻²T⁻²\n(B) Stress      (II) ML²T⁻²\n(C) Pressure gradient  (III) ML⁻¹T⁻¹\n(D) Coefficient of viscosity    (IV) ML⁻¹T⁻²\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-IV, B-II, C-III, D-I"
+        },
+        {
+          "id": "B",
+          "text": "A-II, B-IV, C-I, D-III"
+        },
+        {
+          "id": "C",
+          "text": "A-II, B-I, C-IV, D-III"
+        },
+        {
+          "id": "D",
+          "text": "A-III, B-IV, C-I, D-II"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Dimensions",
+      "topic": "Dimensional Analysis",
+      "concept": "Dimensions of physical quantities",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "PHYSICS",
+      "questionText": "A series combination of resistor of resistance 100 Ω, inductor of inductance 1 H and capacitor of capacitance 6.25 μF is connected to an ac source. The quality factor of the circuit will be______.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "AC Circuits",
+      "topic": "LCR Circuit",
+      "concept": "Quality factor of RLC circuit",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "PHYSICS",
+      "questionText": "A body of mass 5 kg is moving with a momentum of 10 kg ms⁻¹. Now a force of 2 N acts on the body in the direction of its motion for 5 s. The increase in the Kinetic energy of the body is________ J.",
+      "options": [],
+      "correctAnswer": "30",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Work Energy and Power",
+      "concept": "Change in kinetic energy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "PHYSICS",
+      "questionText": "Two transparent media having refractive indices 1.0 and 1.5 are separated by a spherical refracting surface of radius of curvature 30 cm. The centre of curvature of surface is towards denser medium and a point object is placed on the principle axis in rarer medium at a distance of 15 cm from the pole of the surface. The distance of image from the pole of the surface is__________cm.",
+      "options": [],
+      "correctAnswer": "30",
+      "questionType": "NUMERICAL",
+      "chapter": "Ray Optics",
+      "topic": "Refraction at Spherical Surface",
+      "concept": "Image formation by spherical refracting surface",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "PHYSICS",
+      "questionText": "A steel rod of length 1 m and cross sectional area 10⁻⁴ m² is heated from 0°C to 200°C without being allowed to extend or bend. The compressive tension produced in the rod is_______ x10⁴ N. (Given Young's modulus of steel = 2×10¹¹ Nm⁻², coefficient of linear expansion = 10⁻⁵K⁻¹)",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Properties of Matter",
+      "topic": "Thermal Expansion",
+      "concept": "Thermal stress",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "PHYSICS",
+      "questionText": "The ratio of wavelength of spectral lines Hα and Hβ in the Balmer series is x/20. The value of x is_____.",
+      "options": [],
+      "correctAnswer": "27",
+      "questionType": "NUMERICAL",
+      "chapter": "Atomic Physics",
+      "topic": "Hydrogen Spectrum",
+      "concept": "Balmer series wavelength ratio",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "PHYSICS",
+      "questionText": "The number density of free electrons in copper is nearly 8 x 10²⁸ m⁻³. A copper wire has its area of cross section = 2 × 10⁻⁶ m² and is carrying a current of 3.2 A. The drift speed of the electrons is______×10⁻⁶",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Electric Current",
+      "concept": "Drift velocity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "PHYSICS",
+      "questionText": "The ratio of magnetic field at the centre of a current carrying coil of radius r to the magnetic field at distance r from the centre of coil on its axis is √x:1. The value of x is________.",
+      "options": [],
+      "correctAnswer": "8",
+      "questionType": "NUMERICAL",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Field",
+      "concept": "Magnetic field due to circular coil",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "PHYSICS",
+      "questionText": "A guitar string of length 90 cm vibrates with a fundamental frequency of 120 Hz. The length of the string producing a fundamental frequency of 180 Hz will be ____ cm.",
+      "options": [],
+      "correctAnswer": "60",
+      "questionType": "NUMERICAL",
+      "chapter": "Wave Motion",
+      "topic": "Standing Waves",
+      "concept": "Fundamental frequency of string",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "PHYSICS",
+      "questionText": "A 600 pF capacitor is charged by 200 V supply. It is then disconnected from the supply and is connected to another uncharged 600 pF capacitor. Electrostatic energy lost in the process is_______μJ.",
+      "options": [],
+      "correctAnswer": "6",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Capacitor",
+      "concept": "Energy loss in capacitor combination",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "PHYSICS",
+      "questionText": "A hollow spherical ball of uniform density rolls up a curved surface with an initial velocity 3 m/s (as shown in figure). Maximum height with respect to the initial position covered by it will be__________cm (take, g = 10 m/s²)",
+      "options": [],
+      "correctAnswer": "75",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Rolling motion on inclined plane",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:44:57.261Z"
+}

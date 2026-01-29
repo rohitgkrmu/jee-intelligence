@@ -1,0 +1,825 @@
+{
+  "filename": "JEE_Main_2023_Apr_06_Shift1_Physics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "Apr 06 Shift 1",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "The number of air molecules per cm³ increased from 3 × 10¹⁹ to 12 × 10¹⁹. The ratio of collision frequency of air molecule before and after the increase in number respectively is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.75"
+        },
+        {
+          "id": "B",
+          "text": "1.25"
+        },
+        {
+          "id": "C",
+          "text": "0.25"
+        },
+        {
+          "id": "D",
+          "text": "0.50"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinetic Theory",
+      "topic": "Collision Frequency",
+      "concept": "Collision frequency proportional to number density",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "PHYSICS",
+      "questionText": "The resistivity (ρ) of semiconductor varies with temperature. Which of the following curve represents the correct behaviour",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1"
+        },
+        {
+          "id": "B",
+          "text": "Option 2"
+        },
+        {
+          "id": "C",
+          "text": "Option 3"
+        },
+        {
+          "id": "D",
+          "text": "Option 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Semiconductor Electronics",
+      "topic": "Temperature dependence of resistivity",
+      "concept": "Semiconductor resistivity decreases with temperature",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "PHYSICS",
+      "questionText": "For the plane electromagnetic wave given by E = E₀ sin (ωt – kx) and B = B₀ sin (ωt – kx), the ratio of average electric energy density to average magnetic energy density is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Energy density in EM waves",
+      "concept": "Ratio of electric to magnetic energy density",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "PHYSICS",
+      "questionText": "The energy levels of an hydrogen atom are shown below. The transition corresponding to emission of shortest wavelength is",
+      "options": [
+        {
+          "id": "A",
+          "text": "D"
+        },
+        {
+          "id": "B",
+          "text": "A"
+        },
+        {
+          "id": "C",
+          "text": "C"
+        },
+        {
+          "id": "D",
+          "text": "B"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Structure",
+      "topic": "Hydrogen spectrum",
+      "concept": "Maximum energy transition gives shortest wavelength",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "PHYSICS",
+      "questionText": "Two resistance are given as R₁ = (10 ± 0.5)Ω and R₂ = (15 ± 0.5)Ω. The percentage error in the measurement of equivalent resistance when they are connected in parallel is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "6.33"
+        },
+        {
+          "id": "B",
+          "text": "5.33"
+        },
+        {
+          "id": "C",
+          "text": "2.33"
+        },
+        {
+          "id": "D",
+          "text": "4.33"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Error analysis",
+      "concept": "Error propagation in parallel combination",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "PHYSICS",
+      "questionText": "By what percentage will the transmission range of a TV tower be affected when the height of the tower is increased by 21%?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%"
+        },
+        {
+          "id": "B",
+          "text": "12%"
+        },
+        {
+          "id": "C",
+          "text": "15%"
+        },
+        {
+          "id": "D",
+          "text": "14%"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Communication Systems",
+      "topic": "TV transmission range",
+      "concept": "Range proportional to square root of height",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "PHYSICS",
+      "questionText": "A small ball of mass M and density ρ is dropped in a viscous liquid of density ρ₀. After some time, the ball falls with a constant velocity. What is the viscous force on the ball?",
+      "options": [
+        {
+          "id": "A",
+          "text": "F = Mg(1 - ρ₀/ρ)"
+        },
+        {
+          "id": "B",
+          "text": "F = Mg(1 - ρ/ρ₀)"
+        },
+        {
+          "id": "C",
+          "text": "F = Mg(1 - ρ₀/ρ)"
+        },
+        {
+          "id": "D",
+          "text": "F = Mg(1 ± ρ₀/ρ)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Terminal velocity",
+      "concept": "Force balance at terminal velocity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "PHYSICS",
+      "questionText": "A small block of mass 100g is tied to a spring of spring constant 7.5 N/m and length 20 cm. The other end of spring is fixed at a particular point A. If the block moves in a circular path on a smooth horizontal surface with constant angular velocity 5 rad/s about point A, then tension in the spring is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.5 N"
+        },
+        {
+          "id": "B",
+          "text": "0.75 N"
+        },
+        {
+          "id": "C",
+          "text": "0.50 N"
+        },
+        {
+          "id": "D",
+          "text": "0.25 N"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Circular Motion",
+      "topic": "Centripetal force",
+      "concept": "Spring force provides centripetal force",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "PHYSICS",
+      "questionText": "A source supplies heat to a system at the rate of 1000 W. If the system performs work at a rate of 200 W. The rate at which internal energy of the system increases is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "500 W"
+        },
+        {
+          "id": "B",
+          "text": "1200 W"
+        },
+        {
+          "id": "C",
+          "text": "800 W"
+        },
+        {
+          "id": "D",
+          "text": "600 W"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "First law of thermodynamics",
+      "concept": "dU/dt = dQ/dt - dW/dt",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "PHYSICS",
+      "questionText": "Name the logic gate equivalent to the diagram attached",
+      "options": [
+        {
+          "id": "A",
+          "text": "AND"
+        },
+        {
+          "id": "B",
+          "text": "NAND"
+        },
+        {
+          "id": "C",
+          "text": "NOR"
+        },
+        {
+          "id": "D",
+          "text": "OR"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Semiconductor Electronics",
+      "topic": "Logic gates",
+      "concept": "NOR gate truth table",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "PHYSICS",
+      "questionText": "For a uniformly charged thin spherical shell, the electric potential (V) radially away from the centre (O) of shell can be graphically represented as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1"
+        },
+        {
+          "id": "B",
+          "text": "Option 2"
+        },
+        {
+          "id": "C",
+          "text": "Option 3"
+        },
+        {
+          "id": "D",
+          "text": "Option 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric potential",
+      "concept": "Potential of spherical shell vs distance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "PHYSICS",
+      "questionText": "A mass m is attached to two strings as shown in figure. The spring constant of two springs are K₁ and K₂. For the frictionless surface, the time period of oscillation of mass m is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2π√(m/(K₁ + K₂))"
+        },
+        {
+          "id": "B",
+          "text": "2π√(m/(K₁ + K₂))"
+        },
+        {
+          "id": "C",
+          "text": "2π√(m(K₁ + K₂)/(K₁K₂))"
+        },
+        {
+          "id": "D",
+          "text": "2π√(m(K₁ + K₂)/(K₁K₂))"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Simple Harmonic Motion",
+      "topic": "Spring combinations",
+      "concept": "Parallel spring combination",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "PHYSICS",
+      "questionText": "A particle is moving with constant speed in a circular path. When the particle turns by an angle 90°, the ratio of instantaneous velocity to its average velocity is: x√2. The value of x will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "√7"
+        },
+        {
+          "id": "C",
+          "text": "√5"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Circular Motion",
+      "topic": "Velocity in circular motion",
+      "concept": "Instantaneous vs average velocity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "PHYSICS",
+      "questionText": "The Kinetic energy of an electron, α-particle and a proton are given as 4K, 2K and K respectively. The de-Broglie wavelength associated with electron (λₑ), α-particle (λₐ) and the proton (λₚ) are as follows:",
+      "options": [
+        {
+          "id": "A",
+          "text": "λₐ = λₚ < λₑ"
+        },
+        {
+          "id": "B",
+          "text": "λₐ > λₚ > λₑ"
+        },
+        {
+          "id": "C",
+          "text": "λₐ = λₚ > λₑ"
+        },
+        {
+          "id": "D",
+          "text": "λₐ < λₚ < λₑ"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "de Broglie wavelength",
+      "concept": "λ = h/p relationship with kinetic energy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "PHYSICS",
+      "questionText": "A planet has double the mass of the earth. Its average density is equal to that of the earth. An object weighing W on earth will weigh on that planet:",
+      "options": [
+        {
+          "id": "A",
+          "text": "W"
+        },
+        {
+          "id": "B",
+          "text": "2W"
+        },
+        {
+          "id": "C",
+          "text": "2^(3/2)W"
+        },
+        {
+          "id": "D",
+          "text": "2^(1/3)W"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Gravitational acceleration",
+      "concept": "Weight variation with mass and radius",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: Earth has atmosphere whereas moon doesn't have any atmosphere.\nReason R: The escape velocity on moon is very small as compared to that on earth.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are correct and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Escape velocity",
+      "concept": "Atmosphere retention and escape velocity",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "PHYSICS",
+      "questionText": "A long straight wire of circular cross-section (radius a) is carrying steady current I. The current I is uniformly distributed across this cross-section. The magnetic field is",
+      "options": [
+        {
+          "id": "A",
+          "text": "directly proportional to r in the region r < a and inversely proportional to r in the region r > a"
+        },
+        {
+          "id": "B",
+          "text": "inversely proportional to r in the region r < a and uniform throughout in the region r > a"
+        },
+        {
+          "id": "C",
+          "text": "uniform in the region r < a and inversely proportional to distance r from the axis, in the region r > a"
+        },
+        {
+          "id": "D",
+          "text": "zero in the region r < a and inversely proportional to r in the region r > a"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetic Effects of Current",
+      "topic": "Magnetic field due to current-carrying wire",
+      "concept": "Ampere's law for cylindrical conductor",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "PHYSICS",
+      "questionText": "A monochromatic light wave with wavelength λ₁ and frequency v₁ in air enters another medium. If the angle of incidence and angle of refraction at the interface are 45° and 30° respectively, then the wavelength λ₂ and frequency v₂ of the refracted wave are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "λ₂ = λ₁/√11, v₂ = v₁"
+        },
+        {
+          "id": "B",
+          "text": "λ₂ = λ₁/√2, v₂ = v₁"
+        },
+        {
+          "id": "C",
+          "text": "λ₂ = λ₁, v₂ = v₁"
+        },
+        {
+          "id": "D",
+          "text": "λ₂ = λ₁, v₂ = 2v₁"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Optics",
+      "topic": "Refraction of light",
+      "concept": "Frequency constant during refraction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: When a body is projected at an angle 45°, its range is maximum.\nReason R: For maximum range, the value of sin 2θ should be equal to one.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct and R is the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Projectile Motion",
+      "topic": "Range of projectile",
+      "concept": "Maximum range condition",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "PHYSICS",
+      "questionText": "The induced emf can be produced in a coil by:\nA. moving the coil with uniform speed inside uniform magnetic field\nB. moving the coil with non-uniform speed inside uniform magnetic field\nC. rotating the coil inside the uniform magnetic field\nD. changing the area of the coil inside the uniform magnetic field\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "B and C only"
+        },
+        {
+          "id": "B",
+          "text": "A and C only"
+        },
+        {
+          "id": "C",
+          "text": "C and D only"
+        },
+        {
+          "id": "D",
+          "text": "B and D only"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Faraday's law",
+      "concept": "Conditions for induced emf",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "PHYSICS",
+      "questionText": "A steel rod has a radius of 20 mm and a length of 2.0 m. A force of 62.8 kN stretches it along its length. Young's modulus of steel is 2.0 × 10¹¹ N/m². The longitudinal strain produced in the wire is _____ × 10⁻⁵",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanical Properties of Solids",
+      "topic": "Young's modulus",
+      "concept": "Stress-strain relationship",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "PHYSICS",
+      "questionText": "An ideal transformer with purely resistive load operates at 12 kV on the primary side. It supplies electrical energy to a number of nearby houses at 120 V. The average rate of energy consumption in the houses served by the transformer is 60 kW. The value of resistive load (Rs) required in the secondary circuit will be _______ Ω.",
+      "options": [],
+      "correctAnswer": "240",
+      "questionType": "NUMERICAL",
+      "chapter": "Alternating Current",
+      "topic": "Transformer",
+      "concept": "Power calculation in transformer",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "PHYSICS",
+      "questionText": "The length of a metallic wire is increased by 20% and its area of cross section is reduced by 4%. The percentage change in resistance of the metallic wire is _______.",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Resistance",
+      "concept": "Effect of dimensional changes on resistance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "PHYSICS",
+      "questionText": "A parallel plate capacitor with plate area A and plate separation d is filled with a dielectric material of dielectric constant K = 4. The thickness of the dielectric material is x, where x < d. Let C₁ and C₂ be the capacitance of the system for X = d/3 and X = 2d/3, respectively. If C₁ = 2μF the value of C₂ is _______ μF.",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Capacitor with dielectric",
+      "concept": "Parallel combination of capacitors",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "PHYSICS",
+      "questionText": "The radius of fifth orbit of the Li⁺⁺ is _______ × 10⁻¹² m. Take: radius of hydrogen atom = 0.51 Å.",
+      "options": [],
+      "correctAnswer": "425",
+      "questionType": "NUMERICAL",
+      "chapter": "Atomic Structure",
+      "topic": "Bohr model",
+      "concept": "Radius of hydrogen-like atoms",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "PHYSICS",
+      "questionText": "A pole is vertically submerged in swimming pool, such that it gives a length of shadow 2.15 m within water when sunlight is incident at an angle of 30° with the surface of water. If swimming pool is filled to a height of 1.5 m, then the height of the pole above the water surface in centimetres is (nw = 4/3).",
+      "options": [],
+      "correctAnswer": "50",
+      "questionType": "NUMERICAL",
+      "chapter": "Ray Optics",
+      "topic": "Refraction",
+      "concept": "Snell's law application",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "PHYSICS",
+      "questionText": "Two identical circular wires of radius 20 cm and carrying current 2π A are placed in perpendicular planes as shown in figure. The net magnetic field at the centre of the circular wires is _______ × 10⁻⁸ T. (Take π = 3.14)",
+      "options": [],
+      "correctAnswer": "628",
+      "questionType": "NUMERICAL",
+      "chapter": "Magnetic Effects of Current",
+      "topic": "Magnetic field due to current loop",
+      "concept": "Superposition of magnetic fields",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "PHYSICS",
+      "questionText": "Two identical solid spheres each of mass 2 kg and radii 10 cm are fixed at the ends of a light rod. The separation between the centres of the spheres is 40 cm. The moment of inertia of the system about an axis perpendicular to the rod passing through its middle point is _______ × 10⁻³ kg-m²",
+      "options": [],
+      "correctAnswer": "176",
+      "questionType": "NUMERICAL",
+      "chapter": "Rotational Motion",
+      "topic": "Moment of inertia",
+      "concept": "Parallel axis theorem",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "PHYSICS",
+      "questionText": "A particle of mass 10 g moves in a straight line with retardation 2x, where x is the displacement in SI units. Its loss of kinetic energy for above displacement is (x/10)ⁿ J. The value of n will be _______.",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Work Energy and Power",
+      "topic": "Work-energy theorem",
+      "concept": "Variable force and energy",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "PHYSICS",
+      "questionText": "A person driving car at a constant speed of 15 m/s is approaching a vertical wall. The person notices a change of 40Hz in the frequency of his car's horn upon reflection from the wall. The frequency of horn is _______Hz. (Given: Speed of sound : 330 m/s)",
+      "options": [],
+      "correctAnswer": "420",
+      "questionType": "NUMERICAL",
+      "chapter": "Sound Waves",
+      "topic": "Doppler effect",
+      "concept": "Doppler shift with reflection",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T08:03:03.294Z"
+}

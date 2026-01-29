@@ -7,29 +7,29 @@
     {
       "questionNumber": 71,
       "subject": "PHYSICS",
-      "questionText": "A body of mass m = 3.513 kg is moving along the x-axis with a speed of 5.00 ms^(-1). The magnitude of its momentum is recorded as",
+      "questionText": "A body of mass m = 3.513 kg is moving along the x-axis with a speed of 5.00 ms⁻¹. The magnitude of its momentum is recorded as",
       "options": [
         {
           "id": "A",
-          "text": "17.565 kg ms^(-1)"
+          "text": "17.565 kg ms⁻¹"
         },
         {
           "id": "B",
-          "text": "17.56 kg ms^(-1)"
+          "text": "17.56 kg ms⁻¹"
         },
         {
           "id": "C",
-          "text": "17.57 kg ms^(-1)"
+          "text": "17.57 kg ms⁻¹"
         },
         {
           "id": "D",
-          "text": "17.6 kg ms^(-1)"
+          "text": "17.6 kg ms⁻¹"
         }
       ],
       "correctAnswer": "D",
       "questionType": "MCQ_SINGLE",
       "chapter": "Mechanics",
-      "topic": "Linear Momentum",
+      "topic": "Momentum",
       "concept": "Momentum calculation with significant figures",
       "difficulty": "EASY",
       "skills": [
@@ -44,63 +44,63 @@
       "options": [
         {
           "id": "A",
-          "text": "ma^2/12"
+          "text": "ma²/12"
         },
         {
           "id": "B",
-          "text": "7ma^2/12"
+          "text": "7ma²/12"
         },
         {
           "id": "C",
-          "text": "2ma^2/3"
+          "text": "2ma²/3"
         },
         {
           "id": "D",
-          "text": "5ma^2/6"
+          "text": "5ma²/6"
         }
       ],
       "correctAnswer": "C",
       "questionType": "MCQ_SINGLE",
-      "chapter": "Rotational Mechanics",
-      "topic": "Moment of Inertia",
-      "concept": "Parallel axis theorem",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Moment of inertia using parallel axis theorem",
       "difficulty": "MEDIUM",
       "skills": [
-        "DERIVATION",
-        "CONCEPTUAL"
+        "CONCEPTUAL",
+        "ANALYTICAL"
       ]
     },
     {
       "questionNumber": 73,
       "subject": "PHYSICS",
-      "questionText": "The speed of sound in oxygen (O₂) at a certain temperature is 460 ms^(-1). The speed of sound in helium (He) at the same temperature will be (assume both gases to be ideal)",
+      "questionText": "The speed of sound in oxygen (O₂) at a certain temperature is 460 ms⁻¹. The speed of sound in helium (He) at the same temperature will be (assume both gases to be ideal)",
       "options": [
         {
           "id": "A",
-          "text": "500 ms^(-1)"
+          "text": "500 ms⁻¹"
         },
         {
           "id": "B",
-          "text": "650 ms^(-1)"
+          "text": "650 ms⁻¹"
         },
         {
           "id": "C",
-          "text": "330 ms^(-1)"
+          "text": "330 ms⁻¹"
         },
         {
           "id": "D",
-          "text": "460 ms^(-1)"
+          "text": "460 ms⁻¹"
         }
       ],
       "correctAnswer": "UNKNOWN",
       "questionType": "MCQ_SINGLE",
-      "chapter": "Wave Motion",
+      "chapter": "Waves",
       "topic": "Sound Waves",
       "concept": "Speed of sound in different gases",
       "difficulty": "MEDIUM",
       "skills": [
-        "ANALYTICAL",
-        "APPLICATION"
+        "CONCEPTUAL",
+        "NUMERICAL"
       ]
     },
     {
@@ -132,14 +132,14 @@
       "concept": "Electric field of spherical shell",
       "difficulty": "MEDIUM",
       "skills": [
-        "GRAPHICAL",
-        "CONCEPTUAL"
+        "CONCEPTUAL",
+        "GRAPHICAL"
       ]
     },
     {
       "questionNumber": 75,
       "subject": "PHYSICS",
-      "questionText": "Relative permittivity and permeability of a material are εᵣ and μᵣ, respectively. Which of the following values of these quantities are allowed for a diamagnetic material?",
+      "questionText": "Relative permitivity and permeability of a material are εᵣ and μᵣ, respectively. Which of the following values of these quantities are allowed for a diamagnetic material?",
       "options": [
         {
           "id": "A",
@@ -161,8 +161,8 @@
       "correctAnswer": "A",
       "questionType": "MCQ_SINGLE",
       "chapter": "Magnetism",
-      "topic": "Magnetic Properties",
-      "concept": "Diamagnetic materials",
+      "topic": "Magnetic Materials",
+      "concept": "Properties of diamagnetic materials",
       "difficulty": "EASY",
       "skills": [
         "CONCEPTUAL"
@@ -183,18 +183,18 @@
         },
         {
           "id": "C",
-          "text": "Tₙ ∝ 1/n, rₙ ∝ n²"
+          "text": "Tₙ ∝ 1/n², rₙ ∝ n²"
         },
         {
           "id": "D",
-          "text": "Tₙ ∝ 1/n, rₙ ∝ n²"
+          "text": "Tₙ ∝ 1/n², rₙ ∝ n²"
         }
       ],
       "correctAnswer": "A",
       "questionType": "MCQ_SINGLE",
       "chapter": "Modern Physics",
-      "topic": "Bohr Model",
-      "concept": "Modified Bohr model",
+      "topic": "Atomic Structure",
+      "concept": "Bohr model with modified force law",
       "difficulty": "HARD",
       "skills": [
         "ANALYTICAL",
@@ -204,7 +204,7 @@
     {
       "questionNumber": 77,
       "subject": "PHYSICS",
-      "questionText": "A block of mass 0.50 kg is moving with a speed of 2.00 ms^(-1) on a smooth surface. It strikes another mass of 1.00 kg and then they move together as a single body. The energy loss during the collision is",
+      "questionText": "A block of mass 0.50 kg is moving with a speed of 2.00 ms⁻¹ on a smooth surface. It strikes another mass of 1.00 kg and then they move together as a single body. The energy loss during the collision is",
       "options": [
         {
           "id": "A",
@@ -226,7 +226,7 @@
       "correctAnswer": "B",
       "questionType": "MCQ_SINGLE",
       "chapter": "Mechanics",
-      "topic": "Collisions",
+      "topic": "Collision",
       "concept": "Inelastic collision energy loss",
       "difficulty": "MEDIUM",
       "skills": [
@@ -241,11 +241,11 @@
       "options": [
         {
           "id": "A",
-          "text": "a = π/0.04, b = π/0.08"
+          "text": "a = 25π, b = π"
         },
         {
           "id": "B",
-          "text": "a = π/0.08, b = π/0.1"
+          "text": "a = π/0.04, b = π/0.1"
         },
         {
           "id": "C",
@@ -258,13 +258,13 @@
       ],
       "correctAnswer": "D",
       "questionType": "MCQ_SINGLE",
-      "chapter": "Wave Motion",
-      "topic": "Wave Equation",
-      "concept": "Wave parameters from equation",
-      "difficulty": "MEDIUM",
+      "chapter": "Waves",
+      "topic": "Wave Motion",
+      "concept": "Wave equation parameters",
+      "difficulty": "EASY",
       "skills": [
-        "ANALYTICAL",
-        "NUMERICAL"
+        "NUMERICAL",
+        "CONCEPTUAL"
       ]
     },
     {
@@ -292,11 +292,11 @@
       "correctAnswer": "B",
       "questionType": "MCQ_SINGLE",
       "chapter": "Electronics",
-      "topic": "Transistors",
+      "topic": "Semiconductor Devices",
       "concept": "Transistor identification",
       "difficulty": "MEDIUM",
       "skills": [
-        "ANALYTICAL",
+        "CONCEPTUAL",
         "APPLICATION"
       ]
     },
@@ -326,7 +326,7 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Fluid Mechanics",
       "topic": "Buoyancy",
-      "concept": "Floating equilibrium in two liquids",
+      "concept": "Equilibrium of floating object in two liquids",
       "difficulty": "MEDIUM",
       "skills": [
         "ANALYTICAL",
@@ -340,7 +340,7 @@
       "options": [
         {
           "id": "A",
-          "text": "2 × 10⁵ J — 3 × 10⁵J"
+          "text": "2 × 10⁵ J — 3 × 10⁵ J"
         },
         {
           "id": "B",
@@ -358,8 +358,8 @@
       "correctAnswer": "C",
       "questionType": "MCQ_SINGLE",
       "chapter": "Mechanics",
-      "topic": "Kinetic Energy",
-      "concept": "Energy estimation",
+      "topic": "Energy",
+      "concept": "Estimation of kinetic energy",
       "difficulty": "EASY",
       "skills": [
         "NUMERICAL",
@@ -392,7 +392,7 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Electrostatics",
       "topic": "Capacitors",
-      "concept": "Capacitor with multiple dielectrics",
+      "concept": "Capacitor with multiple dielectrics in series",
       "difficulty": "MEDIUM",
       "skills": [
         "NUMERICAL",
@@ -424,17 +424,18 @@
       "correctAnswer": "B",
       "questionType": "MCQ_SINGLE",
       "chapter": "Magnetism",
-      "topic": "Dimensional Analysis",
-      "concept": "Dimensions of magnetic field",
+      "topic": "Magnetic Field",
+      "concept": "Dimensional analysis of magnetic field",
       "difficulty": "EASY",
       "skills": [
-        "CONCEPTUAL"
+        "CONCEPTUAL",
+        "ANALYTICAL"
       ]
     },
     {
       "questionNumber": 84,
       "subject": "PHYSICS",
-      "questionText": "A body is at rest at x = 0. At t=0, it starts moving in the positive x-direction with a constant acceleration. At the same instant another body passes through x = 0 moving in the positive x–direction with a constant speed. The position of the first body is given by x₁(t) after time 't' and that of the second body by x₂(t) after the same time interval. Which of the following graphs correctly describes (x₁-x₂) as a function of time 't'?",
+      "questionText": "A body is at rest at x = 0. At t = 0, it starts moving in the positive x-direction with a constant acceleration. At the same instant another body passes through x = 0 moving in the positive x–direction with a constant speed. The position of the first body is given by x₁(t) after time 't' and that of the second body by x₂(t) after the same time interval. Which of the following graphs correctly describes (x₁-x₂) as a function of time 't'?",
       "options": [
         {
           "id": "A",
@@ -457,7 +458,7 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Mechanics",
       "topic": "Kinematics",
-      "concept": "Motion graphs",
+      "concept": "Relative motion with different accelerations",
       "difficulty": "MEDIUM",
       "skills": [
         "GRAPHICAL",
@@ -490,7 +491,7 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Electronics",
       "topic": "Logic Gates",
-      "concept": "Gate identification",
+      "concept": "OR gate circuit",
       "difficulty": "EASY",
       "skills": [
         "CONCEPTUAL"
@@ -520,12 +521,12 @@
       ],
       "correctAnswer": "A",
       "questionType": "MCQ_SINGLE",
-      "chapter": "Wave Motion",
+      "chapter": "Waves",
       "topic": "Sound Waves",
-      "concept": "Resonance column experiment",
+      "concept": "Resonance column experiment and temperature effect",
       "difficulty": "MEDIUM",
       "skills": [
-        "ANALYTICAL",
+        "CONCEPTUAL",
         "APPLICATION"
       ]
     },
@@ -555,7 +556,7 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Current Electricity",
       "topic": "Wheatstone Bridge",
-      "concept": "Meter bridge calculation",
+      "concept": "Meter bridge balance condition",
       "difficulty": "EASY",
       "skills": [
         "NUMERICAL",
@@ -569,25 +570,25 @@
       "options": [
         {
           "id": "A",
-          "text": "√(gVρ₁/k)"
+          "text": "√(ρ₁gV/k)"
         },
         {
           "id": "B",
-          "text": "√(gVρ₁/k)"
+          "text": "√(ρ₁gV/k)"
         },
         {
           "id": "C",
-          "text": "√(gV(ρ₁-ρ₂)/k)"
+          "text": "√((ρ₁-ρ₂)gV/k)"
         },
         {
           "id": "D",
-          "text": "√(gV(ρ₁-ρ₂)/k)"
+          "text": "√((ρ₁-ρ₂)gV/k)"
         }
       ],
       "correctAnswer": "D",
       "questionType": "MCQ_SINGLE",
       "chapter": "Fluid Mechanics",
-      "topic": "Terminal Velocity",
+      "topic": "Viscosity",
       "concept": "Terminal velocity with quadratic drag",
       "difficulty": "HARD",
       "skills": [
@@ -620,8 +621,8 @@
       "correctAnswer": "D",
       "questionType": "MCQ_SINGLE",
       "chapter": "Mechanics",
-      "topic": "Centre of Mass",
-      "concept": "Centre of mass of variable density rod",
+      "topic": "Center of Mass",
+      "concept": "Center of mass of rod with variable density",
       "difficulty": "HARD",
       "skills": [
         "ANALYTICAL",
@@ -654,10 +655,10 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Gravitation",
       "topic": "Escape Velocity",
-      "concept": "Escape velocity comparison",
+      "concept": "Escape velocity scaling with mass and radius",
       "difficulty": "MEDIUM",
       "skills": [
-        "ANALYTICAL",
+        "NUMERICAL",
         "APPLICATION"
       ]
     },
@@ -676,18 +677,18 @@
         },
         {
           "id": "C",
-          "text": "(T₁P₁V₁ + T₂P₂V₂)/(P₁V₁ + P₂V₂)"
+          "text": "(P₁V₁ + P₂V₂)T₁/(T₁P₁V₁ + T₂P₂V₂)"
         },
         {
           "id": "D",
-          "text": "(T₁P₁V₁ + T₂P₂V₂)/(P₁V₁ + P₂V₂)"
+          "text": "(T₁P₁V₁ + T₂P₂V₂)/(P₁V₁ + P₂V₂)T₁T₂"
         }
       ],
       "correctAnswer": "D",
       "questionType": "MCQ_SINGLE",
       "chapter": "Thermodynamics",
-      "topic": "Gas Mixing",
-      "concept": "Adiabatic mixing of gases",
+      "topic": "Kinetic Theory",
+      "concept": "Mixing of ideal gases",
       "difficulty": "HARD",
       "skills": [
         "ANALYTICAL",
@@ -719,7 +720,7 @@
       "correctAnswer": "C",
       "questionType": "MCQ_SINGLE",
       "chapter": "Measurements",
-      "topic": "Screw Gauge",
+      "topic": "Measuring Instruments",
       "concept": "Screw gauge measurement with zero error",
       "difficulty": "MEDIUM",
       "skills": [
@@ -785,8 +786,8 @@
       "correctAnswer": "D",
       "questionType": "MCQ_SINGLE",
       "chapter": "Optics",
-      "topic": "Refractive Index",
-      "concept": "Travelling microscope measurement",
+      "topic": "Refraction",
+      "concept": "Travelling microscope for refractive index measurement",
       "difficulty": "EASY",
       "skills": [
         "CONCEPTUAL"
@@ -818,11 +819,11 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Current Electricity",
       "topic": "Circuit Analysis",
-      "concept": "Circuit with multiple sources",
+      "concept": "Circuit with multiple batteries",
       "difficulty": "MEDIUM",
       "skills": [
         "NUMERICAL",
-        "ANALYTICAL"
+        "APPLICATION"
       ]
     },
     {
@@ -832,30 +833,29 @@
       "options": [
         {
           "id": "A",
-          "text": "Option (1)"
+          "text": "Diagram (1)"
         },
         {
           "id": "B",
-          "text": "Option (2)"
+          "text": "Diagram (2)"
         },
         {
           "id": "C",
-          "text": "Option (3)"
+          "text": "Diagram (3)"
         },
         {
           "id": "D",
-          "text": "Option (4)"
+          "text": "Diagram (4)"
         }
       ],
       "correctAnswer": "B",
       "questionType": "MCQ_SINGLE",
-      "chapter": "Surface Tension",
-      "topic": "Capillarity",
-      "concept": "Effect of surface tension on capillary rise",
-      "difficulty": "MEDIUM",
+      "chapter": "Fluid Mechanics",
+      "topic": "Surface Tension",
+      "concept": "Capillary rise and surface tension",
+      "difficulty": "EASY",
       "skills": [
-        "CONCEPTUAL",
-        "APPLICATION"
+        "CONCEPTUAL"
       ]
     },
     {
@@ -884,7 +884,7 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Electromagnetic Induction",
       "topic": "Mutual Inductance",
-      "concept": "Mutual inductance of solenoids",
+      "concept": "Mutual inductance of coaxial solenoids",
       "difficulty": "MEDIUM",
       "skills": [
         "NUMERICAL",
@@ -917,7 +917,7 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Optics",
       "topic": "Lenses",
-      "concept": "u-v relationship for convex lens",
+      "concept": "u-v graph for convex lens",
       "difficulty": "MEDIUM",
       "skills": [
         "GRAPHICAL",
@@ -927,7 +927,7 @@
     {
       "questionNumber": 99,
       "subject": "PHYSICS",
-      "questionText": "Statement - 1: For a mass M kept at the centre of a cube of side 'a' the flux of gravitational field passing through its sides is 4πGM. Statement - 2: If the direction of a field due to a point source is radial and its dependence on the distance 'r' from the source is given as 1/r², its flux through a closed surface depends only on the strength of the source enclosed by the surface and not on the size or shape of the surface.",
+      "questionText": "Statement-1: For a mass M kept at the centre of a cube of side 'a' the flux of gravitational field passing through its sides is 4πGM. Statement-2: If the direction of a field due to a point source is radial and its dependence on the distance 'r' from the source is given as 1/r², its flux through a closed surface depends only on the strength of the source enclosed by the surface and not on the size or shape of the surface.",
       "options": [
         {
           "id": "A",
@@ -951,7 +951,7 @@
       "chapter": "Gravitation",
       "topic": "Gravitational Field",
       "concept": "Gauss law for gravitation",
-      "difficulty": "HARD",
+      "difficulty": "MEDIUM",
       "skills": [
         "CONCEPTUAL",
         "ANALYTICAL"
@@ -960,7 +960,7 @@
     {
       "questionNumber": 100,
       "subject": "PHYSICS",
-      "questionText": "Statement - 1: Energy is released when heavy nuclei undergo fission or light nuclei undergo fusion. Statement - 2: For heavy nuclei, binding energy per nucleon increases with increasing Z while for light nuclei it decreases with increasing Z.",
+      "questionText": "Statement-1: Energy is released when heavy nuclei undergo fission or light nuclei undergo fusion. Statement-2: For heavy nuclei, binding energy per nucleon increases with increasing Z while for light nuclei it decreases with increasing Z.",
       "options": [
         {
           "id": "A",
@@ -981,13 +981,12 @@
       ],
       "correctAnswer": "C",
       "questionType": "MCQ_SINGLE",
-      "chapter": "Nuclear Physics",
-      "topic": "Nuclear Reactions",
-      "concept": "Binding energy and nuclear reactions",
+      "chapter": "Modern Physics",
+      "topic": "Nuclear Physics",
+      "concept": "Nuclear binding energy and reactions",
       "difficulty": "MEDIUM",
       "skills": [
-        "CONCEPTUAL",
-        "ANALYTICAL"
+        "CONCEPTUAL"
       ]
     },
     {
@@ -1015,12 +1014,12 @@
       "correctAnswer": "B",
       "questionType": "MCQ_SINGLE",
       "chapter": "Current Electricity",
-      "topic": "Current in Conductors",
-      "concept": "Electric field in conducting material",
+      "topic": "Current Density",
+      "concept": "Electric field in conducting material with current",
       "difficulty": "HARD",
       "skills": [
-        "DERIVATION",
-        "ANALYTICAL"
+        "ANALYTICAL",
+        "DERIVATION"
       ]
     },
     {
@@ -1030,11 +1029,11 @@
       "options": [
         {
           "id": "A",
-          "text": "Iρ/(a+b) - Iρ/a"
+          "text": "Iρ/(a + b) - Iρ/a"
         },
         {
           "id": "B",
-          "text": "Iρ/(2π)(1/a - 1/(a+b))"
+          "text": "Iρ/(2π)(1/a - 1/(a + b))"
         },
         {
           "id": "C",
@@ -1042,18 +1041,18 @@
         },
         {
           "id": "D",
-          "text": "Iρ/(4π)(1/a - 1/(a+b))"
+          "text": "Iρ/(π)(1/a - 1/(a + b))"
         }
       ],
       "correctAnswer": "B",
       "questionType": "MCQ_SINGLE",
       "chapter": "Current Electricity",
       "topic": "Potential Difference",
-      "concept": "Potential difference in conducting material",
+      "concept": "Potential difference in conducting block",
       "difficulty": "HARD",
       "skills": [
-        "DERIVATION",
-        "ANALYTICAL"
+        "ANALYTICAL",
+        "DERIVATION"
       ]
     },
     {
@@ -1063,30 +1062,29 @@
       "options": [
         {
           "id": "A",
-          "text": "2d cos i = n λ_dB"
+          "text": "2d cos i = nλ_dB"
         },
         {
           "id": "B",
-          "text": "2d sin i = n λ_dB"
+          "text": "2d sin i = nλ_dB"
         },
         {
           "id": "C",
-          "text": "d cos i = n λ_dB"
+          "text": "d cos i = nλ_dB"
         },
         {
           "id": "D",
-          "text": "n λ_dB"
+          "text": "d sin i = nλ_dB"
         }
       ],
       "correctAnswer": "A",
       "questionType": "MCQ_SINGLE",
       "chapter": "Modern Physics",
       "topic": "Wave Nature of Matter",
-      "concept": "Electron diffraction",
+      "concept": "Electron diffraction from crystals",
       "difficulty": "MEDIUM",
       "skills": [
-        "CONCEPTUAL",
-        "DERIVATION"
+        "CONCEPTUAL"
       ]
     },
     {
@@ -1114,8 +1112,8 @@
       "correctAnswer": "A",
       "questionType": "MCQ_SINGLE",
       "chapter": "Modern Physics",
-      "topic": "de Broglie Wavelength",
-      "concept": "Electron diffraction calculation",
+      "topic": "Wave Nature of Matter",
+      "concept": "De Broglie wavelength and electron acceleration",
       "difficulty": "MEDIUM",
       "skills": [
         "NUMERICAL",
@@ -1125,7 +1123,7 @@
     {
       "questionNumber": 105,
       "subject": "PHYSICS",
-      "questionText": "In an experiment, electrons are made to pass through a narrow slit of width 'd' comparable to their de Broglie wavelength. They are detected on a screen at a distance 'D' from the slit (see figure). Which of the following graphs can be expected to represent the number of electrons 'N' detected as a function of the detector position 'y' (y=0 corresponds to the middle of the slit)?",
+      "questionText": "In an experiment, electrons are made to pass through a narrow slit of width 'd' comparable to their de Broglie wavelength. They are detected on a screen at a distance 'D' from the slit (see figure). Which of the following graphs can be expected to represent the number of electrons 'N' detected as a function of the detector position 'y' (y = 0 corresponds to the middle of the slit)?",
       "options": [
         {
           "id": "A",
@@ -1156,5 +1154,5 @@
       ]
     }
   ],
-  "extractedAt": "2026-01-28T11:09:49.237Z"
+  "extractedAt": "2026-01-28T12:24:31.821Z"
 }

@@ -1,0 +1,819 @@
+{
+  "filename": "JEE_Main_2023_08-04-2023_Shift-1_mathematics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the number of elements in sets A and B be five and two respectively. Then the number of subsets of A × B each having at least 3 and at most 6 elements is",
+      "options": [
+        {
+          "id": "A",
+          "text": "782"
+        },
+        {
+          "id": "B",
+          "text": "792"
+        },
+        {
+          "id": "C",
+          "text": "752"
+        },
+        {
+          "id": "D",
+          "text": "772"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Set Theory",
+      "topic": "Cartesian Product and Subsets",
+      "concept": "Number of subsets with given constraints",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of arrangements of the letters of the word \"INDEPENDENCE\" in which all the vowels always occur together is",
+      "options": [
+        {
+          "id": "A",
+          "text": "18000"
+        },
+        {
+          "id": "B",
+          "text": "33600"
+        },
+        {
+          "id": "C",
+          "text": "16800"
+        },
+        {
+          "id": "D",
+          "text": "14800"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Permutations and Combinations",
+      "topic": "Arrangements with restrictions",
+      "concept": "Grouping letters together",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of ways, in which 5 girls and 7 boys can be seated at a round table so that no two girls sit together, is",
+      "options": [
+        {
+          "id": "A",
+          "text": "7(360)²"
+        },
+        {
+          "id": "B",
+          "text": "7(720)²"
+        },
+        {
+          "id": "C",
+          "text": "126(5!)²"
+        },
+        {
+          "id": "D",
+          "text": "720"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Permutations and Combinations",
+      "topic": "Circular arrangements with restrictions",
+      "concept": "Alternate seating arrangement",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "If the equation of the plane containing the line x + 2y + 3z – 4 = 0 = 2x + y - z + 5 and perpendicular to the plane r⃗ · (î - ĵ) + r⃗ · (î + ĵ + k̂) + r⃗ · (î - 2ĵ + 3k̂) is ax + by + cz = 4, then (a - b + c) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "22"
+        },
+        {
+          "id": "C",
+          "text": "21"
+        },
+        {
+          "id": "D",
+          "text": "18"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Three Dimensional Geometry",
+      "topic": "Equation of plane",
+      "concept": "Plane through line of intersection",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "If the points with position vectors α î + 10ĵ + 13k̂, 6î + 11ĵ + 11k̂, 2î + 9ĵ + 8k̂ are collinear, then (19α - 6β)² is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "49"
+        },
+        {
+          "id": "D",
+          "text": "36"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vector Algebra",
+      "topic": "Collinear vectors",
+      "concept": "Condition for collinearity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S_k = 1 + 2 + ... + k and Σ(j=1 to n) S_j² = (An²/B + Cn + D), where A,B,C,D ∈ N and A has least value. Then",
+      "options": [
+        {
+          "id": "A",
+          "text": "A + B = 5(D - C)"
+        },
+        {
+          "id": "B",
+          "text": "A + C + D is not divisible by B"
+        },
+        {
+          "id": "C",
+          "text": "A + B + C + D is divisible by 5"
+        },
+        {
+          "id": "D",
+          "text": "A + B is divisible by D"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sequences and Series",
+      "topic": "Sum of squares of natural numbers",
+      "concept": "Summation formulas",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Negation of (p → q) ∧ (q → p) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(~p) ∨ q"
+        },
+        {
+          "id": "B",
+          "text": "q ∨ (~p)"
+        },
+        {
+          "id": "C",
+          "text": "(~q) ∨ p"
+        },
+        {
+          "id": "D",
+          "text": "p ∨ (~q)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mathematical Logic",
+      "topic": "Logical connectives",
+      "concept": "Negation of compound statements",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "If for z = α + iβ, |z + 2| = z + 4(1 + i), then α + β and αβ are the roots of the equation",
+      "options": [
+        {
+          "id": "A",
+          "text": "x² + 3x - 4 = 0"
+        },
+        {
+          "id": "B",
+          "text": "x² + x - 12 = 0"
+        },
+        {
+          "id": "C",
+          "text": "x² + 2x - 3 = 0"
+        },
+        {
+          "id": "D",
+          "text": "x² + 7x + 12 = 0"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Complex Numbers",
+      "topic": "Modulus of complex numbers",
+      "concept": "Equations involving complex modulus",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "If the coefficients of three consecutive terms in the expansion of (1+x)ⁿ are in the ratio 1:5:20, then the coefficient of the fourth term is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3654"
+        },
+        {
+          "id": "B",
+          "text": "2436"
+        },
+        {
+          "id": "C",
+          "text": "1827"
+        },
+        {
+          "id": "D",
+          "text": "5481"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial coefficients",
+      "concept": "Ratio of consecutive coefficients",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = [[2,1,0],[1,2,1],[0,1,2]]. If |adj(adj(adj(2A)))| = (16)ⁿ, then n is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Matrices and Determinants",
+      "topic": "Adjoint of a matrix",
+      "concept": "Properties of adjoint",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "Let α, β, γ be the three roots of the equation x³ + bx + c = 0. If αβ = 1 = -γ, then b³ + 2c³ - 3α³ - 6β³ - 8γ³ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "21"
+        },
+        {
+          "id": "B",
+          "text": "19"
+        },
+        {
+          "id": "C",
+          "text": "155/2"
+        },
+        {
+          "id": "D",
+          "text": "169/8"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Theory of Equations",
+      "topic": "Cubic equations",
+      "concept": "Relationship between roots and coefficients",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "In a bolt factory, machines A, B and C manufacture respectively 20%, 30% and 50% of the total bolts. Of their output, 3, 4 and 2 percent are respectively defective bolts. A bolt is drawn at random from the product. If the bolt drawn is found to be defective, then the probability that it is manufactured by the machine C is",
+      "options": [
+        {
+          "id": "A",
+          "text": "9/28"
+        },
+        {
+          "id": "B",
+          "text": "5/14"
+        },
+        {
+          "id": "C",
+          "text": "2/7"
+        },
+        {
+          "id": "D",
+          "text": "3/7"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Bayes' theorem",
+      "concept": "Conditional probability",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f(x) = (sin x cos x)/(sin 2x cos(π/4 - x)), 0 < x < π/4. Then f'(7π/12) · f''(7π/12) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 - √3/3"
+        },
+        {
+          "id": "B",
+          "text": "2/9"
+        },
+        {
+          "id": "C",
+          "text": "2√3/3"
+        },
+        {
+          "id": "D",
+          "text": "-2/3"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Differential Calculus",
+      "topic": "Differentiation",
+      "concept": "Product of first and second derivatives",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "The shortest distance between the lines (x-4)/4 = (y-2)/5 = (z-3)/3 and (x-1)/3 = (y-3)/4 = (z-4)/2 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "6/3"
+        },
+        {
+          "id": "B",
+          "text": "3/6"
+        },
+        {
+          "id": "C",
+          "text": "√26"
+        },
+        {
+          "id": "D",
+          "text": "2/6"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Three Dimensional Geometry",
+      "topic": "Distance between skew lines",
+      "concept": "Shortest distance formula",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "Let C(α, β) be the circumcenter of the triangle formed by the lines 4x + 3y = 69, 4y - 3x = 17, and x + 7y = 61. Then (α - β)² + α + β is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "18"
+        },
+        {
+          "id": "B",
+          "text": "15"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "17"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circumcenter of triangle",
+      "concept": "Properties of right triangle",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "The area of the region {(x,y) : x² ≤ y ≤ 7, y ≤ 8 - x²} is",
+      "options": [
+        {
+          "id": "A",
+          "text": "18"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "21"
+        },
+        {
+          "id": "D",
+          "text": "24"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integral Calculus",
+      "topic": "Area under curves",
+      "concept": "Area between curves",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P = [[√3/2, 1/2], [-1/2, √3/2]], A = [[1, 1], [0, 1]] and Q = PAP^T. If P^T Q^2007 P = [[a, b], [c, d]], then 2a + b - 3c - 4d equals to",
+      "options": [
+        {
+          "id": "A",
+          "text": "2005"
+        },
+        {
+          "id": "B",
+          "text": "2004"
+        },
+        {
+          "id": "C",
+          "text": "2007"
+        },
+        {
+          "id": "D",
+          "text": "2006"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Matrices and Determinants",
+      "topic": "Matrix operations",
+      "concept": "Powers of matrices",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "Let I(x) = ∫ (x-1)/(x(1+e^x))^2 dx, x > 0. If lim(x→∞) I(x) = 0, then I(1) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2e-1)/(e(e+1)) + log_e(e+1)"
+        },
+        {
+          "id": "B",
+          "text": "(2e-1)/(e(e+1)) - log_e(e+1)"
+        },
+        {
+          "id": "C",
+          "text": "(2e-1)/(e(e+1)) - log_e(e+1)"
+        },
+        {
+          "id": "D",
+          "text": "(2e-1)/(e(e+1)) + log_e(e+1)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integral Calculus",
+      "topic": "Integration by partial fractions",
+      "concept": "Definite integration with limits",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "MATHEMATICS",
+      "questionText": "Let R be the focus of the parabola y² = 20x and the line y = mx + c intersect the parabola at two points P and Q. Let the point G(10,10) be the centroid of the triangle PQR. If c - m = 6, then (PQ)² is",
+      "options": [
+        {
+          "id": "A",
+          "text": "325"
+        },
+        {
+          "id": "B",
+          "text": "296"
+        },
+        {
+          "id": "C",
+          "text": "317"
+        },
+        {
+          "id": "D",
+          "text": "316"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola",
+      "concept": "Chord of parabola and centroid",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "MATHEMATICS",
+      "questionText": "lim(x→0) [(1 - cos(3x))/(sin(4x)cos(4x)) · (log_e(1 + 2x))^3]^(2/5) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "9"
+        },
+        {
+          "id": "C",
+          "text": "24"
+        },
+        {
+          "id": "D",
+          "text": "18"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Limits and Continuity",
+      "topic": "Limits",
+      "concept": "L'Hôpital's rule and standard limits",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "MATHEMATICS",
+      "questionText": "If a_n is the greatest term in the sequence a_n = (3^n)/(4^n + 147n), n = 1,2,3..., then n is equal to",
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Maximum term in sequence",
+      "concept": "Differentiation to find maximum",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the mean and variance of 8 numbers x,y,10,12,6,12,4,8 be 9 and 9.25 respectively. If x > y, then 3x - 2y is equal to",
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Statistics",
+      "topic": "Mean and variance",
+      "concept": "Properties of mean and variance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "MATHEMATICS",
+      "questionText": "Let [t] denote the greatest integer ≤ t. If the constant term in the expansion of (3x² + 1/(2x⁵))⁷ is α, then [α] is equal to",
+      "correctAnswer": "1275",
+      "questionType": "NUMERICAL",
+      "chapter": "Binomial Theorem",
+      "topic": "General term in binomial expansion",
+      "concept": "Constant term in expansion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "MATHEMATICS",
+      "questionText": "Let α₁, α₂ be the values of α for which the points (-2,α,1) and (5/2,1,α) are at equal distance from the plane 2x + 3y - 6z + 7 = 0. If α₁ > α₂, then the distance of the point (α₁ - α₂, α₁, α₂) from the line (x-5)/1 = (y+1)/2 = (z-7)/2 is",
+      "correctAnswer": "9",
+      "questionType": "NUMERICAL",
+      "chapter": "Three Dimensional Geometry",
+      "topic": "Distance from point to plane",
+      "concept": "Distance from point to line",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "MATHEMATICS",
+      "questionText": "The largest natural number n such that 3ⁿ divides 66! is",
+      "correctAnswer": "31",
+      "questionType": "NUMERICAL",
+      "chapter": "Number Theory",
+      "topic": "Highest power of prime in factorial",
+      "concept": "Legendre's formula",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider a circle C₁: x² + y² - 4x - 2y = -5. Let its mirror image in the line y = 2x + 1 be another circle C₂: 5x² + 5y² - 10fx - 10gy + 36 = 0. Let r be the radius of C₂, then f + r is equal to",
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Reflection of circle",
+      "concept": "Mirror image in a line",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "MATHEMATICS",
+      "questionText": "If the solution curve of the differential equation (y - 2log_e x)dx + (x log_e x²)dy = 0, x > 1 passes through the points (e, 4/3) and (e⁴, a) then a is equal to",
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Differential Equations",
+      "topic": "First order linear differential equations",
+      "concept": "Integrating factor method",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "MATHEMATICS",
+      "questionText": "Let [t] denote the greatest integer ≤ t. Then ∫₍₋π/₆₎^(5π/6) (8[cosec x] + 5[cot x])dx is equal to",
+      "correctAnswer": "14",
+      "questionType": "NUMERICAL",
+      "chapter": "Integral Calculus",
+      "topic": "Integration of greatest integer functions",
+      "concept": "Definite integration with step functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = {0,3,4,6,7,8,9,10} and R be the relation defined on A such that R = {(x,y) ∈ A×A : x - y is odd positive integer or x - y = 2}. The minimum number of elements that must be added to the relation R, so that it is a symmetric relation, is equal to",
+      "correctAnswer": "19",
+      "questionType": "NUMERICAL",
+      "chapter": "Relations and Functions",
+      "topic": "Properties of relations",
+      "concept": "Symmetric relation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a⃗ = 6î + 9ĵ + 12k̂ and b⃗ = î + 11ĵ + 2k̂ and c⃗ be vectors such that c⃗ = αa⃗ + βb⃗. If a⃗ · c⃗ = -12, (2î + ĵ + k̂) · c⃗ = 5, then (î + ĵ + k̂) · c⃗ is equal to",
+      "correctAnswer": "11",
+      "questionType": "NUMERICAL",
+      "chapter": "Vector Algebra",
+      "topic": "Scalar product of vectors",
+      "concept": "Linear combination of vectors",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:41:47.982Z"
+}

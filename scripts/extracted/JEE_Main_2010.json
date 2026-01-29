@@ -1,0 +1,172 @@
+{
+  "filename": "JEE_Main_2010.pdf",
+  "examYear": 2010,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "An initially parallel cylindrical beam travels in a medium of refractive index μ(I) = μ₀ + μ₂I, where μ₀ and μ₂ are positive constants and I is the intensity of the light beam. The intensity of the beam is decreasing with increasing radius. The initial shape of the wavefront of the beam is",
+      "options": [
+        {
+          "id": "A",
+          "text": "planar"
+        },
+        {
+          "id": "B",
+          "text": "convex"
+        },
+        {
+          "id": "C",
+          "text": "concave"
+        },
+        {
+          "id": "D",
+          "text": "convex near the axis and concave near the periphery"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Optics",
+      "topic": "Wavefront",
+      "concept": "Shape of wavefront",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "The speed of light in the medium is",
+      "options": [
+        {
+          "id": "A",
+          "text": "maximum on the axis of the beam"
+        },
+        {
+          "id": "B",
+          "text": "minimum on the axis of the beam"
+        },
+        {
+          "id": "C",
+          "text": "the same everywhere in the beam"
+        },
+        {
+          "id": "D",
+          "text": "directly proportional to the intensity I"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Optics",
+      "topic": "Speed of light in medium",
+      "concept": "Relation between refractive index and speed",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "As the beam enters the medium, it will",
+      "options": [
+        {
+          "id": "A",
+          "text": "travel as a cylindrical beam"
+        },
+        {
+          "id": "B",
+          "text": "diverge"
+        },
+        {
+          "id": "C",
+          "text": "converge"
+        },
+        {
+          "id": "D",
+          "text": "diverge near the axis and converge near the periphery"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Optics",
+      "topic": "Light propagation",
+      "concept": "Beam behavior in varying refractive index medium",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "A nucleus of mass M + m is at rest and decays into two daughter nuclei of equal mass M/2 each. Speed of light is c. The speed of daughter nuclei is",
+      "options": [
+        {
+          "id": "A",
+          "text": "mc/(M+m)"
+        },
+        {
+          "id": "B",
+          "text": "mc/(M-m)"
+        },
+        {
+          "id": "C",
+          "text": "2mc/M"
+        },
+        {
+          "id": "D",
+          "text": "mc/M"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Nuclear decay",
+      "concept": "Conservation of energy and momentum in nuclear decay",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "The binding energy per nucleon for the parent nucleus is E₁ and that for the daughter nuclei is E₂. Then",
+      "options": [
+        {
+          "id": "A",
+          "text": "E₁ = 2E₂"
+        },
+        {
+          "id": "B",
+          "text": "E₂ = 2E₁"
+        },
+        {
+          "id": "C",
+          "text": "E₁ > E₂"
+        },
+        {
+          "id": "D",
+          "text": "E₂ > E₁"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Nuclear binding energy",
+      "concept": "Stability and binding energy relationship",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:32:20.860Z"
+}

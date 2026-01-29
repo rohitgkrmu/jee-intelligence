@@ -1,0 +1,814 @@
+{
+  "filename": "JEE_Main_2023_10-04-2023_Shift-1_chemistry_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 61,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements:\nStatement I : Aqueous solution of K₂Cr₂O₇ is preferred as a primary standard in volumetric analysis over Na₂Cr₂O₇ aqueous solution.\nStatement II : K₂Cr₂O₇ has a higher solubility in water than Na₂Cr₂O₇.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are true"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is false but Statement II is true"
+        },
+        {
+          "id": "C",
+          "text": "Both statement I and statement II are false"
+        },
+        {
+          "id": "D",
+          "text": "Statement I is true but statement II is false"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "d-Block Elements",
+      "concept": "Primary standards in volumetric analysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "subject": "CHEMISTRY",
+      "questionText": "Isomeric amines with molecular formula C₈H₁₁N give the following tests\nIsomer (P) Can be prepared by Gabriel phthalimide synthesis\nIsomer (Q) Reacts with Hinesburg's reagent to give solid insoluble in NaOH\nIsomer (R) Reacts with HONO followed by β-naphthol in NaOH to give red dye.\nIsomers (P), (Q) and (R) respectively are",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option A (structures not fully visible)"
+        },
+        {
+          "id": "B",
+          "text": "Option B (structures not fully visible)"
+        },
+        {
+          "id": "C",
+          "text": "Option C (structures not fully visible)"
+        },
+        {
+          "id": "D",
+          "text": "Option D (structures not fully visible)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Amines",
+      "concept": "Classification and reactions of amines",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of molecules and moles in 2.8375 litres of O₂ at STP are respectively",
+      "options": [
+        {
+          "id": "A",
+          "text": "7.527 × 10²² and 0.125 mol"
+        },
+        {
+          "id": "B",
+          "text": "7.527 × 10²² and 0.250 mol"
+        },
+        {
+          "id": "C",
+          "text": "7.527 × 10²³ and 0.125 mol"
+        },
+        {
+          "id": "D",
+          "text": "1.505 × 10²² and 0.250 mol"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Mole Concept",
+      "concept": "STP calculations and Avogadro's number",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II\nList-I Industry | List-II Waste Generated\n(A) Steel plants | (i) Gypsum\n(B) Thermal power plants | (ii) Fly ash\n(C) Fertilizer industries | (iii) Slag\n(D) Paper mills | (iv) Bio-degradable wastes\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) – (ii) ; (B) – (iii) ; (C) – (iv) ; (D) – (i)"
+        },
+        {
+          "id": "B",
+          "text": "(A) – (iii) ; (B) – (ii) ; (C) – (i) ; (D) – (iv)"
+        },
+        {
+          "id": "C",
+          "text": "(A) – (iii) ; (B) – (iv) ; (C) – (i) ; (D) – (ii)"
+        },
+        {
+          "id": "D",
+          "text": "(A) – (iv) ; (B) – (i) ; (C) – (ii) ; (D) – (iii)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Environmental Chemistry",
+      "topic": "Industrial Pollution",
+      "concept": "Industrial waste types",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "subject": "CHEMISTRY",
+      "questionText": "The enthalpy change for the adsorption process and micelle formation respectively are",
+      "options": [
+        {
+          "id": "A",
+          "text": "ΔH_ads < 0 and ΔH_mic < 0"
+        },
+        {
+          "id": "B",
+          "text": "ΔH_ads < 0 and ΔH_mic > 0"
+        },
+        {
+          "id": "C",
+          "text": "ΔH_ads > 0 and ΔH_mic < 0"
+        },
+        {
+          "id": "D",
+          "text": "ΔH_ads > 0 and ΔH_mic > 0"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Surface Chemistry",
+      "concept": "Thermodynamics of adsorption and micelle formation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "subject": "CHEMISTRY",
+      "questionText": "Suitable reaction condition for preparation of Methyl phenyl ether is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ph –Br, MeO⁻Na⁺"
+        },
+        {
+          "id": "B",
+          "text": "PhO⁻Na⁺, MeOH"
+        },
+        {
+          "id": "C",
+          "text": "PhO⁻Na⁺, MeBr"
+        },
+        {
+          "id": "D",
+          "text": "Benzene, MeBr"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Ethers",
+      "concept": "Williamson ether synthesis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "subject": "CHEMISTRY",
+      "questionText": "Given\n(A) 2CO(g) + O₂(g) → 2CO₂(g) ΔH° = -x kJ mol⁻¹\n(B) C(graphite) + O₂(g) → CO₂(g) ΔH° = -y kJ mol⁻¹\nThe ΔH° for the reaction\nC(graphite) + ½O₂(g) → CO(g) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2y - x)/2"
+        },
+        {
+          "id": "B",
+          "text": "2y - x"
+        },
+        {
+          "id": "C",
+          "text": "(2x - y)/2"
+        },
+        {
+          "id": "D",
+          "text": "(x - 2y)/2"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Thermodynamics",
+      "concept": "Hess's law",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "subject": "CHEMISTRY",
+      "questionText": "Prolonged heating is avoided during the preparation of ferrous ammonium sulphate to",
+      "options": [
+        {
+          "id": "A",
+          "text": "prevent hydrolysis"
+        },
+        {
+          "id": "B",
+          "text": "prevent breaking"
+        },
+        {
+          "id": "C",
+          "text": "prevent oxidation"
+        },
+        {
+          "id": "D",
+          "text": "prevent reduction"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "d-Block Elements",
+      "concept": "Preparation of ferrous salts",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "subject": "CHEMISTRY",
+      "questionText": "The major product 'P' formed in the given reaction is [benzyl compound with KMnO₄ and heat]",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option A (structure not fully visible)"
+        },
+        {
+          "id": "B",
+          "text": "Option B (structure not fully visible)"
+        },
+        {
+          "id": "C",
+          "text": "Option C (structure not fully visible)"
+        },
+        {
+          "id": "D",
+          "text": "Option D (structure not fully visible)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Oxidation of benzylic carbon",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "subject": "CHEMISTRY",
+      "questionText": "The octahedral diamagnetic low spin complex among the following is",
+      "options": [
+        {
+          "id": "A",
+          "text": "[NiCl₄]²⁻"
+        },
+        {
+          "id": "B",
+          "text": "[Co(NH₃)₆]³⁺"
+        },
+        {
+          "id": "C",
+          "text": "[CoF₆]³⁻"
+        },
+        {
+          "id": "D",
+          "text": "[CoCl₆]³⁻"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Coordination Compounds",
+      "concept": "Crystal field theory and magnetic properties",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two reactions, involved in the commercial production of dihydrogen (H₂).\nThe two reactions are carried out at temperature \"T₁\" and \"T₂\", respectively\nC(s) + H₂O(g) → CO(g) + H₂(g)\nCO(g) + H₂O(g) → CO₂(g) + H₂(g)\nThe temperatures T₁ and T₂ are correctly related as",
+      "options": [
+        {
+          "id": "A",
+          "text": "T₁ = T₂"
+        },
+        {
+          "id": "B",
+          "text": "T₁ < T₂"
+        },
+        {
+          "id": "C",
+          "text": "T₁ > T₂"
+        },
+        {
+          "id": "D",
+          "text": "T₁ = 100K , T₂ = 1270K"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Kinetics",
+      "concept": "Industrial processes and temperature effects",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "subject": "CHEMISTRY",
+      "questionText": "Identify the correct order of reactivity for the following pairs towards the respective mechanism\n(A) [SN2 mechanism comparison]\n(B) [SN1 mechanism comparison]\n(C) [Electrophilic substitution comparison]\n(D) [Nucleophilic substitution comparison]\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A), (B), (C) and (D)"
+        },
+        {
+          "id": "B",
+          "text": "(A), (B) and (D) only"
+        },
+        {
+          "id": "C",
+          "text": "(B), (C) and (D) only"
+        },
+        {
+          "id": "D",
+          "text": "(A), (C) and (D) only"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Comparative reactivity in different mechanisms",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "subject": "CHEMISTRY",
+      "questionText": "Using column chromatography, mixture of two compounds 'A' and 'B' was separated.\n'A' eluted first, this indicates 'B'",
+      "options": [
+        {
+          "id": "A",
+          "text": "low Rf, stronger adsorption"
+        },
+        {
+          "id": "B",
+          "text": "high Rf, stronger adsorption"
+        },
+        {
+          "id": "C",
+          "text": "low Rf, weaker adsorption"
+        },
+        {
+          "id": "D",
+          "text": "high Rf, weaker adsorption"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Surface Chemistry",
+      "concept": "Chromatography principles",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "subject": "CHEMISTRY",
+      "questionText": "The compound which does not exist is",
+      "options": [
+        {
+          "id": "A",
+          "text": "NaO₂"
+        },
+        {
+          "id": "B",
+          "text": "(NH₄)₂BeF₄"
+        },
+        {
+          "id": "C",
+          "text": "BeH₂"
+        },
+        {
+          "id": "D",
+          "text": "PbEt₄"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "s-Block Elements",
+      "concept": "Alkali metal oxides and their stability",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "subject": "CHEMISTRY",
+      "questionText": "Lime reacts exothermally with water to give 'A' which has low solubility in water. Aqueous solution of 'A' is often used for the test of CO₂, a test in which insoluble B is formed. If B is further reacted with CO₂ then soluble compound is formed. 'A' is",
+      "options": [
+        {
+          "id": "A",
+          "text": "White lime"
+        },
+        {
+          "id": "B",
+          "text": "Quick lime"
+        },
+        {
+          "id": "C",
+          "text": "Lime water"
+        },
+        {
+          "id": "D",
+          "text": "Slaked lime"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "s-Block Elements",
+      "concept": "Calcium compounds and their reactions",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following statements are correct?\n(A) The M³⁺/M²⁺ reduction potential for iron is greater than manganese.\n(B) The higher oxidation states of first row d-block elements get stabilized by oxide ion.\n(C) Aqueous solution of Cr²⁺ can liberate hydrogen from dilute acid.\n(D) Magnetic moment of V²⁺ is observed between 4,4 – 5.2 BM.\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A), (B) only"
+        },
+        {
+          "id": "B",
+          "text": "(A), (B), (D) only"
+        },
+        {
+          "id": "C",
+          "text": "(B), (C) only"
+        },
+        {
+          "id": "D",
+          "text": "(C), (D) only"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "d-Block Elements",
+      "concept": "Properties of transition metals",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II\nList I (Polymer) | List II (Type/class)\n(A) Nylon-2-Nylon-6 | (i) Thermosetting polymer\n(B) Buna-N | (ii) Biodegradable polymer\n(C) Urea-formaldehyde resin | (iii) Synthetic rubber\n(D) Dacron | (iv) Polyester\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) – (iv), (B) – (i), (C) – (iii), (D) – (ii)"
+        },
+        {
+          "id": "B",
+          "text": "(A) – (ii), (B) – (i), (C) – (iv), (D) – (iii)"
+        },
+        {
+          "id": "C",
+          "text": "(A) – (ii), (B) – (iii), (C) – (i), (D) – (iv)"
+        },
+        {
+          "id": "D",
+          "text": "(A) – (iv), (B) – (iii), (C) – (i), (D) – (ii)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Polymers",
+      "concept": "Classification of polymers",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following is used as a stabilizer during the concentration of sulphide ores?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pine oils"
+        },
+        {
+          "id": "B",
+          "text": "Xanthates"
+        },
+        {
+          "id": "C",
+          "text": "Fatty acids"
+        },
+        {
+          "id": "D",
+          "text": "Cresols"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Metallurgy",
+      "concept": "Froth flotation process",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "subject": "CHEMISTRY",
+      "questionText": "The one that does not stabilize 2° and 3° structures of proteins is",
+      "options": [
+        {
+          "id": "A",
+          "text": "– O – O – linkage"
+        },
+        {
+          "id": "B",
+          "text": "H-bonding"
+        },
+        {
+          "id": "C",
+          "text": "vander waals forces"
+        },
+        {
+          "id": "D",
+          "text": "– S –S – linkage"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Biomolecules",
+      "concept": "Protein structure stabilization",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "subject": "CHEMISTRY",
+      "questionText": "The pair from the following pairs having both compounds with net non-zero dipole moment is",
+      "options": [
+        {
+          "id": "A",
+          "text": "cis-butene, trans-butene"
+        },
+        {
+          "id": "B",
+          "text": "1,4-Dichlorobenzene, 1,3-Dichlorobenzene"
+        },
+        {
+          "id": "C",
+          "text": "CH₂Cl₂, CHCl₃"
+        },
+        {
+          "id": "D",
+          "text": "Benzene, anisidine"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Bonding",
+      "concept": "Dipole moment",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "subject": "CHEMISTRY",
+      "questionText": "In potassium ferrocyanide, there are _______ pairs of electrons in the t₂g set of orbitals.",
+      "correctAnswer": "3",
+      "questionType": "INTEGER",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Coordination Compounds",
+      "concept": "Crystal field theory",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of bent-shaped molecule/s from the following is ______\nSO₂, O₃, I₃⁻, N₃⁻, NO₂⁻",
+      "correctAnswer": "3",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Bonding",
+      "concept": "VSEPR theory and molecular geometry",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "subject": "CHEMISTRY",
+      "questionText": "A molecule undergoes two independent first order reactions whose respective half lives are 12 min and 3 min. If both the reactions are occurring then the time taken for the 50% consumption of the reactant is _____ min. (Nearest integer)",
+      "correctAnswer": "2",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Kinetics",
+      "concept": "Parallel first-order reactions",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of incorrect statement/s about the black body from the following is ______\n(A) Emit or absorb energy in the form of electromagnetic radiation.\n(B) Frequency distribution of the emitted radiation depends on temperature.\n(C) At a given temperature, intensity vs frequency curve passes through a maximum value.\n(D) The maximum of the intensity vs frequency curve is at a higher frequency at higher temperature compared to that at lower temperature.",
+      "correctAnswer": "0",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Atomic Structure",
+      "concept": "Black body radiation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "subject": "CHEMISTRY",
+      "questionText": "The sum of lone pairs present on the central atom of the interhalogen IF₅ and IF₇ is ______",
+      "correctAnswer": "1",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Bonding",
+      "concept": "VSEPR theory and interhalogen compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "subject": "CHEMISTRY",
+      "questionText": "E°(FeO₄²⁻/Fe²⁺) is x × 10⁻³ V. The value of x is _______\nGiven: E°(FeO₄²⁻/Fe³⁺) = 2.20V, E°(Fe³⁺/Fe²⁺) = 0.70V",
+      "correctAnswer": "1825",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "concept": "Standard electrode potential calculations",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "subject": "CHEMISTRY",
+      "questionText": "In the following reactions, the total number of oxygen atoms in X and Y is _____\nNa₂O + H₂O → 2X\nCl₂O₇ + H₂O → 2Y",
+      "correctAnswer": "5",
+      "questionType": "INTEGER",
+      "chapter": "Inorganic Chemistry",
+      "topic": "s-Block and Halogen Elements",
+      "concept": "Oxide reactions with water",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "subject": "CHEMISTRY",
+      "questionText": "At constant temperature, a gas is at a pressure of 940.3 mm Hg. The pressure at which its volume decreases by 40% is ______ mm Hg. (Nearest integer)",
+      "correctAnswer": "1567",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Gaseous State",
+      "concept": "Boyle's law",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "subject": "CHEMISTRY",
+      "questionText": "If the degree of dissociation of aqueous solution of weak monobasic acid is determined to be 0.3, then the observed freezing point will be _____ % higher than the expected/theoretical freezing point. (Nearest integer)",
+      "correctAnswer": "30",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Solutions",
+      "concept": "Colligative properties and van't Hoff factor",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of correct statement/s involving equilibria in physical processes from the following is ____\n(A) Equilibrium is possible only in a closed system at a given temperature.\n(B) Both the opposing processes occur at the same rate.\n(C) When equilibrium is attained at a given temperature, the value of all its parameters became equal.\n(D) For dissolution of solids in liquids, the solubility is constant at a given temperature.",
+      "correctAnswer": "3",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Equilibrium",
+      "concept": "Dynamic equilibrium in physical processes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:46:30.173Z"
+}

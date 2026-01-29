@@ -1,0 +1,829 @@
+{
+  "filename": "JEE_Main_2023_06-04-2023_Shift-2_mathematics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P be a square matrix such that P² = I - P. For α, β ∈ N, if P^α + P^β = α - 29P and P^α - P^β = β - 13P, then α + β is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "40"
+        },
+        {
+          "id": "B",
+          "text": "24"
+        },
+        {
+          "id": "C",
+          "text": "18"
+        },
+        {
+          "id": "D",
+          "text": "22"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Matrices",
+      "topic": "Matrix Powers",
+      "concept": "Matrix equations and powers",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "ALGEBRAIC"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the sets A and B denote the domain and range respectively of the function f(x) = (⌈x⌉)/(⌈x⌉ - x), where ⌈x⌉ denotes the smallest integer greater than or equal to x. Then among the statements (S₁): A ∩ B = (1, ∞) - N and (S₂): A ∪ B = (1, ∞)",
+      "options": [
+        {
+          "id": "A",
+          "text": "both (S₁) and (S₂) are true"
+        },
+        {
+          "id": "B",
+          "text": "only (S₂) is true"
+        },
+        {
+          "id": "C",
+          "text": "only (S₁) is true"
+        },
+        {
+          "id": "D",
+          "text": "neither (S₁) nor (S₂) is true"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Domain and Range",
+      "concept": "Ceiling function properties",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "If the coefficient of x⁷ in (1 + ax²/(2 - bx))¹¹ and x⁻⁷ in (1 + ax/(3 - bx²))¹¹ are equal. Then",
+      "options": [
+        {
+          "id": "A",
+          "text": "729ab = 32"
+        },
+        {
+          "id": "B",
+          "text": "64ab = 243"
+        },
+        {
+          "id": "C",
+          "text": "32ab = 729"
+        },
+        {
+          "id": "D",
+          "text": "243ab = 64"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Binomial Theorem",
+      "topic": "Coefficient Comparison",
+      "concept": "Binomial expansion coefficients",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "The area bounded by the curves y = |2x - 1| and y = 3 is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integration",
+      "topic": "Area Under Curves",
+      "concept": "Area bounded by modulus function",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "All the letters of the word PUBLIC are written in all possible orders and these words are written as in a dictionary with serial number. The serial number of the word PUBLIC is",
+      "options": [
+        {
+          "id": "A",
+          "text": "578"
+        },
+        {
+          "id": "B",
+          "text": "576"
+        },
+        {
+          "id": "C",
+          "text": "582"
+        },
+        {
+          "id": "D",
+          "text": "580"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Permutations and Combinations",
+      "topic": "Lexicographic Order",
+      "concept": "Dictionary arrangement",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f(x) be a function satisfying f(x) + f(-x) = 2, ∀x ∈ R. Then ∫₀^π f(x)sin x dx is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "π²/2"
+        },
+        {
+          "id": "B",
+          "text": "π"
+        },
+        {
+          "id": "C",
+          "text": "2π²"
+        },
+        {
+          "id": "D",
+          "text": "π/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integration",
+      "topic": "Definite Integration",
+      "concept": "Properties of definite integrals",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Among the statements: (S₁): 2023²⁰²² - 1999²⁰²² is divisible by 8 (S₂): 13(13)ⁿ - 11n - 13 is divisible by 144 for infinitely many n ∈ N",
+      "options": [
+        {
+          "id": "A",
+          "text": "only (S₂) is correct"
+        },
+        {
+          "id": "B",
+          "text": "only (S₁) is correct"
+        },
+        {
+          "id": "C",
+          "text": "both (S₁) and (S₂) are incorrect"
+        },
+        {
+          "id": "D",
+          "text": "both (S₁) and (S₂) are correct"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Number Theory",
+      "topic": "Divisibility",
+      "concept": "Modular arithmetic",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "lim[n→∞] [√(1/2² + 1/3² + 1/5² + ... + 1/(2n-1)²)]ⁿ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1/2"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Limits",
+      "topic": "Limits of Sequences",
+      "concept": "Limit of exponential form",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "In a group of 100 persons 75 speak English and 40 speak Hindi. Each person speaks at least one of the two languages. If number of persons, who speak only English is α and the number of persons who speak only Hindi is β, then the eccentricity of the ellipse x²/α² + y²/β² = 1/25 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "√117/12"
+        },
+        {
+          "id": "B",
+          "text": "√129/12"
+        },
+        {
+          "id": "C",
+          "text": "√119/12"
+        },
+        {
+          "id": "D",
+          "text": "√153/12"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Conic Sections",
+      "topic": "Ellipse",
+      "concept": "Eccentricity of ellipse",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "The sum of all values of λ for which the points whose position vectors are î + 2ĵ + 3k̂, 2î + 3ĵ + 4k̂, (λ+1)î + 2k̂ and 9î - λĵ + 6k̂ are coplanar, is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "-2"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vectors",
+      "topic": "Coplanarity",
+      "concept": "Coplanarity of four points",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "If gcd(m, n) = 1 and 1² - 2² + 3² - 4² + ..... + (2021)² - (2022)² + (2023)² = 1012 m²n, then m² - n is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "200"
+        },
+        {
+          "id": "B",
+          "text": "180"
+        },
+        {
+          "id": "C",
+          "text": "240"
+        },
+        {
+          "id": "D",
+          "text": "220"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sequences and Series",
+      "topic": "Sum of Series",
+      "concept": "Alternating sum of squares",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the vectors a⃗, b⃗, c⃗ represent three coterminous edges of a parallelepiped of volume V. Then the volume of the parallelepiped, whose coterminous edges are represented by a⃗ + b⃗, c⃗ and 2a⃗ + 3b⃗ + c⃗ is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2V"
+        },
+        {
+          "id": "B",
+          "text": "6V"
+        },
+        {
+          "id": "C",
+          "text": "3V"
+        },
+        {
+          "id": "D",
+          "text": "V"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vectors",
+      "topic": "Scalar Triple Product",
+      "concept": "Volume of parallelepiped",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "If the solution curve f(x,y) = 0 of the differential equation (1 + log x)(dy/dx) - x log x = eʸ, x > 0, passes through the points (1, 0) and (α, 2), then α is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "(e² + 2)/e²"
+        },
+        {
+          "id": "B",
+          "text": "(e² - 2)/e²"
+        },
+        {
+          "id": "C",
+          "text": "e²/e"
+        },
+        {
+          "id": "D",
+          "text": "(e² + 2)/e"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Differential Equations",
+      "topic": "First Order Linear DE",
+      "concept": "Linear differential equation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "For the system of equations x + y + z = 6, x + 2y + λz = 10, x + 3y + 5z = μ, which one of the following is Not true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "System has a unique solution for λ = -3, μ = 14."
+        },
+        {
+          "id": "B",
+          "text": "System has infinitely many solutions for λ = 3, μ = 14."
+        },
+        {
+          "id": "C",
+          "text": "System has a unique solution for λ = 3, μ ≠ 14."
+        },
+        {
+          "id": "D",
+          "text": "System has no solution for λ = 3, μ = 24."
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Determinants",
+      "topic": "System of Linear Equations",
+      "concept": "Cramer's rule and consistency",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "Among the statements (S₁): (p → q) ∨ ((~p) ∨ q) is a tautology (S₂): (q → p) ∧ ((~p) ∨ q) is a contradiction",
+      "options": [
+        {
+          "id": "A",
+          "text": "only (S₂) is True"
+        },
+        {
+          "id": "B",
+          "text": "neither (S₁) and (S₂) is True"
+        },
+        {
+          "id": "C",
+          "text": "Both (S₁) and (S₂) are True"
+        },
+        {
+          "id": "D",
+          "text": "only (S₁) is True"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mathematical Logic",
+      "topic": "Logical Connectives",
+      "concept": "Tautology and contradiction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the line L pass through the point (0, 1, 2), intersect the line (x-1)/2 = (y-2)/3 = (z-3)/4 and be parallel to the plane 2x + y - 3z = 4. Then the distance of the point P(1, -9, 2) from the line L is",
+      "options": [
+        {
+          "id": "A",
+          "text": "√74"
+        },
+        {
+          "id": "B",
+          "text": "√69"
+        },
+        {
+          "id": "C",
+          "text": "√54"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Distance from Point to Line",
+      "concept": "Line parallel to plane",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "Three dice are rolled. If the probability of getting different numbers on the three dice is p/q, where p and q are co-prime, then q - p is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Basic Probability",
+      "concept": "Probability of distinct outcomes",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "A plane P contains the line of intersection of planes r⃗·(î + ĵ + k̂) = 6 and r⃗·(2î + 3ĵ + 4k̂) = 5. If P passes through the point (0,2,-2), then square of distance of point (12,12,18) from the plane P is",
+      "options": [
+        {
+          "id": "A",
+          "text": "310"
+        },
+        {
+          "id": "B",
+          "text": "1240"
+        },
+        {
+          "id": "C",
+          "text": "620"
+        },
+        {
+          "id": "D",
+          "text": "155"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Plane Geometry",
+      "concept": "Distance from point to plane",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a ≠ b be two non-zero real numbers. Then the number of elements in the set X = {z ∈ C : Re(az² + bz) = a and Re(bz² + az) = b} is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Complex Numbers",
+      "topic": "Complex Equations",
+      "concept": "Real part of complex expressions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "MATHEMATICS",
+      "questionText": "If the tangents at the points P and Q on the circle x² + y² - 2x + y = 5 meet at the point R(9/4, 2), then the area of the triangle PQR is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5/4"
+        },
+        {
+          "id": "B",
+          "text": "5/8"
+        },
+        {
+          "id": "C",
+          "text": "13/8"
+        },
+        {
+          "id": "D",
+          "text": "13/4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Conic Sections",
+      "topic": "Circle",
+      "concept": "Tangent from external point",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f(x) = x^(1/(1+x)), ∀x ∈ R, x ≠ -1, n ∈ N, n ≥ 2. If f_n(x) = (f∘f∘f.... upto n times)(x), then lim[n→∞] ∫₀¹ x f_n(x) dx is equal to",
+      "options": [],
+      "correctAnswer": "0",
+      "questionType": "NUMERICAL",
+      "chapter": "Functions and Limits",
+      "topic": "Composite Functions",
+      "concept": "Iterated function composition",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "MATHEMATICS",
+      "questionText": "If the mean and variance of the frequency distribution with x_i = 2, 4, 6, 8, 10, 12, 14, 16 and f_i = 4, α, 15, β, 8, 4, 5, 5 are 9 and 15.08 respectively, then the value of α² + β² - αβ is",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Statistics",
+      "topic": "Mean and Variance",
+      "concept": "Frequency distribution parameters",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "MATHEMATICS",
+      "questionText": "If (20)¹⁹ + 2(21)(20)¹⁸ + 3(21)²(20)¹⁷ + ..... + 20(21)¹⁹ = k(20)¹⁹, then k is equal to",
+      "options": [],
+      "correctAnswer": "400",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Summation",
+      "concept": "AGP series summation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the eccentricity of an ellipse x²/a² + y²/b² = 1 is reciprocal to that of the hyperbola 2x² - 2y² = 1. If the ellipse intersects the hyperbola at right angles, then square of length of the latus-rectum of the ellipse is",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Conic Sections",
+      "topic": "Ellipse and Hyperbola",
+      "concept": "Orthogonal intersection of conics",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "MATHEMATICS",
+      "questionText": "For α, z ∈ C and α > 1, if 1/α is the radius of the circle |z|² + |z - α|² = 2, then α is equal to",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Complex Numbers",
+      "topic": "Locus in Complex Plane",
+      "concept": "Circle in complex plane",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "MATHEMATICS",
+      "questionText": "If the lines (x-1)/2 = (y-2)/3 = z/λ and (x-4)/5 = (y-1)/2 = z/μ intersect, then the magnitude of the minimum value of λμ is",
+      "options": [],
+      "correctAnswer": "18",
+      "questionType": "NUMERICAL",
+      "chapter": "3D Geometry",
+      "topic": "Intersection of Lines",
+      "concept": "Condition for intersection of skew lines",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of points, where the curve y = x⁵ - 20x³ + 50x + 2 crosses the x-axis, is",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Application of Derivatives",
+      "topic": "Curve Sketching",
+      "concept": "Roots of polynomial equations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of tan9° - tan27° - tan63° + tan81° is",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Values",
+      "concept": "Tangent of complementary angles",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a curve y = f(x), x ∈ (0, ∞) pass through the points P(1, 3/2) and Q(α, 1/2). If the tangent at any point R(b, f(b)) to the given curve cuts the y-axis at the point S(0, c) such that bc = 3, then (PQ)² is equal to",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Differential Calculus",
+      "topic": "Tangent Properties",
+      "concept": "Tangent equation and curve properties",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of 4-letter words, with or without meaning, each consisting of 2 vowels and 2 consonants, which can be formed from the letters of the word UNIVERSE without repetition is",
+      "options": [],
+      "correctAnswer": "432",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Arrangements",
+      "concept": "Selection and arrangement of letters",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:37:06.141Z"
+}

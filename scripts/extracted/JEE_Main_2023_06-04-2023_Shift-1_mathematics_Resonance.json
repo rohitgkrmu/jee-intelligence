@@ -1,0 +1,254 @@
+{
+  "filename": "JEE_Main_2023_06-04-2023_Shift-1_mathematics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = {x ∈ R : x² - 3x + 4 ≥ 0}, B = {x ∈ R : (3/10)^(∑(r=1 to ∞) (x/3)^r) ≤ 1/(3-x) ≤ 3}. Then",
+      "options": [
+        {
+          "id": "A",
+          "text": "A = B"
+        },
+        {
+          "id": "B",
+          "text": "B ⊂ A, A ≠ B"
+        },
+        {
+          "id": "C",
+          "text": "C ⊂ B, A ≠ B"
+        },
+        {
+          "id": "D",
+          "text": "B ⊂ A"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sets and Functions",
+      "topic": "Sets",
+      "concept": "Set operations and relations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "∫(x²sec²x - x tan x)/(1 + x tan x)² dx. If I(0) = 0, then I(π/4) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "log_e(√2/4) - (π² - 4)/32"
+        },
+        {
+          "id": "B",
+          "text": "log_e(√2/4) - (π² - 4)/16"
+        },
+        {
+          "id": "C",
+          "text": "log_e(√2/4) + (π² - 4)/32"
+        },
+        {
+          "id": "D",
+          "text": "log_e(√2/4) - (π² - 4)/16"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Integration",
+      "concept": "Integration by parts and substitution",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "The mean and variance of a set of 15 numbers are 12 and 14 respectively. The mean and variance of another set of 15 numbers are 14 and σ respectively. If the variance of all the 30 numbers in the two sets is 13, then σ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "11"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Statistics",
+      "topic": "Mean and Variance",
+      "concept": "Combined mean and variance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a₁, a₂, a₃, ..., aₙ be n positive consecutive terms of an arithmetic progression. If d > 0 is its common difference, then lim(n→∞) d/n [1/(a₁a₂) + 1/(a₂a₃) + ... + 1/(aₙ₋₁aₙ)] is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/d"
+        },
+        {
+          "id": "B",
+          "text": "d"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sequences and Series",
+      "topic": "Arithmetic Progression",
+      "concept": "Limits and AP",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "From the top A of a vertical wall AB of height 30m, the angles of depression of the top P and bottom Q of a vertical tower PQ are 15° and 60° respectively. B and Q are on the same horizontal level. If C is a point on AB such that CB = PQ, then the area (in m²) of the quadrilateral BCPQ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "300√3"
+        },
+        {
+          "id": "B",
+          "text": "200√3"
+        },
+        {
+          "id": "C",
+          "text": "600√3"
+        },
+        {
+          "id": "D",
+          "text": "300√3"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Heights and Distances",
+      "concept": "Angle of depression",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a ∈ Z and [t] be the greatest integer ≤ t. Then the number of points, where the function f(x) = [a + 13 sin x], x ∈ (0, π) is not differentiable, is",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Differentiability",
+      "concept": "Non-differentiability of greatest integer function",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "MATHEMATICS",
+      "questionText": "A circle passing through the point P(α, β) in the first quadrant touches the two coordinate axes at the points A and B. The point P is above the line AB. The point Q on the line segment AB is the foot of perpendicular from P on AB. If PQ is equal to 11 units, then the value of αβ is",
+      "options": [],
+      "correctAnswer": "121",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle",
+      "concept": "Circle touching coordinate axes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = {1,2,3,4,...,10} and B = {0,1,2,3,4}. The number of elements in the relation R = {(a,b) ∈ A × A : 2(a-b)² + 3(a-b) ∈ B} is",
+      "options": [],
+      "correctAnswer": "18",
+      "questionType": "NUMERICAL",
+      "chapter": "Relations and Functions",
+      "topic": "Relations",
+      "concept": "Number of elements in relation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the image of the point P(1,2,3) in the plane 2x - y + z = 9 be Q. If the coordinates of the point R are (6,10,7), then the square of the area of the triangle PQR is",
+      "options": [],
+      "correctAnswer": "594",
+      "questionType": "NUMERICAL",
+      "chapter": "3D Geometry",
+      "topic": "Plane",
+      "concept": "Image of point in plane",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the point (p, p+1) lie inside the region E = {(x,y) : 3-x ≤ y ≤ 9-x², x² + y² ≤ 9, 0 ≤ x ≤ 3}. If the set of all values of p is the interval (a,b), then b² + b - a² is equal to",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Regions",
+      "concept": "Point in region",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:34:03.022Z"
+}

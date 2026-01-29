@@ -1,0 +1,169 @@
+{
+  "filename": "JEE_Main_2025_April_3_Shift2.pdf",
+  "examYear": 2025,
+  "examSession": "April 3 Shift 2",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "Light from a point source in air falls on a spherical glass surface (refractive index, μ = 1.5 and radius of curvature = 50 cm). The image is formed at a distance of 200 cm from the glass surface inside the glass. The magnitude of distance of the light source from the glass surface is ______ m.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Ray Optics",
+      "topic": "Refraction at Spherical Surface",
+      "concept": "Refraction formula application",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "The excess pressure inside a soap bubble A in air is half the excess pressure inside another soap bubble B in air. If the volume of the bubble A is n times the volume of the bubble B, then, the value of n is _______.",
+      "options": [],
+      "correctAnswer": "8",
+      "questionType": "NUMERICAL",
+      "chapter": "Fluid Mechanics",
+      "topic": "Surface Tension",
+      "concept": "Excess pressure in soap bubbles",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "Two cells of emf 1V and 2V and internal resistance 2Ω and 1Ω, respectively, are connected in series with an external resistance of 6Ω. The total current in the circuit is I₁. Now the same two cells in parallel configuration are connected to same external resistance. In this case, the total current drawn is I₂. The value of (I₁/I₂) is x/3. The value of x is _________.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Circuit Analysis",
+      "concept": "Series and parallel combination of cells",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "An electron in the hydrogen atom initially in the fourth excited state makes a transition to nth energy state by emitting a photon of energy 2.86 eV. The integer value of n will be_______________",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Atomic Physics",
+      "topic": "Hydrogen Spectrum",
+      "concept": "Energy levels and transitions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "A physical quantity C is related to four other quantities p, q, r and s as follows C = pq²/(r³√s). The percentage errors in the measurement of p, q, r and s are 1%, 2%, 3% and 2% respectively. The percentage error in the measurement of C will be ______%.",
+      "options": [],
+      "correctAnswer": "15",
+      "questionType": "NUMERICAL",
+      "chapter": "Measurements",
+      "topic": "Error Analysis",
+      "concept": "Propagation of errors",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "CHEMISTRY",
+      "questionText": "X g of nitrobenzene on nitration gave 4.2 g of m-dinitrobenzene. X = ________ g. (nearest integer) [Given: molar mass (in g⋅mol⁻¹), C:12, H:1, O:16, N:14]",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Nitration",
+      "concept": "Stoichiometry of nitration reaction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "A perfect gas (0.1 mol) having C̄v = 1.50R (independent of temperature) undergoes the above transformation from point 1 to point 4. If each step is reversible, the total work done (w) while going from point 1 to point 4 is _____ J (nearest integer) [Given: R = 0.082 L⋅atm⋅K⁻¹⋅mol⁻¹]",
+      "options": [],
+      "correctAnswer": "304",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Cycles",
+      "concept": "Work calculation in cyclic processes",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "A sample of n-octane (1.14 g) was completely burnt in excess of oxygen in a bomb calorimeter, whose heat capacity is 5 kJ⋅K⁻¹. As a result of combustion reaction, the temperature of the calorimeter is increased by 5 K. The magnitude of the heat of combustion of octane at constant volume is _____ kJ⋅mol⁻¹ (nearest integer).",
+      "options": [],
+      "correctAnswer": "2500",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermochemistry",
+      "topic": "Combustion Reactions",
+      "concept": "Calorimetry and enthalpy calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "Among, Sc, Mn, Co and Cu, identify the element with highest enthalpy of atomisation. The spin only magnetic moment value of that element in its +2 oxidation state is _____ BM (in nearest integer).",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "d-Block Elements",
+      "topic": "Transition Elements",
+      "concept": "Enthalpy of atomization and magnetic moment",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "The total number of structural isomers possible for the substituted benzene derivatives with the molecular formula C₉H₁₂ is _______.",
+      "options": [],
+      "correctAnswer": "8",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Structural Isomerism",
+      "concept": "Aromatic compound isomers",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T08:27:42.041Z"
+}

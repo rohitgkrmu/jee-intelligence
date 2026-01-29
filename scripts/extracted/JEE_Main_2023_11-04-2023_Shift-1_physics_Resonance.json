@@ -1,0 +1,826 @@
+{
+  "filename": "JEE_Main_2023_11-04-2023_Shift-1_physics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "A transmitting antenna is kept on the surface of the earth. The minimum height of receiving antenna required to receive the signal in line of sight at 4 km distance from it is x × 10^(-2) m. The value of x is ____. (Let, radius of earth R = 6400 km)",
+      "options": [
+        {
+          "id": "A",
+          "text": "12.5"
+        },
+        {
+          "id": "B",
+          "text": "1250"
+        },
+        {
+          "id": "C",
+          "text": "125"
+        },
+        {
+          "id": "D",
+          "text": "1.25"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Optics",
+      "topic": "Line of sight communication",
+      "concept": "Horizon distance for antenna",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "PHYSICS",
+      "questionText": "The free space inside a current carrying toroid is filled with a material of susceptibility 2 × 10^(-2). The percentage increase in the value of magnetic field inside the toroid will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1%"
+        },
+        {
+          "id": "B",
+          "text": "0.2%"
+        },
+        {
+          "id": "C",
+          "text": "0.1%"
+        },
+        {
+          "id": "D",
+          "text": "2%"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism and Matter",
+      "topic": "Magnetic susceptibility",
+      "concept": "Relative permeability and susceptibility",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "PHYSICS",
+      "questionText": "The variation of kinetic energy (KE) of a particle executing simple harmonic motion with the displacement (x) starting from mean position to extreme position (A) is given by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Linear decrease"
+        },
+        {
+          "id": "B",
+          "text": "Exponential decrease"
+        },
+        {
+          "id": "C",
+          "text": "Parabolic decrease"
+        },
+        {
+          "id": "D",
+          "text": "Hyperbolic decrease"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Oscillations",
+      "topic": "Simple harmonic motion",
+      "concept": "Energy variation in SHM",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "PHYSICS",
+      "questionText": "Two radioactive elements A and B initially have same number of atoms. The half life of A is same as the average life of B. If λ_A and λ_B are decay constants of A and B respectively, then choose the correct relation from the given options:",
+      "options": [
+        {
+          "id": "A",
+          "text": "λ_A ln2 = λ_B"
+        },
+        {
+          "id": "B",
+          "text": "λ_A = λ_B"
+        },
+        {
+          "id": "C",
+          "text": "λ_A = 2λ_B"
+        },
+        {
+          "id": "D",
+          "text": "λ_A = λ_B ln2"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atoms and Nuclei",
+      "topic": "Radioactive decay",
+      "concept": "Half-life and average life relationship",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements:\nStatement I: Astronomical unit (Au), Parsec (Pc) and Light year (ly) are units for measuring astronomical distances.\nStatement II: Au < Parsec (Pc) < ly\nIn the light of the above statements choose the most appropriate answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statements I and II are correct"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is correct but statement II is incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Both statements I and II are incorrect"
+        },
+        {
+          "id": "D",
+          "text": "Statement I is incorrect but statement II is correct"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Measurements",
+      "topic": "Astronomical units",
+      "concept": "Comparison of astronomical distance units",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "PHYSICS",
+      "questionText": "A coin placed on a rotating table just slips when it is placed at a distance of 1 cm from the centre. If the angular velocity of the table is halved, it will just slip when placed at a distance of ____ from the centre.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 cm"
+        },
+        {
+          "id": "B",
+          "text": "4 cm"
+        },
+        {
+          "id": "C",
+          "text": "1 cm"
+        },
+        {
+          "id": "D",
+          "text": "8 cm"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Circular Motion",
+      "topic": "Centripetal force",
+      "concept": "Critical angular velocity for slipping",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "PHYSICS",
+      "questionText": "A parallel plate capacitor of capacitance 2μF is charged to a potential V, the energy stored in the capacitor is E₁. The capacitor is now connected to another uncharged identical capacitor in parallel combination. The energy stored in the combination is E₂. The ratio E₂/E₁ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 2"
+        },
+        {
+          "id": "B",
+          "text": "2 : 1"
+        },
+        {
+          "id": "C",
+          "text": "1 : 4"
+        },
+        {
+          "id": "D",
+          "text": "2 : 3"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatic Potential and Capacitance",
+      "topic": "Capacitors",
+      "concept": "Energy redistribution in capacitor combinations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "PHYSICS",
+      "questionText": "Three vessels of equal volume contain gases at the same temperature and pressure. The first vessel contains neon (monoatomic), the second contains chlorine (diatomic) and third contains uranium hexafluoride (polyatomic). Arrange these on the basis of their root mean square speed (v_rms) and choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "v_rms(mono) = v_rms(dia) = v_rms(poly)"
+        },
+        {
+          "id": "B",
+          "text": "v_rms(dia) < v_rms(poly) < v_rms(mono)"
+        },
+        {
+          "id": "C",
+          "text": "v_rms(mono) > v_rms(dia) > v_rms(poly)"
+        },
+        {
+          "id": "D",
+          "text": "v_rms(mono) < v_rms(dia) < v_rms(poly)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinetic Theory",
+      "topic": "Molecular speeds",
+      "concept": "Root mean square speed dependence on molecular mass",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "PHYSICS",
+      "questionText": "Two identical heater filaments are connected first in parallel and then in series. At the same applied voltage, the ratio of heat produced in same time for parallel to series will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 2"
+        },
+        {
+          "id": "B",
+          "text": "1 : 4"
+        },
+        {
+          "id": "C",
+          "text": "4 : 1"
+        },
+        {
+          "id": "D",
+          "text": "2 : 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Heating effect of current",
+      "concept": "Power dissipation in series and parallel combinations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "PHYSICS",
+      "questionText": "The current sensitivity of moving coil galvanometer is increased by 25%. This increase is achieved only by changing the number of turns of coils and area of cross section of the wire while keeping the resistance of galvanometer coil constant. The percentage change in the voltage sensitivity will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "−50%"
+        },
+        {
+          "id": "B",
+          "text": "+25%"
+        },
+        {
+          "id": "C",
+          "text": "zero"
+        },
+        {
+          "id": "D",
+          "text": "−25%"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Moving Charges and Magnetism",
+      "topic": "Galvanometer",
+      "concept": "Current and voltage sensitivity relationship",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "PHYSICS",
+      "questionText": "The logic performed by the circuit shown in figure is equivalent to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "NAND"
+        },
+        {
+          "id": "B",
+          "text": "OR"
+        },
+        {
+          "id": "C",
+          "text": "NOR"
+        },
+        {
+          "id": "D",
+          "text": "AND"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Semiconductor Electronics",
+      "topic": "Logic gates",
+      "concept": "Digital logic circuit analysis",
+      "difficulty": "EASY",
+      "skills": [
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "PHYSICS",
+      "questionText": "On a temperature scale 'X', the boiling point of water is 65°X and the freezing point is −15°X. Assume that the X scale is linear. The equivalent temperature corresponding to −95°X on the Fahrenheit scale would be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "−112°F"
+        },
+        {
+          "id": "B",
+          "text": "−148°F"
+        },
+        {
+          "id": "C",
+          "text": "−63°F"
+        },
+        {
+          "id": "D",
+          "text": "−48°F"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermal Properties of Matter",
+      "topic": "Temperature scales",
+      "concept": "Linear temperature scale conversion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "PHYSICS",
+      "questionText": "From the v-t graph shown, the ratio of distance to displacement in 25s of motion is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/5"
+        },
+        {
+          "id": "B",
+          "text": "1/2"
+        },
+        {
+          "id": "C",
+          "text": "5/3"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Motion in a Straight Line",
+      "topic": "Kinematics",
+      "concept": "Distance vs displacement from velocity-time graph",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "PHYSICS",
+      "questionText": "As per the given graph, choose the correct representation for curve A and curve B. {Where X_C = reactance of pure capacitive circuit connected with A.C. source, X_L = reactance of pure inductive circuit connected with A.C. source, R = impedance of pure resistive circuit connected with A.C. source, Z = Impedance of the LCR series circuit}",
+      "options": [
+        {
+          "id": "A",
+          "text": "A = X_L, B = Z"
+        },
+        {
+          "id": "B",
+          "text": "A = X_C, B = R"
+        },
+        {
+          "id": "C",
+          "text": "A = X_L, B = R"
+        },
+        {
+          "id": "D",
+          "text": "A = X_C, B = X_L"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Alternating Current",
+      "topic": "AC circuits",
+      "concept": "Frequency dependence of reactances",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "PHYSICS",
+      "questionText": "1 kg of water at 100°C is converted into steam at 100°C by boiling at atmospheric pressure. The volume of water changes from 1.00 × 10^(-3) m³ as a liquid to 1.671 m³ as steam. The change in internal energy of the system during the process will be: (Given latent heat of vaporisation = 2257 kJ/kg, Atmospheric pressure = 1 × 10⁵ Pa)",
+      "options": [
+        {
+          "id": "A",
+          "text": "−2426 kJ"
+        },
+        {
+          "id": "B",
+          "text": "−2090 kJ"
+        },
+        {
+          "id": "C",
+          "text": "+2476 kJ"
+        },
+        {
+          "id": "D",
+          "text": "+2090 kJ"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "First law of thermodynamics",
+      "concept": "Internal energy change in phase transition",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "PHYSICS",
+      "questionText": "The radii of two planets 'A' and 'B' are 'R' and '4R' and their densities are ρ and ρ/3 respectively. The ratio of acceleration due to gravity at their surface (g_A : g_B) will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 16"
+        },
+        {
+          "id": "B",
+          "text": "3 : 16"
+        },
+        {
+          "id": "C",
+          "text": "4 : 3"
+        },
+        {
+          "id": "D",
+          "text": "3 : 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Gravitational field",
+      "concept": "Surface gravity of planets",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "PHYSICS",
+      "questionText": "A metallic surface is illuminated with radiation of wavelength λ, the stopping potential is V₀. If the same surface is illuminated with radiation of wavelength 2λ, the stopping potential becomes V₀/4. The threshold wavelength for this metallic surface will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3λ"
+        },
+        {
+          "id": "B",
+          "text": "4λ"
+        },
+        {
+          "id": "C",
+          "text": "3λ/2"
+        },
+        {
+          "id": "D",
+          "text": "λ/4"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Dual Nature of Radiation and Matter",
+      "topic": "Photoelectric effect",
+      "concept": "Threshold wavelength calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "PHYSICS",
+      "questionText": "The critical angle for a denser-rarer interface is 45°. The speed of light in rarer medium is 3 × 10⁸ m/s. The speed of light in the denser medium is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "√2 × 10⁸ m/s"
+        },
+        {
+          "id": "B",
+          "text": "2.12 × 10⁸ m/s"
+        },
+        {
+          "id": "C",
+          "text": "3.12 × 10⁷ m/s"
+        },
+        {
+          "id": "D",
+          "text": "5 × 10⁷ m/s"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Ray Optics and Optical Instruments",
+      "topic": "Total internal reflection",
+      "concept": "Critical angle and refractive index",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "PHYSICS",
+      "questionText": "An average force of 125 N is applied on a machine gun firing bullets each of mass 10 g at the speed of 250 m/s to keep it in position. The number of bullets fired per second by the machine gun is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "100"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "50"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Laws of Motion",
+      "topic": "Newton's laws",
+      "concept": "Rate of change of momentum",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "PHYSICS",
+      "questionText": "The electric field in an electromagnetic wave is given as E = 20 sin(ωt - x/c) N/C where ω and c are angular frequency and velocity of electromagnetic wave respectively. The energy contained in a volume of 5 × 10^(-4) m³ will be (Given ε₀ = 8.85 × 10^(-12) C²/Nm²)",
+      "options": [
+        {
+          "id": "A",
+          "text": "17.7 × 10^(-13) J"
+        },
+        {
+          "id": "B",
+          "text": "28.5 × 10^(-13) J"
+        },
+        {
+          "id": "C",
+          "text": "88.5 × 10^(-13) J"
+        },
+        {
+          "id": "D",
+          "text": "8.85 × 10^(-13) J"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Energy density",
+      "concept": "Energy density in electromagnetic field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "PHYSICS",
+      "questionText": "The equation of wave is given by Y = 10^(-2) sin 2π(160t - 0.5x + π/4) where x and Y are in m and t in s. The speed of the wave is ____ km h^(-1).",
+      "options": [],
+      "correctAnswer": "1152",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Wave equation",
+      "concept": "Wave speed from wave equation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "PHYSICS",
+      "questionText": "A projectile fired at 30° to the ground is observed to be at same height at time 3s and 5s after projection, during its flight. The speed of projection of the projectile is ____ ms^(-1). (Given g = 10 ms^(-2))",
+      "options": [],
+      "correctAnswer": "80",
+      "questionType": "NUMERICAL",
+      "chapter": "Motion in a Plane",
+      "topic": "Projectile motion",
+      "concept": "Time of flight and trajectory",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "PHYSICS",
+      "questionText": "The magnetic field B crossing normally a square metallic plate of area 4m² is changing with time as shown in figure. The magnitude of induced emf in the plate during t = 2s to t = 4s, is __________mV.",
+      "options": [],
+      "correctAnswer": "8",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Faraday's law",
+      "concept": "Induced EMF from changing magnetic flux",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "PHYSICS",
+      "questionText": "A monochromatic light is incident on a hydrogen sample in ground state. Hydrogen atoms absorb a fraction of light and subsequently emit radiation of six different wavelengths. The frequency of incident light is x × 10^15 Hz. The value of x is ________. (Given h = 4.25 × 10^(-15) eVs)",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Atoms and Nuclei",
+      "topic": "Hydrogen spectrum",
+      "concept": "Energy levels and transitions in hydrogen",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "PHYSICS",
+      "questionText": "In the circuit diagram shown in figure given below, the current flowing through resistance 3Ω is x/3 A. The value of x is _______",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Circuit analysis",
+      "concept": "Current distribution in resistor networks",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "PHYSICS",
+      "questionText": "As shown in the figure, a configuration of two equal point charges (q₀ = +2μC) is placed on an inclined plane. Mass of each point charge is 20g. Assume that there is no friction between charge and plane. For the system of two point charges to be in equilibrium (at rest) the height h = x × 10^(-3) m. The value of x is ______(Take 1/4πε₀ = 9 × 10⁹ Nm² C^(-2), g = 10 ms^(-2))",
+      "options": [],
+      "correctAnswer": "300",
+      "questionType": "NUMERICAL",
+      "chapter": "Electric Charges and Fields",
+      "topic": "Electrostatic equilibrium",
+      "concept": "Balance of electrostatic and gravitational forces",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "PHYSICS",
+      "questionText": "The radius of curvature of each surface of a convex lens having refractive index 1.8 is 20 cm. The lens is now immersed in a liquid of refractive index 1.5. The ratio of power of lens in air to its power in the liquid will be x : 1. The value of x is ________.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Ray Optics and Optical Instruments",
+      "topic": "Lenses",
+      "concept": "Lens power in different media",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "PHYSICS",
+      "questionText": "The length of a wire becomes ℓ₁ and ℓ₂ when 100 N and 120N tensions are applied respectively. If 10ℓ₂ = 11ℓ₁, the natural length of wire will be xℓ₁/2. Here the value of x is ______.",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanical Properties of Solids",
+      "topic": "Elasticity",
+      "concept": "Hooke's law and natural length",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "PHYSICS",
+      "questionText": "A force F = (2x - 3x²)î acts on a particle in the x-direction where F is in newton and x is in meter. The work done by this force during a displacement from x = 0 to x = 4m, is ____J.",
+      "options": [],
+      "correctAnswer": "32",
+      "questionType": "NUMERICAL",
+      "chapter": "Work, Energy and Power",
+      "topic": "Work-energy theorem",
+      "concept": "Work done by variable force",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "PHYSICS",
+      "questionText": "A solid sphere of mass 500g and radius 5 cm is rotated about one of its diameter with angular speed of 10 rad/s⁻¹. If the moment of inertia of the sphere about its tangent is x × 10^(-2) times its angular momentum about the diameter. Then the value of x will be__________.",
+      "options": [],
+      "correctAnswer": "35",
+      "questionType": "NUMERICAL",
+      "chapter": "System of Particles and Rotational Motion",
+      "topic": "Rotational dynamics",
+      "concept": "Moment of inertia and angular momentum",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:57:53.690Z"
+}

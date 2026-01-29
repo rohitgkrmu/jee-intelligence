@@ -1,0 +1,821 @@
+{
+  "filename": "JEE_Main_2023_06-04-2023_Shift-2_physics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "A student is provided with a variable voltage source V, a test resistor R_T = 100Ω, two identical galvanometers G₁ and G₂ and two additional resistors, R₁ = 10MΩ and R₂ = 0.001Ω. For conducting an experiment to verify Ohm's law, the most suitable circuit is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Circuit with G₁, R_T, G₂, R₁, R₂, V arranged in configuration 1"
+        },
+        {
+          "id": "B",
+          "text": "Circuit with G₁, R_T, G₂, R₂, R₁, V arranged in configuration 2"
+        },
+        {
+          "id": "C",
+          "text": "Circuit with G₁, R_T, G₂, R₁, V, R₂ arranged in configuration 3"
+        },
+        {
+          "id": "D",
+          "text": "Circuit with G₁, R_T, G₂, R₂, V, R₁ arranged in configuration 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Ohm's Law Verification",
+      "concept": "Voltmeter and Ammeter Design",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: Diffusion current in a p-n junction is greater than the drift current in magnitude if the junction is forward biased.\nReason R: Diffusion current in a p-n junction is from the n-side to the p-side if the junction is forward biased.\nIn the light of the above statements, choose the most appropriate answer from the options given below.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "A is correct but R is not correct"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct and R is the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "A is not correct but R is correct"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Semiconductor Electronics",
+      "topic": "p-n Junction Diode",
+      "concept": "Diffusion and Drift Current",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "PHYSICS",
+      "questionText": "The energy density associated with electric field E⃗ and magnetic field B⃗ of an electromagnetic wave in free space is given by (ε₀ – permittivity of free space, μ₀ – permeability of free space)",
+      "options": [
+        {
+          "id": "A",
+          "text": "U_E = ε₀E²/2, U_B = B²/(2μ₀)"
+        },
+        {
+          "id": "B",
+          "text": "U_E = ε₀E²/2, U_B = B²/(2μ₀)"
+        },
+        {
+          "id": "C",
+          "text": "U_E = ε₀E²/2, U_B = B²/(2μ₀)"
+        },
+        {
+          "id": "D",
+          "text": "U_E = ε₀E²/2, U_B = B²/(2μ₀)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Energy Density",
+      "concept": "Electric and Magnetic Energy Density",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "PHYSICS",
+      "questionText": "As shown in the figure, a particle is moving with constant speed v m/s. Considering its motion from A to B, the magnitude of the average velocity is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "v/√3 m/s"
+        },
+        {
+          "id": "B",
+          "text": "1.5√3 v m/s"
+        },
+        {
+          "id": "C",
+          "text": "v m/s"
+        },
+        {
+          "id": "D",
+          "text": "√3v/2 m/s"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinematics",
+      "topic": "Circular Motion",
+      "concept": "Average Velocity in Circular Motion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "PHYSICS",
+      "questionText": "A capacitor of capacitance 150.0 μF is connected to an alternating source of emf given by E = 36 sin(120πt) V. The maximum value of current in the circuit",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/2 A"
+        },
+        {
+          "id": "B",
+          "text": "√2 A"
+        },
+        {
+          "id": "C",
+          "text": "2√2 A"
+        },
+        {
+          "id": "D",
+          "text": "2 A"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Alternating Current",
+      "topic": "AC Circuits",
+      "concept": "Capacitive Reactance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: The phase difference of two light waves change if they travel through different media having same thickness, but different indices of refraction.\nReason R: The wavelengths of waves are different in different media.\nIn the light of the above statements, choose the most appropriate answer from the options given below",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "A is correct but R is not correct"
+        },
+        {
+          "id": "C",
+          "text": "A is not correct but R is correct"
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are correct and R is the correct explanation of A"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Optics",
+      "topic": "Interference",
+      "concept": "Phase Difference and Wavelength",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "PHYSICS",
+      "questionText": "Figure shows a part of an electric circuit. The potentials at points a, b and c are 30 V, 12 V and 2 V respectively. The current through the 20Ω resistor will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.4 A"
+        },
+        {
+          "id": "B",
+          "text": "1.0 A"
+        },
+        {
+          "id": "C",
+          "text": "0.6 A"
+        },
+        {
+          "id": "D",
+          "text": "0.2 A"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Kirchhoff's Laws",
+      "concept": "Current Distribution in Network",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "PHYSICS",
+      "questionText": "For an amplitude modulated wave the minimum amplitude is 3 V, while the modulation index is 60%. The maximum amplitude of the modulated wave is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 V"
+        },
+        {
+          "id": "B",
+          "text": "5 V"
+        },
+        {
+          "id": "C",
+          "text": "12 V"
+        },
+        {
+          "id": "D",
+          "text": "15 V"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Communication Systems",
+      "topic": "Amplitude Modulation",
+      "concept": "Modulation Index",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "PHYSICS",
+      "questionText": "The weight of a body on the surface of the earth is 100 N. The gravitational force on it when taken at a height from the surface of earth equal to one-fourth the radius of the earth is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "64 N"
+        },
+        {
+          "id": "B",
+          "text": "25 N"
+        },
+        {
+          "id": "C",
+          "text": "50 N"
+        },
+        {
+          "id": "D",
+          "text": "100 N"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Variation of g",
+      "concept": "Gravitational Field at Height",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "PHYSICS",
+      "questionText": "The work function of Aluminium and Gold are 4.1 eV and 5.1 eV respectively. The ratio of the stopping potential versus frequency plot for Gold to that of Aluminium is",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1.5"
+        },
+        {
+          "id": "C",
+          "text": "1.24"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Dual Nature of Matter and Radiation",
+      "topic": "Photoelectric Effect",
+      "concept": "Stopping Potential vs Frequency",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "PHYSICS",
+      "questionText": "A particle starts with an initial velocity of 10.0 ms⁻¹ along x-direction and accelerates uniformly at the rate of 2.0 ms⁻². The time taken by the particle to reach the velocity of 60.0 ms⁻¹ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 s"
+        },
+        {
+          "id": "B",
+          "text": "30 s"
+        },
+        {
+          "id": "C",
+          "text": "25 s"
+        },
+        {
+          "id": "D",
+          "text": "6 s"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinematics",
+      "topic": "Motion in Straight Line",
+      "concept": "Uniformly Accelerated Motion",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "PHYSICS",
+      "questionText": "The ratio of speed of sound in hydrogen gas to the speed of sound in oxygen gas at the same temperature is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 4"
+        },
+        {
+          "id": "B",
+          "text": "4 : 1"
+        },
+        {
+          "id": "C",
+          "text": "1 : 1"
+        },
+        {
+          "id": "D",
+          "text": "1 : 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Waves",
+      "topic": "Sound Waves",
+      "concept": "Speed of Sound in Gases",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "PHYSICS",
+      "questionText": "Choose the incorrect statement from the following",
+      "options": [
+        {
+          "id": "A",
+          "text": "The speed of satellite in a given circular orbit remains constant."
+        },
+        {
+          "id": "B",
+          "text": "When a body falls towards earth, the displacement of earth towards the body is negligible."
+        },
+        {
+          "id": "C",
+          "text": "The linear speed of a planet revolving around the sun remains constant."
+        },
+        {
+          "id": "D",
+          "text": "For a planet revolving around the sun in an elliptical orbit, the total energy of the planet remains constant."
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Planetary Motion",
+      "concept": "Kepler's Laws",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: When you squeeze one end of a tube to get toothpaste out from the other end, Pascal's principle is observed.\nReason R: A change in the pressure applied to an enclosed incompressible fluid is transmitted undiminished to every portion of the fluid and to the walls of its container.\nIn the light of the above statements, choose the most appropriate answer from the options given below",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are correct and R is the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is not correct but R is correct"
+        },
+        {
+          "id": "D",
+          "text": "A is correct but R is not correct"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanical Properties of Fluids",
+      "topic": "Pascal's Law",
+      "concept": "Pressure Transmission in Fluids",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "PHYSICS",
+      "questionText": "A small particle of mass m moves in such a way that its potential energy U = ½mω²r² where ω is constant and r is the distance of the particle from origin. Assuming Bohr's quantization of momentum and circular orbit, the radius of nth orbit will be proportional to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "n²"
+        },
+        {
+          "id": "B",
+          "text": "√n"
+        },
+        {
+          "id": "C",
+          "text": "1/n"
+        },
+        {
+          "id": "D",
+          "text": "n"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atoms",
+      "topic": "Bohr Model",
+      "concept": "Quantum Mechanical Orbits",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "PHYSICS",
+      "questionText": "A child of mass 5 kg is going round a merry-go-round that makes 1 rotation in 3.14 s. The radius of the merry-go-round is 2 m. The centrifugal force on the child will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "100 N"
+        },
+        {
+          "id": "B",
+          "text": "80 N"
+        },
+        {
+          "id": "C",
+          "text": "40 N"
+        },
+        {
+          "id": "D",
+          "text": "50 N"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Circular Motion",
+      "topic": "Centripetal Force",
+      "concept": "Circular Motion Dynamics",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "PHYSICS",
+      "questionText": "A dipole comprises of two charged particles of identical magnitude q and opposite in nature. The mass 'm' of the positive charged particle is half of the mass of the negative charged particle. The two charges are separated by a distance 'l'. If the dipole is placed in a uniform electric field E⃗ in such a way that dipole axis makes a very small angle with the electric field E⃗. The angular frequency of the oscillations of the dipole when released is given by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "√(8qE/ml)"
+        },
+        {
+          "id": "B",
+          "text": "√(4qE/ml)"
+        },
+        {
+          "id": "C",
+          "text": "√(4qE/3ml)"
+        },
+        {
+          "id": "D",
+          "text": "√(8qE/3ml)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Dipole",
+      "concept": "Oscillation of Dipole in Electric Field",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "PHYSICS",
+      "questionText": "A body cools in 7 minutes from 60°C to 40°C. The temperature of the surrounding is 10°C. The temperature of the body after the next 7 minutes",
+      "options": [
+        {
+          "id": "A",
+          "text": "34°C"
+        },
+        {
+          "id": "B",
+          "text": "32°C"
+        },
+        {
+          "id": "C",
+          "text": "28°C"
+        },
+        {
+          "id": "D",
+          "text": "30°C"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermal Properties of Matter",
+      "topic": "Heat Transfer",
+      "concept": "Newton's Law of Cooling",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "PHYSICS",
+      "questionText": "A 2 meter long scale with least count of 0.2 cm is used to measure the locations of objects on an optical bench. While measuring the focal length of a convex lens, the object pin and the convex lens are placed at 80 cm mark and 1 m mark, respectively. The image of the object pin on the other side of lens coincides with image pin that is kept at 180 cm mark. The % error in the estimation of focal length is",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.85"
+        },
+        {
+          "id": "B",
+          "text": "1.02"
+        },
+        {
+          "id": "C",
+          "text": "0.51"
+        },
+        {
+          "id": "D",
+          "text": "1.70"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Ray Optics",
+      "topic": "Lens Formula",
+      "concept": "Error Analysis in Optics",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "PHYSICS",
+      "questionText": "The temperature of an ideal gas is increased from 200 K to 800 K. If r.m.s. speed of gas at 200 K is v₀. Then, r.m.s. speed of the gas at 800 K will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "v₀/4"
+        },
+        {
+          "id": "B",
+          "text": "v₀"
+        },
+        {
+          "id": "C",
+          "text": "2v₀"
+        },
+        {
+          "id": "D",
+          "text": "4v₀"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinetic Theory of Gases",
+      "topic": "Molecular Speeds",
+      "concept": "RMS Speed and Temperature",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "PHYSICS",
+      "questionText": "A beam of light consisting of two wavelengths 7000 Å and 5500 Å is used to obtain interference pattern in Young's double slit experiment. The distance between the slits is 2.5 mm and the distance between the plane of slits and the screen is 150 cm. The least distance from the central fringe, where the bright fringes due to both the wavelengths coincide, is n × 10⁻⁵ m. The value of n is:",
+      "options": [],
+      "correctAnswer": "462",
+      "questionType": "NUMERICAL",
+      "chapter": "Wave Optics",
+      "topic": "Young's Double Slit Experiment",
+      "concept": "Interference Pattern with Multiple Wavelengths",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "PHYSICS",
+      "questionText": "Experimentally it is found that 12.8 eV energy is required to separate a hydrogen atom into a proton and an electron. So the orbital radius of the electron in a hydrogen atom is 9/x × 10⁻¹⁰ m. The value of x is: (1eV = 1.6 × 10⁻¹⁹ J, 1/4πε₀ = 9 × 10⁹ Nm²/C² and electronic charge = 1.6 × 10⁻¹⁹C)",
+      "options": [],
+      "correctAnswer": "16",
+      "questionType": "NUMERICAL",
+      "chapter": "Atoms",
+      "topic": "Hydrogen Atom",
+      "concept": "Binding Energy and Orbital Radius",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "PHYSICS",
+      "questionText": "As shown in the figure, the voltmeter reads 2V across 5Ω resistor. The resistance of the voltmeter is:",
+      "options": [],
+      "correctAnswer": "20",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Electric Circuits",
+      "concept": "Voltmeter Resistance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "PHYSICS",
+      "questionText": "A metal block of mass m is suspended from a rigid support through a metal wire of diameter 14 mm. The tensile stress developed in the wire under equilibrium state is 7 × 10⁵ Nm⁻². The value of mass m is _____ kg. (Take, g = 9.8 ms⁻² and π = 22/7)",
+      "options": [],
+      "correctAnswer": "11",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanical Properties of Solids",
+      "topic": "Stress and Strain",
+      "concept": "Tensile Stress",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "PHYSICS",
+      "questionText": "A body is dropped on ground from a height 'h₁' and after hitting the ground, it rebounds to a height 'h₂'. If the ratio of velocities of the body just before and after hitting ground is 4, then percentage loss in kinetic energy of the body is x/4. The value of x is:",
+      "options": [],
+      "correctAnswer": "375",
+      "questionType": "NUMERICAL",
+      "chapter": "Work, Energy and Power",
+      "topic": "Energy Conservation",
+      "concept": "Collision and Energy Loss",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "PHYSICS",
+      "questionText": "A ring and a solid sphere rotating about an axis passing through their centres have same radii of gyration. The axis of rotation is perpendicular to plane of ring. The ratio of radius of ring to that of sphere is √x/2. The value of x is:",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "System of Particles and Rotational Motion",
+      "topic": "Moment of Inertia",
+      "concept": "Radius of Gyration",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "PHYSICS",
+      "questionText": "A proton with a kinetic energy of 2.0 eV moves into a region of uniform magnetic field of magnitude 2π × 10⁻³T. The angle between the direction of magnetic field and velocity of proton is 60°. The pitch of the helical path taken by the proton is _____ cm. (Take, mass of proton = 1.6 × 10⁻²⁷ kg and Charge on proton = 1.6 × 10⁻¹⁹C)",
+      "options": [],
+      "correctAnswer": "40",
+      "questionType": "NUMERICAL",
+      "chapter": "Moving Charges and Magnetism",
+      "topic": "Magnetic Force",
+      "concept": "Helical Motion of Charged Particle",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "PHYSICS",
+      "questionText": "As shown in the figure, two parallel plate capacitors having equal plate area of 200 cm² are joined in such a way that a⊥b. The equivalent capacitance of the combination is x ε₀ μF. The value of x is:",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatic Potential and Capacitance",
+      "topic": "Capacitors",
+      "concept": "Equivalent Capacitance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "PHYSICS",
+      "questionText": "Two concentric circular coils with radii 1 cm and 1000 cm, and number of turns 10 and 200 respectively are placed coaxially with centres coinciding. The mutual inductance of this arrangement will be _____ × 10⁻⁸ H.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Mutual Inductance",
+      "concept": "Mutual Inductance of Coaxial Coils",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "PHYSICS",
+      "questionText": "A simple pendulum with length 100 cm and bob of mass 250 g is executing S.H.M. of amplitude 10 cm. The maximum tension in the string is found to be x/40 N. The value of x is:",
+      "options": [],
+      "correctAnswer": "99",
+      "questionType": "NUMERICAL",
+      "chapter": "Oscillations",
+      "topic": "Simple Harmonic Motion",
+      "concept": "Maximum Tension in Pendulum",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:38:44.414Z"
+}

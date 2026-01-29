@@ -1,0 +1,827 @@
+{
+  "filename": "JEE_Main_2023_10-04-2023_Shift-1_physics_Resonance.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "A zener diode of power rating 1.6 W is to be used as voltage regulator. If the zener diode has a breakdown of 8 V and it has to regulate voltage fluctuating between 3 V and 10 V. The value of resistance Rs for safe operation of diode will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "13 Ω"
+        },
+        {
+          "id": "B",
+          "text": "10 Ω"
+        },
+        {
+          "id": "C",
+          "text": "13.3 Ω"
+        },
+        {
+          "id": "D",
+          "text": "12 Ω"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electronics",
+      "topic": "Zener Diode as Voltage Regulator",
+      "concept": "Power rating and safe operation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements:\nStatement I: Pressure in a reservoir of water is same at all points at the same level of water.\nStatement II: The pressure applied to enclosed water is transmitted in all directions equally.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are false"
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are true"
+        },
+        {
+          "id": "C",
+          "text": "Statement I is true but Statement II is false"
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false but Statement II is true"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Hydrostatic Pressure and Pascal's Law",
+      "concept": "Pressure distribution in fluids",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "PHYSICS",
+      "questionText": "The angular momentum for the electron in Bohr's orbit is L. If the electron is assumed to revolve in second orbit of hydrogen atom, then the change in angular momentum will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "2L"
+        },
+        {
+          "id": "B",
+          "text": "L"
+        },
+        {
+          "id": "C",
+          "text": "zero"
+        },
+        {
+          "id": "D",
+          "text": "L/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Physics",
+      "topic": "Bohr's Model",
+      "concept": "Angular momentum quantization",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "PHYSICS",
+      "questionText": "Match List I with List II:\nList I                                          List II\n(A) 3 Translation degrees of freedom          (I) Monoatomic gases\n(B) 3 Translation, 2 rotational degrees       (II) Polyatomic gases\n(C) 3 Translation, 2 rotational and 1         (III) Rigid diatomic gases\n    vibrational degrees of freedom\n(D) 3 Translation, 3 rotational and more      (IV) Nonrigid diatomic gases\n    than one vibrational degrees of freedom",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)"
+        },
+        {
+          "id": "B",
+          "text": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
+        },
+        {
+          "id": "C",
+          "text": "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)"
+        },
+        {
+          "id": "D",
+          "text": "(A)-(I), (B)-(III), (C)-(IV), (D)-(II)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinetic Theory of Gases",
+      "topic": "Degrees of Freedom",
+      "concept": "Classification of gases by degrees of freedom",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "PHYSICS",
+      "questionText": "A carrier wave of amplitude 15 V is modulated by a sinusoidal base band signal of amplitude 3 V. The ratio of maximum amplitude to minimum amplitude in an amplitude modulated wave is",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "3/2"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Communication Systems",
+      "topic": "Amplitude Modulation",
+      "concept": "Modulation index and amplitude ratio",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "PHYSICS",
+      "questionText": "The equivalent capacitance of the combination shown is",
+      "options": [
+        {
+          "id": "A",
+          "text": "C/2"
+        },
+        {
+          "id": "B",
+          "text": "5C/3"
+        },
+        {
+          "id": "C",
+          "text": "4C"
+        },
+        {
+          "id": "D",
+          "text": "2C"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Capacitor Networks",
+      "concept": "Equivalent capacitance calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements:\nStatement I: If the number of turns in the coil of a moving coil galvanometer is doubled then the current sensitivity becomes double.\nStatement II: Increasing current sensitivity of a moving coil galvanometer by only increasing the number of turns in the coil will also increase its voltage sensitivity in the same ratio.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is false but Statement II is true"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is true but Statement II is false"
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are false"
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are true"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Moving Charges and Magnetism",
+      "topic": "Moving Coil Galvanometer",
+      "concept": "Current and voltage sensitivity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "PHYSICS",
+      "questionText": "A particle executes S.H.M. of amplitude A along x-axis. At t = 0, the position of the particle is x = A/2 and it moves along positive x-axis. The displacement of particle in time t is x = A sin(ωt + φ), then the value of φ will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "π/6"
+        },
+        {
+          "id": "B",
+          "text": "π/4"
+        },
+        {
+          "id": "C",
+          "text": "π/3"
+        },
+        {
+          "id": "D",
+          "text": "π/2"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Oscillations",
+      "topic": "Simple Harmonic Motion",
+      "concept": "Phase constant determination",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "PHYSICS",
+      "questionText": "The energy of an electromagnetic wave contained in a small volume oscillates with",
+      "options": [
+        {
+          "id": "A",
+          "text": "the frequency of the wave"
+        },
+        {
+          "id": "B",
+          "text": "half the frequency of the wave"
+        },
+        {
+          "id": "C",
+          "text": "double the frequency of the wave"
+        },
+        {
+          "id": "D",
+          "text": "zero frequency"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Energy Density",
+      "concept": "Energy oscillation frequency",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "PHYSICS",
+      "questionText": "Consider two containers A and B containing monoatomic gases at the same pressure (P), Volume (V) and Temperature (T). The gas in A is compressed isothermally to 1/8 of its original volume while the gas in B is compressed adiabatically to 1/8 of its original volume. The ratio of final pressure of gas in B to that of gas in A is",
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "8^(3/2)"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "1/8"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Isothermal and Adiabatic Processes",
+      "concept": "Pressure-volume relations",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "PHYSICS",
+      "questionText": "The equivalent resistance of the circuit shown below between points a and b is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.2 Ω"
+        },
+        {
+          "id": "B",
+          "text": "24 Ω"
+        },
+        {
+          "id": "C",
+          "text": "20 Ω"
+        },
+        {
+          "id": "D",
+          "text": "16 Ω"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Resistor Networks",
+      "concept": "Equivalent resistance calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "PHYSICS",
+      "questionText": "An object is placed at a distance of 12 cm in front of a plane mirror. The virtual and erect image is formed by the mirror. Now the mirror is moved by 4 cm towards the stationary object. The distance by which the position of image would be shifted, will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 cm towards mirror"
+        },
+        {
+          "id": "B",
+          "text": "2 cm towards mirror"
+        },
+        {
+          "id": "C",
+          "text": "8 cm away from mirror"
+        },
+        {
+          "id": "D",
+          "text": "4 cm towards mirror"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Ray Optics",
+      "topic": "Plane Mirror",
+      "concept": "Image formation and displacement",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements:\nStatement I: Maximum power is dissipated in a circuit containing an inductor, a capacitor and a resistor connected in series with an AC source, when resonance occurs\nStatement II: Maximum power is dissipated in a circuit containing pure resistor due to zero phase difference between current and voltage.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are true"
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are false"
+        },
+        {
+          "id": "C",
+          "text": "Statement I is true but Statement II is false"
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false but Statement II is true"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Alternating Current",
+      "topic": "LCR Circuit and Resonance",
+      "concept": "Power dissipation in AC circuits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "PHYSICS",
+      "questionText": "Two satellites of masses m and 3m revolve around the earth in circular orbits of radii r & 3r respectively. The ratio of orbital speeds of the satellites respectively is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 1"
+        },
+        {
+          "id": "B",
+          "text": "√3 : 1"
+        },
+        {
+          "id": "C",
+          "text": "3 : 1"
+        },
+        {
+          "id": "D",
+          "text": "9 : 1"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Orbital Motion",
+      "concept": "Orbital velocity dependence",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "PHYSICS",
+      "questionText": "The de Broglie wavelength of a molecule in a gas at room temperature (300 K) is λ₁. If the temperature of the gas is increased to 600 K, then the de Broglie wavelength of the same gas molecule becomes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "λ₁/√2"
+        },
+        {
+          "id": "B",
+          "text": "λ₁/2"
+        },
+        {
+          "id": "C",
+          "text": "λ₁/2"
+        },
+        {
+          "id": "D",
+          "text": "2λ₁"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Dual Nature of Matter",
+      "topic": "de Broglie Wavelength",
+      "concept": "Temperature dependence of de Broglie wavelength",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "PHYSICS",
+      "questionText": "A particle of mass m moving with velocity v collides with a stationary particle of mass 2m. After collision, they stick together and continue to move together with velocity",
+      "options": [
+        {
+          "id": "A",
+          "text": "v/2"
+        },
+        {
+          "id": "B",
+          "text": "v/3"
+        },
+        {
+          "id": "C",
+          "text": "v/4"
+        },
+        {
+          "id": "D",
+          "text": "v"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Conservation of Momentum",
+      "concept": "Inelastic collision",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "PHYSICS",
+      "questionText": "A physical quantity P is given as P = (a²b³)/(c³d). The percentage error in the measurement of a, b, c and d are 1%, 2%, 3% and 4% respectively. The percentage error in the measurement of quantity P will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "12%"
+        },
+        {
+          "id": "B",
+          "text": "14%"
+        },
+        {
+          "id": "C",
+          "text": "16%"
+        },
+        {
+          "id": "D",
+          "text": "13%"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Measurements",
+      "topic": "Error Analysis",
+      "concept": "Propagation of errors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "PHYSICS",
+      "questionText": "The range of the projectile projected at an angle of 15° with horizontal is 50 m. If the projectile is projected with same velocity at an angle of 45° with horizontal, then its range will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "100/√2 m"
+        },
+        {
+          "id": "B",
+          "text": "50 m"
+        },
+        {
+          "id": "C",
+          "text": "100 m"
+        },
+        {
+          "id": "D",
+          "text": "50/√2 m"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Projectile Motion",
+      "concept": "Range for different angles",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "PHYSICS",
+      "questionText": "Assuming the earth to be a sphere of uniform mass density, the weight of a body at a depth d = R/2 from the surface of earth, if its weight on the surface of earth is 200 N, will be: (Given R = radius of earth)",
+      "options": [
+        {
+          "id": "A",
+          "text": "400 N"
+        },
+        {
+          "id": "B",
+          "text": "500 N"
+        },
+        {
+          "id": "C",
+          "text": "300 N"
+        },
+        {
+          "id": "D",
+          "text": "100 N"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Variation of g",
+      "concept": "Gravity inside the earth",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "PHYSICS",
+      "questionText": "The position-time graphs for two students A and B returning from the school to their home are shown in figure.\n(A) A lives closer to the school\n(B) B lives closer to the school\n(C) A takes lesser time to reach home\n(D) A travels faster than B\n(E) B travels faster than A\nChoose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(B) and (E) only"
+        },
+        {
+          "id": "B",
+          "text": "(A) and (E) only"
+        },
+        {
+          "id": "C",
+          "text": "(A), (C) and (E) only"
+        },
+        {
+          "id": "D",
+          "text": "(A), (C) and (D) only"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Kinematics",
+      "concept": "Position-time graph interpretation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "PHYSICS",
+      "questionText": "Two wires each of radius 0.2 cm and negligible mass, one made of steel and the other made of brass are loaded as shown in the figure. The elongation of the steel wire is _______ × 10⁻⁶ m. [Young's modulus for steel = 2 × 10¹¹ Nm⁻² and g = 10 ms⁻²]",
+      "options": [],
+      "correctAnswer": "20.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Properties of Matter",
+      "topic": "Elasticity",
+      "concept": "Young's modulus and elongation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "PHYSICS",
+      "questionText": "A transverse harmonic wave on a string is given by y(x, t) = 5 sin(6t + 0.003 x) where x and y are in cm and t in sec. The wave velocity is __________ ms⁻¹.",
+      "options": [],
+      "correctAnswer": "20.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Wave Motion",
+      "concept": "Wave velocity from wave equation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "PHYSICS",
+      "questionText": "Three concentric spherical metallic shells X, Y and Z of radius a, b and c respectively [a < b < c] have surface charge densities σ, -σ and σ, respectively. The shells X and Z are at same potential. If the radii of X & Y are 2 cm and 3 cm, respectively. The radius of shell Z is _________cm.",
+      "options": [],
+      "correctAnswer": "05.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Electric Potential",
+      "concept": "Potential of concentric spherical shells",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "PHYSICS",
+      "questionText": "The decay constant for a radioactive nuclide is 1.5 × 10⁻⁵ s⁻¹. Atomic weight of the substance is 60 g mole⁻¹, (N_A = 6 × 10²³). The activity of 1.0 g of the substance is _________ × 10¹⁰ Bq.",
+      "options": [],
+      "correctAnswer": "15.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Nuclear Physics",
+      "topic": "Radioactive Decay",
+      "concept": "Activity calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "PHYSICS",
+      "questionText": "10 resistors each of the resistance 10Ω can be connected in such as to get maximum and minimum equivalent resistance. The ratio of maximum and minimum equivalent resistance will be __________.",
+      "options": [],
+      "correctAnswer": "100",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Resistor Networks",
+      "concept": "Maximum and minimum resistance configurations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "PHYSICS",
+      "questionText": "A 1 m long metal rod XY completes the circuit as shown in figure. The plane of the circuit is perpendicular to the magnetic field of flux density 0.15 T. If the resistance of the circuit is 5Ω, the force needed to move the rod in direction, as indicated, with a constant speed of 4m/s will be _________ × 10⁻³ N.",
+      "options": [],
+      "correctAnswer": "18",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Motional EMF",
+      "concept": "Force on conductor in magnetic field",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "PHYSICS",
+      "questionText": "The current required to be passed through a solenoid of 15 cm length and 60 turns in order to demagnetise a bar magnet of magnetic intensity 2.4 × 10³ Am⁻¹ is _________A.",
+      "options": [],
+      "correctAnswer": "6",
+      "questionType": "NUMERICAL",
+      "chapter": "Magnetism and Matter",
+      "topic": "Magnetic Field due to Solenoid",
+      "concept": "Demagnetization field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "PHYSICS",
+      "questionText": "Unpolarised light of intensity 32 Wm⁻² passes through the combination of three polaroids such that the pass axis of the last polaroid is perpendicular to that of the pass axis of first polaroid. If intensity of emerging light is 3 Wm⁻², then the angle between pass axes of first two polaroids is _________°.",
+      "options": [],
+      "correctAnswer": "30",
+      "questionType": "NUMERICAL",
+      "chapter": "Wave Optics",
+      "topic": "Polarization",
+      "concept": "Malus law and polaroid combinations",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "PHYSICS",
+      "questionText": "A closed circular tube of average radius 15 cm, whose inner walls are rough, is kept in vertical plane. A block of mass 1 kg fit inside the tube. The speed of block is 22 m/s, when it is introduced at the top of tube. After completing five oscillations, the block stops at the bottom region of tube. The work done by the tube on the block is __________J. (Given g = 10 m/s²)",
+      "options": [],
+      "correctAnswer": "-245",
+      "questionType": "NUMERICAL",
+      "chapter": "Work, Energy and Power",
+      "topic": "Work-Energy Theorem",
+      "concept": "Work done by friction",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "PHYSICS",
+      "questionText": "If the earth suddenly shrinks to 1/64th of its original volume with its mass remaining the same, the period of rotation becomes 24/x hours. The value of x is __________.",
+      "options": [],
+      "correctAnswer": "16",
+      "questionType": "NUMERICAL",
+      "chapter": "Gravitation",
+      "topic": "Conservation of Angular Momentum",
+      "concept": "Effect of size change on rotation period",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T07:49:35.811Z"
+}

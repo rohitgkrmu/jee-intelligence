@@ -1,0 +1,159 @@
+{
+  "filename": "JEE_Main_2025_April_2_Shift2.pdf",
+  "examYear": 2025,
+  "examSession": "April 2 Shift 2",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 21,
+      "subject": "CHEMISTRY",
+      "questionText": "For the reaction A→B the following graph was obtained. The time required (in seconds) for the concentration of A to reduce to 2.5 g L⁻¹ (if the initial concentration of A was 50 g L⁻¹) is ______. (Nearest integer)\nGiven: log₂=0.3010",
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Kinetics",
+      "topic": "Order of reaction",
+      "concept": "First order kinetics",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "CHEMISTRY",
+      "questionText": "0.2% (w/v) solution of NaOH is measured to have resistivity 870.0 mΩ m. The molar conductivity of the solution will be ________ ×10² mS dm² mol⁻¹. (Nearest integer)",
+      "correctAnswer": "23",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Conductance",
+      "concept": "Molar conductivity",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the above sequence of reactions. 151 g of 2-bromopentane is made to react. Yield of major product P is 80% whereas Q is 100%. Mass of product Q obtained is _______ g.\n(Given molar mass in g mol⁻¹: H:1, C:12, O:16, Br:80)",
+      "correctAnswer": "184",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Elimination reactions",
+      "concept": "Dehydrohalogenation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "CHEMISTRY",
+      "questionText": "When 1 g each of compounds AB and AB₂ are dissolved in 15 g of water separately, they increased the boiling point of water by 2.7 K and 1.5 K respectively. The atomic mass of A (in amu) is ______ (Nearest integer)\n(Given: Molal boiling point elevation constant is 0.5 K kg mol⁻¹)",
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Colligative properties",
+      "concept": "Boiling point elevation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "CHEMISTRY",
+      "questionText": "The spin-only magnetic moment value of Mⁿ⁺ ion formed among Ni, Zn, Mn and Cu that has the least enthalpy of atomisation is _______. (in nearest integer)\nHere n is equal to the number of diamagnetic complexes among [K₂NiCl₄], [Zn(OH₂)₆]Cl₂ and [K₃Mn(CN)₆], [CuI(PPh₃)₃]",
+      "correctAnswer": "0",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Chemistry",
+      "topic": "Magnetism",
+      "concept": "Spin-only magnetic moment",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "PHYSICS",
+      "questionText": "A wheel of radius 0.2 m rotates freely about its center when a string that is wrapped over its rim is pulled by force of 10 N as shown in figure. The established torque produces an angular acceleration of 2 rad/s². Moment of inertia of the wheel is ________ kg m². (Acceleration due to gravity = 10 m/s²)",
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "System of Particles and Rotational Motion",
+      "topic": "Rotational dynamics",
+      "concept": "Torque and angular acceleration",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "PHYSICS",
+      "questionText": "The internal energy of air in 4 m×4 m×3 m sized room at 1 atmospheric pressure will be ________ ×10⁶ J. (Consider air as diatomic molecule)",
+      "correctAnswer": "12",
+      "questionType": "NUMERICAL",
+      "chapter": "Kinetic Theory",
+      "topic": "Internal energy",
+      "concept": "Internal energy of ideal gas",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "PHYSICS",
+      "questionText": "A ray of light suffers minimum deviation when incident on a prism having angle of the prism equal to 60°. The refractive index of the prism material is √2. The angle of incidence (in degrees) is_______.",
+      "correctAnswer": "45",
+      "questionType": "NUMERICAL",
+      "chapter": "Ray Optics and Optical Instruments",
+      "topic": "Refraction through prism",
+      "concept": "Minimum deviation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "PHYSICS",
+      "questionText": "The length of a light string is 1.4 m when the tension on it is 5 N. If the tension increases to 7 N, the length of the string is 1.56 m. The original length of the string is _______ m.",
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanical Properties of Solids",
+      "topic": "Elasticity",
+      "concept": "Young's modulus",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "PHYSICS",
+      "questionText": "A satellite of mass 1000 kg is launched to revolve around the earth in an orbit at a height of 270 km from the earth's surface. Kinetic energy of the satellite in this orbit is ________ ×10¹⁰ J. (Mass of earth = 6×10²⁴ kg, Radius of earth = 6.4×10⁶ m, Gravitational constant = 6.67×10⁻¹¹ Nm² kg⁻²)",
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Gravitation",
+      "topic": "Orbital motion",
+      "concept": "Kinetic energy of satellite",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T08:24:05.455Z"
+}

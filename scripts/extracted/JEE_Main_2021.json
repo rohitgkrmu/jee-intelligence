@@ -1,0 +1,167 @@
+{
+  "filename": "JEE_Main_2021.pdf",
+  "examYear": 2021,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "The coefficient of static friction between a wooden block of mass 0.5 kg and a vertical rough wall is 0.2. The magnitude of horizontal force that should be applied on the block to keep it adhere to the wall will be ______N. [g = 10 ms⁻²]",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Friction",
+      "concept": "Static friction on vertical wall",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "A resonance circuit having inductance and resistance 2 × 10⁻⁴ H and 6.28 Ω respectively oscillates at 10 MHz frequency. The value of quality factor of this resonator is _______. [π = 3.14]",
+      "options": [],
+      "correctAnswer": "2000",
+      "questionType": "NUMERICAL",
+      "chapter": "Alternating Current",
+      "topic": "Resonance Circuits",
+      "concept": "Quality factor of LC circuit",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "A hydraulic press can lift 100 kg when a mass 'm' is placed on the smaller piston. It can lift _______kg when the diameter of the larger piston is increased by 4 times and that of the smaller piston is decreased by 4 times keeping the same mass 'm' on the smaller piston.",
+      "options": [],
+      "correctAnswer": "25600",
+      "questionType": "NUMERICAL",
+      "chapter": "Fluid Mechanics",
+      "topic": "Pascal's Law",
+      "concept": "Hydraulic press principle",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "An inclined plane is bent in such a way that the vertical cross-section is given by y = x²/4 where y is in vertical and x in horizontal direction. If the upper surface of this curved plane is rough with coefficient of friction μ = 0.5, the maximum height in cm at which a stationary block will not slip downward is ________ cm.",
+      "options": [],
+      "correctAnswer": "25",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Friction on Curved Surface",
+      "concept": "Angle of repose on curved plane",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "The speed of light in a medium having relative permittivity εᵣ = 2 and relative permeability μᵣ = 2 is _____ × 10⁷ m/s. [Given: frequency of wave f = 5 GHz]",
+      "options": [],
+      "correctAnswer": "15",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Wave Propagation",
+      "concept": "Speed of light in medium",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "CHEMISTRY",
+      "questionText": "When 9.45 g of ClCH₂COOH is added to 500 mL of water, its freezing point drops by 0.5°C. The dissociation constant of ClCH₂COOH is x × 10⁻³. The value of x is ________. (Rounded off to the nearest integer) [Kf(H₂O) = 1.86 K kg mol⁻¹]",
+      "options": [],
+      "correctAnswer": "36",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Colligative Properties",
+      "concept": "Depression in freezing point and degree of dissociation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "4.5 g of compound A (MW = 90) was used to make 250 mL of its aqueous solution. The molarity of the solution in M is x × 10⁻¹. The value of x is ________. (Rounded off to the nearest integer)",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Concentration Units",
+      "concept": "Molarity calculation",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "At 1990 K and 1 atm pressure, there are equal number of Cl₂ molecules and Cl atoms in the reaction mixture. The value Kp for the reaction Cl₂(g) ⇌ 2Cl(g) under the above conditions is x × 10⁻¹. The value of x is _______. (Rounded off to the nearest integer)",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Equilibrium",
+      "topic": "Chemical Equilibrium",
+      "concept": "Equilibrium constant calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "Number of amphoteric compounds among the following is __________: (A) BeO (B) BaO (C) Be(OH)₂ (D) Sr(OH)₂",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "s-Block Elements",
+      "topic": "Alkaline Earth Metals",
+      "concept": "Amphoteric nature of beryllium compounds",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "The reaction of sulphur in alkaline medium is: S₈(s) + aOH⁻(aq) → bS²⁻(aq) + cS₂O₃²⁻(aq) + dH₂O(l). The value of 'a' is _______. (Integer answer)",
+      "options": [],
+      "correctAnswer": "12",
+      "questionType": "NUMERICAL",
+      "chapter": "p-Block Elements",
+      "topic": "Balancing Redox Reactions",
+      "concept": "Disproportionation of sulfur",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T08:15:49.310Z"
+}
