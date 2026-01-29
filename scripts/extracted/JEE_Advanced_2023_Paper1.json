@@ -1,0 +1,823 @@
+{
+  "filename": "JEE_Advanced_2023_Paper1.pdf",
+  "examYear": 2023,
+  "examSession": "Paper 1",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S = (0,1) ∪ (1,2) ∪ (3,4) and T = {0,1,2,3}. Then which of the following statements is(are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "There are infinitely many functions from S to T"
+        },
+        {
+          "id": "B",
+          "text": "There are infinitely many strictly increasing functions from S to T"
+        },
+        {
+          "id": "C",
+          "text": "The number of continuous functions from S to T is at most 120"
+        },
+        {
+          "id": "D",
+          "text": "Every continuous function from S to T is differentiable"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Set Theory and Functions",
+      "topic": "Functions between sets",
+      "concept": "Properties of functions on disconnected domains",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "Let T₁ and T₂ be two distinct common tangents to the ellipse E: x²/6 + y²/3 = 1 and the parabola P: y² = 12x. Suppose that the tangent T₁ touches P and E at the points A₁ and A₂, respectively and the tangent T₂ touches P and E at the points A₄ and A₃, respectively. Then which of the following statements is(are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The area of the quadrilateral A₁A₂A₃A₄ is 35 square units"
+        },
+        {
+          "id": "B",
+          "text": "The area of the quadrilateral A₁A₂A₃A₄ is 36 square units"
+        },
+        {
+          "id": "C",
+          "text": "The tangents T₁ and T₂ meet the x-axis at the point (3,0)"
+        },
+        {
+          "id": "D",
+          "text": "The tangents T₁ and T₂ meet the x-axis at the point (6,0)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Ellipse and Parabola",
+      "concept": "Common tangents to conic sections",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f:[0,1] → [0,1] be the function defined by f(x) = (5x³ - 17x² + 3x + 9)/36. Consider the square region S = [0,1] × [0,1]. Let G = {(x,y) ∈ S : y ≥ f(x)} be called the green region and R = {(x,y) ∈ S : y < f(x)} be called the red region. Let Lₕ = {(x,h) : x ∈ [0,1]} be the horizontal line drawn at a height h ∈ [0,1]. Then which of the following statements is(are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "There exists an h ∈ (1/2, 3/4) such that the area of the green region above the line Lₕ equals the area of the green region below the line Lₕ"
+        },
+        {
+          "id": "B",
+          "text": "There exists an h ∈ (1/2, 3/4) such that the area of the red region above the line Lₕ equals the area of the red region below the line Lₕ"
+        },
+        {
+          "id": "C",
+          "text": "There exists an h ∈ (1/2, 3/4) such that the area of the green region above the line Lₕ equals the area of the red region below the line Lₕ"
+        },
+        {
+          "id": "D",
+          "text": "There exists an h ∈ (1/2, 3/4) such that the area of the red region above the line Lₕ equals the area of the green region below the line Lₕ"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Area under curves",
+      "concept": "Area analysis with regions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f:(0,1) → ℝ be the function defined as f(x) = n if x ∈ (1/(n+1), 1/n] where n ∈ ℕ. Let g:(0,1) → ℝ be a function such that g(x) = 2x ∫₀ˣ dt/√(1+t²) for all x ∈ (0,1). Then lim_{x→0⁺} [f(x) - g(x)]",
+      "options": [
+        {
+          "id": "A",
+          "text": "does NOT exist"
+        },
+        {
+          "id": "B",
+          "text": "is equal to 1"
+        },
+        {
+          "id": "C",
+          "text": "is equal to 2"
+        },
+        {
+          "id": "D",
+          "text": "is equal to 3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Limits and Continuity",
+      "concept": "Limits involving step functions and integrals",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Let Q be the cube with the set of vertices {(x₁,x₂,x₃) ∈ ℝ³ : x₁,x₂,x₃ ∈ {0,1}}. Let F be the set of all twelve lines containing the diagonals of the six faces of the cube Q. Let S be the set of all four lines containing the main diagonals of the cube Q; for instance, the line passing through the vertices (0,0,0) and (1,1,1) is in S. For lines ℓ₁ and ℓ₂, let d(ℓ₁,ℓ₂) denote the shortest distance between them. Then the maximum value of d(ℓ₁,ℓ₂), as ℓ₁ varies over F and ℓ₂ varies over S, is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/6"
+        },
+        {
+          "id": "B",
+          "text": "1/8"
+        },
+        {
+          "id": "C",
+          "text": "1/3"
+        },
+        {
+          "id": "D",
+          "text": "1/12"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Distance between skew lines",
+      "concept": "Distance between lines in 3D space",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Let X = {(x,y) : x² + y² ≤ 1 and x,y ∈ {0, 1/8, 1/4, 3/8, 1/2, 5/8, 3/4, 7/8, 1}}. Three distinct points P, Q and R are randomly chosen from X. Then the probability that P, Q and R form a triangle whose area is a positive integer, is",
+      "options": [
+        {
+          "id": "A",
+          "text": "71/220"
+        },
+        {
+          "id": "B",
+          "text": "73/220"
+        },
+        {
+          "id": "C",
+          "text": "79/220"
+        },
+        {
+          "id": "D",
+          "text": "83/220"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Geometric Probability",
+      "concept": "Area of triangles formed by lattice points",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P be a point on the parabola y² = 4ax, where a > 0. The normal to the parabola at P meets the x-axis at a point Q. The area of the triangle PFQ, where F is the focus of the parabola, is 120. If the slope m of the normal and a are both positive integers, then the pair (a,m) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2,3)"
+        },
+        {
+          "id": "B",
+          "text": "(1,3)"
+        },
+        {
+          "id": "C",
+          "text": "(2,4)"
+        },
+        {
+          "id": "D",
+          "text": "(3,4)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola",
+      "concept": "Normal to parabola and area calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "Let θ = tan⁻¹(x), x ∈ ℝ, θ ∈ (-π/2, π/2) for x ∈ ℝ. Then the number of real solutions of the equation 1 + cos(2θ) = 2tan⁻¹(tan x) in the set {-3π/2, -π/2, π/2, 3π/2} is equal to",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Trigonometry",
+      "topic": "Inverse Trigonometric Functions",
+      "concept": "Solving equations with inverse trigonometric functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "Let n ≥ 2 be a natural number and f:[0,1] → ℝ be the function defined by f(x) = (1-2x)/n if 0 ≤ x ≤ 1/2, f(x) = 2(2x-1)/n if 1/2 < x ≤ 3/4, f(x) = 4(1-x)/n if 3/4 < x ≤ 1-(1/n), f(x) = n if 1-(1/n) < x ≤ 1. If n is such that the area of the region bounded by the curves x = 0, x = 1, y = 0 and y = f(x) is 4, then the maximum value of the function f is",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Calculus",
+      "topic": "Area under curves",
+      "concept": "Piecewise functions and area calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "Let 75...57 (with r digits) denote the (r+2) digit number where the first and the last digits are 7 and the remaining r digits are 5. Consider the sum S = 77 + 757 + 75557 + ... + 75...57 (with 98 fives). If S = (75...57 with 99 fives)/mn, where m and n are natural numbers less than 3000, then the value of (m+n) is",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Number Theory",
+      "topic": "Series and sequences",
+      "concept": "Sum of special number sequences",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "A slide with a frictionless curved surface, which becomes horizontal at its lower end, is fixed on the terrace of a building of height 3h from the ground, as shown in the figure. A spherical ball of mass m is released on the slide from rest at a height h from the top of the terrace. The ball leaves the slide with a velocity u₀ = u₀x̂ and falls on the ground at a distance d from the building making an angle θ with the horizontal. It bounces off with a velocity v and reaches a maximum height h₁. The acceleration due to gravity is g and the coefficient of restitution of the ground is 1/√3. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "u₀ = √(2gh)x̂"
+        },
+        {
+          "id": "B",
+          "text": "v = √(2gh)(x̂ - ẑ)"
+        },
+        {
+          "id": "C",
+          "text": "θ = 60°"
+        },
+        {
+          "id": "D",
+          "text": "d/h₁ = 2√3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Mechanics",
+      "topic": "Projectile Motion",
+      "concept": "Projectile motion with collision",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "A plane polarized blue light ray is incident on a prism such that there is no reflection from the surface of the prism. The angle of deviation of the emergent ray is δ = 60° (see Figure-1). The angle of minimum deviation for red light from the same prism is δ_min = 30° (see Figure-2). The refractive index of the prism material for blue light is √3. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The blue light is polarized in the plane of incidence."
+        },
+        {
+          "id": "B",
+          "text": "The angle of the prism is 45°."
+        },
+        {
+          "id": "C",
+          "text": "The refractive index of the material of the prism for red light is √2."
+        },
+        {
+          "id": "D",
+          "text": "The angle of refraction for blue light in air at the exit plane of the prism is 60°."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Optics",
+      "topic": "Refraction and Dispersion",
+      "concept": "Prism optics and polarization",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "In a circuit shown in the figure, the capacitor C is initially uncharged and the key K is open. In this condition, a current of 1 A flows through the 1 Ω resistor. The key is closed at time t = t₀. Which of the following statement(s) is(are) correct? [Given: e⁻¹ = 0.36]",
+      "options": [
+        {
+          "id": "A",
+          "text": "The value of the resistance R is 3 Ω."
+        },
+        {
+          "id": "B",
+          "text": "For t < t₀, the value of current I₁ is 2 A."
+        },
+        {
+          "id": "C",
+          "text": "At t = t₀ + 7.2 μs, the current in the capacitor is 0.6 A."
+        },
+        {
+          "id": "D",
+          "text": "For t → ∞, the charge on the capacitor is 12 μC."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electricity",
+      "topic": "RC Circuits",
+      "concept": "Capacitor charging in RC circuit",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "A bar of mass M = 1.00 kg and length L = 0.20 m is lying on a horizontal frictionless surface. One end of the bar is pivoted at a point about which it is free to rotate. A small mass m = 0.10 kg is moving on the same horizontal surface with 5.00 m s⁻¹ speed on a path perpendicular to the bar. It hits the bar at a distance L/2 from the pivoted end and returns back on the same path with speed v. After this elastic collision, the bar rotates with an angular velocity ω. Which of the following statement is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ω = 6.98 rad s⁻¹ and v = 4.30 m s⁻¹"
+        },
+        {
+          "id": "B",
+          "text": "ω = 3.75 rad s⁻¹ and v = 4.30 m s⁻¹"
+        },
+        {
+          "id": "C",
+          "text": "ω = 3.75 rad s⁻¹ and v = 10.0 m s⁻¹"
+        },
+        {
+          "id": "D",
+          "text": "ω = 6.80 rad s⁻¹ and v = 4.10 m s⁻¹"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Collision and rotation of rigid body",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "A container has a base of 50 cm × 5 cm and height 50 cm, as shown in the figure. It has two parallel electrically conducting walls each of area 50 cm × 50 cm. The remaining walls of the container are thin and non-conducting. The container is being filled with a liquid of dielectric constant 3 at a uniform rate of 250 cm³ s⁻¹. What is the value of the capacitance of the container after 10 seconds? [Given: Permittivity of free space ε₀ = 9×10⁻¹² C² N⁻¹ m⁻², the effects of the non-conducting walls on the capacitance are negligible]",
+      "options": [
+        {
+          "id": "A",
+          "text": "27 pF"
+        },
+        {
+          "id": "B",
+          "text": "63 pF"
+        },
+        {
+          "id": "C",
+          "text": "81 pF"
+        },
+        {
+          "id": "D",
+          "text": "135 pF"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electricity",
+      "topic": "Capacitance",
+      "concept": "Capacitor with dielectric",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "One mole of an ideal gas expands adiabatically from an initial state (T_A, V₀) to final state (T_f, 5V₀). Another mole of the same gas expands isothermally from a different initial state (T_B, V₀) to the same final state (T_f, 5V₀). The ratio of the specific heats at constant pressure and constant volume of this ideal gas is γ. What is the ratio T_A/T_B?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5^(γ-1)"
+        },
+        {
+          "id": "B",
+          "text": "5^(1-γ)"
+        },
+        {
+          "id": "C",
+          "text": "5^γ"
+        },
+        {
+          "id": "D",
+          "text": "5^(1+γ)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Adiabatic and isothermal processes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "Two satellites P and Q are moving in different circular orbits around the Earth (radius R). The heights of P and Q from the Earth surface are h_P and h_Q, respectively, where h_P = R/3. The accelerations of P and Q due to Earth's gravity are g_P and g_Q, respectively. If g_P/g_Q = 36/25, what is the value of h_Q?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3R/5"
+        },
+        {
+          "id": "B",
+          "text": "R/6"
+        },
+        {
+          "id": "C",
+          "text": "6R/5"
+        },
+        {
+          "id": "D",
+          "text": "5R/6"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Satellite Motion",
+      "concept": "Gravitational acceleration for satellites",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "A Hydrogen-like atom has atomic number Z. Photons emitted in the electronic transitions from level n = 4 to level n = 3 in these atoms are used to perform photoelectric effect experiment on a target metal. The maximum kinetic energy of the photoelectrons generated is 1.95 eV. If the photoelectric threshold wavelength for the target metal is 310 nm, the value of Z is _______. [Given: hc = 1240 eV-nm and Rhc = 13.6 eV, where R is the Rydberg constant, h is the Planck's constant and c is the speed of light in vacuum]",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Modern Physics",
+      "topic": "Atomic Physics",
+      "concept": "Hydrogen-like atoms and photoelectric effect",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "PHYSICS",
+      "questionText": "An optical arrangement consists of two concave mirrors M₁ and M₂, and a convex lens L with a common principal axis, as shown in the figure. The focal length of L is 10 cm. The radii of curvature of M₁ and M₂ are 20 cm and 24 cm, respectively. The distance between L and M₂ is 20 cm. A point object S is placed at the mid-point between L and M₂ on the axis. When the distance between L and M₁ is n/7 cm, one of the images coincides with S. The value of n is _______.",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Optics",
+      "topic": "Ray Optics",
+      "concept": "Multiple mirror and lens system",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "PHYSICS",
+      "questionText": "In an experiment for determination of the focal length of a thin convex lens, the distance of the object from the lens is 10±0.1 cm and the distance of its real image from the lens is 20±0.2 cm. The error in the determination of focal length of the lens is n %. The value of n is _______.",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Optics",
+      "topic": "Ray Optics",
+      "concept": "Error analysis in lens formula",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct statement(s) related to processes involved in the extraction of metals is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Roasting of Malachite produces Cuprite."
+        },
+        {
+          "id": "B",
+          "text": "Calcination of Calamine produces Zincite."
+        },
+        {
+          "id": "C",
+          "text": "Copper pyrites is heated with silica in a reverberatory furnace to remove iron."
+        },
+        {
+          "id": "D",
+          "text": "Impure silver is treated with aqueous KCN in the presence of oxygen followed by reduction with zinc metal."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Metallurgy",
+      "topic": "Extraction of Metals",
+      "concept": "Metallurgical processes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "CHEMISTRY",
+      "questionText": "In the following reactions, P, Q, R, and S are the major products. The correct statement(s) about P, Q, R, and S is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both P and Q have asymmetric carbon(s)."
+        },
+        {
+          "id": "B",
+          "text": "Both Q and R have asymmetric carbon(s)."
+        },
+        {
+          "id": "C",
+          "text": "Both P and R have asymmetric carbon(s)."
+        },
+        {
+          "id": "D",
+          "text": "P has asymmetric carbon(s), S does not have any asymmetric carbon."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Stereochemistry",
+      "concept": "Asymmetric carbons in organic reactions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following reaction scheme and choose the correct option(s) for the major products Q, R and S.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option A structure"
+        },
+        {
+          "id": "B",
+          "text": "Option B structure"
+        },
+        {
+          "id": "C",
+          "text": "Option C structure"
+        },
+        {
+          "id": "D",
+          "text": "Option D structure"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Multi-step organic synthesis",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "CHEMISTRY",
+      "questionText": "In the scheme given below, X and Y, respectively, are",
+      "options": [
+        {
+          "id": "A",
+          "text": "CrO₄²⁻ and Br₂"
+        },
+        {
+          "id": "B",
+          "text": "MnO₄²⁻ and Cl₂"
+        },
+        {
+          "id": "C",
+          "text": "MnO₄⁻ and Cl₂"
+        },
+        {
+          "id": "D",
+          "text": "MnSO₄ and HOCl"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Coordination Compounds",
+      "concept": "Oxidation and reduction reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "CHEMISTRY",
+      "questionText": "Plotting 1/Λₘ against cΛₘ for aqueous solutions of a monobasic weak acid (HX) resulted in a straight line with y-axis intercept of P and slope of S. The ratio P/S is [Λₘ = molar conductivity, Λₘ⁰ = limiting molar conductivity, c = molar concentration, Kₐ = dissociation constant of HX]",
+      "options": [
+        {
+          "id": "A",
+          "text": "KₐΛₘ⁰"
+        },
+        {
+          "id": "B",
+          "text": "KₐΛₘ⁰/2"
+        },
+        {
+          "id": "C",
+          "text": "2KₐΛₘ⁰"
+        },
+        {
+          "id": "D",
+          "text": "1/(KₐΛₘ⁰)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "concept": "Conductivity of weak electrolytes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "CHEMISTRY",
+      "questionText": "On decreasing the pH from 7 to 2, the solubility of a sparingly soluble salt (MX) of a weak acid (HX) increased from 10⁻⁴ mol L⁻¹ to 10⁻³ mol L⁻¹. The pKₐ of HX is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Ionic Equilibrium",
+      "concept": "Solubility and pH relationship",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "CHEMISTRY",
+      "questionText": "In the given reaction scheme, P is a phenyl alkyl ether, Q is an aromatic compound; R and S are the major products. The correct statement about S is",
+      "options": [
+        {
+          "id": "A",
+          "text": "It primarily inhibits noradrenaline degrading enzymes."
+        },
+        {
+          "id": "B",
+          "text": "It inhibits the synthesis of prostaglandin."
+        },
+        {
+          "id": "C",
+          "text": "It is a narcotic drug."
+        },
+        {
+          "id": "D",
+          "text": "It is ortho-acetylbenzoic acid."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Biomolecules",
+      "concept": "Drug chemistry and mechanism",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "CHEMISTRY",
+      "questionText": "The stoichiometric reaction of 516 g of dimethyldichlorosilane with water results in a tetrameric cyclic product X in 75% yield. The weight (in g) of X obtained is___. [Use, molar mass (g mol⁻¹): H = 1, C = 12, O = 16, Si = 28, Cl = 35.5]",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Silicon Chemistry",
+      "concept": "Hydrolysis reactions and yield calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "CHEMISTRY",
+      "questionText": "A gas has a compressibility factor of 0.5 and a molar volume of 0.4 dm³ mol⁻¹ at a temperature of 800 K and pressure x atm. If it shows ideal gas behaviour at the same temperature and pressure, the molar volume will be y dm³ mol⁻¹. The value of x/y is ___. [Use: Gas constant, R = 8 ×10⁻² L atm K⁻¹ mol⁻¹]",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Gaseous State",
+      "concept": "Compressibility factor and ideal gas behavior",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T14:05:29.952Z"
+}

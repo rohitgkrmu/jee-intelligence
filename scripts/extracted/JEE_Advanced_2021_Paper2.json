@@ -1,0 +1,1456 @@
+{
+  "filename": "JEE_Advanced_2021_Paper2.pdf",
+  "examYear": 2021,
+  "examSession": "Paper 2",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "One end of a horizontal uniform beam of weight W and length L is hinged on a vertical wall at point O and its other end is supported by a light inextensible rope. The other end of the rope is fixed at point Q, at a height L above the hinge at point O. A block of weight αW is attached at the point P of the beam, as shown in the figure (not to scale). The rope can sustain a maximum tension of (2√2)W. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The vertical component of reaction force at O does not depend on α"
+        },
+        {
+          "id": "B",
+          "text": "The horizontal component of reaction force at O is equal to W for α = 0.5"
+        },
+        {
+          "id": "C",
+          "text": "The tension in the rope is 2W for α = 0.5"
+        },
+        {
+          "id": "D",
+          "text": "The rope breaks if α > 1.5"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Mechanics",
+      "topic": "Equilibrium",
+      "concept": "Static equilibrium of rigid bodies",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "A source, approaching with speed u towards the open end of a stationary pipe of length L, is emitting a sound of frequency fs. The farther end of the pipe is closed. The speed of sound in air is v and f0 is the fundamental frequency of the pipe. For which of the following combination(s) of u and fs, will the sound reaching the pipe lead to a resonance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "u = 0.8v and fs = f0"
+        },
+        {
+          "id": "B",
+          "text": "u = 0.8v and fs = 2f0"
+        },
+        {
+          "id": "C",
+          "text": "u = 0.8v and fs = 0.5f0"
+        },
+        {
+          "id": "D",
+          "text": "u = 0.5v and fs = 1.5f0"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Waves",
+      "topic": "Sound Waves",
+      "concept": "Doppler effect and resonance in pipes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "For a prism of prism angle θ = 60°, the refractive indices of the left half and the right half are, respectively, n1 and n2 (n2 ≥ n1) as shown in the figure. The angle of incidence i is chosen such that the incident light rays will have minimum deviation if n1 = n2 = n = 1.5. For the case of unequal refractive indices, n1 = n and n2 = n + Δn (where Δn ≪ n), the angle of emergence e = i + Δe. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The value of Δe (in radians) is greater than that of Δn"
+        },
+        {
+          "id": "B",
+          "text": "Δe is proportional to Δn"
+        },
+        {
+          "id": "C",
+          "text": "Δe lies between 2.0 and 3.0 milliradians, if Δn = 2.8×10^(-3)"
+        },
+        {
+          "id": "D",
+          "text": "Δe lies between 1.0 and 1.6 milliradians, if Δn = 2.8×10^(-3)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Optics",
+      "topic": "Refraction",
+      "concept": "Prism with varying refractive index",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "A physical quantity S⃗ is defined as S⃗ = (E⃗ × B⃗)/μ0, where E⃗ is electric field, B⃗ is magnetic field and μ0 is the permeability of free space. The dimensions of S⃗ are the same as the dimensions of which of the following quantity(ies)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Energy/(Charge × Current)"
+        },
+        {
+          "id": "B",
+          "text": "Force/(Length × Time)"
+        },
+        {
+          "id": "C",
+          "text": "Energy/Volume"
+        },
+        {
+          "id": "D",
+          "text": "Power/Area"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electromagnetism",
+      "topic": "Electromagnetic Waves",
+      "concept": "Poynting vector and dimensional analysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "A heavy nucleus N, at rest, undergoes fission N → P + Q, where P and Q are two lighter nuclei. Let δ = MN - MP - MQ, where MP, MQ and MN are the masses of P, Q and N, respectively. EP and EQ are the kinetic energies of P and Q, respectively. The speeds of P and Q are vP and vQ, respectively. If c is the speed of light, which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "EP + EQ = c²δ"
+        },
+        {
+          "id": "B",
+          "text": "EP = (MP/(MP + MQ))c²δ"
+        },
+        {
+          "id": "C",
+          "text": "vP/vQ = MQ/MP"
+        },
+        {
+          "id": "D",
+          "text": "The magnitude of momentum for P as well as Q is c√(2μδ), where μ = MPMQ/(MP + MQ)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Modern Physics",
+      "topic": "Nuclear Physics",
+      "concept": "Nuclear fission and conservation laws",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "Two concentric circular loops, one of radius R and the other of radius 2R, lie in the xy-plane with the origin as their common center, as shown in the figure. The smaller loop carries current I1 in the anti-clockwise direction and the larger loop carries current I2 in the clockwise direction, with I2 > 2I1. B⃗(x,y) denotes the magnetic field at a point (x,y) in the xy-plane. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "B⃗(x,y) is perpendicular to the xy-plane at any point in the plane"
+        },
+        {
+          "id": "B",
+          "text": "|B⃗(x,y)| depends on x and y only through the radial distance r = √(x² + y²)"
+        },
+        {
+          "id": "C",
+          "text": "|B⃗(x,y)| is non-zero at all points for r < R"
+        },
+        {
+          "id": "D",
+          "text": "B⃗(x,y) points normally outward from the xy-plane for all the points between the two loops"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electromagnetism",
+      "topic": "Magnetic Field",
+      "concept": "Magnetic field due to circular current loops",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "A soft plastic bottle, filled with water of density 1 gm/cc, carries an inverted glass test-tube with some air (ideal gas) trapped as shown in the figure. The test-tube has a mass of 5 gm, and it is made of a thick glass of density 2.5 gm/cc. Initially the bottle is sealed at atmospheric pressure p0 = 10^5 Pa so that the volume of the trapped air is v0 = 3.3 cc. When the bottle is squeezed from outside at constant temperature, the pressure inside rises and the volume of the trapped air reduces. It is found that the test tube begins to sink at pressure p0 + Δp without changing its orientation. At this pressure, the volume of the trapped air is v0 - Δv. Let Δv = X cc and Δp = Y×10^3 Pa. The value of X is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Fluid Mechanics",
+      "topic": "Buoyancy and Gas Laws",
+      "concept": "Archimedes principle and Boyle's law",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "The value of Y is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Fluid Mechanics",
+      "topic": "Buoyancy and Gas Laws",
+      "concept": "Archimedes principle and Boyle's law",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "A pendulum consists of a bob of mass m = 0.1 kg and a massless inextensible string of length L = 1.0 m. It is suspended from a fixed point at height H = 0.9 m above a frictionless horizontal floor. Initially, the bob of the pendulum is lying on the floor at rest vertically below the point of suspension. A horizontal impulse P = 0.2 kg-m/s is imparted to the bob at some instant. After the bob slides for some distance, the string becomes taut and the bob lifts off the floor. The magnitude of the angular momentum of the pendulum about the point of suspension just before the bob lifts off is J kg-m²/s. The value of J is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Angular Momentum",
+      "concept": "Conservation of momentum and angular momentum",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "The kinetic energy of the pendulum just after the lift-off is K Joules. The value of K is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Energy Conservation",
+      "concept": "Conservation of energy in pendulum motion",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "In a circuit, a metal filament lamp is connected in series with a capacitor of capacitance C μF across a 200 V, 50 Hz supply. The power consumed by the lamp is 500 W while the voltage drop across it is 100 V. Assume that there is no inductive load in the circuit. Take rms values of the voltages. The magnitude of the phase-angle (in degrees) between the current and the supply voltage is φ. Assume, π√3 ≈ 5. The value of C is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetism",
+      "topic": "AC Circuits",
+      "concept": "RC circuit analysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "The value of φ is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetism",
+      "topic": "AC Circuits",
+      "concept": "Phase angle in RC circuits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "A special metal S conducts electricity without any resistance. A closed wire loop, made of S, does not allow any change in flux through itself by inducing a suitable current to generate a compensating flux. The induced current in the loop cannot decay due to its zero resistance. This current gives rise to a magnetic moment which in turn repels the source of magnetic field or flux. Consider such a loop, of radius a, with its center at the origin. A magnetic dipole of moment m is brought along the axis of this loop from infinity to a point at distance r (≫a) from the center of the loop with its north pole always facing the loop. When the dipole m is placed at a distance r from the center of the loop (as shown in the figure), the current induced in the loop will be proportional to",
+      "options": [
+        {
+          "id": "A",
+          "text": "m/r³"
+        },
+        {
+          "id": "B",
+          "text": "m²/r²"
+        },
+        {
+          "id": "C",
+          "text": "m/r²"
+        },
+        {
+          "id": "D",
+          "text": "m²/r"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetism",
+      "topic": "Electromagnetic Induction",
+      "concept": "Superconducting loops and magnetic dipoles",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "The work done in bringing the dipole from infinity to a distance r from the center of the loop by the given process is proportional to",
+      "options": [
+        {
+          "id": "A",
+          "text": "m/r⁵"
+        },
+        {
+          "id": "B",
+          "text": "m²/r⁵"
+        },
+        {
+          "id": "C",
+          "text": "m²/r⁶"
+        },
+        {
+          "id": "D",
+          "text": "m²/r⁷"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetism",
+      "topic": "Electromagnetic Induction",
+      "concept": "Work done against induced EMF",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "A thermally insulating cylinder has a thermally insulating and frictionless movable partition in the middle, as shown in the figure below. On each side of the partition, there is one mole of an ideal gas, with specific heat at constant volume, CV = 2R. Here, R is the gas constant. Initially, each side has a volume V0 and temperature T0. The left side has an electric heater, which is turned on at very low power to transfer heat Q to the gas on the left side. As a result the partition moves slowly towards the right reducing the right side volume to V0/2. Consequently, the gas temperatures on the left and the right sides become TL and TR, respectively. The value of TR/T0 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "√2"
+        },
+        {
+          "id": "B",
+          "text": "√3"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Ideal Gas",
+      "concept": "Adiabatic process with heat addition",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "The value of Q/(RT0) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "4(2√2 + 1)"
+        },
+        {
+          "id": "B",
+          "text": "4(2√2 - 1)"
+        },
+        {
+          "id": "C",
+          "text": "(5√2 + 1)"
+        },
+        {
+          "id": "D",
+          "text": "(5√2 - 1)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Ideal Gas",
+      "concept": "Heat transfer in thermodynamic processes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "In order to measure the internal resistance r1 of a cell of emf E, a meter bridge of wire resistance R0 = 50 Ω, a resistance R0/2, another cell of emf E/2 (internal resistance r) and a galvanometer G are used in a circuit, as shown in the figure. If the null point is found at l = 72 cm, then the value of r1 = ___ Ω.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Current Electricity",
+      "topic": "Meter Bridge",
+      "concept": "Wheatstone bridge with cells",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "The distance between two stars of masses 3MS and 6MS is 9R. Here R is the mean distance between the centers of the Earth and the Sun, and MS is the mass of the Sun. The two stars orbit around their common center of mass in circular orbits with period nT, where T is the period of Earth's revolution around the Sun. The value of n is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Gravitation",
+      "topic": "Binary Star System",
+      "concept": "Kepler's laws for binary systems",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "PHYSICS",
+      "questionText": "In a photoemission experiment, the maximum kinetic energies of photoelectrons from metals P, Q and R are EP, EQ and ER, respectively, and they are related by EP = 2EQ = 2ER. In this experiment, the same source of monochromatic light is used for metals P and Q while a different source of monochromatic light is used for the metal R. The work functions for metals P, Q and R are 4.0 eV, 4.5 eV and 5.5 eV, respectively. The energy of the incident photon used for metal R, in eV, is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Modern Physics",
+      "topic": "Photoelectric Effect",
+      "concept": "Einstein's photoelectric equation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "CHEMISTRY",
+      "questionText": "The reaction sequence(s) that would lead to o-xylene as the major product is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "MeNH2 → 1. NaNO2/HCl, 273K → 2. CuCN → 3. DIBAL-H then H3O+ → 4. N2H4, KOH, heat"
+        },
+        {
+          "id": "B",
+          "text": "MeBr → 1. Mg, CO2, H3O+ → 2. SOCl2 → 3. H2, Pd-BaSO4 → 4. Zn-Hg, HCl"
+        },
+        {
+          "id": "C",
+          "text": "Me → 1. i. BH3, ii. H2O2, NaOH → 2. PBr3 → 3. Zn, dil. HCl"
+        },
+        {
+          "id": "D",
+          "text": "1. O3, Zn/H2O → 2. N2H4, KOH, heat"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Synthesis of substituted benzenes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "CHEMISTRY",
+      "questionText": "Correct option(s) for the following sequence of reactions is(are): PhCH3 → (light, Br2) → P → 1. Q → 2. H2, Pd/C → R → (CHCl3, KOH) → S (foul smelling) → V → 1. NH3 → 2. heat → U → W → i. KMnO4, KOH, heat → ii. H3O+ → T",
+      "options": [
+        {
+          "id": "A",
+          "text": "Q = KNO2, W = LiAlH4"
+        },
+        {
+          "id": "B",
+          "text": "R = benzenamine, V = KCN"
+        },
+        {
+          "id": "C",
+          "text": "Q = AgNO2, R = phenylmethanamine"
+        },
+        {
+          "id": "D",
+          "text": "W = LiAlH4, V = AgCN"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Multi-step organic synthesis",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "CHEMISTRY",
+      "questionText": "For the following reaction 2X + Y → k → P, the rate of reaction is d[P]/dt = k[X]. Two moles of X are mixed with one mole of Y to make 1.0 L of solution. At 50 s, 0.5 mole of Y is left in the reaction mixture. The correct statement(s) about the reaction is(are) (Use: ln 2 = 0.693)",
+      "options": [
+        {
+          "id": "A",
+          "text": "The rate constant, k, of the reaction is 13.86×10^(-4) s^(-1)."
+        },
+        {
+          "id": "B",
+          "text": "Half-life of X is 50 s."
+        },
+        {
+          "id": "C",
+          "text": "At 50 s, -d[X]/dt = 13.86×10^(-3) mol L^(-1) s^(-1)."
+        },
+        {
+          "id": "D",
+          "text": "At 100 s, -d[Y]/dt = 3.46×10^(-3) mol L^(-1) s^(-1)."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Kinetics",
+      "concept": "Rate laws and reaction kinetics",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "CHEMISTRY",
+      "questionText": "Some standard electrode potentials at 298 K are given below: Pb2+/Pb: 0.13 V, Ni2+/Ni: 0.24 V, Cd2+/Cd: 0.40 V, Fe2+/Fe: 0.44 V. To a solution containing 0.001 M of X2+ and 0.1 M of Y2+, the metal rods X and Y are inserted (at 298 K) and connected by a conducting wire. This resulted in dissolution of X. The correct combination(s) of X and Y, respectively, is(are) (Given: Gas constant, R = 8.314 J K^(-1) mol^(-1), Faraday constant, F = 96500 C mol^(-1))",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cd and Ni"
+        },
+        {
+          "id": "B",
+          "text": "Cd and Fe"
+        },
+        {
+          "id": "C",
+          "text": "Ni and Pb"
+        },
+        {
+          "id": "D",
+          "text": "Ni and Fe"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "concept": "Nernst equation and galvanic cells",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "CHEMISTRY",
+      "questionText": "The pair(s) of complexes wherein both exhibit tetrahedral geometry is(are) (Note: py = pyridine. Given: Atomic numbers of Fe, Co, Ni and Cu are 26, 27, 28 and 29, respectively)",
+      "options": [
+        {
+          "id": "A",
+          "text": "[FeCl4]^(-) and [Fe(CO)4]^(2-)"
+        },
+        {
+          "id": "B",
+          "text": "[Co(CO)4]^(-) and [CoCl4]^(2-)"
+        },
+        {
+          "id": "C",
+          "text": "[Ni(CO)4] and [Ni(CN)4]^(2-)"
+        },
+        {
+          "id": "D",
+          "text": "[Cu(py)4]^(+) and [Cu(CN)4]^(3-)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Coordination Compounds",
+      "concept": "Molecular geometry of coordination complexes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct statement(s) related to oxoacids of phosphorous is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Upon heating, H3PO3 undergoes disproportionation reaction to produce H3PO4 and PH3."
+        },
+        {
+          "id": "B",
+          "text": "While H3PO3 can act as reducing agent, H3PO4 cannot."
+        },
+        {
+          "id": "C",
+          "text": "H3PO3 is a monobasic acid."
+        },
+        {
+          "id": "D",
+          "text": "The H atom of P–H bond in H3PO3 is not ionizable in water."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "p-Block Elements",
+      "concept": "Oxoacids of phosphorus",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "CHEMISTRY",
+      "questionText": "At 298 K, the limiting molar conductivity of a weak monobasic acid is 4×10^2 S cm^2 mol^(-1). At 298 K, for an aqueous solution of the acid the degree of dissociation is α and the molar conductivity is y×10^2 S cm^2 mol^(-1). At 298 K, upon 20 times dilution with water, the molar conductivity of the solution becomes 3y×10^2 S cm^2 mol^(-1). The value of α is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "concept": "Ionic conductivity and degree of dissociation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "CHEMISTRY",
+      "questionText": "The value of y is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "concept": "Ionic conductivity and degree of dissociation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "CHEMISTRY",
+      "questionText": "Reaction of x g of Sn with HCl quantitatively produced a salt. Entire amount of the salt reacted with y g of nitrobenzene in the presence of required amount of HCl to produce 1.29 g of an organic salt (quantitatively). (Use Molar masses (in g mol^(-1)) of H, C, N, O, Cl and Sn as 1, 12, 14, 16, 35 and 119, respectively). The value of x is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Reduction of nitrobenzene",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "CHEMISTRY",
+      "questionText": "The value of y is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Reduction of nitrobenzene",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "CHEMISTRY",
+      "questionText": "A sample (5.6 g) containing iron is completely dissolved in cold dilute HCl to prepare a 250 mL of solution. Titration of 25.0 mL of this solution requires 12.5 mL of 0.03 M KMnO4 solution to reach the end point. Number of moles of Fe2+ present in 250 mL solution is x × 10^(-2) (consider complete dissolution of FeCl2). The amount of iron present in the sample is y% by weight. (Assume: KMnO4 reacts only with Fe2+ in the solution. Use: Molar mass of iron as 56 g mol^(-1)). The value of x is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Redox Reactions",
+      "concept": "Redox titration",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "subject": "CHEMISTRY",
+      "questionText": "The value of y is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Redox Reactions",
+      "concept": "Percentage composition",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "CHEMISTRY",
+      "questionText": "The amount of energy required to break a bond is same as the amount of energy released when the same bond is formed. In gaseous state, the energy required for homolytic cleavage of a bond is called Bond Dissociation Energy (BDE) or Bond Strength. BDE is affected by s-character of the bond and the stability of the radicals formed. Shorter bonds are typically stronger bonds. BDEs for some bonds are given. Correct match of the C–H bonds (shown in bold) in Column J with their BDE in Column K is",
+      "options": [
+        {
+          "id": "A",
+          "text": "P – iii, Q – iv, R – ii, S – i"
+        },
+        {
+          "id": "B",
+          "text": "P – i, Q – ii, R – iii, S – iv"
+        },
+        {
+          "id": "C",
+          "text": "P – iii, Q – ii, R – i, S – iv"
+        },
+        {
+          "id": "D",
+          "text": "P – ii, Q – i, R – iv, S – iii"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Bonding",
+      "concept": "Bond dissociation energy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "CHEMISTRY",
+      "questionText": "For the following reaction CH4 + Cl2 → light → CH3Cl + HCl (g), the correct statement is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Initiation step is exothermic with ΔH° = –58 kcal mol^(-1)."
+        },
+        {
+          "id": "B",
+          "text": "Propagation step involving •CH3 formation is exothermic with ΔH° = –2 kcal mol^(-1)."
+        },
+        {
+          "id": "C",
+          "text": "Propagation step involving CH3Cl formation is endothermic with ΔH° = +27 kcal mol^(-1)."
+        },
+        {
+          "id": "D",
+          "text": "The reaction is exothermic with ΔH° = –25 kcal mol^(-1)."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Alkanes",
+      "concept": "Free radical halogenation mechanism",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "CHEMISTRY",
+      "questionText": "The reaction of K3[Fe(CN)6] with freshly prepared FeSO4 solution produces a dark blue precipitate called Turnbull's blue. Reaction of K4[Fe(CN)6] with the FeSO4 solution in complete absence of air produces a white precipitate X, which turns blue in air. Mixing the FeSO4 solution with NaNO3, followed by a slow addition of concentrated H2SO4 through the side of the test tube produces a brown ring. Precipitate X is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fe4[Fe(CN)6]3"
+        },
+        {
+          "id": "B",
+          "text": "Fe[Fe(CN)6]"
+        },
+        {
+          "id": "C",
+          "text": "K2Fe[Fe(CN)6]"
+        },
+        {
+          "id": "D",
+          "text": "KFe[Fe(CN)6]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Coordination Compounds",
+      "concept": "Prussian blue and related complexes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "CHEMISTRY",
+      "questionText": "Among the following, the brown ring is due to the formation of",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Fe(NO)2(SO4)2]^(2-)"
+        },
+        {
+          "id": "B",
+          "text": "[Fe(NO)2(H2O)4]^(3+)"
+        },
+        {
+          "id": "C",
+          "text": "[Fe(NO)4(SO4)2]"
+        },
+        {
+          "id": "D",
+          "text": "[Fe(NO)(H2O)5]^(2+)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Coordination Compounds",
+      "concept": "Brown ring test for nitrates",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "CHEMISTRY",
+      "questionText": "One mole of an ideal gas at 900 K, undergoes two reversible processes, I followed by II, as shown below. If the work done by the gas in the two processes are same, the value of ln(V3/V2) is ___. (U: internal energy, S: entropy, p: pressure, V: volume, R: gas constant) (Given: molar heat capacity at constant volume, CV,m of the gas is (5/2)R)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Thermodynamics",
+      "concept": "Thermodynamic processes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider a helium (He) atom that absorbs a photon of wavelength 330 nm. The change in the velocity (in cm s^(-1)) of He atom after the photon absorption is ___. (Assume: Momentum is conserved when photon is absorbed. Use: Planck constant = 6.6 ×10^(-34) J s, Avogadro number = 6 ×10^23 mol^(-1), Molar mass of He = 4 g mol^(-1))",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Atomic Structure",
+      "concept": "Photon momentum and atomic recoil",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "CHEMISTRY",
+      "questionText": "Ozonolysis of ClO2 produces an oxide of chlorine. The average oxidation state of chlorine in this oxide is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Inorganic Chemistry",
+      "topic": "p-Block Elements",
+      "concept": "Oxidation states of chlorine",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S1 = {(i,j,k) : i,j,k ∈ {1,2,...,10}}, S2 = {(i,j) : 1≤i<j+2≤10, i,j ∈ {1,2,...,10}}, S3 = {(i,j,k,l) : 1≤i<j<k<l, i,j,k,l ∈ {1,2,...,10}} and S4 = {(i,j,k,l) : i,j,k and l are distinct elements in {1,2,...,10}}. If the total number of elements in the set Sr is nr, r=1,2,3,4, then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "n1 = 1000"
+        },
+        {
+          "id": "B",
+          "text": "n2 = 44"
+        },
+        {
+          "id": "C",
+          "text": "n3 = 220"
+        },
+        {
+          "id": "D",
+          "text": "n4/12 = 420"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Combinatorics",
+      "topic": "Counting Principles",
+      "concept": "Permutations and combinations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider a triangle PQR having sides of lengths p,q and r opposite to the angles P,Q and R, respectively. Then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "cos P ≥ 1 - p²/(2qr)"
+        },
+        {
+          "id": "B",
+          "text": "cos R ≥ ((q-r)/(p+q))cos P + ((p-r)/(p+q))cos Q"
+        },
+        {
+          "id": "C",
+          "text": "(q+r)/p < 2√(sin Q sin R/sin P)"
+        },
+        {
+          "id": "D",
+          "text": "If p<q and p<r, then cos Q > p/r and cos R > p/q"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Trigonometry",
+      "topic": "Properties of Triangles",
+      "concept": "Law of cosines and sine rule",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f:[-π/2, π/2] → ℝ be a continuous function such that f(0) = 1 and ∫₀^(π/3) f(t)dt = 0. Then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The equation f(x) - 3cos3x = 0 has at least one solution in (0, π/3)"
+        },
+        {
+          "id": "B",
+          "text": "The equation f(x) - 3sin3x = -6/π has at least one solution in (0, π/3)"
+        },
+        {
+          "id": "C",
+          "text": "lim(x→0) [x∫₀ˣf(t)dt]/(1-e^(x²)) = -1"
+        },
+        {
+          "id": "D",
+          "text": "lim(x→0) [sinx∫₀ˣf(t)dt]/x² = -1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Definite Integration",
+      "concept": "Mean value theorem and limits",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "MATHEMATICS",
+      "questionText": "For any real numbers α and β, let yα,β(x), x ∈ ℝ, be the solution of the differential equation dy/dx + αy = xe^(βx), y(1) = 1. Let S = {yα,β(x) : α,β ∈ ℝ}. Then which of the following functions belong(s) to the set S?",
+      "options": [
+        {
+          "id": "A",
+          "text": "f(x) = (x²/2)e^(-x) + (e - 1/2)e^(-x)"
+        },
+        {
+          "id": "B",
+          "text": "f(x) = -(x²/2)e^(-x) + (e + 1/2)e^(-x)"
+        },
+        {
+          "id": "C",
+          "text": "f(x) = (e^x/2)(x - 1/2) + (e - e²/4)e^(-x)"
+        },
+        {
+          "id": "D",
+          "text": "f(x) = (e^x/2)(1/2 - x) + (e + e²/4)e^(-x)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Differential Equations",
+      "concept": "First order linear differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "MATHEMATICS",
+      "questionText": "Let O be the origin and OA⃗ = 2î + 2ĵ + k̂, OB⃗ = î - 2ĵ + 2k̂ and OC⃗ = (1/2)(OB⃗ - λOA⃗) for some λ > 0. If |OB⃗ × OC⃗| = 9/2, then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Projection of OC⃗ on OA⃗ is -3/2"
+        },
+        {
+          "id": "B",
+          "text": "Area of the triangle OAB is 9/2"
+        },
+        {
+          "id": "C",
+          "text": "Area of the triangle ABC is 9/2"
+        },
+        {
+          "id": "D",
+          "text": "The acute angle between the diagonals of the parallelogram with adjacent sides OA⃗ and OC⃗ is π/3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Vector Algebra",
+      "topic": "Vector Operations",
+      "concept": "Cross product and projections",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "MATHEMATICS",
+      "questionText": "Let E denote the parabola y² = 8x. Let P = (-2,4), and let Q and Q' be two distinct points on E such that the lines PQ and PQ' are tangents to E. Let F be the focus of E. Then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The triangle PFQ is a right-angled triangle"
+        },
+        {
+          "id": "B",
+          "text": "The triangle QPQ' is a right-angled triangle"
+        },
+        {
+          "id": "C",
+          "text": "The distance between P and F is 5√2"
+        },
+        {
+          "id": "D",
+          "text": "F lies on the line joining Q and Q'"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola",
+      "concept": "Tangent properties of parabola",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the region R = {(x,y) ∈ ℝ× ℝ : x ≥ 0 and y² ≤ 4-x}. Let ℱ be the family of all circles that are contained in R and have centers on the x-axis. Let C be the circle that has largest radius among the circles in ℱ. Let (α,β) be a point where the circle C meets the curve y² = 4-x. The radius of the circle C is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle",
+      "concept": "Optimization with geometric constraints",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of α is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle",
+      "concept": "Optimization with geometric constraints",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f₁:(0,∞) → ℝ and f₂:(0,∞) → ℝ be defined by f₁(x) = ∫₀ˣ ∏ⱼ₌₁²¹(t-j)ʲ dt, x > 0 and f₂(x) = 98(x-1)⁵⁰ - 600(x-1)⁴⁹ + 2450, x > 0, where, for any positive integer n and real numbers a₁,a₂,...,aₙ, ∏ᵢ₌₁ⁿ aᵢ denotes the product of a₁,a₂,...,aₙ. Let mᵢ and nᵢ, respectively, denote the number of points of local minima and the number of points of local maxima of function fᵢ, i=1,2, in the interval (0,∞). The value of 2m₁ + 3n₁ + m₁n₁ is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Applications of Derivatives",
+      "concept": "Critical points and extrema",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of 6m₂ + 4n₂ + 8m₂n₂ is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Applications of Derivatives",
+      "concept": "Critical points and extrema",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "MATHEMATICS",
+      "questionText": "Let gᵢ:[π/8, 3π/8] → ℝ, i=1,2, and f:[π/8, 3π/8] → ℝ be functions such that g₁(x) = 1, g₂(x) = |4x-π| and f(x) = sin²x, for all x ∈ [π/8, 3π/8]. Define Sᵢ = ∫_{π/8}^{3π/8} f(x)·gᵢ(x) dx, i=1,2. The value of 16S₁/π is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Definite Integration",
+      "concept": "Integration of trigonometric functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of 48S₂/π² is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Definite Integration",
+      "concept": "Integration with absolute value functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "MATHEMATICS",
+      "questionText": "Let M = {(x,y) ∈ ℝ× ℝ : x² + y² ≤ r²}, where r > 0. Consider the geometric progression aₙ = 1/2^(n-1), n = 1,2,3,... . Let S₀ = 0 and, for n ≥ 1, let Sₙ denote the sum of the first n terms of this progression. For n ≥ 1, let Cₙ denote the circle with center (Sₙ₋₁,0) and radius aₙ, and Dₙ denote the circle with center (Sₙ₋₁,Sₙ₋₁) and radius aₙ. Consider M with r = 1025/513. Let k be the number of all those circles Cₙ that are inside M. Let l be the maximum possible number of circles among these k circles such that no two circles intersect. Then",
+      "options": [
+        {
+          "id": "A",
+          "text": "k + 2l = 22"
+        },
+        {
+          "id": "B",
+          "text": "2k + l = 26"
+        },
+        {
+          "id": "C",
+          "text": "2k + 3l = 34"
+        },
+        {
+          "id": "D",
+          "text": "3k + 2l = 40"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle",
+      "concept": "Geometric series and circle packing",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider M with r = ((2¹⁹⁹-1)√2)/(2¹⁹⁸). The number of all those circles Dₙ that are inside M is",
+      "options": [
+        {
+          "id": "A",
+          "text": "198"
+        },
+        {
+          "id": "B",
+          "text": "199"
+        },
+        {
+          "id": "C",
+          "text": "200"
+        },
+        {
+          "id": "D",
+          "text": "201"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle",
+      "concept": "Geometric series and circle containment",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "MATHEMATICS",
+      "questionText": "Let ψ₁:[0,∞) → ℝ, ψ₂:[0,∞) → ℝ, f:[0,∞) → ℝ and g:[0,∞) → ℝ be functions such that f(0) = g(0) = 0, ψ₁(x) = e^(-x) + x, x ≥ 0, ψ₂(x) = x² - 2x - 2e^(-x) + 2, x ≥ 0, f(x) = ∫_{-x}^x (|t| - t²)e^(-t²) dt, x > 0 and g(x) = ∫_0^{x²} √t e^(-t) dt, x > 0. Which of the following statements is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "f(√ln3) + g(√ln3) = 1/3"
+        },
+        {
+          "id": "B",
+          "text": "For every x > 1, there exists an α ∈ (1,x) such that ψ₁(x) = 1 + αx"
+        },
+        {
+          "id": "C",
+          "text": "For every x > 0, there exists a β ∈ (0,x) such that ψ₂(x) = 2x(ψ₁(β) - 1)"
+        },
+        {
+          "id": "D",
+          "text": "f is an increasing function on the interval [0, 3/2]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Integration and Functions",
+      "concept": "Properties of integrals and function analysis",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "MATHEMATICS",
+      "questionText": "Which of the following statements is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ψ₁(x) ≤ 1, for all x > 0"
+        },
+        {
+          "id": "B",
+          "text": "ψ₂(x) ≤ 0, for all x > 0"
+        },
+        {
+          "id": "C",
+          "text": "f(x) ≥ 1 - e^(-x²) - (2/3)x³ + (2/5)x⁵, for all x ∈ (0, 1/2)"
+        },
+        {
+          "id": "D",
+          "text": "g(x) ≤ (2/3)x³ - (2/5)x⁵ + (1/7)x⁷, for all x ∈ (0, 1/2)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Integration and Functions",
+      "concept": "Function inequalities and bounds",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "MATHEMATICS",
+      "questionText": "A number is chosen at random from the set {1,2,3,...,2000}. Let p be the probability that the chosen number is a multiple of 3 or a multiple of 7. Then the value of 500p is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Probability",
+      "topic": "Basic Probability",
+      "concept": "Inclusion-exclusion principle",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "MATHEMATICS",
+      "questionText": "Let E be the ellipse x²/16 + y²/9 = 1. For any three distinct points P, Q and Q' on E, let M(P,Q) be the mid-point of the line segment joining P and Q, and M(P,Q') be the mid-point of the line segment joining P and Q'. Then the maximum possible value of the distance between M(P,Q) and M(P,Q'), as P, Q and Q' vary on E, is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Coordinate Geometry",
+      "topic": "Ellipse",
+      "concept": "Properties of midpoints on ellipse",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "MATHEMATICS",
+      "questionText": "For any real number x, let [x] denote the largest integer less than or equal to x. If I = ∫_0^{10} [√(10x/(x+1))] dx, then the value of 9I is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Calculus",
+      "topic": "Definite Integration",
+      "concept": "Integration with floor function",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T13:58:39.256Z"
+}

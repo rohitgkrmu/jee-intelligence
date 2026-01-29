@@ -29,18 +29,19 @@
       "correctAnswer": "C",
       "questionType": "MCQ_SINGLE",
       "chapter": "Coordinate Geometry",
-      "topic": "Triangle Centers",
-      "concept": "Circumcenter and Orthocenter relation",
+      "topic": "Circumcenter and Orthocenter",
+      "concept": "Vector relation between circumcenter and orthocenter",
       "difficulty": "HARD",
       "skills": [
         "CONCEPTUAL",
-        "ANALYTICAL"
+        "ANALYTICAL",
+        "DERIVATION"
       ]
     },
     {
       "questionNumber": 2,
       "subject": "MATHEMATICS",
-      "questionText": "If S_n = 4 + 11 + 21 + 34 + 50 + ... to n terms, then (1/60)(S_29 - S_9) is equal to",
+      "questionText": "If S_n = 4 + 11 + 21 + 34 + 50 + ......... to n terms, then (1/60)(S_29 - S_9) is equal to",
       "options": [
         {
           "id": "A",
@@ -62,18 +63,19 @@
       "correctAnswer": "D",
       "questionType": "MCQ_SINGLE",
       "chapter": "Sequences and Series",
-      "topic": "Arithmetic-Geometric Progression",
-      "concept": "Sum of series with second order differences",
+      "topic": "Arithmetic-Geometric Series",
+      "concept": "Sum of series with quadratic terms",
       "difficulty": "MEDIUM",
       "skills": [
         "NUMERICAL",
-        "ANALYTICAL"
+        "ANALYTICAL",
+        "APPLICATION"
       ]
     },
     {
       "questionNumber": 3,
       "subject": "MATHEMATICS",
-      "questionText": "If A = (1/(7!6!5!)) × [[5,6,7],[6,7,8],[7,8,9]], then |adj(adj(2A))| is equal to",
+      "questionText": "If A = (1/(5!6!7!)) * [[5!6!7!], [6!7!8!], [7!8!9!]], then |adj(adj(2A))| is equal to",
       "options": [
         {
           "id": "A",
@@ -96,40 +98,41 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Matrices and Determinants",
       "topic": "Adjoint of Matrix",
-      "concept": "Properties of adjoint matrices",
+      "concept": "Properties of adjoint and determinant",
       "difficulty": "HARD",
       "skills": [
         "CONCEPTUAL",
-        "NUMERICAL"
+        "NUMERICAL",
+        "ANALYTICAL"
       ]
     },
     {
       "questionNumber": 4,
       "subject": "MATHEMATICS",
-      "questionText": "The statement ~[p ∧ (~(p → q))] is equivalent to",
+      "questionText": "The statement ~ [p ∧ (~ (p ∨ q))] is equivalent to",
       "options": [
         {
           "id": "A",
-          "text": "~(p ∨ q)"
+          "text": "~ (p ∨ q)"
         },
         {
           "id": "B",
-          "text": "~(p ∧ q)"
+          "text": "~ (p ∧ q)"
         },
         {
           "id": "C",
-          "text": "(~(p ∧ q)) ∨ q"
+          "text": "(~ (p ∧ q)) ∨ q"
         },
         {
           "id": "D",
-          "text": "(p → q) ∨ (~p)"
+          "text": "(p ∧ q) ∨ (~ p)"
         }
       ],
       "correctAnswer": "D",
       "questionType": "MCQ_SINGLE",
       "chapter": "Mathematical Logic",
-      "topic": "Logical Equivalences",
-      "concept": "Simplification of logical statements",
+      "topic": "Logical Operations",
+      "concept": "Logical equivalence and De Morgan's laws",
       "difficulty": "MEDIUM",
       "skills": [
         "CONCEPTUAL",
@@ -162,23 +165,381 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Permutations and Combinations",
       "topic": "Distribution Problems",
-      "concept": "Distribution of objects into groups",
+      "concept": "Distribution of objects into groups with restrictions",
       "difficulty": "MEDIUM",
       "skills": [
         "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a circle of radius 4 be concentric to the ellipse 15x² + 19y² = 285. Then the common tangents are inclined to the minor axis of the ellipse at the angle",
+      "options": [
+        {
+          "id": "A",
+          "text": "π/3"
+        },
+        {
+          "id": "B",
+          "text": "π/12"
+        },
+        {
+          "id": "C",
+          "text": "π/6"
+        },
+        {
+          "id": "D",
+          "text": "π/4"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Conic Sections",
+      "topic": "Ellipse and Circle",
+      "concept": "Common tangents to ellipse and circle",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the number (22)^2022 + (2022)^22 leave the remainder α when divided by 3 and β when divided by 7. Then (α² + β²) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "13"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Number Theory",
+      "topic": "Modular Arithmetic",
+      "concept": "Remainder theorem and modular arithmetic",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
         "APPLICATION"
       ]
     },
     {
-      "questionNumber": 21,
+      "questionNumber": 8,
       "subject": "MATHEMATICS",
-      "questionText": "In the figure, θ₁ + θ₂ = π/2 and 3(BE) = 4(AB). If the area of triangle CAB is (32-3√3)/3 unit², when θ₁θ₂ is the largest, then the perimeter (in unit) of triangle CED is equal to",
-      "options": [],
-      "correctAnswer": "6",
-      "questionType": "NUMERICAL",
+      "questionText": "Let S = {z = x + iy : (2z - 3)/(4z + 2i) is a real number}. Then which of the following is NOT correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(x,y) = (0, -1/2)"
+        },
+        {
+          "id": "B",
+          "text": "x² + y² - xy = 1/4"
+        },
+        {
+          "id": "C",
+          "text": "x = 0"
+        },
+        {
+          "id": "D",
+          "text": "y ∈ (-∞, -1/2) ∪ (-1/2, ∞)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Complex Numbers",
+      "topic": "Complex Numbers and Real Conditions",
+      "concept": "Conditions for complex expressions to be real",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "For α ∈ ℝ, if ∫ log(x/(e^x - e^(-x))) dx = (α(e^x + 1))/(e^x - 1) + C, where e = Σ(1/n!) from n=0 to ∞ and C is constant of integration, then α + 2β + 3γ - 4δ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "-4"
+        },
+        {
+          "id": "C",
+          "text": "-8"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integral Calculus",
+      "topic": "Integration by Substitution",
+      "concept": "Integration of logarithmic and exponential functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "If the coefficients of x and x² in (1 + x)^p (1-x)^q are 4 and -5 respectively, then 2p + 3q is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "69"
+        },
+        {
+          "id": "B",
+          "text": "60"
+        },
+        {
+          "id": "C",
+          "text": "66"
+        },
+        {
+          "id": "D",
+          "text": "63"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial Expansion",
+      "concept": "Coefficients in binomial expansion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = {2, 3, 4} and B = {8, 9, 12}. Then the number of elements in the relation R = {((a₁, b₁), (a₂, b₂)) ∈ (A × B, A × B) : a₁ divides b₂ and a₂ divides b₁} is",
+      "options": [
+        {
+          "id": "A",
+          "text": "18"
+        },
+        {
+          "id": "B",
+          "text": "36"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "24"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Relations and Functions",
+      "topic": "Relations",
+      "concept": "Counting elements in relations with divisibility conditions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "Let μ be the mean and σ be the standard deviation of the distribution with Σfᵢ = 62. If [x] denotes the greatest integer ≤ x, then [μ² + σ²] is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Statistics",
+      "topic": "Mean and Standard Deviation",
+      "concept": "Calculation of mean and standard deviation from frequency distribution",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a = 2î + 7ĵ - k̂, b = 3î + k̂ and c = î - ĵ + 2k̂. Let d be a vector which is perpendicular to both a and b and |d × c| = 12. Then (d · c) · (î + ĵ - k̂) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "48"
+        },
+        {
+          "id": "B",
+          "text": "42"
+        },
+        {
+          "id": "C",
+          "text": "44"
+        },
+        {
+          "id": "D",
+          "text": "24"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vector Algebra",
+      "topic": "Cross Product and Dot Product",
+      "concept": "Vector operations and perpendicular vectors",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a die be rolled n times. Let the probability of getting odd numbers seven times be equal to the probability of getting odd numbers nine times. If the probability of getting even numbers twice is (2^k)/15, then k is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "90"
+        },
+        {
+          "id": "B",
+          "text": "80"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "15"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Binomial Probability",
+      "concept": "Binomial distribution and probability calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A be the point (1, 2) and B be any point on the curve x² + y² = 16. If the centre of the locus of the point P, which divides the line segment AB in the ratio 3 : 2 is the point C (α, β), then the length of the line segment AC is",
+      "options": [
+        {
+          "id": "A",
+          "text": "4√5/5"
+        },
+        {
+          "id": "B",
+          "text": "2√5/5"
+        },
+        {
+          "id": "C",
+          "text": "3√5/5"
+        },
+        {
+          "id": "D",
+          "text": "6√5/5"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Locus",
+      "concept": "Locus of point dividing line segment in given ratio",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S = {x ∈ (0, π) : tan²(x/2) - tan(x/2) - 1 = 0, 9 ≤ 10} and tan²(x/3) = (√3 - 1)²/6, then tan²(x/3) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "32"
+        },
+        {
+          "id": "D",
+          "text": "64"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
       "chapter": "Trigonometry",
-      "topic": "Optimization in Triangles",
-      "concept": "Maximization using trigonometric identities",
+      "topic": "Trigonometric Equations",
+      "concept": "Solving trigonometric equations with substitution",
       "difficulty": "HARD",
       "skills": [
         "ANALYTICAL",
@@ -187,21 +548,301 @@
       ]
     },
     {
-      "questionNumber": 26,
+      "questionNumber": 17,
       "subject": "MATHEMATICS",
-      "questionText": "The sum of all the four-digit numbers that can be formed using all the digits 2, 1, 2, 3 is equal to",
-      "options": [],
-      "correctAnswer": "26664",
-      "questionType": "NUMERICAL",
-      "chapter": "Permutations and Combinations",
-      "topic": "Digit Problems",
-      "concept": "Sum of numbers formed by given digits",
+      "questionText": "Let g(x) = f(x) + f(1-x) and f''(x) > 0, x ∈ (0, 1). If g is decreasing in the interval (0, α) and increasing in the interval (α, 1) then tan⁻¹(2α) + tan⁻¹((1-α)/α) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "3π/4"
+        },
+        {
+          "id": "B",
+          "text": "3π/2"
+        },
+        {
+          "id": "C",
+          "text": "π"
+        },
+        {
+          "id": "D",
+          "text": "5π/4"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Differential Calculus",
+      "topic": "Monotonicity",
+      "concept": "Critical points and monotonicity of functions",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the line (x-1)/5 = (y-6)/-2 = (z+8)/5 intersect the lines (x-5)/4 = (y-7)/3 = (z-2)/1 and (x-3)/6 = (y-3)/3 = (z-6)/-1 at the points A and B respectively. Then the distance of the mid-point of the line segment AB from the plane 2x - 2y + z = 14 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "10/3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "11/3"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Lines and Planes",
+      "concept": "Intersection of lines and distance from plane",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f be continuous function satisfying ∫₀^t² f(x)(x + x³) dx = 4t³/3, t ≥ 0. Then f(π²/4) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "π/2 - 1/16"
+        },
+        {
+          "id": "B",
+          "text": "2π/2 - 1/16"
+        },
+        {
+          "id": "C",
+          "text": "2π/2 - 1/16"
+        },
+        {
+          "id": "D",
+          "text": "π/3 - 1/16"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integral Calculus",
+      "topic": "Fundamental Theorem of Calculus",
+      "concept": "Differentiation of integrals with variable limits",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the image of the point P(1, 2, 6) in the plane passing through the points A(1, 2, 0), B(1, 4, 1) and C(0, 5, 1) be Q(α, β, γ). Then (α² + β² + γ²) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "65"
+        },
+        {
+          "id": "B",
+          "text": "70"
+        },
+        {
+          "id": "C",
+          "text": "62"
+        },
+        {
+          "id": "D",
+          "text": "76"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Reflection of Point",
+      "concept": "Image of point with respect to plane",
       "difficulty": "MEDIUM",
       "skills": [
         "NUMERICAL",
-        "ANALYTICAL"
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "MATHEMATICS",
+      "questionText": "In the figure, α₁ + α₂ = π/2 and 3(BE) = 4(AB). If the area of triangle CAB is (3√3 - 2)/2 unit², when α₁ - α₂ is the largest, then the perimeter (in unit) of triangle CED is equal to ______.",
+      "correctAnswer": "6",
+      "questionType": "NUMERICAL",
+      "chapter": "Trigonometry",
+      "topic": "Triangles and Optimization",
+      "concept": "Optimization in triangular geometry",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the foot of perpendicular from the point A(4,3,1) on the plane P: x - y + 2z + 3 = 0 be N. If B(5, β, γ), β, γ ∈ ℝ is a point on plane P such that the area of the triangle ABN is √23, then β² + γ² + βγ is equal to ______.",
+      "correctAnswer": "7",
+      "questionType": "NUMERICAL",
+      "chapter": "3D Geometry",
+      "topic": "Distance and Area",
+      "concept": "Foot of perpendicular and triangle area in 3D",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S be the set of values of λ, for which the system of equations 6x - 3y + 3z = 4λ², 2x + 6y + 4z = 1, 3x + 2y + 3z = λ has no solution. Then 12∑|λ| over λ∈S is equal to _______.",
+      "correctAnswer": "24",
+      "questionType": "NUMERICAL",
+      "chapter": "Linear Algebra",
+      "topic": "System of Linear Equations",
+      "concept": "Consistency conditions for system of equations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the tangent at any point P on a curve passing through the points (1,1) and (1/10, 100), intersect positive x-axis and y-axis at the point A and B respectively. If PA : PB = 1 : k and y = y(x) is the solution of the differential equation dy/dx = ke^(kx/2), y(0) = k, then 4y(1) - 5 log_e 3 is equal to _______.",
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Differential Equations",
+      "topic": "Applications of Differential Equations",
+      "concept": "Geometric applications of differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the equation of two adjacent sides of a parallelogram ABCD be 2x - 3y = -23 and 5x + 4y = 23. If the equation of its one diagonal AC is 3x + 7y = 23 and the distance of A from the other diagonal is d, then 50d² is equal to _______.",
+      "correctAnswer": "529",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parallelogram and Distance",
+      "concept": "Properties of parallelogram and distance from line",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "MATHEMATICS",
+      "questionText": "The sum of all the four-digit numbers that can be formed using all the digits 2, 1, 2, 3 is equal to _____.",
+      "correctAnswer": "26664",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Formation of Numbers",
+      "concept": "Sum of numbers formed from given digits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "MATHEMATICS",
+      "questionText": "If the domain of the function f(x) = sec⁻¹((2-x)/(5x-3)) is [α, β) ∪ (γ, δ], then |3α + 10(β + γ) + 21δ| is equal to ______.",
+      "correctAnswer": "24",
+      "questionType": "NUMERICAL",
+      "chapter": "Functions",
+      "topic": "Domain of Inverse Trigonometric Functions",
+      "concept": "Domain of composite inverse trigonometric functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the quadratic curve passing through the point (-1, 0) and touching the line y = x at (1,1) be y = f(x). Then the x-intercept of the normal to the curve at the point (α, f(α + 1)) in the first quadrant is ______.",
+      "correctAnswer": "11",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Curves and Normals",
+      "concept": "Normal to quadratic curve and intercepts",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "MATHEMATICS",
+      "questionText": "Suppose a₁, a₂, 2, a₃, a₄, be in an arithmetic-geometric progression. If the common ratio of the corresponding geometric progression is 2 and the sum of all 5 terms of the arithmetic-geometric progression is 49/2, then a₄ is equal to ______.",
+      "correctAnswer": "16",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Arithmetic-Geometric Progression",
+      "concept": "Properties of arithmetic-geometric progression",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "MATHEMATICS",
+      "questionText": "If the area of the region {(x, y) : |x² - 2| ≤ y ≤ x} is A, then 6A + π²/16 is equal to ______.",
+      "correctAnswer": "27",
+      "questionType": "NUMERICAL",
+      "chapter": "Integral Calculus",
+      "topic": "Area Under Curves",
+      "concept": "Area bounded by absolute value functions",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
       ]
     }
   ],
-  "extractedAt": "2026-01-29T07:51:24.731Z"
+  "extractedAt": "2026-01-29T12:40:40.920Z"
 }

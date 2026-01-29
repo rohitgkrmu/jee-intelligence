@@ -1,0 +1,1233 @@
+{
+  "filename": "JEE_Advanced_2024_Paper2.pdf",
+  "examYear": 2024,
+  "examSession": "Paper 2",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "Considering only the principal values of the inverse trigonometric functions, the value of tan^(-1)(sin^(-1)(11/32) - 2cos^(-1)(5/5)) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "7/24"
+        },
+        {
+          "id": "B",
+          "text": "-7/24"
+        },
+        {
+          "id": "C",
+          "text": "-5/24"
+        },
+        {
+          "id": "D",
+          "text": "5/24"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inverse Trigonometric Functions",
+      "topic": "Principal values of inverse trigonometric functions",
+      "concept": "Evaluation of composite inverse trigonometric expressions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S = {(x,y): x ≥ 0, y ≥ 0, y ≤ 4x, y ≥ 12 - 2x and 3x + 8y ≤ 58}. If the area of the region S is λ/2, then λ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "17/2"
+        },
+        {
+          "id": "B",
+          "text": "17/3"
+        },
+        {
+          "id": "C",
+          "text": "17/4"
+        },
+        {
+          "id": "D",
+          "text": "17/5"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Area of regions bounded by linear inequalities",
+      "concept": "Finding area of feasible region",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "Let k ∈ ℝ. If lim(x→0+) [e^(kx) / (sin(sin x) + cos x - x)] = 0, then the value of k is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Limits",
+      "topic": "L'Hospital's rule and limit evaluation",
+      "concept": "Limits involving exponential and trigonometric functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f: ℝ → ℝ be a function defined by f(x) = {(2sin x)/x if x ≠ 0, 0 if x = 0}. Then which of the following statements is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "f(x) = 0 has infinitely many solutions in the interval (-1/10, 1/10)"
+        },
+        {
+          "id": "B",
+          "text": "f(x) = 0 has no solutions in the interval (-π, π)"
+        },
+        {
+          "id": "C",
+          "text": "The set of solutions of f(x) = 0 in the interval [0, 1/10] is finite"
+        },
+        {
+          "id": "D",
+          "text": "f(x) = 0 has more than 25 solutions in the interval (-1/2, 1/2)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Analysis of piecewise functions",
+      "concept": "Zeros of trigonometric functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S be the set of all (α, β) such that lim(x→1) [sin(α + β)(log_e x)^2 + sin α] / [log_e(1 + x)] = 0. Then which of the following is (are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(-1, 3) ∈ S"
+        },
+        {
+          "id": "B",
+          "text": "(-1, 1) ∈ S"
+        },
+        {
+          "id": "C",
+          "text": "(1, -1) ∈ S"
+        },
+        {
+          "id": "D",
+          "text": "(1, -2) ∈ S"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Limits",
+      "topic": "Limit evaluation using L'Hospital's rule",
+      "concept": "Parametric limits with trigonometric functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "A straight line drawn from the point P(1, 3, 2), parallel to the line (x-2)/1 = (y-4)/(-2) = (z-6)/1, intersects the plane L₁: x - 3y + 6z = 1 at the point Q. Another straight line which passes through Q and is perpendicular to the plane L₁ intersects the plane L₂: x - 2y + z = -4 at the point R. Then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The length of the line segment PQ is √6"
+        },
+        {
+          "id": "B",
+          "text": "The coordinates of R are (1, 6, 3)"
+        },
+        {
+          "id": "C",
+          "text": "The centroid of the triangle PQR is (4/3, 14/3, 5/3)"
+        },
+        {
+          "id": "D",
+          "text": "The perimeter of the triangle PQR is 2√6 + √11"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "3D Geometry",
+      "topic": "Lines and planes in 3D space",
+      "concept": "Intersection of lines and planes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A₁, B₁, C₁ be three points in the xy-plane. Suppose that the lines A₁C₁ and B₁C₁ are tangents to the curve y² = 8x at A₁ and B₁, respectively. If O = (0, 0) and C₁ = (-4, 0), then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The length of the line segment OA₁ is 4√3"
+        },
+        {
+          "id": "B",
+          "text": "The length of the line segment A₁B₁ is 16"
+        },
+        {
+          "id": "C",
+          "text": "The orthocenter of the triangle A₁B₁C₁ is (0, 0)"
+        },
+        {
+          "id": "D",
+          "text": "The orthocenter of the triangle A₁B₁C₁ is (1, 0)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola and tangent properties",
+      "concept": "Tangents to parabola from external point",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f: ℝ → ℝ be a function such that f(x + y) = f(x) + f(y) for all x, y ∈ ℝ, and g: (0, ∞) → ℝ be a function such that g(xy) = g(x)g(y) for all x, y. If f(-3/12) = -1/2 and g(5/3) = 2, then the value of f(1) + 2g(√8) - 4g(0) is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Functional Equations",
+      "topic": "Additive and multiplicative functions",
+      "concept": "Properties of Cauchy functional equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "A bag contains N balls out of which 3 balls are white, 6 balls are green, and the remaining balls are blue. Three balls are drawn randomly one after the other without replacement. For i = 1, 2, 3, let Wᵢ, Gᵢ, Bᵢ denote the events that the ball drawn in the i-th draw is white, green, blue respectively. If P(W₁G₂B₃) = 2/5N and P(B₃|W₁G₂) = 2/9, then N equals",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Probability",
+      "topic": "Conditional probability and drawing without replacement",
+      "concept": "Probability with colored balls",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the function f: ℝ → ℝ be defined by f(x) = ((x^2023 + x^2023)sin(2x) + (x^2024 + x^2025)cos(3x))/(e^x - e^(-x) + (x^2024 + x^2025)). Then the number of solutions of f(x) = 0 in ℝ is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Functions",
+      "topic": "Zeros of composite functions",
+      "concept": "Analysis of rational functions with exponential terms",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "Let p̂ = 2î + 3ĵ + k̂ and q̂ = î - ĵ + k̂. If for some real numbers α, β, γ, and δ, we have (α + β)p̂ + (γ + δ)q̂ = p̂ × q̂ + 15î + 10ĵ + 6k̂ + 2(p̂ - q̂), then the value of αδ is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Vector Algebra",
+      "topic": "Vector operations and cross product",
+      "concept": "Linear combination of vectors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "A normal with slope 1/6 is drawn from the point (0, λ) to the parabola x² = -4ay, where a > 0. Let L be the line passing through (0, λ) and parallel to the directrix of the parabola. Suppose that L intersects the parabola at two points A and B. Let r denote the length of the latus rectum and s denote the square of the length of the line segment AB. If r:s = 1:16, then the value of 24a is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola properties - normal and directrix",
+      "concept": "Normal to parabola and latus rectum",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the function f: [1, ∞) → ℝ be defined by a piecewise formula involving floor functions. Define g(x) = ∫₁ˣ f(t)dt, x ∈ (1, ∞). Let α denote the number of solutions of g(x) = 0 in (1, 8] and β = lim(x→1⁺) g(x)/(x-1). Then the value of α + β is equal to",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Integration",
+      "topic": "Integration of piecewise functions",
+      "concept": "Fundamental theorem of calculus with floor functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "If n(X) = ₘC₆, then the value of m is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Combinatorics",
+      "topic": "Relations and set theory",
+      "concept": "Counting relations with specific properties",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "If the value of n(Y) + n(Z) is k², then |k| is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Combinatorics",
+      "topic": "Relations and functions",
+      "concept": "Counting special types of relations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of ∫₀^(π/2) [2f(x)g(x) - g(x)]dx is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Integration",
+      "topic": "Definite integration",
+      "concept": "Integration involving trigonometric and algebraic functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of (16/π³) ∫₀^(π/2) f(x)g(x)dx is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Integration",
+      "topic": "Definite integration",
+      "concept": "Product of functions under integration",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "A region in the form of an equilateral triangle (in x-y plane) of height L has a uniform magnetic field B⃗ pointing in the +z-direction. A conducting loop PQR, in the form of an equilateral triangle of the same height L, is placed in the x-y plane with its vertex P at x = 0. At t=0, the loop starts entering the region of the magnetic field with a uniform velocity v along the +x-direction. Which of the following graph best depicts the variation of the induced emf (E) in the loop as a function of the distance (x) starting from x = 0?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Graph A (triangular wave)"
+        },
+        {
+          "id": "B",
+          "text": "Graph B (trapezoidal wave)"
+        },
+        {
+          "id": "C",
+          "text": "Graph C (step function)"
+        },
+        {
+          "id": "D",
+          "text": "Graph D (linear increase)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Faraday's law and motional EMF",
+      "concept": "EMF in moving conductor in magnetic field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "GRAPHICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "PHYSICS",
+      "questionText": "A particle of mass m is under the influence of the gravitational field of a body of mass M (≫m). The particle is moving in a circular orbit of radius r₀ with time period T₀ around the mass M. Then, the particle is subjected to an additional central force, corresponding to the potential energy Vc(r) = mα/r³, where α is a positive constant. If the particle moves in the same circular orbit but with new time period T₁, then (T₁² - T₀²)/T₁² is given by [G is the gravitational constant.]",
+      "options": [
+        {
+          "id": "A",
+          "text": "3α/(GMr₀²)"
+        },
+        {
+          "id": "B",
+          "text": "α/(2GMr₀²)"
+        },
+        {
+          "id": "C",
+          "text": "α/(GMr₀²)"
+        },
+        {
+          "id": "D",
+          "text": "2α/(GMr₀²)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Orbital mechanics with additional central force",
+      "concept": "Modified circular orbits",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "PHYSICS",
+      "questionText": "A metal target with atomic number Z=46 is bombarded with a high energy electron beam. The emission of X-rays from the target is analyzed. The ratio r of the wavelengths of the Kα-line and the cut-off is found to be r = 2. If the same electron beam bombards another metal target with Z =41, the value of r will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.53"
+        },
+        {
+          "id": "B",
+          "text": "1.27"
+        },
+        {
+          "id": "C",
+          "text": "2.24"
+        },
+        {
+          "id": "D",
+          "text": "1.58"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Physics",
+      "topic": "X-ray spectra",
+      "concept": "Characteristic X-rays and continuous X-ray spectrum",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "A thin stiff insulated metal wire is bent into a circular loop with its two ends extending tangentially from the same point of the loop. The wire loop has mass m and radius r and it is in a uniform vertical magnetic field B₀. Initially, it hangs vertically downwards, because of acceleration due to gravity g, on two conducting supports at P and Q. When a current I is passed through the loop, the loop turns about the line PQ by an angle θ given by",
+      "options": [
+        {
+          "id": "A",
+          "text": "tanθ=πrIB₀/(mg)"
+        },
+        {
+          "id": "B",
+          "text": "tanθ=2πrIB₀/(mg)"
+        },
+        {
+          "id": "C",
+          "text": "tanθ=πrIB₀/(2mg)"
+        },
+        {
+          "id": "D",
+          "text": "tanθ=mg/(πrIB₀)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetic Effects of Current",
+      "topic": "Force on current carrying conductor",
+      "concept": "Torque on current loop in magnetic field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "A small electric dipole p₀, having a moment of inertia I about its center, is kept at a distance r from the center of a spherical shell of radius R. The surface charge density is uniformly distributed on the spherical shell. The dipole is initially oriented at a small angle θ. While staying at distance r, the dipole is free to rotate about its center. If released from rest, then which of the following statement(s) is(are) correct? [ε₀ is the permittivity of free space.]",
+      "options": [
+        {
+          "id": "A",
+          "text": "The dipole will undergo small oscillations at any finite value of r."
+        },
+        {
+          "id": "B",
+          "text": "The dipole will undergo small oscillations at any finite value of r > R."
+        },
+        {
+          "id": "C",
+          "text": "The dipole will undergo small oscillations with an angular frequency of √(2σp₀/(ε₀I)) at r = 2R."
+        },
+        {
+          "id": "D",
+          "text": "The dipole will undergo small oscillations with an angular frequency of √(σp₀/(100ε₀I)) at r = 10R."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric dipole in external field",
+      "concept": "Oscillations of dipole in uniform electric field",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "A table tennis ball has radius (3/2)×10⁻² m and mass (22/7)×10⁻³ kg. It is slowly pushed down into a swimming pool to a depth of d=0.7 m below the water surface and then released from rest. It emerges from the water surface at speed v, without getting wet, and rises up to a height H. Which of the following option(s) is(are) correct? [Given: π=22/7, g=10 m s⁻², density of water =1×10³ kg m⁻³, viscosity of water =1×10⁻³ Pa-s.]",
+      "options": [
+        {
+          "id": "A",
+          "text": "The work done in pushing the ball to the depth d is 0.077 J."
+        },
+        {
+          "id": "B",
+          "text": "If we neglect the viscous force in water, then the speed v=7 m/s."
+        },
+        {
+          "id": "C",
+          "text": "If we neglect the viscous force in water, then the height H=1.4 m."
+        },
+        {
+          "id": "D",
+          "text": "The ratio of the magnitudes of the net force excluding the viscous force to the maximum viscous force in water is 500/9."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Buoyancy and viscous forces",
+      "concept": "Motion of sphere in fluid with buoyancy",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "A positive, singly ionized atom of mass number A_M is accelerated from rest by the voltage 192 V. Thereafter, it enters a rectangular region of width w with magnetic field B₀=0.1k̂ Tesla. The ion finally hits a detector at the distance x below its starting trajectory. [Given: Mass of neutron/proton =(5/3)×10⁻²⁷ kg, charge of the electron =1.6× 10⁻¹⁹ C.] Which of the following option(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The value of x for H⁺ ion is 4 cm."
+        },
+        {
+          "id": "B",
+          "text": "The value of x for an ion with A_M=144 is 48 cm."
+        },
+        {
+          "id": "C",
+          "text": "For detecting ions with 1≤A_M≤196, the minimum height (x₁-x₀) of the detector is 55 cm."
+        },
+        {
+          "id": "D",
+          "text": "The minimum width w of the region of the magnetic field for detecting ions with A_M=196 is 56 cm."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Magnetic Effects of Current",
+      "topic": "Motion of charged particles in magnetic field",
+      "concept": "Deflection of ions in magnetic field",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "The dimensions of a cone are measured using a scale with a least count of 2 mm. The diameter of the base and the height are both measured to be 20.0 cm. The maximum percentage error in the determination of the volume is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Measurements and Errors",
+      "topic": "Error analysis in measurements",
+      "concept": "Percentage error in derived quantities",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "PHYSICS",
+      "questionText": "A ball is thrown from the location (x₀,y₀)=(0,0) of a horizontal playground with an initial speed v₀ at an angle θ₀ from the +x-direction. The ball is to be hit by a stone, which is thrown at the same time from the location (x₁,y₁)=(L,0). The stone is thrown at an angle (180−θ₁) from the +x-direction with a suitable initial speed. For a fixed v₀, when (θ₀,θ₁)=(45°,45°), the stone hits the ball after time T₁, and when (θ₀,θ₁)=(60°,30°), it hits the ball after time T₂. In such a case, (T₁/T₂)² is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Projectile Motion",
+      "topic": "Two-dimensional motion",
+      "concept": "Collision of projectiles in flight",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "PHYSICS",
+      "questionText": "A charge is kept at the central point P of a cylindrical region. The two edges subtend a half-angle α at P. When α = 30°, then the electric flux through the curved surface of the cylinder is Φ. If α = 60°, then the electric flux through the curved surface becomes Φ/√n, where the value of n is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Electric flux and Gauss's law",
+      "concept": "Flux through curved surface of cylinder",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "PHYSICS",
+      "questionText": "Two equilateral-triangular prisms P₁ and P₂ are kept with their sides parallel to each other, in vacuum. A light ray enters prism P₁ at an angle of incidence θ such that the outgoing ray undergoes minimum deviation in prism P₂. If the respective refractive indices of P₁ and P₂ are √3/2 and √3, then θ=sin⁻¹[√3/2 sin(π/β)], where the value of β is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Optics",
+      "topic": "Refraction through prisms",
+      "concept": "Minimum deviation condition",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "PHYSICS",
+      "questionText": "An infinitely long thin wire, having a uniform charge density per unit length of 5 nC/m, is passing through a spherical shell of radius 1 m. A 10 nC charge is distributed uniformly over the spherical shell. If the configuration of the charges remains static, the magnitude of the potential difference between points P and R, in Volt, is [Given: In SI units 1/(4πε₀)=9×10⁹, ln2=0.7. Ignore the area pierced by the wire.]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Electric potential",
+      "concept": "Potential due to line charge and spherical charge distribution",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "PHYSICS",
+      "questionText": "A spherical soap bubble inside an air chamber at pressure P₀=10⁵ Pa has a certain radius so that the excess pressure inside the bubble is ΔP=144 Pa. Now, the chamber pressure is reduced to 8P₀/27 so that the bubble radius and its excess pressure change. In this process, all the temperatures remain unchanged. Assume air to be an ideal gas and the excess pressure ΔP in both the cases to be much smaller than the chamber pressure. The new excess pressure ΔP in Pa is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Surface Tension",
+      "topic": "Soap bubbles and pressure difference",
+      "concept": "Young-Laplace equation for bubbles",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "In a Young's double slit experiment, each of the two slits A and B are oscillating about their fixed center and with a mean separation of 0.8 mm. The distance between the slits at time t is given by d=(0.8+0.04sinωt) mm, where ω=0.08 rad s⁻¹. The distance of the screen from the slits is 1 m and the wavelength of the light used to illuminate the slits is 6000 Å. The 8th bright fringe above the point O oscillates with time between two extreme positions. The separation between these two extreme positions, in micrometer (μm), is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Wave Optics",
+      "topic": "Young's double slit experiment",
+      "concept": "Variable slit separation and fringe position",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "PHYSICS",
+      "questionText": "The maximum speed in μm/s at which the 8th bright fringe will move is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Wave Optics",
+      "topic": "Young's double slit experiment",
+      "concept": "Rate of change of fringe position",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "PHYSICS",
+      "questionText": "Two particles, 1 and 2, each of mass m, are connected by a massless spring, and are on a horizontal frictionless plane. Initially, the two particles, with their center of mass at x₀, are oscillating with amplitude a and angular frequency ω. Particle 3 of mass m moves towards this system with speed u₀=aω/2, and undergoes instantaneous elastic collision with particle 2, at time t₀. If the collision occurs at time t₀=0, the value of v_cm/(aω) will be",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Oscillations and Waves",
+      "topic": "Collision with oscillating system",
+      "concept": "Elastic collision with center of mass motion",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "PHYSICS",
+      "questionText": "If the collision occurs at time t₀=π/(2ω), then the value of 4b²/a² will be",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Oscillations and Waves",
+      "topic": "Collision with oscillating system",
+      "concept": "Change in amplitude after collision",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "CHEMISTRY",
+      "questionText": "According to Bohr's model, the highest kinetic energy is associated with the electron in the",
+      "options": [
+        {
+          "id": "A",
+          "text": "first orbit of H atom"
+        },
+        {
+          "id": "B",
+          "text": "first orbit of He⁺"
+        },
+        {
+          "id": "C",
+          "text": "second orbit of He⁺"
+        },
+        {
+          "id": "D",
+          "text": "second orbit of Li²⁺"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Structure",
+      "topic": "Bohr's model",
+      "concept": "Kinetic energy of electrons in different orbits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "CHEMISTRY",
+      "questionText": "In a metal deficient oxide sample, MₓY₂O₄ (M and Y are metals), M is present in both +2 and +3 oxidation states and Y is in +3 oxidation state. If the fraction of M²⁺ ions present in M is 1/3, the value of X is",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.25"
+        },
+        {
+          "id": "B",
+          "text": "0.33"
+        },
+        {
+          "id": "C",
+          "text": "0.67"
+        },
+        {
+          "id": "D",
+          "text": "0.75"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solid State",
+      "topic": "Defects in solids",
+      "concept": "Metal deficient oxides and oxidation states",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "CHEMISTRY",
+      "questionText": "In the following reaction sequence, the major product Q is [includes organic reaction scheme]",
+      "options": [
+        {
+          "id": "A",
+          "text": "Product A structure"
+        },
+        {
+          "id": "B",
+          "text": "Product B structure"
+        },
+        {
+          "id": "C",
+          "text": "Product C structure"
+        },
+        {
+          "id": "D",
+          "text": "Product D structure"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction mechanisms",
+      "concept": "Multi-step organic synthesis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "CHEMISTRY",
+      "questionText": "The species formed on fluorination of phosphorus pentachloride in a polar organic solvent are",
+      "options": [
+        {
+          "id": "A",
+          "text": "[PF₄]⁺[PF₆]⁻ and [PCl₄]⁺[PF₆]⁻"
+        },
+        {
+          "id": "B",
+          "text": "[PCl₄]⁺[PCl₄F₂]⁻ and [PCl₄]⁺[PF₆]⁻"
+        },
+        {
+          "id": "C",
+          "text": "PF₃ and PCl₃"
+        },
+        {
+          "id": "D",
+          "text": "PF₅ and PCl₃"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "p-Block Elements",
+      "topic": "Phosphorus compounds",
+      "concept": "Halogenation reactions of phosphorus compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "CHEMISTRY",
+      "questionText": "An aqueous solution of hydrazine (N₂H₄) is electrochemically oxidized by O₂, thereby releasing chemical energy in the form of electrical energy. One of the products generated from the electrochemical reaction is N₂(g). Choose the correct statement(s) about the above process",
+      "options": [
+        {
+          "id": "A",
+          "text": "OH⁻ ions react with N₂H₄ at the anode to form N₂(g) and water, releasing 4 electrons to the anode."
+        },
+        {
+          "id": "B",
+          "text": "At the cathode, N₂H₄ breaks to N₂(g) and nascent hydrogen released at the electrode reacts with oxygen to form water."
+        },
+        {
+          "id": "C",
+          "text": "At the cathode, molecular oxygen gets converted to OH⁻."
+        },
+        {
+          "id": "D",
+          "text": "Oxides of nitrogen are major by-products of the electrochemical process."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electrochemistry",
+      "topic": "Fuel cells and electrochemical reactions",
+      "concept": "Hydrazine fuel cell reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "CHEMISTRY",
+      "questionText": "The option(s) with correct sequence of reagents for the conversion of P to Q is(are) [includes organic reaction scheme]",
+      "options": [
+        {
+          "id": "A",
+          "text": "i) Lindlar's catalyst, H₂; ii) SnCl₂/HCl; iii) NaBH₄; iv) H₃O⁺"
+        },
+        {
+          "id": "B",
+          "text": "i) Lindlar's catalyst, H₂; ii) H₃O⁺; iii) SnCl₂/HCl; iv) NaBH₄"
+        },
+        {
+          "id": "C",
+          "text": "i) NaBH₄; ii) SnCl₂/HCl; iii) H₃O⁺; iv) Lindlar's catalyst, H₂"
+        },
+        {
+          "id": "D",
+          "text": "i) Lindlar's catalyst, H₂; ii) NaBH₄; iii) SnCl₂/HCl; iv) H₃O⁺"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reduction reactions",
+      "concept": "Sequential reduction of functional groups",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "CHEMISTRY",
+      "questionText": "The compound(s) having peroxide linkage is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "H₂S₂O₇"
+        },
+        {
+          "id": "B",
+          "text": "H₂S₂O₈"
+        },
+        {
+          "id": "C",
+          "text": "H₂S₂O₅"
+        },
+        {
+          "id": "D",
+          "text": "H₂SO₅"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "p-Block Elements",
+      "topic": "Oxoacids of sulfur",
+      "concept": "Peroxide linkage in sulfur compounds",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "CHEMISTRY",
+      "questionText": "To form a complete monolayer of acetic acid on 1g of charcoal, 100 mL of 0.5 M acetic acid was used. Some of the acetic acid remained unadsorbed. To neutralize the unadsorbed acetic acid, 40 mL of 1 M NaOH solution was required. If each molecule of acetic acid occupies P × 10⁻²³ m² surface area on charcoal, the value of P is [Use given data: Surface area of charcoal = 1.5 × 10² m²g⁻¹; Avogadro's number (Nₐ) = 6.0 × 10²³ mol⁻¹]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Surface Chemistry",
+      "topic": "Adsorption",
+      "concept": "Monolayer adsorption and surface area calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "CHEMISTRY",
+      "questionText": "Vessel-1 contains w₂ g of a non-volatile solute X dissolved in w₁ g of water. Vessel-2 contains w₂ g of another non-volatile solute Y dissolved in w₁ g of water. Both the vessels are at the same temperature and pressure. The molar mass of X is 80% of that of Y. The van't Hoff factor for X is 1.2 times of that of Y for their respective concentrations. The elevation of boiling point for solution in Vessel-1 is _____ % of the solution in Vessel-2.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Colligative properties",
+      "concept": "Elevation of boiling point and van't Hoff factor",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "CHEMISTRY",
+      "questionText": "For a double strand DNA, one strand is given. The amount of energy required to split the double strand DNA into two single strands is _____ kcal mol⁻¹. [Given: Average energy per H-bond for A-T base pair = 1.0 kcal mol⁻¹, G-C base pair = 1.5 kcal mol⁻¹, and A-U base pair = 1.25 kcal mol⁻¹. Ignore electrostatic repulsion between the phosphate groups.]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Biomolecules",
+      "topic": "Nucleic acids",
+      "concept": "Hydrogen bonding in DNA base pairs",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "CHEMISTRY",
+      "questionText": "A sample initially contains only U-238 isotope of uranium. With time, some of the U-238 radioactively decays into Pb-206 while the rest of it remains undisintegrated. When the age of the sample is P×10⁸ years, the ratio of mass of Pb-206 to that of U-238 in the sample is found to be 7. The value of P is [Given: Half-life of U-238 is 4.5 ×10⁹ years; logₑ2 = 0.693]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Nuclear Chemistry",
+      "topic": "Radioactive decay",
+      "concept": "Half-life calculations and decay kinetics",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "CHEMISTRY",
+      "questionText": "Among [Co(CN)₄]⁴⁻, [Co(CO)₃(NO)], XeF₄, [PCl₄]⁺, [PdCl₄]²⁻, [ICl₄]⁻, [Cu(CN)₄]³⁻ and P₄ the total number of species with tetrahedral geometry is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Compounds",
+      "topic": "Molecular geometry and hybridization",
+      "concept": "Tetrahedral geometry in coordination complexes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "An organic compound P having molecular formula C₆H₆O₃ gives ferric chloride test and does not have intramolecular hydrogen bond. The compound P reacts with 3 equivalents of NH₂OH to produce oxime Q. Treatment of P with excess methyl iodide in the presence of KOH produces compound R as the major product. Reaction of R with excess iso-butylmagnesium bromide followed by treatment with H₃O⁺ gives compound S as the major product. The total number of methyl (−CH₃) group(s) in compound S is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic compounds and reactions",
+      "concept": "Multi-step organic synthesis and structural determination",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "An organic compound P with molecular formula C₉H₁₈O₂ decolorizes bromine water and also shows positive iodoform test. P on ozonolysis followed by treatment with H₂O₂ gives Q and R. While compound Q shows positive iodoform test, compound R does not give positive iodoform test. Q and R on oxidation with pyridinium chlorochromate (PCC) followed by heating give S and T, respectively. Both S and T show positive iodoform test. Sum of number of oxygen atoms in S and T is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Ozonolysis and oxidation reactions",
+      "concept": "Structural determination through chemical tests",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "Complete copolymerization of 500 moles of Q and 500 moles of R gives one mole of a single acyclic copolymer U. The molecular weight of U is [Given, atomic mass: H =1, C = 12, O =16]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Polymers",
+      "topic": "Copolymerization",
+      "concept": "Molecular weight calculation of copolymers",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "When potassium iodide is added to an aqueous solution of potassium ferricyanide, a reversible reaction is observed in which a complex P is formed. In a strong acidic medium, the equilibrium shifts completely towards P. Addition of zinc chloride to P in a slightly acidic medium results in a sparingly soluble complex Q. The number of moles of potassium iodide required to produce two moles of P is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Compounds",
+      "topic": "Complex formation reactions",
+      "concept": "Stoichiometry of coordination complex formation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of zinc ions present in the molecular formula of Q is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Compounds",
+      "topic": "Complex formation and precipitation",
+      "concept": "Composition of coordination complexes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T14:16:01.783Z"
+}

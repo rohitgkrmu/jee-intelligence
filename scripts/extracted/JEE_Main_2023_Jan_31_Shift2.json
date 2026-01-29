@@ -1,0 +1,1787 @@
+{
+  "filename": "JEE_Main_2023_Jan_31_Shift2.pdf",
+  "examYear": 2023,
+  "examSession": "Jan 31 Shift 2",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "Match the radiations listed in column-I with their uses listed in column-II correctly.\nColumn-I: (A) UV rays, (B) Infra red rays, (C) X-rays, (D) Microwave rays\nColumn-II: (P) Physiotherapy, (Q) Treatment of cancer, (R) Lasic eye surgery, (S) Aircraft navigation",
+      "options": [
+        {
+          "id": "A",
+          "text": "A – S, B – P, C – R, D – Q"
+        },
+        {
+          "id": "B",
+          "text": "A – R, B – P, C – Q, D – S"
+        },
+        {
+          "id": "C",
+          "text": "A – Q, B – P, C – S, D – R"
+        },
+        {
+          "id": "D",
+          "text": "A – R, B – P, C – S, D – Q"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Applications of electromagnetic radiation",
+      "concept": "Medical and technological applications of EM waves",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "During an adiabatic process performed on a diatomic gas 725 J of work is done on the gas. The change in internal energy of the gas is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "495 J"
+        },
+        {
+          "id": "B",
+          "text": "725 J"
+        },
+        {
+          "id": "C",
+          "text": "225 J"
+        },
+        {
+          "id": "D",
+          "text": "Zero"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "First law of thermodynamics",
+      "concept": "Adiabatic process",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "Two balls are projected with equal speed (40 m/s), one at an angle of 30° and other at 60° with horizontal. Find the ratio of maximum heights of both the balls.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/4"
+        },
+        {
+          "id": "B",
+          "text": "3/1"
+        },
+        {
+          "id": "C",
+          "text": "1/3"
+        },
+        {
+          "id": "D",
+          "text": "4/1"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Projectile motion",
+      "concept": "Maximum height in projectile motion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "Find ionization energy of 2nd excited state of Li²⁺. It is given that ionization energy of ground state of hydrogen atom is 13.6 eV.",
+      "options": [
+        {
+          "id": "A",
+          "text": "20.4 eV"
+        },
+        {
+          "id": "B",
+          "text": "27.2 eV"
+        },
+        {
+          "id": "C",
+          "text": "6.8 eV"
+        },
+        {
+          "id": "D",
+          "text": "13.6 eV"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Atomic structure",
+      "concept": "Hydrogen-like atoms energy levels",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "A ball of mass 1 kg is hanging from 1 m long inextensible string which can withstand maximum tension of 400 N. Find the maximum speed (u) that should be given to the ball.",
+      "options": [
+        {
+          "id": "A",
+          "text": "√390 m/s"
+        },
+        {
+          "id": "B",
+          "text": "√410 m/s"
+        },
+        {
+          "id": "C",
+          "text": "20 m/s"
+        },
+        {
+          "id": "D",
+          "text": "22 m/s"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Circular motion",
+      "concept": "Vertical circular motion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "Match the physical quantities given in column-I with the physical dimensions in column-II correctly.\nColumn-I: A. Torque, B. Stress, C. Pressure gradient, D. Angular momentum\nColumn-II: (P) ML⁻¹T⁻², (Q) ML²T⁻², (R) ML⁻²T⁻², (S) ML²T⁻¹",
+      "options": [
+        {
+          "id": "A",
+          "text": "A(S), B(P), C(R), D(Q)"
+        },
+        {
+          "id": "B",
+          "text": "A(Q), B(P), C(R), D(S)"
+        },
+        {
+          "id": "C",
+          "text": "A(P), B(S), C(R), D(Q)"
+        },
+        {
+          "id": "D",
+          "text": "A(Q), B(P), C(S), D(R)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Measurements",
+      "topic": "Dimensional analysis",
+      "concept": "Dimensions of physical quantities",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "The equation of two simple harmonic motions are given by y₁ = 10 sin(ωt + π/3), and y₂ = 5√3 sin(ωt) + 5 cos(ωt). The amplitude of resultant S.H.M is",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 m"
+        },
+        {
+          "id": "B",
+          "text": "20 m"
+        },
+        {
+          "id": "C",
+          "text": "5 m"
+        },
+        {
+          "id": "D",
+          "text": "15 m"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Waves",
+      "topic": "Simple harmonic motion",
+      "concept": "Superposition of SHM",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "Projectile 1 is thrown at angle 60° with horizontal with speed 40 m/s. Projectile 2 is thrown with same speed for same range as projectile 1 but at different angle. Sum of the maximum heights achieved by two projectiles is equal to (Take g = 10 m/sec²)",
+      "options": [
+        {
+          "id": "A",
+          "text": "40 m"
+        },
+        {
+          "id": "B",
+          "text": "60 m"
+        },
+        {
+          "id": "C",
+          "text": "80 m"
+        },
+        {
+          "id": "D",
+          "text": "160 m"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Projectile motion",
+      "concept": "Range and maximum height",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "A body has weight W on the surface of earth. Find the weight at a height 9 times the radius of earth.",
+      "options": [
+        {
+          "id": "A",
+          "text": "W/100"
+        },
+        {
+          "id": "B",
+          "text": "W/81"
+        },
+        {
+          "id": "C",
+          "text": "W/64"
+        },
+        {
+          "id": "D",
+          "text": "W/121"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Variation of g with height",
+      "concept": "Weight variation with height",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "A wire is first coiled in n circular turns and current I is run through it. Now the same wire is again coiled in N circular turns and same current I is run through it. If B₁ and B₂ are the magnetic fields at centre of two coils respectively then B₁/B₂ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "n/N"
+        },
+        {
+          "id": "B",
+          "text": "(n/N)²"
+        },
+        {
+          "id": "C",
+          "text": "√(n/N)"
+        },
+        {
+          "id": "D",
+          "text": "(n/N)³"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Magnetic field due to circular coil",
+      "concept": "Magnetic field at center of circular coil",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "For a medium, it is given that Young's modulus = 3.2 × 10¹⁰ N/m² and Density = 8000 kg/m³. Find speed of sound in this medium.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1000 m/s"
+        },
+        {
+          "id": "B",
+          "text": "2000 m/s"
+        },
+        {
+          "id": "C",
+          "text": "500 m/s"
+        },
+        {
+          "id": "D",
+          "text": "4000 m/s"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Waves",
+      "topic": "Sound waves",
+      "concept": "Speed of sound in solids",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "When current of 4 amperes is made to run through a resistance of R ohms for 10 seconds, it produces heat energy of H units. Now if 16 amperes of current is made to flow through same resistance for 10 seconds than heat energy produced will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "16 H"
+        },
+        {
+          "id": "B",
+          "text": "4 H"
+        },
+        {
+          "id": "C",
+          "text": "8 H"
+        },
+        {
+          "id": "D",
+          "text": "2 H"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Joule heating",
+      "concept": "Heat produced by electric current",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "Across an inductor of 5 mH an AC source with potential given as 268 sin(200πt) Volts is used. The value of inductive reactance provided by inductor is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "2π Ω"
+        },
+        {
+          "id": "B",
+          "text": "π/2 Ω"
+        },
+        {
+          "id": "C",
+          "text": "20π Ω"
+        },
+        {
+          "id": "D",
+          "text": "π Ω"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "AC Circuits",
+      "topic": "Inductive reactance",
+      "concept": "Reactance of inductor",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "A lens of refractive index 1.5 and focal length 15 cm in air is submerged in water. Change in focal length of lens is (μwater = 4/3)",
+      "options": [
+        {
+          "id": "A",
+          "text": "45 cm"
+        },
+        {
+          "id": "B",
+          "text": "60 cm"
+        },
+        {
+          "id": "C",
+          "text": "30 cm"
+        },
+        {
+          "id": "D",
+          "text": "10 cm"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Optics",
+      "topic": "Lenses",
+      "concept": "Lens immersed in medium",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "In a moving coil galvanometer, number of turns in the coil are increased to increase the current sensitivity by 50%. Find percentage change in voltage sensitivity.",
+      "options": [
+        {
+          "id": "A",
+          "text": "–50%"
+        },
+        {
+          "id": "B",
+          "text": "50%"
+        },
+        {
+          "id": "C",
+          "text": "No change"
+        },
+        {
+          "id": "D",
+          "text": "25%"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Moving coil galvanometer",
+      "concept": "Current and voltage sensitivity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "In a series RLC circuit, R = 80 Ω, XL = 100 Ω, XC = 40 Ω. If the source voltage is 2500cos(628t) Volts, find peak current in the circuit (in Amperes)",
+      "options": [],
+      "correctAnswer": "25.00",
+      "questionType": "NUMERICAL",
+      "chapter": "AC Circuits",
+      "topic": "Series RLC circuit",
+      "concept": "Impedance and peak current",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "Two discs of same mass, radii r₁ and r₂, thickness 1 mm and 0.5 mm have densities in the ratio 3 : 1. The ratio of their moment of inertia about diameter is 1 : x. Find x",
+      "options": [],
+      "correctAnswer": "06.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Rotational motion",
+      "concept": "Moment of inertia of disc",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "A body moving horizontally has an initial speed of 20 m/s. Due to friction, body stops after 5 seconds. If mass of body is 5 kg, co-efficient of friction is x/5. Find x. Take g = 10 m/s².",
+      "options": [],
+      "correctAnswer": "02.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Friction",
+      "concept": "Coefficient of friction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "A ball was dropped from 20 m height from ground. Find the height (in m) upto which it rises after the collision. Use e = 1/2, g = 10 m/s²",
+      "options": [],
+      "correctAnswer": "05.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Collision",
+      "concept": "Coefficient of restitution",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "A particle is in uniform circular motion with time period 4 s and radius √2 m. Find the magnitude of displacement (in m) in 3 s.",
+      "options": [],
+      "correctAnswer": "02.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Circular motion",
+      "concept": "Displacement in circular motion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "PHYSICS",
+      "questionText": "Two wavelengths λ₁ = 600 nm and λ₂ = 800 nm are used in a YDSE experiment. Their maximas coincide at certain locations on the screen. Find the minimum separation (in mm) between such a location and central maxima. It is given that d = 0.35 mm & D = 7 m",
+      "options": [],
+      "correctAnswer": "48.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Optics",
+      "topic": "Young's double slit experiment",
+      "concept": "Interference of two wavelengths",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "CHEMISTRY",
+      "questionText": "Which one of the following species is linear in shape?",
+      "options": [
+        {
+          "id": "A",
+          "text": "I₃⁻"
+        },
+        {
+          "id": "B",
+          "text": "I₃⁺"
+        },
+        {
+          "id": "C",
+          "text": "ICl₃"
+        },
+        {
+          "id": "D",
+          "text": "ICl₂⁺"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Bonding",
+      "topic": "VSEPR theory",
+      "concept": "Molecular geometry",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "CHEMISTRY",
+      "questionText": "For a given hydrocarbon, 11 moles of O₂ is used and produces 4 moles of H₂O. Then the formula of the hydrocarbon is",
+      "options": [
+        {
+          "id": "A",
+          "text": "C₁₁H₈"
+        },
+        {
+          "id": "B",
+          "text": "C₉H₈"
+        },
+        {
+          "id": "C",
+          "text": "C₁₁H₁₆"
+        },
+        {
+          "id": "D",
+          "text": "C₆H₁₄"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Hydrocarbons",
+      "topic": "Combustion of hydrocarbons",
+      "concept": "Molecular formula from combustion data",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following plays an important role in neuromuscular functions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ca"
+        },
+        {
+          "id": "B",
+          "text": "Mg"
+        },
+        {
+          "id": "C",
+          "text": "Be"
+        },
+        {
+          "id": "D",
+          "text": "Li"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "s-Block Elements",
+      "topic": "Biological importance",
+      "concept": "Role of calcium in biology",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following compound contain maximum number of chlorine atoms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chloropicrin"
+        },
+        {
+          "id": "B",
+          "text": "Chloral"
+        },
+        {
+          "id": "C",
+          "text": "Gammexane"
+        },
+        {
+          "id": "D",
+          "text": "Freon-12"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Halogen compounds",
+      "concept": "Chlorinated compounds",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "subject": "CHEMISTRY",
+      "questionText": "Decreasing order of Lewis acid character is",
+      "options": [
+        {
+          "id": "A",
+          "text": "BF₃ > BCl₃ > BBr₃ > BI₃"
+        },
+        {
+          "id": "B",
+          "text": "BI₃ > BBr₃ > BCl₃ > BF₃"
+        },
+        {
+          "id": "C",
+          "text": "BF₃ > BCl₃ > BI₃ > BBr₃"
+        },
+        {
+          "id": "D",
+          "text": "BI₃ > BCl₃ > BF₃ > BBr₃"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "p-Block Elements",
+      "topic": "Boron compounds",
+      "concept": "Lewis acid strength and back bonding",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "CHEMISTRY",
+      "questionText": "pH of acid rain is 5.6. Which of the following reaction is involved in acid rain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "H₂O + SO₂ → H₂SO₄"
+        },
+        {
+          "id": "B",
+          "text": "N₂O + H₂O → HNO₃"
+        },
+        {
+          "id": "C",
+          "text": "N₂O₃ + H₂O → HNO₃"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Environmental Chemistry",
+      "topic": "Acid rain",
+      "concept": "Formation of acid rain",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following metals of F-block have half-filled f-subshell? (a) Samarium (Sm), (b) Gadolinium (Gd), (c) Europium (Eu), (d) Terbium (Tb) [Atomic numbers : Sm = 62, Eu = 63, Gd = 64, Tb = 65]",
+      "options": [
+        {
+          "id": "A",
+          "text": "(a) and (b)"
+        },
+        {
+          "id": "B",
+          "text": "(b) and (c)"
+        },
+        {
+          "id": "C",
+          "text": "(c) and (d)"
+        },
+        {
+          "id": "D",
+          "text": "(a) and (c)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "d and f Block Elements",
+      "topic": "Electronic configuration",
+      "concept": "Half-filled f-orbitals",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "CHEMISTRY",
+      "questionText": "If Ionisation energy of H-atom is 13.6 eV. Find out Ionisation energy of Li²⁺ ions.",
+      "options": [
+        {
+          "id": "A",
+          "text": "54.4 eV"
+        },
+        {
+          "id": "B",
+          "text": "122.4 eV"
+        },
+        {
+          "id": "C",
+          "text": "13.6 eV"
+        },
+        {
+          "id": "D",
+          "text": "3.4 eV"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Structure",
+      "topic": "Ionization energy",
+      "concept": "Hydrogen-like ions",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following compound is not a disinfectant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chloroxylenol"
+        },
+        {
+          "id": "B",
+          "text": "Bithionol"
+        },
+        {
+          "id": "C",
+          "text": "Terpineol"
+        },
+        {
+          "id": "D",
+          "text": "Peracetic acid"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemistry in Everyday Life",
+      "topic": "Disinfectants",
+      "concept": "Types of disinfectants",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "CHEMISTRY",
+      "questionText": "A reaction follows 1st order kinetics with rate constant (k) = 20 min⁻¹. Calculate the time required to reach to concentration to 1/32 times of initial concentration",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.17325 min"
+        },
+        {
+          "id": "B",
+          "text": "1.7325 min"
+        },
+        {
+          "id": "C",
+          "text": "17.325 min"
+        },
+        {
+          "id": "D",
+          "text": "173.25 min"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Kinetics",
+      "topic": "First order reactions",
+      "concept": "Half-life and time calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "CHEMISTRY",
+      "questionText": "If solubility of AgCl in aqueous solution is 1.434 × 10⁻³ M, then find the value of [-log Ksp], where Ksp is the solubility product of AgCl.",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.7"
+        },
+        {
+          "id": "B",
+          "text": "5.7"
+        },
+        {
+          "id": "C",
+          "text": "6.7"
+        },
+        {
+          "id": "D",
+          "text": "7.7"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Equilibrium",
+      "topic": "Solubility equilibrium",
+      "concept": "Solubility product",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following combination of n, l and m values. (i) n = 3; l = 0; m = 0, (ii) n = 4; l = 0; m = 0, (iii) n = 3; l = 1; m = 0, (iv) n = 3; l = 2; m = 0. The correct order of energy of the corresponding orbitals for multielectron species is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(ii) > (i) > (iv) > (iii)"
+        },
+        {
+          "id": "B",
+          "text": "(iv) > (ii) > (iii) > (i)"
+        },
+        {
+          "id": "C",
+          "text": "(i) > (iii) > (iv) > (ii)"
+        },
+        {
+          "id": "D",
+          "text": "(iv) > (iii) > (i) > (ii)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Structure",
+      "topic": "Orbital energy",
+      "concept": "Energy order in multielectron atoms",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "CHEMISTRY",
+      "questionText": "Two metals are given, Metal-1 Work function = 4.8 eV, Metal-2 Work function = 2.8 eV. Photons of wavelength 350 nm are incident on both metals separately which metal will eject electrons at this wavelength?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metal-1 only"
+        },
+        {
+          "id": "B",
+          "text": "Metal-2 only"
+        },
+        {
+          "id": "C",
+          "text": "Both metal-1 and metal-2"
+        },
+        {
+          "id": "D",
+          "text": "None of metal-1 and metal-2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Structure",
+      "topic": "Photoelectric effect",
+      "concept": "Work function and photon energy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "CHEMISTRY",
+      "questionText": "A biomolecule gives following observations (i) With Br₂/H₂O it gives monocarboxylic acid. (ii) With acetate it gives tetraacetate. (iii) With HI/RedP it gives isopentane. The correct structure of the biomolecule is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure 1"
+        },
+        {
+          "id": "B",
+          "text": "Structure 2"
+        },
+        {
+          "id": "C",
+          "text": "Structure 3"
+        },
+        {
+          "id": "D",
+          "text": "Structure 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Biomolecules",
+      "topic": "Carbohydrates",
+      "concept": "Structure determination of sugars",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following has more relative lowering in vapour pressure at the same temperature.",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1 M urea"
+        },
+        {
+          "id": "B",
+          "text": "0.1 M NaCl"
+        },
+        {
+          "id": "C",
+          "text": "0.1 M sucrose"
+        },
+        {
+          "id": "D",
+          "text": "0.1 M CaCl₂"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solutions",
+      "topic": "Colligative properties",
+      "concept": "Relative lowering of vapor pressure",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "CHEMISTRY",
+      "questionText": "Assertion: First ionisation energy of 4d series elements is always greater than those of 3d series elements. Reason: 4d series elements have much more nuclear charge than those of 3d series elements.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Assertion is correct but Reason is incorrect."
+        },
+        {
+          "id": "B",
+          "text": "Assertion is incorrect but Reason is correct."
+        },
+        {
+          "id": "C",
+          "text": "Both the Assertion and Reason are correct."
+        },
+        {
+          "id": "D",
+          "text": "Both the Assertion and Reason are incorrect."
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "d and f Block Elements",
+      "topic": "Ionization energy trends",
+      "concept": "Transition metal properties",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "CHEMISTRY",
+      "questionText": "What is the structural formula of compound C₄H₁₁N, which reacts with HNO₂ and is optically active?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure 1"
+        },
+        {
+          "id": "B",
+          "text": "Structure 2"
+        },
+        {
+          "id": "C",
+          "text": "Structure 3"
+        },
+        {
+          "id": "D",
+          "text": "Structure 4"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Amines",
+      "concept": "Primary amines and optical activity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "CHEMISTRY",
+      "questionText": "Energy of a radiation E = hc/λ. If E = +96 kJ/mole thus find λabsorbed (in Å)",
+      "options": [
+        {
+          "id": "A",
+          "text": "12471 Å"
+        },
+        {
+          "id": "B",
+          "text": "124.71 Å"
+        },
+        {
+          "id": "C",
+          "text": "1247.1 Å"
+        },
+        {
+          "id": "D",
+          "text": "1.2471 Å"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Structure",
+      "topic": "Electromagnetic radiation",
+      "concept": "Energy-wavelength relationship",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "How many of the following compounds can give iodoform test? [List of compounds provided]",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Aldehydes and Ketones",
+      "concept": "Iodoform test",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "For the given reaction C + O₂ → CO₂. 12 gm of C is reacted with 48 gm of O₂ to give CO₂. If volume of CO₂ gas produced at STP is t litre. Find out 2t (closest integer). Given: Molar volume at STP = 22.4 L/mole",
+      "options": [],
+      "correctAnswer": "45",
+      "questionType": "INTEGER",
+      "chapter": "Some Basic Concepts",
+      "topic": "Stoichiometry",
+      "concept": "Limiting reagent and gas volume",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "The non-stoichiometry compounds M₀.₈₃O. M exists in 2 states +2 and +3. Calculate the % of M²⁺ ion in the compound. (Round off to nearest integer)",
+      "options": [],
+      "correctAnswer": "59",
+      "questionType": "INTEGER",
+      "chapter": "Solid State",
+      "topic": "Non-stoichiometric defects",
+      "concept": "Metal deficiency defects",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "The resistivity of 0.8 M solution of an electrolyte is 5 × 10⁻³ Ω.cm. If Λₘ is 2.5×10ˣ. Find out x.",
+      "options": [],
+      "correctAnswer": "05.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Conductance",
+      "concept": "Molar conductivity calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a⃗ = î + 2ĵ - 3k̂, b⃗ = 3î - ĵ + k̂ and c⃗ = 2î + ĵ + 2k̂. There is a u⃗ such that u⃗ × a⃗ = b⃗ × c⃗ & u⃗ · a⃗ = 0. Find |u⃗|²/25",
+      "options": [
+        {
+          "id": "A",
+          "text": "560"
+        },
+        {
+          "id": "B",
+          "text": "925/7"
+        },
+        {
+          "id": "C",
+          "text": "446"
+        },
+        {
+          "id": "D",
+          "text": "330"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vector Algebra",
+      "topic": "Cross product and dot product",
+      "concept": "Vector operations",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "MATHEMATICS",
+      "questionText": "The range of y = (x² + 2x + 1)/(x² + 8x + 1) is (x ∈ R)",
+      "options": [
+        {
+          "id": "A",
+          "text": "(-∞, -2/3] ∪ [2, ∞)"
+        },
+        {
+          "id": "B",
+          "text": "(-∞, -2/5] ∪ [0, ∞)"
+        },
+        {
+          "id": "C",
+          "text": "(-∞, ∞)"
+        },
+        {
+          "id": "D",
+          "text": "(-∞, -2/5] ∪ [-1, ∞)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Range of function",
+      "concept": "Rational functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "MATHEMATICS",
+      "questionText": "If a, b ∈ I and relation R₁ is defined as a - b² ∈ I and relation R₂ is defined as a² + b ≥ 0, then",
+      "options": [
+        {
+          "id": "A",
+          "text": "R₁ is symmetric but R₂ is not"
+        },
+        {
+          "id": "B",
+          "text": "R₂ is symmetric but R₁ is not"
+        },
+        {
+          "id": "C",
+          "text": "R₁ and R₂ are both symmetric"
+        },
+        {
+          "id": "D",
+          "text": "R₁ and R₂ are both transitive"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Relations and Functions",
+      "topic": "Properties of relations",
+      "concept": "Symmetric and transitive relations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "MATHEMATICS",
+      "questionText": "If ∫(x² + x + 2)/(x² + x + 2) dx = A f(x) + B g(x) + C where C is constant of integration, then A + 2B is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "-1"
+        },
+        {
+          "id": "D",
+          "text": "-2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integrals",
+      "topic": "Integration by partial fractions",
+      "concept": "Rational function integration",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "MATHEMATICS",
+      "questionText": "lim[x→1] [(x² + 3x + 1)^(6/2) - (x² + 3x - 1)^(6/2)]/[(x² - 1)^(6/2) - (x² - 1)^(6/2)] is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "27"
+        },
+        {
+          "id": "B",
+          "text": "27/2"
+        },
+        {
+          "id": "C",
+          "text": "18"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Limits and Derivatives",
+      "topic": "Limits",
+      "concept": "Indeterminate forms",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "MATHEMATICS",
+      "questionText": "Foot of perpendicular from origin to a plane which cuts the coordinate axes at A, B, C is (2, a, 4). Area of tetrahedron OABC is 144 m². Which of the following points does not lie on plane?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2, 2, 4)"
+        },
+        {
+          "id": "B",
+          "text": "(0, 3, 4)"
+        },
+        {
+          "id": "C",
+          "text": "(1, 1, 5)"
+        },
+        {
+          "id": "D",
+          "text": "(5, 5, 1)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Three Dimensional Geometry",
+      "topic": "Equation of plane",
+      "concept": "Distance from point to plane",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "MATHEMATICS",
+      "questionText": "If z⁻¹ = (1 - i)/(sin π/6 + i cos π/6), then z is",
+      "options": [
+        {
+          "id": "A",
+          "text": "2(cos π/12 + i sin π/12)"
+        },
+        {
+          "id": "B",
+          "text": "(1/2)(cos 5π/12 + i sin 5π/12)"
+        },
+        {
+          "id": "C",
+          "text": "2(cos 5π/12 + i sin 5π/12)"
+        },
+        {
+          "id": "D",
+          "text": "(1/2)(cos π/12 + i sin π/12)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Complex Numbers",
+      "topic": "Polar form of complex numbers",
+      "concept": "Complex number operations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "MATHEMATICS",
+      "questionText": "Given that θ ∈ [0, 2π], the largest interval of values of θ which satisfy the inequation sin⁻¹(sin θ) - cos⁻¹(sin θ) ≤ 0 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "[3π/4, π/4]"
+        },
+        {
+          "id": "B",
+          "text": "[π/4, π/2]"
+        },
+        {
+          "id": "C",
+          "text": "[0, π]"
+        },
+        {
+          "id": "D",
+          "text": "[5π/2, π/4]"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inverse Trigonometric Functions",
+      "topic": "Inverse trigonometric inequalities",
+      "concept": "Range and domain of inverse functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "MATHEMATICS",
+      "questionText": "If (p ∧ q) ∨ r ⟷ (q ∧ (p ∨ r) ∧ q) is a tautology, where ∼, ∧, ∨, ⟷ are ∼p, p ∧ q, p ∨ q, p ⟷ r, then the number of values of r is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mathematical Reasoning",
+      "topic": "Logical equivalences",
+      "concept": "Tautologies",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "MATHEMATICS",
+      "questionText": "If |a⃗| = 3, |b⃗| = 1, |c⃗| = 4. Given that 2a⃗ = b⃗ × c⃗ + 3(a⃗ × b⃗). If angle between b⃗ and c⃗ is 2π/3. Find (a⃗ · c⃗)/(a⃗ · b⃗)",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "-3"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "-3"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vector Algebra",
+      "topic": "Scalar and vector products",
+      "concept": "Vector identities",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "subject": "MATHEMATICS",
+      "questionText": "Number of 7 digit odd numbers formed using 7 digits 1, 2, 2, 2, 3, 3, 5 will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "80"
+        },
+        {
+          "id": "B",
+          "text": "420"
+        },
+        {
+          "id": "C",
+          "text": "240"
+        },
+        {
+          "id": "D",
+          "text": "140"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Permutations and Combinations",
+      "topic": "Permutations with repetition",
+      "concept": "Arrangements with constraints",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "subject": "MATHEMATICS",
+      "questionText": "The minimum value of the function f(x) = (x² - [x] + 1)/(x² - [x] + 1), where [x] denotes greatest integer function, is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/4"
+        },
+        {
+          "id": "B",
+          "text": "5/4"
+        },
+        {
+          "id": "C",
+          "text": "1/4"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Greatest integer function",
+      "concept": "Optimization with step functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "subject": "MATHEMATICS",
+      "questionText": "If for x²/a² - y²/b² = 1, (±4, 0) are foci and e = √3. Then length of latus rectum is",
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "16/3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "2√3"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Conic Sections",
+      "topic": "Hyperbola",
+      "concept": "Latus rectum of hyperbola",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "subject": "MATHEMATICS",
+      "questionText": "If [5α 6β 8γ][-1 3 0] = [63δ 8ε 0 0 0] Where (α, β, γ) be a point on 2x + 5y + 3z = 5 then 6α + 5β + 9γ = ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "20/3"
+        },
+        {
+          "id": "C",
+          "text": "21"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Matrices",
+      "topic": "Matrix multiplication",
+      "concept": "Matrix equations with constraints",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "subject": "MATHEMATICS",
+      "questionText": "Coefficient of x⁻⁶ in expansion of (2x/5 - 45/(2x))⁹ is",
+      "options": [],
+      "correctAnswer": "-5040",
+      "questionType": "NUMERICAL",
+      "chapter": "Binomial Theorem",
+      "topic": "General term in binomial expansion",
+      "concept": "Coefficient of specific term",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of sum 1.1² - 2.3² + 3.5² - 4.7² ... + 15.(29)² is",
+      "options": [],
+      "correctAnswer": "6952",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Summation of series",
+      "concept": "Alternating series",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A = [a b; c d] be a 2 × 2 matrix such that a, b, c, d ∈ {0, 1, 2, 3, 4}. The number of matrices A such that sum of elements of A is a prime number lying between 2 and 13 is",
+      "options": [],
+      "correctAnswer": "204",
+      "questionType": "NUMERICAL",
+      "chapter": "Matrices",
+      "topic": "Counting matrices",
+      "concept": "Combinatorial counting with constraints",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "subject": "MATHEMATICS",
+      "questionText": "If (²ⁿ⁺¹Pₙ₊₁)/(²ⁿ⁻¹Pₙ₋₁) = 11/2, then n² + n + 15 equals",
+      "options": [],
+      "correctAnswer": "45",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Permutations",
+      "concept": "Permutation formulas",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "subject": "MATHEMATICS",
+      "questionText": "∫₀^∞ (16x + 20√(2x))/(x + 15) dx = α, then α is equal to",
+      "options": [],
+      "correctAnswer": "02.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Integrals",
+      "topic": "Definite integration",
+      "concept": "Integration involving surds",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T10:59:23.702Z"
+}

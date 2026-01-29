@@ -7,7 +7,8 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import { TrendChart } from "@/components/charts/trend-chart";
 import { WeightageChart } from "@/components/charts/weightage-chart";
 import { Sparkline } from "@/components/charts/sparkline";
-import { TrendingUp, TrendingDown, Minus, Loader2, Target, BarChart3, Zap, Brain } from "lucide-react";
+import { ChapterImportanceChart } from "@/components/charts/chapter-importance-chart";
+import { TrendingUp, TrendingDown, Minus, Loader2, Target, BarChart3, Zap, Brain, BookOpen, AlertTriangle, CheckCircle, XCircle } from "lucide-react";
 
 interface ConceptTrend {
   concept: string;
@@ -83,8 +84,41 @@ interface ChapterPrediction {
   hotTopics: string[];
 }
 
+type ImportanceLevel = "CRITICAL" | "HIGH" | "MEDIUM" | "LOW" | "MINIMAL";
+
+interface ChapterImportance {
+  chapter: string;
+  subject: string;
+  questionCount: number;
+  weightagePercent: number;
+  importance: ImportanceLevel;
+  trend: "rising" | "falling" | "stable";
+  yearlyData: { year: number; count: number }[];
+  averageQuestionsPerYear: number;
+  lastYearCount: number;
+  inSyllabus: boolean;
+  relatedTopics: string[];
+}
+
+interface SubjectImportanceData {
+  subject: string;
+  totalQuestions: number;
+  chapters: ChapterImportance[];
+  criticalChapters: number;
+  highChapters: number;
+  mediumChapters: number;
+  lowChapters: number;
+}
+
+interface ChapterImportanceData {
+  totalQuestions: number;
+  subjects: SubjectImportanceData[];
+  topCriticalChapters: ChapterImportance[];
+  deletedTopicsAppearing: string[];
+}
+
 export function InsightsSection() {
-  const [activeTab, setActiveTab] = useState("predictions");
+  const [activeTab, setActiveTab] = useState("chapter-importance");
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState<{
     conceptTrends: ConceptTrend[];
@@ -103,27 +137,31 @@ export function InsightsSection() {
       chapterPredictions: ChapterPrediction[];
       insights: { highConfidencePredictions: number; totalAnalyzedTopics: number; yearsCovered: number[] };
     };
+    chapterImportance: ChapterImportanceData | null;
   } | null>(null);
+  const [selectedSubject, setSelectedSubject] = useState<string>("ALL");
 
   useEffect(() => {
     async function fetchData() {
       try {
-        const [trendsRes, weightageRes, roiRes, risingRes, difficultyRes, predictionsRes] = await Promise.all([
+        const [trendsRes, weightageRes, roiRes, risingRes, difficultyRes, predictionsRes, chapterImportanceRes] = await Promise.all([
           fetch("/api/insights/trends"),
           fetch("/api/insights/weightage"),
           fetch("/api/insights/roi"),
           fetch("/api/insights/rising-concepts"),
           fetch("/api/insights/difficulty"),
           fetch("/api/insights/predictions"),
+          fetch("/api/insights/chapter-importance"),
         ]);
 
-        const [trends, weightage, roi, rising, difficulty, predictions] = await Promise.all([
+        const [trends, weightage, roi, rising, difficulty, predictions, chapterImportance] = await Promise.all([
           trendsRes.json(),
           weightageRes.json(),
           roiRes.json(),
           risingRes.json(),
           difficultyRes.json(),
           predictionsRes.json(),
+          chapterImportanceRes.json(),
         ]);
 
         setData({
@@ -135,6 +173,7 @@ export function InsightsSection() {
           fallingConcepts: rising.fallingConcepts || [],
           difficulty: difficulty,
           predictions: predictions,
+          chapterImportance: chapterImportance,
         });
       } catch (error) {
         console.error("Error fetching insights:", error);
@@ -227,6 +266,9 @@ export function InsightsSection() {
   return (
     <Tabs value={activeTab} onValueChange={setActiveTab}>
       <TabsList className="mb-8 mx-auto flex-wrap">
+        <TabsTrigger value="chapter-importance" className="gap-1">
+          <BookOpen className="w-4 h-4" /> Chapter Importance
+        </TabsTrigger>
         <TabsTrigger value="predictions" className="gap-1">
           <Brain className="w-4 h-4" /> Predictions
         </TabsTrigger>
@@ -239,6 +281,268 @@ export function InsightsSection() {
           <Target className="w-4 h-4" /> High ROI
         </TabsTrigger>
       </TabsList>
+
+      {/* CHAPTER IMPORTANCE TAB */}
+      <TabsContent value="chapter-importance">
+        <div className="space-y-6">
+          {/* Summary Stats */}
+          {data.chapterImportance && (
+            <>
+              <div className="grid md:grid-cols-4 gap-4 mb-6">
+                <Card className="bg-gradient-to-br from-red-500/10 to-transparent border-red-500/20">
+                  <CardContent className="pt-6">
+                    <div className="text-3xl font-bold text-red-400">
+                      {data.chapterImportance.subjects.reduce((sum, s) => sum + s.criticalChapters, 0)}
+                    </div>
+                    <p className="text-sm text-[var(--text-muted)]">Critical Chapters</p>
+                    <p className="text-xs text-red-400/60 mt-1">Must master for high score</p>
+                  </CardContent>
+                </Card>
+                <Card className="bg-gradient-to-br from-orange-500/10 to-transparent border-orange-500/20">
+                  <CardContent className="pt-6">
+                    <div className="text-3xl font-bold text-orange-400">
+                      {data.chapterImportance.subjects.reduce((sum, s) => sum + s.highChapters, 0)}
+                    </div>
+                    <p className="text-sm text-[var(--text-muted)]">High Priority</p>
+                    <p className="text-xs text-orange-400/60 mt-1">Important for good score</p>
+                  </CardContent>
+                </Card>
+                <Card className="bg-gradient-to-br from-yellow-500/10 to-transparent border-yellow-500/20">
+                  <CardContent className="pt-6">
+                    <div className="text-3xl font-bold text-yellow-400">
+                      {data.chapterImportance.subjects.reduce((sum, s) => sum + s.mediumChapters, 0)}
+                    </div>
+                    <p className="text-sm text-[var(--text-muted)]">Medium Priority</p>
+                    <p className="text-xs text-yellow-400/60 mt-1">Cover after critical topics</p>
+                  </CardContent>
+                </Card>
+                <Card className="bg-gradient-to-br from-blue-500/10 to-transparent border-blue-500/20">
+                  <CardContent className="pt-6">
+                    <div className="text-3xl font-bold text-blue-400">
+                      {data.chapterImportance.totalQuestions}
+                    </div>
+                    <p className="text-sm text-[var(--text-muted)]">Questions Analyzed</p>
+                    <p className="text-xs text-blue-400/60 mt-1">From 5+ years of JEE</p>
+                  </CardContent>
+                </Card>
+              </div>
+
+              {/* Deleted Topics Warning */}
+              {data.chapterImportance.deletedTopicsAppearing.length > 0 && (
+                <Card className="border-yellow-500/30 bg-yellow-500/5">
+                  <CardContent className="pt-4">
+                    <div className="flex items-start gap-3">
+                      <AlertTriangle className="w-5 h-5 text-yellow-400 flex-shrink-0 mt-0.5" />
+                      <div>
+                        <p className="font-medium text-yellow-400">Topics Removed from 2024 Syllabus</p>
+                        <p className="text-sm text-[var(--text-muted)] mt-1">
+                          These topics were in old papers but are no longer in the official syllabus:
+                        </p>
+                        <div className="flex flex-wrap gap-2 mt-2">
+                          {data.chapterImportance.deletedTopicsAppearing.map((topic, i) => (
+                            <Badge key={i} variant="warning" size="sm">{topic}</Badge>
+                          ))}
+                        </div>
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              )}
+
+              {/* Subject Filter */}
+              <div className="flex gap-2 flex-wrap">
+                <button
+                  onClick={() => setSelectedSubject("ALL")}
+                  className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                    selectedSubject === "ALL"
+                      ? "bg-[var(--zenith-primary)] text-white"
+                      : "bg-[var(--background-elevated)] text-[var(--text-secondary)] hover:bg-[var(--background-dark)]"
+                  }`}
+                >
+                  All Subjects
+                </button>
+                {data.chapterImportance.subjects.map((s) => (
+                  <button
+                    key={s.subject}
+                    onClick={() => setSelectedSubject(s.subject)}
+                    className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                      selectedSubject === s.subject
+                        ? s.subject === "PHYSICS"
+                          ? "bg-[var(--zenith-cyan)] text-white"
+                          : s.subject === "CHEMISTRY"
+                          ? "bg-[var(--zenith-purple)] text-white"
+                          : "bg-[var(--zenith-primary)] text-white"
+                        : "bg-[var(--background-elevated)] text-[var(--text-secondary)] hover:bg-[var(--background-dark)]"
+                    }`}
+                  >
+                    {s.subject} ({s.totalQuestions})
+                  </button>
+                ))}
+              </div>
+
+              {/* Top Critical Chapters */}
+              {selectedSubject === "ALL" && (
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="flex items-center gap-2">
+                      <AlertTriangle className="w-5 h-5 text-red-400" />
+                      Top Critical Chapters Across All Subjects
+                    </CardTitle>
+                    <p className="text-sm text-[var(--text-muted)]">
+                      These chapters have the highest weightage and should be your top priority
+                    </p>
+                  </CardHeader>
+                  <CardContent>
+                    <ChapterImportanceChart
+                      data={data.chapterImportance.topCriticalChapters.map((c) => ({
+                        chapter: c.chapter,
+                        weightage: c.weightagePercent,
+                        importance: c.importance,
+                        trend: c.trend,
+                        questionCount: c.questionCount,
+                      }))}
+                      height={400}
+                      showTopN={12}
+                    />
+                  </CardContent>
+                </Card>
+              )}
+
+              {/* Subject-wise Chapter Breakdown */}
+              <div className="grid lg:grid-cols-1 gap-6">
+                {data.chapterImportance.subjects
+                  .filter((s) => selectedSubject === "ALL" || s.subject === selectedSubject)
+                  .map((subjectData) => (
+                    <Card key={subjectData.subject}>
+                      <CardHeader>
+                        <div className="flex items-center justify-between">
+                          <CardTitle className="flex items-center gap-2">
+                            <Badge
+                              variant={
+                                subjectData.subject === "PHYSICS"
+                                  ? "cyan"
+                                  : subjectData.subject === "CHEMISTRY"
+                                  ? "purple"
+                                  : "default"
+                              }
+                            >
+                              {subjectData.subject}
+                            </Badge>
+                            Chapter-wise Importance
+                          </CardTitle>
+                          <div className="flex gap-2 text-xs">
+                            <span className="flex items-center gap-1">
+                              <span className="w-3 h-3 rounded bg-red-500"></span> Critical
+                            </span>
+                            <span className="flex items-center gap-1">
+                              <span className="w-3 h-3 rounded bg-orange-500"></span> High
+                            </span>
+                            <span className="flex items-center gap-1">
+                              <span className="w-3 h-3 rounded bg-yellow-500"></span> Medium
+                            </span>
+                            <span className="flex items-center gap-1">
+                              <span className="w-3 h-3 rounded bg-green-500"></span> Low
+                            </span>
+                          </div>
+                        </div>
+                        <p className="text-sm text-[var(--text-muted)]">
+                          {subjectData.totalQuestions} questions analyzed • {subjectData.criticalChapters} critical, {subjectData.highChapters} high priority chapters
+                        </p>
+                      </CardHeader>
+                      <CardContent>
+                        <div className="space-y-3 max-h-[500px] overflow-y-auto pr-2">
+                          {subjectData.chapters.map((chapter, idx) => (
+                            <div
+                              key={idx}
+                              className={`p-4 rounded-lg border ${
+                                chapter.importance === "CRITICAL"
+                                  ? "border-red-500/30 bg-red-500/5"
+                                  : chapter.importance === "HIGH"
+                                  ? "border-orange-500/30 bg-orange-500/5"
+                                  : chapter.importance === "MEDIUM"
+                                  ? "border-yellow-500/30 bg-yellow-500/5"
+                                  : "border-[var(--border-dark)] bg-[var(--background-elevated)]"
+                              }`}
+                            >
+                              <div className="flex items-start justify-between gap-4">
+                                <div className="flex-1">
+                                  <div className="flex items-center gap-2 mb-1">
+                                    <span className="font-medium">{chapter.chapter}</span>
+                                    {chapter.trend === "rising" && (
+                                      <TrendingUp className="w-4 h-4 text-green-400" />
+                                    )}
+                                    {chapter.trend === "falling" && (
+                                      <TrendingDown className="w-4 h-4 text-red-400" />
+                                    )}
+                                  </div>
+                                  <div className="flex items-center gap-2 flex-wrap">
+                                    <Badge
+                                      variant={
+                                        chapter.importance === "CRITICAL"
+                                          ? "error"
+                                          : chapter.importance === "HIGH"
+                                          ? "warning"
+                                          : chapter.importance === "MEDIUM"
+                                          ? "secondary"
+                                          : "success"
+                                      }
+                                      size="sm"
+                                    >
+                                      {chapter.importance}
+                                    </Badge>
+                                    <span className="text-xs text-[var(--text-muted)]">
+                                      ~{chapter.averageQuestionsPerYear.toFixed(1)} Qs/year
+                                    </span>
+                                    {chapter.lastYearCount > 0 && (
+                                      <span className="text-xs text-[var(--text-muted)]">
+                                        • {chapter.lastYearCount} in latest exam
+                                      </span>
+                                    )}
+                                  </div>
+                                </div>
+                                <div className="text-right">
+                                  <div className="text-2xl font-bold">
+                                    {chapter.weightagePercent.toFixed(1)}%
+                                  </div>
+                                  <div className="text-xs text-[var(--text-muted)]">
+                                    {chapter.questionCount} questions
+                                  </div>
+                                </div>
+                              </div>
+                              {/* Mini sparkline for yearly trend */}
+                              <div className="mt-3 flex items-center gap-2">
+                                <span className="text-xs text-[var(--text-muted)]">Trend:</span>
+                                <Sparkline
+                                  data={chapter.yearlyData.map((y) => y.count)}
+                                  color={
+                                    chapter.trend === "rising"
+                                      ? "#22c55e"
+                                      : chapter.trend === "falling"
+                                      ? "#ef4444"
+                                      : "#6b7280"
+                                  }
+                                />
+                                <span className="text-xs text-[var(--text-muted)]">
+                                  {chapter.yearlyData.map((y) => y.year).join(" → ")}
+                                </span>
+                              </div>
+                            </div>
+                          ))}
+                        </div>
+                      </CardContent>
+                    </Card>
+                  ))}
+              </div>
+            </>
+          )}
+
+          {!data.chapterImportance && (
+            <div className="text-center py-20 text-[var(--text-muted)]">
+              <p>Chapter importance data not available. Please check back later.</p>
+            </div>
+          )}
+        </div>
+      </TabsContent>
 
       {/* PREDICTIONS TAB */}
       <TabsContent value="predictions">

@@ -1,0 +1,1183 @@
+{
+  "filename": "JEE_Advanced_2023_Paper2.pdf",
+  "examYear": 2023,
+  "examSession": "Paper 2",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f:[1,∞) be a differentiable function such that f(1) = 1/3 and ∫₁ˣ f(t)dt = (x³/3) - (x/3)f(x), x ∈ [1,∞). Let e denote the base of the natural logarithm. Then the value of f(e) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "2e²/4 + 3"
+        },
+        {
+          "id": "B",
+          "text": "e^(log 4/3) * e"
+        },
+        {
+          "id": "C",
+          "text": "2e²/4 - 3"
+        },
+        {
+          "id": "D",
+          "text": "2e²/4 + 3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Differential Equations",
+      "concept": "Integration with parameter",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider an experiment of tossing a coin repeatedly until the outcomes of two consecutive tosses are same. If the probability of a random toss resulting in head is 1/3, then the probability that the experiment stops with head is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/3"
+        },
+        {
+          "id": "B",
+          "text": "5/21"
+        },
+        {
+          "id": "C",
+          "text": "4/21"
+        },
+        {
+          "id": "D",
+          "text": "2/7"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Conditional Probability",
+      "concept": "Geometric probability",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "For any y, let cot⁻¹(y) ∈ (0,π) and tan⁻¹(y) ∈ (-π/2, π/2). Then the sum of all the solutions of the equation (2/96)tan⁻¹(y) + (9/2)cot⁻¹(y) = (9/63)π for |y| ≤ 3, is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "2√3 + 3"
+        },
+        {
+          "id": "B",
+          "text": "3 + 2√3"
+        },
+        {
+          "id": "C",
+          "text": "4√3 + 6"
+        },
+        {
+          "id": "D",
+          "text": "6 + 4√3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Inverse Trigonometric Functions",
+      "concept": "Inverse trigonometric equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the position vectors of the points P, Q, R and S be 2î + 5ĵ - ak̂, 3î + 6ĵ - 3k̂, (17î + 16ĵ)/7 - (5k̂/5), and 2î + ĵ - k̂, respectively. Then which of the following statements is true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The points P, Q, R and S are NOT coplanar"
+        },
+        {
+          "id": "B",
+          "text": "(2b̄ + d̄)/3 is the position vector of a point which divides PR internally in the ratio 5:4"
+        },
+        {
+          "id": "C",
+          "text": "(2b̄ + d̄)/3 is the position vector of a point which divides PR externally in the ratio 5:4"
+        },
+        {
+          "id": "D",
+          "text": "The square of the magnitude of the vector b̄ - d̄ is 95"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vectors",
+      "topic": "Position Vectors",
+      "concept": "Coplanarity and section formula",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Let M = (aᵢⱼ), i,j ∈ {1,2,3}, be the 3×3 matrix such that aᵢⱼ = 1 if j-1 is divisible by i, otherwise aᵢⱼ = 0. Then which of the following statements is(are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "M is invertible"
+        },
+        {
+          "id": "B",
+          "text": "There exists a nonzero column matrix [a₁ a₂ a₃]ᵀ such that M[a₁ a₂ a₃]ᵀ = [a₁ a₂ a₃]ᵀ"
+        },
+        {
+          "id": "C",
+          "text": "The set {X : MX = 0} = {0}"
+        },
+        {
+          "id": "D",
+          "text": "The matrix (2I - M) is invertible, where I is the 3×3 identity matrix"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Matrices",
+      "topic": "Matrix Properties",
+      "concept": "Invertibility and eigenvalues",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f:(0,1) → ℝ be the function defined as f(x) = (1/2)[4x] - (1/4)x², where [x] denotes the greatest integer less than or equal to x. Then which of the following statements is(are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The function f is discontinuous exactly at one point in (0,1)"
+        },
+        {
+          "id": "B",
+          "text": "There is exactly one point in (0,1) at which the function f is continuous but NOT differentiable"
+        },
+        {
+          "id": "C",
+          "text": "The function f is NOT differentiable at more than three points in (0,1)"
+        },
+        {
+          "id": "D",
+          "text": "The minimum value of the function f is -1/512"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Continuity and Differentiability",
+      "concept": "Greatest integer function properties",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S be the set of all twice differentiable functions f from ℝ to ℝ such that d²f/dx² ≥ 0 for all x ∈ (-1,1). For f ∈ S, let Xf be the number of points x ∈ (-1,1) for which f(x) = x. Then which of the following statements is(are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "There exists a function f ∈ S such that Xf = 0"
+        },
+        {
+          "id": "B",
+          "text": "For every function f ∈ S, we have Xf ≤ 2"
+        },
+        {
+          "id": "C",
+          "text": "There exists a function f ∈ S such that Xf = 2"
+        },
+        {
+          "id": "D",
+          "text": "There does NOT exist any function f in S such that Xf = 1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Convex Functions",
+      "concept": "Properties of convex functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "For x ∈ ℝ, let tan⁻¹(x) ∈ (-π/2, π/2). Then the minimum value of the function f: ℝ → ℝ defined by f(x) = ∫₀^(tan⁻¹(x)) (e^t)/(1+t^2023) dt is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Integration",
+      "concept": "Definite integration with parameters",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "For x ∈ ℝ, let y(x) be a solution of the differential equation (x-5)²dy/dx = 2xy - 2x(x-5) such that y(2) = 7. Then the maximum value of the function y(x) is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Differential Equations",
+      "concept": "First order differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "Let X be the set of all five digit numbers formed using 1,2,2,2,4,4,0. For example, 22240 is in X while 02244 and 44422 are not in X. Suppose that each element of X has an equal chance of being chosen. Let p be the conditional probability that an element chosen at random is a multiple of 20 given that it is a multiple of 5. Then the value of 38p is equal to",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Probability",
+      "topic": "Conditional Probability",
+      "concept": "Permutations with repetition",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "Let A₁, A₂, ..., A₈ be the vertices of a regular octagon that lie on a circle of radius 2. Let P be a point on the circle and let PAᵢ denote the distance between the points P and Aᵢ for i = 1,2,...,8. If P varies over the circle, then the maximum value of the product PA₁·PA₂·...·PA₈ is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle and Polygon",
+      "concept": "Regular polygon inscribed in circle",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "Let R = {[a b; c d] : a,b,c,d ∈ {0,3,5,7,11,13,17,19}, ad-bc ≠ 0 (mod 50)}. Then the number of invertible matrices in R is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Matrices",
+      "topic": "Modular Arithmetic",
+      "concept": "Invertible matrices in modular arithmetic",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "Let C₁ be the circle of radius 1 with center at the origin. Let C₂ be the circle of radius r with center at the point A(4,1), where 1 < r < 3. Two distinct common tangents PQ and ST of C₁ and C₂ are drawn. The tangent PQ touches C₁ at P and C₂ at Q. The tangent ST touches C₁ at S and C₂ at T. Mid points of the line segments PQ and ST are joined to form a line which meets the x-axis at a point B. If AB = 5, then the value of r² is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles and Tangents",
+      "concept": "Common tangents to circles",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider an obtuse angled triangle ABC in which the difference between the largest and the smallest angle is π/2 and whose sides are in arithmetic progression. Suppose that the vertices of this triangle lie on a circle of radius 1. Let a be the area of the triangle ABC. Then the value of 64a² is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Trigonometry",
+      "topic": "Properties of Triangles",
+      "concept": "Triangle with sides in AP",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider an obtuse angled triangle ABC in which the difference between the largest and the smallest angle is π/2 and whose sides are in arithmetic progression. Suppose that the vertices of this triangle lie on a circle of radius 1. Then the inradius of the triangle ABC is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Trigonometry",
+      "topic": "Properties of Triangles",
+      "concept": "Inradius of triangle",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the 6×6 square grid. Let A₁, A₂, ..., A₄₉ be the points of intersections in some order. We say that Aᵢ and Aⱼ are friends if they are adjacent along a row or along a column. Assume that each point Aᵢ has an equal chance of being chosen. Let pᵢ be the probability that a randomly chosen point has i many friends, i = 0,1,2,3,4. Let X be a random variable such that for i = 0,1,2,3,4, the probability P(X = i) = pᵢ. Then the value of 7E(X) is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Probability",
+      "topic": "Random Variables",
+      "concept": "Expected value calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the 6×6 square grid. Let A₁, A₂, ..., A₄₉ be the points of intersections in some order. We say that Aᵢ and Aⱼ are friends if they are adjacent along a row or along a column. Two distinct points are chosen randomly out of the points A₁, A₂, ..., A₄₉. Let p be the probability that they are friends. Then the value of 7p is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Probability",
+      "topic": "Combinatorial Probability",
+      "concept": "Grid adjacency probability",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "An electric dipole is formed by two charges +q and -q located in xy-plane at (0,2) mm and (0,-2) mm, respectively. The electric potential at point P(100,100) mm due to the dipole is V₀. The charges +q and -q are then moved to the points (-1,2) mm and (1,-2) mm, respectively. What is the value of electric potential at P due to the new dipole?",
+      "options": [
+        {
+          "id": "A",
+          "text": "V₀/4"
+        },
+        {
+          "id": "B",
+          "text": "V₀/2"
+        },
+        {
+          "id": "C",
+          "text": "V₀/√2"
+        },
+        {
+          "id": "D",
+          "text": "3V₀/4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Dipole",
+      "concept": "Electric potential due to dipole",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "PHYSICS",
+      "questionText": "Young's modulus of elasticity Y is expressed in terms of three derived quantities, namely, the gravitational constant G, Planck's constant h and the speed of light c, as Y = c^α h^β G^γ. Which of the following is the correct option?",
+      "options": [
+        {
+          "id": "A",
+          "text": "α=7, β=-1, γ=-2"
+        },
+        {
+          "id": "B",
+          "text": "α=-7, β=-1, γ=-2"
+        },
+        {
+          "id": "C",
+          "text": "α=7, β=-1, γ=2"
+        },
+        {
+          "id": "D",
+          "text": "α=-7, β=1, γ=-2"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Measurements",
+      "topic": "Dimensional Analysis",
+      "concept": "Dimensional formula derivation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "PHYSICS",
+      "questionText": "A particle of mass m is moving in the xy-plane such that its velocity at a point (x,y) is given as v⃗ = α(y x̂ + 2x ŷ), where α is a non-zero constant. What is the force F⃗ acting on the particle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "F⃗ = 2mα²(x x̂ + y ŷ)"
+        },
+        {
+          "id": "B",
+          "text": "F⃗ = mα²(y x̂ + 2x ŷ)"
+        },
+        {
+          "id": "C",
+          "text": "F⃗ = 2mα²(y x̂ + x ŷ)"
+        },
+        {
+          "id": "D",
+          "text": "F⃗ = mα²(x x̂ + 2y ŷ)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Newton's Laws",
+      "concept": "Force from velocity field",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "An ideal gas is in thermodynamic equilibrium. The number of degrees of freedom of a molecule of the gas is n. The internal energy of one mole of the gas is U_n and the speed of sound in the gas is v_n. At a fixed temperature and pressure, which of the following is the correct option?",
+      "options": [
+        {
+          "id": "A",
+          "text": "v₃ < v₆ and U₃ > U₆"
+        },
+        {
+          "id": "B",
+          "text": "v₅ > v₃ and U₃ > U₅"
+        },
+        {
+          "id": "C",
+          "text": "v₅ > v₇ and U₅ < U₇"
+        },
+        {
+          "id": "D",
+          "text": "v₆ < v₇ and U₆ < U₇"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinetic Theory",
+      "topic": "Degrees of Freedom",
+      "concept": "Speed of sound and internal energy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "A monochromatic light wave is incident normally on a glass slab of thickness d. The refractive index of the slab increases linearly from n₁ to n₂ over the height h. Which of the following statement(s) is(are) true about the light wave emerging out of the slab?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It will deflect up by an angle tan⁻¹[(n₂² - n₁²)d/(2h)]"
+        },
+        {
+          "id": "B",
+          "text": "It will deflect up by an angle tan⁻¹[(n₂ - n₁)d/h]"
+        },
+        {
+          "id": "C",
+          "text": "It will not deflect"
+        },
+        {
+          "id": "D",
+          "text": "The deflection angle depends only on (n₂ - n₁) and not on the individual values of n₁ and n₂"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Optics",
+      "topic": "Refraction",
+      "concept": "Light in graded index medium",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "An annular disk of mass M, inner radius a and outer radius b is placed on a horizontal surface with coefficient of friction μ. At some time, an impulse I₀ x̂ is applied at a height h above the center of the disk. If h = h_m then the disk rolls without slipping along the x-axis. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For μ≠0 and a→0, h_m = b/2"
+        },
+        {
+          "id": "B",
+          "text": "For μ≠0 and a→b, h_m = b"
+        },
+        {
+          "id": "C",
+          "text": "For h = h_m, the initial angular velocity does not depend on the inner radius a"
+        },
+        {
+          "id": "D",
+          "text": "For μ=0 and h=0, the wheel always slides without rolling"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Rolling without slipping condition",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "The electric field associated with an electromagnetic wave propagating in a dielectric medium is given by E⃗ = 30(2x̂ + ŷ) sin[2π(5×10¹⁴ t - 10⁷z/3)] V m⁻¹. Which of the following option(s) is(are) correct? [Given: The speed of light in vacuum, c = 3×10⁸ m s⁻¹]",
+      "options": [
+        {
+          "id": "A",
+          "text": "B_x = -2×10⁻⁷ sin[2π(5×10¹⁴ t - 10⁷z/3)] Wb m⁻²"
+        },
+        {
+          "id": "B",
+          "text": "B_y = 2×10⁻⁷ sin[2π(5×10¹⁴ t - 10⁷z/3)] Wb m⁻²"
+        },
+        {
+          "id": "C",
+          "text": "The wave is polarized in the xy-plane with polarization angle 30° with respect to the x-axis"
+        },
+        {
+          "id": "D",
+          "text": "The refractive index of the medium is 2"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "EM Wave Properties",
+      "concept": "Electric and magnetic field relations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "A thin circular coin of mass 5 gm and radius 4/3 cm is initially in a horizontal xy-plane. The coin is tossed vertically up (+z direction) by applying an impulse of √π/2 × 10⁻² N-s at a distance 2/3 cm from its center. The coin spins about its diameter and moves along the +z direction. By the time the coin reaches back to its initial position, it completes n rotations. The value of n is ____. [Given: The acceleration due to gravity g = 10 m s⁻²]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Angular motion with linear motion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "PHYSICS",
+      "questionText": "A rectangular conducting loop of length 4 cm and width 2 cm is in the xy-plane. It is being moved away from a thin and long conducting wire along the direction (√3/2)x̂ + (1/2)ŷ with a constant speed v. The wire is carrying a steady current I = 10 A in the positive x-direction. A current of 10 μA flows through the loop when it is at a distance d = 4 cm from the wire. If the resistance of the loop is 0.1 Ω, then the value of v is _______ m s⁻¹. [Given: The permeability of free space μ₀ = 4π×10⁻⁷ N A⁻²]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Faraday's Law",
+      "concept": "EMF due to changing magnetic flux",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "PHYSICS",
+      "questionText": "A string of length 1 m and mass 2×10⁻⁵ kg is under tension T. When the string vibrates, two successive harmonics are found to occur at frequencies 750 Hz and 1000 Hz. The value of tension T is _____ Newton.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Standing Waves",
+      "concept": "Harmonics in vibrating string",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "PHYSICS",
+      "questionText": "An incompressible liquid is kept in a container having a weightless piston with a hole. A capillary tube of inner radius 0.1 mm is dipped vertically into the liquid through the airtight piston hole. The air in the container is isothermally compressed from its original volume V₀ to (100/101)V₀ with the movable piston. Considering air as an ideal gas, the height (h) of the liquid column in the capillary above the liquid level in cm is_______. [Given: Surface tension = 0.075 N m⁻¹, atmospheric pressure = 10⁵ N m⁻², g = 10 m s⁻², density of liquid = 10³ kg m⁻³, contact angle = 0]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Fluid Mechanics",
+      "topic": "Surface Tension",
+      "concept": "Capillary rise under pressure",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "PHYSICS",
+      "questionText": "In a radioactive decay process, the activity is defined as A = -dN/dt, where N(t) is the number of radioactive nuclei at time t. Two radioactive sources, S₁ and S₂ have same activity at time t = 0. At a later time, the activities of S₁ and S₂ are A₁ and A₂, respectively. When S₁ and S₂ have just completed their 3rd and 7th half-lives, respectively, the ratio A₁/A₂ is __________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Modern Physics",
+      "topic": "Radioactive Decay",
+      "concept": "Activity and half-life relation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "PHYSICS",
+      "questionText": "One mole of an ideal gas undergoes two different cyclic processes I and II. In cycle I, processes a,b,c and d are isobaric, isothermal, isobaric and isochoric, respectively. In cycle II, processes a',b',c' and d' are isothermal, isochoric, isobaric and isochoric, respectively. The total work done during cycle I is W_I and that during cycle II is W_II. The ratio W_I/W_II is _______.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Work done in cyclic processes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "S₁ and S₂ are two identical sound sources of frequency 656 Hz. The source S₁ is located at O and S₂ moves anti-clockwise with a uniform speed 4√2 m s⁻¹ on a circular path around O. There are three points P,Q and R on this path such that P and R are diametrically opposite while Q is equidistant from them. A sound detector is placed at point P. When only S₂ is emitting sound and it is at Q, the frequency of sound measured by the detector in Hz is _________. [Given: The speed of sound in air is 324 m s⁻¹]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Doppler Effect",
+      "concept": "Doppler shift for moving source",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "PHYSICS",
+      "questionText": "S₁ and S₂ are two identical sound sources of frequency 656 Hz. Consider both sources emitting sound. When S₂ is at R and S₁ approaches the detector with a speed 4 m s⁻¹, the beat frequency measured by the detector is _______Hz. [Given: The speed of sound in air is 324 m s⁻¹]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Beat Frequency",
+      "concept": "Beats with Doppler effect",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "PHYSICS",
+      "questionText": "A cylindrical furnace has height (H) and diameter (D) both 1 m. It is maintained at temperature 360 K. The hot air with density ρ rises up a vertical chimney of diameter d = 0.1 m and height h = 9 m above the furnace and exits the chimney. As a result, atmospheric air of density ρₐ = 1.2 kg m⁻³, pressure Pₐ and temperature Tₐ = 300 K enters the furnace. Considering the air flow to be streamline, the steady mass flow rate of air exiting the chimney is _______ gm s⁻¹. [Given: g = 10 m s⁻², π = 3.14]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Fluid Mechanics",
+      "topic": "Fluid Flow",
+      "concept": "Buoyancy driven flow",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "PHYSICS",
+      "questionText": "When the chimney is closed using a cap at the top, a pressure difference ΔP develops between the top and the bottom surfaces of the cap. If the changes in the temperature and density of the hot air, due to the stoppage of air flow, are negligible then the value of ΔP is ______ N m⁻². [Given: g = 10 m s⁻², π = 3.14]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Fluid Mechanics",
+      "topic": "Hydrostatic Pressure",
+      "concept": "Pressure difference due to density variation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct molecular orbital diagram for F₂ molecule in the ground state is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option A diagram"
+        },
+        {
+          "id": "B",
+          "text": "Option B diagram"
+        },
+        {
+          "id": "C",
+          "text": "Option C diagram"
+        },
+        {
+          "id": "D",
+          "text": "Option D diagram"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Bonding",
+      "topic": "Molecular Orbital Theory",
+      "concept": "MO diagram for diatomic molecules",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following statements related to colloids. (I) Lyophobic colloids are not formed by simple mixing of dispersed phase and dispersion medium. (II) For emulsions, both the dispersed phase and the dispersion medium are liquid. (III) Micelles are produced by dissolving a surfactant in any solvent at any temperature. (IV) Tyndall effect can be observed from a colloidal solution with dispersed phase having the same refractive index as that of the dispersion medium. The option with the correct set of statements is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(I) and (II)"
+        },
+        {
+          "id": "B",
+          "text": "(II) and (III)"
+        },
+        {
+          "id": "C",
+          "text": "(III) and (IV)"
+        },
+        {
+          "id": "D",
+          "text": "(II) and (IV)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Surface Chemistry",
+      "topic": "Colloids",
+      "concept": "Properties of colloidal systems",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "CHEMISTRY",
+      "questionText": "In the following reactions, P, Q, R, and S are the major products. The correct statement about P, Q, R, and S is",
+      "options": [
+        {
+          "id": "A",
+          "text": "P is a primary alcohol with four carbons"
+        },
+        {
+          "id": "B",
+          "text": "Q undergoes Kolbe's electrolysis to give an eight-carbon product"
+        },
+        {
+          "id": "C",
+          "text": "R has six carbons and it undergoes Cannizzaro reaction"
+        },
+        {
+          "id": "D",
+          "text": "S is a primary amine with six carbons"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Named Reactions",
+      "concept": "Product identification in organic reactions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "CHEMISTRY",
+      "questionText": "A disaccharide X cannot be oxidised by bromine water. The acid hydrolysis of X leads to a laevorotatory solution. The disaccharide X is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure A"
+        },
+        {
+          "id": "B",
+          "text": "Structure B"
+        },
+        {
+          "id": "C",
+          "text": "Structure C"
+        },
+        {
+          "id": "D",
+          "text": "Structure D"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Biomolecules",
+      "topic": "Carbohydrates",
+      "concept": "Disaccharide structure and properties",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "CHEMISTRY",
+      "questionText": "The complex(es), which can exhibit the type of isomerism shown by [Pt(NH₃)₂Br₂], is(are) [en = H₂NCH₂CH₂NH₂]",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Pt(en)(SCN)₂]"
+        },
+        {
+          "id": "B",
+          "text": "[Zn(NH₃)₂Cl₂]"
+        },
+        {
+          "id": "C",
+          "text": "[Pt(NH₃)₂Cl₄]"
+        },
+        {
+          "id": "D",
+          "text": "[Cr(en)₂(H₂O)(SO₄)]⁺"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Isomerism",
+      "concept": "Geometric isomerism in coordination compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "CHEMISTRY",
+      "questionText": "Atoms of metals x, y, and z form face-centred cubic (fcc) unit cell of edge length Lₓ, body-centred cubic (bcc) unit cell of edge length Ly, and simple cubic unit cell of edge length Lz, respectively. If rz = (√3/2)ry; ry = (8/√3)rx; Mz = (3/2)My and Mz = 3Mx, then the correct statement(s) is(are) [Given: Mx, My, and Mz are molar masses of metals x, y, and z, respectively. rx, ry, and rz are atomic radii of metals x, y, and z, respectively.]",
+      "options": [
+        {
+          "id": "A",
+          "text": "Packing efficiency of unit cell of x > Packing efficiency of unit cell of y > Packing efficiency of unit cell of z"
+        },
+        {
+          "id": "B",
+          "text": "Ly > Lz"
+        },
+        {
+          "id": "C",
+          "text": "Lx < Ly"
+        },
+        {
+          "id": "D",
+          "text": "Density of x > Density of y"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Solid State",
+      "topic": "Crystal Structures",
+      "concept": "Unit cell properties and calculations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "CHEMISTRY",
+      "questionText": "In the following reactions, P, Q, R, and S are the major products. The correct statement(s) about P, Q, R, and S is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "P and Q are monomers of polymers dacron and glyptal, respectively"
+        },
+        {
+          "id": "B",
+          "text": "P, Q, and R are dicarboxylic acids"
+        },
+        {
+          "id": "C",
+          "text": "Compounds Q and R are the same"
+        },
+        {
+          "id": "D",
+          "text": "R does not undergo aldol condensation and S does not undergo Cannizzaro reaction"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Product analysis in organic reactions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "CHEMISTRY",
+      "questionText": "H₂S (5 moles) reacts completely with acidified aqueous potassium permanganate solution. In this reaction, the number of moles of water produced is x, and the number of moles of electrons involved is y. The value of (x + y) is ____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Redox Reactions",
+      "topic": "Balancing Redox Equations",
+      "concept": "Stoichiometry in redox reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "CHEMISTRY",
+      "questionText": "Among [I₃]⁺, [SiO₄]⁴⁻, SO₂Cl₂, XeF₂, SF₄, ClF₃, Ni(CO)₄, XeO₂F₂, [PtCl₄]²⁻, XeF₄, and SOCl₂, the total number of species having sp³ hybridised central atom is ______.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Bonding",
+      "topic": "Hybridization",
+      "concept": "sp³ hybridization identification",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following molecules: Br₃O₈, F₂O, H₂S₄O₆, H₂S₅O₆, and C₃O₂. Count the number of atoms existing in their zero oxidation state in each molecule. Their sum is____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Redox Reactions",
+      "topic": "Oxidation States",
+      "concept": "Zero oxidation state identification",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "CHEMISTRY",
+      "questionText": "For He⁺, a transition takes place from the orbit of radius 105.8 pm to the orbit of radius 26.45 pm. The wavelength (in nm) of the emitted photon during the transition is ___. [Use: Bohr radius, a = 52.9 pm; Rydberg constant, R_H = 2.2 ×10⁻¹⁸ J; Planck's constant, h = 6.6 ×10⁻³⁴ J s; Speed of light, c = 3 ×10⁸ m s⁻¹]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Atomic Structure",
+      "topic": "Bohr Model",
+      "concept": "Electronic transitions and wavelength",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "CHEMISTRY",
+      "questionText": "50 mL of 0.2 molal urea solution (density = 1.012 g mL⁻¹ at 300 K) is mixed with 250 mL of a solution containing 0.06 g of urea. Both the solutions were prepared in the same solvent. The osmotic pressure (in Torr) of the resulting solution at 300 K is ___. [Use: Molar mass of urea = 60 g mol⁻¹; gas constant, R = 62 L Torr K⁻¹ mol⁻¹; Assume, ΔmixH = 0, ΔmixV = 0]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Colligative Properties",
+      "concept": "Osmotic pressure calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "The reaction of 4-methyloct-1-ene (P, 2.52 g) with HBr in the presence of (C₆H₅CO)₂O₂ gives two isomeric bromides in a 9:1 ratio, with a combined yield of 50%. Of these, the entire amount of the primary alkyl bromide was reacted with an appropriate amount of diethylamine followed by treatment with aq. K₂CO₃ to give a non-ionic product S in 100% yield. The mass (in mg) of S obtained is ___. [Use molar mass (in g mol⁻¹): H = 1, C = 12, N = 14, Br = 80]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Alkene Reactions",
+      "concept": "Anti-Markovnikov addition and substitution",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "The entropy versus temperature plot for phases α and β at 1 bar pressure is given. The transition temperature for α to β phase change is 600 K and Cp,β - Cp,α = 1 J mol⁻¹ K⁻¹. Assume (Cp,β - Cp,α) is independent of temperature in the range of 200 to 700 K. The value of entropy change, Sβ - Sα (in J mol⁻¹ K⁻¹), at 300 K is ___. [Use: ln 2 = 0.69; Given: Sβ - Sα = 0 at 0 K]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Phase Transitions",
+      "concept": "Entropy change calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "The value of enthalpy change, Hβ - Hα (in J mol⁻¹), at 300 K is ___.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Phase Transitions",
+      "concept": "Enthalpy change calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "A trinitro compound, 1,3,5-tris-(4-nitrophenyl)benzene, on complete reaction with an excess of Sn/HCl gives a major product, which on treatment with an excess of NaNO₂/HCl at 0°C provides P as the product. P, upon treatment with excess of H₂O at room temperature, gives the product Q. Bromination of Q in aqueous medium furnishes the product R. The compound P upon treatment with an excess of phenol under basic conditions gives the product S. The molar mass difference between compounds Q and R is 474 g mol⁻¹ and between compounds P and S is 172.5 g mol⁻¹. The number of heteroatoms present in one molecule of R is ______. [Use: Molar mass (in g mol⁻¹): H = 1, C = 12, N = 14, O = 16, Br = 80, Cl = 35.5. Atoms other than C and H are considered as heteroatoms]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Multi-step organic synthesis",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "CHEMISTRY",
+      "questionText": "The total number of carbon atoms and heteroatoms present in one molecule of S is ______. [Use: Molar mass (in g mol⁻¹): H = 1, C = 12, N = 14, O = 16, Br = 80, Cl = 35.5. Atoms other than C and H are considered as heteroatoms]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Multi-step organic synthesis",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T14:08:50.762Z"
+}

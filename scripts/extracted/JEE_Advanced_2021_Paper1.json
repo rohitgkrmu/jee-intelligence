@@ -1,0 +1,1462 @@
+{
+  "filename": "JEE_Advanced_2021_Paper1.pdf",
+  "examYear": 2021,
+  "examSession": "Paper 1",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "The smallest division on the main scale of a Vernier calipers is 0.1 cm. Ten divisions of the Vernier scale correspond to nine divisions of the main scale. The figure below on the left shows the reading of this calipers with no gap between its two jaws. The figure on the right shows the reading with a solid sphere held between the jaws. The correct diameter of the sphere is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.07 cm"
+        },
+        {
+          "id": "B",
+          "text": "3.11 cm"
+        },
+        {
+          "id": "C",
+          "text": "3.15 cm"
+        },
+        {
+          "id": "D",
+          "text": "3.17 cm"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Measurements and Errors",
+      "topic": "Vernier Calipers",
+      "concept": "Vernier Scale Reading",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "An ideal gas undergoes a four step cycle as shown in the P-V diagram below. During this cycle, heat is absorbed by the gas in",
+      "options": [
+        {
+          "id": "A",
+          "text": "steps 1 and 2"
+        },
+        {
+          "id": "B",
+          "text": "steps 1 and 3"
+        },
+        {
+          "id": "C",
+          "text": "steps 1 and 4"
+        },
+        {
+          "id": "D",
+          "text": "steps 2 and 4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Cycles",
+      "concept": "Heat absorption in P-V cycles",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "An extended object is placed at point O, 10 cm in front of a convex lens L₁ and a concave lens L₂ is placed 10 cm behind it, as shown in the figure. The radii of curvature of all the curved surfaces in both the lenses are 20 cm. The refractive index of both the lenses is 1.5. The total magnification of this lens system is",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.4"
+        },
+        {
+          "id": "B",
+          "text": "0.8"
+        },
+        {
+          "id": "C",
+          "text": "1.3"
+        },
+        {
+          "id": "D",
+          "text": "1.6"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Optics",
+      "topic": "Lens Systems",
+      "concept": "Compound lens magnification",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "A heavy nucleus Q of half-life 20 minutes undergoes alpha-decay with probability of 60% and beta-decay with probability of 40%. Initially, the number of Q nuclei is 1000. The number of alpha-decays of Q in the first one hour is",
+      "options": [
+        {
+          "id": "A",
+          "text": "50"
+        },
+        {
+          "id": "B",
+          "text": "75"
+        },
+        {
+          "id": "C",
+          "text": "350"
+        },
+        {
+          "id": "D",
+          "text": "525"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Radioactive Decay",
+      "concept": "Branching decay processes",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "A projectile is thrown from a point O on the ground at an angle 45° from the vertical and with a speed 5√2 m/s. The projectile at the highest point of its trajectory splits into two equal parts. One part falls vertically down to the ground, 0.5 s after the splitting. The other part, t seconds after the splitting, falls to the ground at a distance x meters from the point O. The acceleration due to gravity g=10 m/s². The value of t is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Projectile Motion",
+      "concept": "Projectile splitting at highest point",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "A projectile is thrown from a point O on the ground at an angle 45° from the vertical and with a speed 5√2 m/s. The projectile at the highest point of its trajectory splits into two equal parts. One part falls vertically down to the ground, 0.5 s after the splitting. The other part, t seconds after the splitting, falls to the ground at a distance x meters from the point O. The acceleration due to gravity g=10 m/s². The value of x is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Projectile Motion",
+      "concept": "Range calculation with splitting",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "In the circuit shown below, the switch S is connected to position P for a long time so that the charge on the capacitor becomes q₁ μC. Then S is switched to position Q. After a long time, the charge on the capacitor is q₂ μC. The magnitude of q₁ is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electricity",
+      "topic": "Capacitor Circuits",
+      "concept": "RC circuit charging and discharging",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "In the circuit shown below, the switch S is connected to position P for a long time so that the charge on the capacitor becomes q₁ μC. Then S is switched to position Q. After a long time, the charge on the capacitor is q₂ μC. The magnitude of q₂ is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electricity",
+      "topic": "Capacitor Circuits",
+      "concept": "RC circuit charging and discharging",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "Two point charges -Q and +Q/√3 are placed in the xy-plane at the origin (0, 0) and a point (2, 0), respectively, as shown in the figure. This results in an equipotential circle of radius R and potential V=0 in the xy-plane with its center at (b, 0). All lengths are measured in meters. The value of R is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electricity",
+      "topic": "Electric Potential",
+      "concept": "Equipotential surfaces",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "Two point charges -Q and +Q/√3 are placed in the xy-plane at the origin (0, 0) and a point (2, 0), respectively, as shown in the figure. This results in an equipotential circle of radius R and potential V=0 in the xy-plane with its center at (b, 0). All lengths are measured in meters. The value of b is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electricity",
+      "topic": "Electric Potential",
+      "concept": "Equipotential surfaces",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "A horizontal force F is applied at the center of mass of a cylindrical object of mass m and radius R, perpendicular to its axis as shown in the figure. The coefficient of friction between the object and the ground is μ. The center of mass of the object has an acceleration a. The acceleration due to gravity is g. Given that the object rolls without slipping, which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For the same F, the value of a does not depend on whether the cylinder is solid or hollow"
+        },
+        {
+          "id": "B",
+          "text": "For a solid cylinder, the maximum possible value of a is 2μg"
+        },
+        {
+          "id": "C",
+          "text": "The magnitude of the frictional force on the object due to the ground is always μmg"
+        },
+        {
+          "id": "D",
+          "text": "For a thin-walled hollow cylinder, a = F/(2m)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Rolling motion with friction",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "A wide slab consisting of two media of refractive indices n₁ and n₂ is placed in air as shown in the figure. A ray of light is incident from medium n₁ to n₂ at an angle θ, where sinθ is slightly larger than 1/n₁. Take refractive index of air as 1. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The light ray enters air if n₂ = n₁"
+        },
+        {
+          "id": "B",
+          "text": "The light ray is finally reflected back into the medium of refractive index n₁ if n₂ < n₁"
+        },
+        {
+          "id": "C",
+          "text": "The light ray is finally reflected back into the medium of refractive index n₁ if n₂ > n₁"
+        },
+        {
+          "id": "D",
+          "text": "The light ray is reflected back into the medium of refractive index n₁ if n₂ = 1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Optics",
+      "topic": "Total Internal Reflection",
+      "concept": "Critical angle and refraction through slabs",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "A particle of mass M=0.2 kg is initially at rest in the xy-plane at a point (x=-l, y=-h), where l=10 m and h=1 m. The particle is accelerated at time t=0 with a constant acceleration a=10 m/s² along the positive x-direction. Its angular momentum and torque with respect to the origin, in SI units, are represented by L⃗ and τ⃗, respectively. î, ĵ and k̂ are unit vectors along the positive x, y and z-directions, respectively. If k̂=î×ĵ then which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The particle arrives at the point (x=l, y=-h) at time t=2 s"
+        },
+        {
+          "id": "B",
+          "text": "τ⃗ = 2k̂ when the particle passes through the point (x=l, y=-h)"
+        },
+        {
+          "id": "C",
+          "text": "L⃗ = 4k̂ when the particle passes through the point (x=l, y=-h)"
+        },
+        {
+          "id": "D",
+          "text": "τ⃗ = k̂ when the particle passes through the point (x=0, y=-h)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Mechanics",
+      "topic": "Angular Momentum",
+      "concept": "Angular momentum and torque calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "Which of the following statement(s) is(are) correct about the spectrum of hydrogen atom?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ratio of the longest wavelength to the shortest wavelength in Balmer series is 9/5"
+        },
+        {
+          "id": "B",
+          "text": "There is an overlap between the wavelength ranges of Balmer and Paschen series"
+        },
+        {
+          "id": "C",
+          "text": "The wavelengths of Lyman series are given by (1+1/m²)λ₀, where λ₀ is the shortest wavelength of Lyman series and m is an integer"
+        },
+        {
+          "id": "D",
+          "text": "The wavelength ranges of Lyman and Balmer series do not overlap"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Modern Physics",
+      "topic": "Atomic Spectra",
+      "concept": "Hydrogen spectrum series",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "A long straight wire carries a current, I=2 ampere. A semi-circular conducting rod is placed beside it on two conducting parallel rails of negligible resistance. Both the rails are parallel to the wire. The wire, the rod and the rails lie in the same horizontal plane, as shown in the figure. Two ends of the semi-circular rod are at distances 1 cm and 4 cm from the wire. At time t=0, the rod starts moving on the rails with a speed v=3.0 m/s (see the figure). A resistor R=1.4 Ω and a capacitor C₀=5.0 μF are connected in series between the rails. At time t=0, C₀ is uncharged. Which of the following statement(s) is(are) correct? [μ₀=4π×10⁻⁷ SI units. Take ln2=0.7]",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maximum current through R is 1.2×10⁻⁶ ampere"
+        },
+        {
+          "id": "B",
+          "text": "Maximum current through R is 3.8×10⁻⁶ ampere"
+        },
+        {
+          "id": "C",
+          "text": "Maximum charge on capacitor C₀ is 8.4×10⁻¹² coulomb"
+        },
+        {
+          "id": "D",
+          "text": "Maximum charge on capacitor C₀ is 2.4×10⁻¹² coulomb"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electromagnetism",
+      "topic": "Electromagnetic Induction",
+      "concept": "EMF induced in moving conductor",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "A cylindrical tube, with its base as shown in the figure, is filled with water. It is moving down with a constant acceleration a along a fixed inclined plane with angle θ=45°. P₁ and P₂ are pressures at points 1 and 2, respectively, located at the base of the tube. Let β=(P₁-P₂)/(ρgd), where ρ is density of water, d is the inner diameter of the tube and g is the acceleration due to gravity. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "β=0 when a=g/√2"
+        },
+        {
+          "id": "B",
+          "text": "β>0 when a=g/√2"
+        },
+        {
+          "id": "C",
+          "text": "β=(√2-1)/√2 when a=g/2"
+        },
+        {
+          "id": "D",
+          "text": "β=1/√2 when a=g/2"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Fluid Statics",
+      "concept": "Pressure in accelerating fluid container",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "An α-particle (mass 4 amu) and a singly charged sulfur ion (mass 32 amu) are initially at rest. They are accelerated through a potential V and then allowed to pass into a region of uniform magnetic field which is normal to the velocities of the particles. Within this region, the α-particle and the sulfur ion move in circular orbits of radii r_α and r_S, respectively. The ratio (r_S/r_α) is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Electromagnetism",
+      "topic": "Motion in Magnetic Field",
+      "concept": "Circular motion of charged particles",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "A thin rod of mass M and length a is free to rotate in horizontal plane about a fixed vertical axis passing through point O. A thin circular disc of mass M and of radius a/4 is pivoted on this rod with its center at a distance a/4 from the free end so that it can rotate freely about its vertical axis, as shown in the figure. Assume that both the rod and the disc have uniform density and they remain horizontal during the motion. An outside stationary observer finds the rod rotating with an angular velocity Ω and the disc rotating about its vertical axis with angular velocity 4Ω. The total angular momentum of the system about the point O is (Ma²Ω/48)n. The value of n is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Angular momentum of compound system",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "PHYSICS",
+      "questionText": "A small object is placed at the center of a large evacuated hollow spherical container. Assume that the container is maintained at 0 K. At time t=0, the temperature of the object is 200 K. The temperature of the object becomes 100 K at t=t₁ and 50 K at t=t₂. Assume the object and the container to be ideal black bodies. The heat capacity of the object does not depend on temperature. The ratio (t₂/t₁) is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Thermodynamics",
+      "topic": "Heat Transfer",
+      "concept": "Stefan-Boltzmann law and cooling",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 1,
+      "subject": "CHEMISTRY",
+      "questionText": "The major product formed in the following reaction is Na/liq. NH₃/NaNH₂",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Structure A shown]"
+        },
+        {
+          "id": "B",
+          "text": "[Structure B shown]"
+        },
+        {
+          "id": "C",
+          "text": "[Structure C shown]"
+        },
+        {
+          "id": "D",
+          "text": "[Structure D shown]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reduction Reactions",
+      "concept": "Birch reduction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "CHEMISTRY",
+      "questionText": "Among the following, the conformation that corresponds to the most stable conformation of meso-butane-2,3-diol is",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Newman projection A shown]"
+        },
+        {
+          "id": "B",
+          "text": "[Newman projection B shown]"
+        },
+        {
+          "id": "C",
+          "text": "[Newman projection C shown]"
+        },
+        {
+          "id": "D",
+          "text": "[Newman projection D shown]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Stereochemistry",
+      "concept": "Newman projections and stability",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "CHEMISTRY",
+      "questionText": "For the given close packed structure of a salt made of cation X and anion Y shown below (ions of only one face are shown for clarity), the packing fraction is approximately (packing fraction = packing efficiency/100)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.74"
+        },
+        {
+          "id": "B",
+          "text": "0.63"
+        },
+        {
+          "id": "C",
+          "text": "0.52"
+        },
+        {
+          "id": "D",
+          "text": "0.48"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solid State",
+      "topic": "Crystal Structures",
+      "concept": "Packing efficiency calculations",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "CHEMISTRY",
+      "questionText": "The calculated spin only magnetic moments of [Cr(NH₃)₆]³⁺ and [CuF₆]³⁻ in BM, respectively, are (Atomic numbers of Cr and Cu are 24 and 29, respectively)",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.87 and 2.84"
+        },
+        {
+          "id": "B",
+          "text": "4.90 and 1.73"
+        },
+        {
+          "id": "C",
+          "text": "3.87 and 1.73"
+        },
+        {
+          "id": "D",
+          "text": "4.90 and 2.84"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "Magnetic Properties",
+      "concept": "Spin-only magnetic moment",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "CHEMISTRY",
+      "questionText": "For the following reaction scheme, percentage yields are given along the arrow: Mg₂C₃ → H₂O → P(4.0 g) → NaNH₂/MeI 75% → Q → red hot iron tube 873 K 40% → Hg²⁺/H⁺ 333K 100% → S → Ba(OH)₂ heat 80% → T → NaOCl 80% → R(x g) → U(y g) (decolourises Baeyer's reagent). x g and y g are mass of R and U, respectively. (Use: Molar mass (in g mol⁻¹) of H, C and O as 1, 12 and 16, respectively) The value of x is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Multi-step organic synthesis",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "CHEMISTRY",
+      "questionText": "For the following reaction scheme, percentage yields are given along the arrow: Mg₂C₃ → H₂O → P(4.0 g) → NaNH₂/MeI 75% → Q → red hot iron tube 873 K 40% → Hg²⁺/H⁺ 333K 100% → S → Ba(OH)₂ heat 80% → T → NaOCl 80% → R(x g) → U(y g) (decolourises Baeyer's reagent). x g and y g are mass of R and U, respectively. (Use: Molar mass (in g mol⁻¹) of H, C and O as 1, 12 and 16, respectively) The value of y is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Multi-step organic synthesis",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "CHEMISTRY",
+      "questionText": "For the reaction, X(s) ⇌ Y(s) + Z(g), the plot of ln(pZ/p°) versus 10⁴/T is given below (in solid line), where pZ is the pressure (in bar) of the gas Z at temperature T and p° = 1 bar. (Given, d(ln K)/d(1/T) = -ΔH°/R, where the equilibrium constant, K = pz/p° and the gas constant, R = 8.314 J K⁻¹ mol⁻¹) The value of standard enthalpy, ΔH° (in kJ mol⁻¹) for the given reaction is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Equilibrium",
+      "concept": "Van't Hoff equation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "CHEMISTRY",
+      "questionText": "For the reaction, X(s) ⇌ Y(s) + Z(g), the plot of ln(pZ/p°) versus 10⁴/T is given below (in solid line), where pZ is the pressure (in bar) of the gas Z at temperature T and p° = 1 bar. (Given, d(ln K)/d(1/T) = -ΔH°/R, where the equilibrium constant, K = pz/p° and the gas constant, R = 8.314 J K⁻¹ mol⁻¹) The value of ΔS° (in J K⁻¹ mol⁻¹) for the given reaction, at 1000 K is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Equilibrium",
+      "concept": "Entropy calculation from equilibrium data",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "CHEMISTRY",
+      "questionText": "The boiling point of water in a 0.1 molal silver nitrate solution (solution A) is x°C. To this solution A, an equal volume of 0.1 molal aqueous barium chloride solution is added to make a new solution B. The difference in the boiling points of water in the two solutions A and B is y × 10² °C. (Assume: Densities of the solutions A and B are the same as that of water and the soluble salts dissociate completely. Use: Molal elevation constant (Ebullioscopic Constant), Kb = 0.5 K kg mol⁻¹; Boiling point of pure water as 100°C.) The value of x is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Solutions",
+      "concept": "Boiling point elevation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "CHEMISTRY",
+      "questionText": "The boiling point of water in a 0.1 molal silver nitrate solution (solution A) is x°C. To this solution A, an equal volume of 0.1 molal aqueous barium chloride solution is added to make a new solution B. The difference in the boiling points of water in the two solutions A and B is y × 10² °C. (Assume: Densities of the solutions A and B are the same as that of water and the soluble salts dissociate completely. Use: Molal elevation constant (Ebullioscopic Constant), Kb = 0.5 K kg mol⁻¹; Boiling point of pure water as 100°C.) The value of |y| is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Solutions",
+      "concept": "Boiling point elevation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "CHEMISTRY",
+      "questionText": "Given: D-Glucose [α]D = +52.7°. The compound(s), which on reaction with HNO₃ will give the product having degree of rotation, [α]D = -52.7° is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Structure A shown]"
+        },
+        {
+          "id": "B",
+          "text": "[Structure B shown]"
+        },
+        {
+          "id": "C",
+          "text": "[Structure C shown]"
+        },
+        {
+          "id": "D",
+          "text": "[Structure D shown]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Carbohydrates",
+      "concept": "Optical activity and enantiomers",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "CHEMISTRY",
+      "questionText": "The reaction of Q with PhSNa yields an organic compound (major product) that gives positive Carius test on treatment with Na₂O₂ followed by addition of BaCl₂. The correct option(s) for Q is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Structure with F and NO₂ groups]"
+        },
+        {
+          "id": "B",
+          "text": "[Structure with I and NO₂ groups]"
+        },
+        {
+          "id": "C",
+          "text": "[Structure with Br, NO₂, and MeS groups]"
+        },
+        {
+          "id": "D",
+          "text": "[Structure with Cl, MeS, and NO₂ groups]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Chemistry",
+      "concept": "Nucleophilic substitution and Carius test",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct statement(s) related to colloids is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "The process of precipitating colloidal sol by an electrolyte is called peptization."
+        },
+        {
+          "id": "B",
+          "text": "Colloidal solution freezes at higher temperature than the true solution at the same concentration."
+        },
+        {
+          "id": "C",
+          "text": "Surfactants form micelle above critical micelle concentration (CMC). CMC depends on temperature."
+        },
+        {
+          "id": "D",
+          "text": "Micelles are macromolecular colloids."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Surface Chemistry",
+      "concept": "Colloids and micelles",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "CHEMISTRY",
+      "questionText": "An ideal gas undergoes a reversible isothermal expansion from state I to state II followed by a reversible adiabatic expansion from state II to state III. The correct plot(s) representing the changes from state I to state III is(are) (p: pressure, V: volume, T: temperature, H: enthalpy, S: entropy)",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Graph A shown]"
+        },
+        {
+          "id": "B",
+          "text": "[Graph B shown]"
+        },
+        {
+          "id": "C",
+          "text": "[Graph C shown]"
+        },
+        {
+          "id": "D",
+          "text": "[Graph D shown]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Thermodynamics",
+      "concept": "Thermodynamic processes and state functions",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct statement(s) related to the metal extraction processes is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "A mixture of PbS and PbO undergoes self-reduction to produce Pb and SO₂."
+        },
+        {
+          "id": "B",
+          "text": "In the extraction process of copper from copper pyrites, silica is added to produce copper silicate."
+        },
+        {
+          "id": "C",
+          "text": "Partial oxidation of sulphide ore of copper by roasting, followed by self-reduction produces blister copper."
+        },
+        {
+          "id": "D",
+          "text": "In cyanide process, zinc powder is utilized to precipitate gold from Na[Au(CN)₂]."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Metallurgy",
+      "concept": "Metal extraction processes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "CHEMISTRY",
+      "questionText": "A mixture of two salts is used to prepare a solution S, which gives the following results: S (aq solution of the salts) + Dilute NaOH(aq) → White precipitate(s) only (Room temperature); S (aq solution of the salts) + Dilute HCl(aq) → White precipitate(s) only (Room temperature). The correct option(s) for the salt mixture is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pb(NO₃)₂ and Zn(NO₃)₂"
+        },
+        {
+          "id": "B",
+          "text": "Pb(NO₃)₂ and Bi(NO₃)₃"
+        },
+        {
+          "id": "C",
+          "text": "AgNO₃ and Bi(NO₃)₃"
+        },
+        {
+          "id": "D",
+          "text": "Pb(NO₃)₂ and Hg(NO₃)₂"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Qualitative Analysis",
+      "concept": "Salt analysis and precipitation reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "CHEMISTRY",
+      "questionText": "The maximum number of possible isomers (including stereoisomers) which may be formed on mono-bromination of 1-methylcyclohex-1-ene using Br₂ and UV light is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Organic Chemistry",
+      "topic": "Stereochemistry",
+      "concept": "Free radical bromination and stereoisomers",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "CHEMISTRY",
+      "questionText": "In the reaction given below, the total number of atoms having sp² hybridization in the major product P is: [Structure] → 1. O₃ (excess) then Zn/H₂O 2. NH₂OH (excess) → P",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Ozonolysis and oxime formation",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "CHEMISTRY",
+      "questionText": "The total number of possible isomers for [Pt(NH₃)₄Cl₂]Br₂ is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Coordination Chemistry",
+      "topic": "Isomerism",
+      "concept": "Structural and stereoisomers of coordination compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider a triangle Δ whose two sides lie on the x-axis and the line x+y+1=0. If the orthocenter of Δ is (1,1), then the equation of the circle passing through the vertices of the triangle Δ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "x²+y²-3x+y=0"
+        },
+        {
+          "id": "B",
+          "text": "x²+y²+x+3y=0"
+        },
+        {
+          "id": "C",
+          "text": "x²+y²+2y-1=0"
+        },
+        {
+          "id": "D",
+          "text": "x²+y²+x+y=0"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles",
+      "concept": "Circumcircle and orthocenter",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "The area of the region {(x,y) : 0≤x≤9/4, 0≤y≤1, x≥3y, x+y≥2} is",
+      "options": [
+        {
+          "id": "A",
+          "text": "11/32"
+        },
+        {
+          "id": "B",
+          "text": "35/96"
+        },
+        {
+          "id": "C",
+          "text": "37/96"
+        },
+        {
+          "id": "D",
+          "text": "13/32"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Area",
+      "concept": "Area of region bounded by linear inequalities",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider three sets E₁={1,2,3}, F₁={1,3,4} and G₁={2,3,4,5}. Two elements are chosen at random, without replacement, from the set E₁, and let S₁ denote the set of these chosen elements. Let E₂=E₁-S₁ and F₂=F₁∪S₁. Now two elements are chosen at random, without replacement, from the set F₂ and let S₂ denote the set of these chosen elements. Let G₂=G₁∪S₂. Finally, two elements are chosen at random, without replacement, from the set G₂ and let S₃ denote the set of these chosen elements. Let E₃=E₂∪S₃. Given that E₁=E₃, let p be the conditional probability of the event S₁={1,2}. Then the value of p is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/5"
+        },
+        {
+          "id": "B",
+          "text": "3/5"
+        },
+        {
+          "id": "C",
+          "text": "1/2"
+        },
+        {
+          "id": "D",
+          "text": "2/5"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Conditional Probability",
+      "concept": "Conditional probability with set operations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let θ₁,θ₂,...,θ₁₀ be positive valued angles (in radian) such that θ₁+θ₂+⋯+θ₁₀=2π. Define the complex numbers z₁=e^(iθ₁), zₖ=zₖ₋₁e^(iθₖ) for k=2,3,...,10, where i=√(-1). Consider the statements P and Q given below: P: |z₂-z₁|+|z₃-z₂|+⋯+|z₁₀-z₉|+|z₁-z₁₀|≤2π Q: |z₂²-z₁²|+|z₃²-z₂²|+⋯+|z₁₀²-z₉²|+|z₁²-z₁₀²|≤4π Then,",
+      "options": [
+        {
+          "id": "A",
+          "text": "P is TRUE and Q is FALSE"
+        },
+        {
+          "id": "B",
+          "text": "Q is TRUE and P is FALSE"
+        },
+        {
+          "id": "C",
+          "text": "both P and Q are TRUE"
+        },
+        {
+          "id": "D",
+          "text": "both P and Q are FALSE"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Complex Numbers",
+      "topic": "Properties of Complex Numbers",
+      "concept": "Modulus of complex numbers on unit circle",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Three numbers are chosen at random, one after another with replacement, from the set S={1,2,3,...,100}. Let p₁ be the probability that the maximum of chosen numbers is at least 81 and p₂ be the probability that the minimum of chosen numbers is at most 40. The value of (625/4)p₁ is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Probability",
+      "topic": "Order Statistics",
+      "concept": "Maximum and minimum of random samples",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Three numbers are chosen at random, one after another with replacement, from the set S={1,2,3,...,100}. Let p₁ be the probability that the maximum of chosen numbers is at least 81 and p₂ be the probability that the minimum of chosen numbers is at most 40. The value of (125/4)p₂ is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Probability",
+      "topic": "Order Statistics",
+      "concept": "Maximum and minimum of random samples",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Let α,β and γ be real numbers such that the system of linear equations x+2y+3z=α, 4x+5y+6z=β, 7x+8y+9z=γ-1 is consistent. Let |M| represent the determinant of the matrix M=[[α,2,γ],[β,1,0],[-1,0,1]]. Let P be the plane containing all those (α,β,γ) for which the above system of linear equations is consistent, and D be the square of the distance of the point (0,1,0) from the plane P. The value of |M| is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Linear Algebra",
+      "topic": "System of Linear Equations",
+      "concept": "Consistency conditions and determinants",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "Let α,β and γ be real numbers such that the system of linear equations x+2y+3z=α, 4x+5y+6z=β, 7x+8y+9z=γ-1 is consistent. Let |M| represent the determinant of the matrix M=[[α,2,γ],[β,1,0],[-1,0,1]]. Let P be the plane containing all those (α,β,γ) for which the above system of linear equations is consistent, and D be the square of the distance of the point (0,1,0) from the plane P. The value of D is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Linear Algebra",
+      "topic": "System of Linear Equations",
+      "concept": "Distance from point to plane",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the lines L₁ and L₂ defined by L₁: x/√2+y-1=0 and L₂: x/√2-y+1=0. For a fixed constant λ, let C be the locus of a point P such that the product of the distance of P from L₁ and the distance of P from L₂ is λ². The line y=2x+1 meets C at two points R and S, where the distance between R and S is √270. Let the perpendicular bisector of RS meet C at two distinct points R' and S'. Let D be the square of the distance between R' and S'. The value of λ² is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Locus",
+      "concept": "Locus as product of distances from lines",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the lines L₁ and L₂ defined by L₁: x/√2+y-1=0 and L₂: x/√2-y+1=0. For a fixed constant λ, let C be the locus of a point P such that the product of the distance of P from L₁ and the distance of P from L₂ is λ². The line y=2x+1 meets C at two points R and S, where the distance between R and S is √270. Let the perpendicular bisector of RS meet C at two distinct points R' and S'. Let D be the square of the distance between R' and S'. The value of D is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Locus",
+      "concept": "Intersection of locus with perpendicular bisector",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "For any 3×3 matrix M, let |M| denote the determinant of M. Let E=[[1,2,3],[2,3,4],[8,13,18]], P=[[1,0,0],[0,0,1],[0,1,0]] and F=[[1,3,2],[8,18,13],[2,4,3]]. If Q is a nonsingular matrix of order 3×3, then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "F=PEP and P²=[[1,0,0],[0,1,0],[0,0,1]]"
+        },
+        {
+          "id": "B",
+          "text": "|EQ+PFQ⁻¹|=|EQ|+|PFQ⁻¹|"
+        },
+        {
+          "id": "C",
+          "text": "|(EF)³|>|EF|²"
+        },
+        {
+          "id": "D",
+          "text": "Sum of the diagonal entries of P⁻¹EP+F is equal to the sum of diagonal entries of E+P⁻¹FP"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Linear Algebra",
+      "topic": "Matrices",
+      "concept": "Matrix operations and determinant properties",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f:ℝ→ℝ be defined by f(x) = (x²-3x-6)/(x²+2x+4). Then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "f is decreasing in the interval (-2,-1)"
+        },
+        {
+          "id": "B",
+          "text": "f is increasing in the interval (1,2)"
+        },
+        {
+          "id": "C",
+          "text": "f is onto"
+        },
+        {
+          "id": "D",
+          "text": "Range of f is [-3/2,2]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Functions",
+      "concept": "Properties of rational functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "Let E,F and G be three events having probabilities P(E)=1/8, P(F)=1/6 and P(G)=1/4, and let P(E∩F∩G)=1/10. For any event H, if Hᶜ denotes its complement, then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "P(E∩F∩Gᶜ)≤1/40"
+        },
+        {
+          "id": "B",
+          "text": "P(Eᶜ∩F∩G)≤1/15"
+        },
+        {
+          "id": "C",
+          "text": "P(E∪F∪G)≤13/24"
+        },
+        {
+          "id": "D",
+          "text": "P(Eᶜ∩Fᶜ∩Gᶜ)≤5/12"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Probability",
+      "topic": "Set Theory in Probability",
+      "concept": "Bounds on probability intersections",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "For any 3×3 matrix M, let |M| denote the determinant of M. Let I be the 3×3 identity matrix. Let E and F be two 3×3 matrices such that (I-EF) is invertible. If G=(I-EF)⁻¹, then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "|FE|=|I-FE||FGE|"
+        },
+        {
+          "id": "B",
+          "text": "(I-FE)(I+FGE)=I"
+        },
+        {
+          "id": "C",
+          "text": "EFG=GEF"
+        },
+        {
+          "id": "D",
+          "text": "(I-FE)(I-FGE)=I"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Linear Algebra",
+      "topic": "Matrix Inverses",
+      "concept": "Matrix identities with inverses",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "For any positive integer n, let Sₙ:(0,∞)→ℝ be defined by Sₙ(x)=Σₖ₌₁ⁿ cot⁻¹((1+k(k+1)x²)/x), where for any x∈ℝ, cot⁻¹(x)∈(0,π) and tan⁻¹(x)∈(-π/2,π/2). Then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "S₁₀(x)=π/2-tan⁻¹((1+11x²)/(10x)), for all x>0"
+        },
+        {
+          "id": "B",
+          "text": "lim[n→∞] cot(Sₙ(x))=x, for all x>0"
+        },
+        {
+          "id": "C",
+          "text": "The equation S₃(x)=π/4 has a root in (0,∞)"
+        },
+        {
+          "id": "D",
+          "text": "tan(Sₙ(x))≤1/2, for all n≥1 and x>0"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Trigonometry",
+      "topic": "Inverse Trigonometric Functions",
+      "concept": "Sum of inverse cotangent functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "For any complex number w=c+id, let arg(w)∈(-π,π], where i=√(-1). Let α and β be real numbers such that for all complex numbers z=x+iy satisfying arg((z+α)/(z+β))=π/4, the ordered pair (x,y) lies on the circle x²+y²+5x-3y+4=0. Then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "α=-1"
+        },
+        {
+          "id": "B",
+          "text": "αβ=4"
+        },
+        {
+          "id": "C",
+          "text": "αβ=-4"
+        },
+        {
+          "id": "D",
+          "text": "β=4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Complex Numbers",
+      "topic": "Argument of Complex Numbers",
+      "concept": "Locus with fixed argument condition",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "For x∈ℝ, the number of real roots of the equation 3x²-4|x²-1|+x-1=0 is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Algebra",
+      "topic": "Equations with Modulus",
+      "concept": "Solving equations with absolute value",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "In a triangle ABC, let AB=√23, BC=3 and CA=4. Then the value of (cotA+cotC)/cotB is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Trigonometry",
+      "topic": "Properties of Triangles",
+      "concept": "Cotangent ratios in triangles",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "MATHEMATICS",
+      "questionText": "Let u⃗, v⃗ and w⃗ be vectors in three-dimensional space, where u⃗ and v⃗ are unit vectors which are not perpendicular to each other and u⃗·w⃗=1, v⃗·w⃗=1, w⃗·w⃗=4. If the volume of the parallelopiped, whose adjacent sides are represented by the vectors u⃗, v⃗ and w⃗, is √2, then the value of |3u⃗+5v⃗| is",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Vectors",
+      "topic": "Scalar Triple Product",
+      "concept": "Volume of parallelopiped and vector magnitude",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T13:54:41.830Z"
+}

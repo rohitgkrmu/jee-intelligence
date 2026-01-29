@@ -1,0 +1,169 @@
+{
+  "filename": "JEE_Main_2025_April_7_Shift1.pdf",
+  "examYear": 2025,
+  "examSession": "April 7 Shift 1",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "A,B and C are disc, solid sphere and spherical shell respectively with same radii and masses. These masses are placed as shown in figure. The moment of inertia of the given system about PQ is xI₀/15, where I₀ is the moment of inertia of the disc about its diameter. The value of x is _____.",
+      "options": [],
+      "correctAnswer": "199",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Rotational Mechanics",
+      "concept": "Moment of inertia calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "For ac circuit shown in figure, R = 100kΩ and C = 100pF and the phase difference between V_in(-) and V_B - V_A is 90°. The input signal frequency is 10^x rad/sec, where 'x' is ______",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "AC Circuits",
+      "topic": "RC Circuits",
+      "concept": "Phase difference in AC circuits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "A container contains a liquid with refractive index of 1.2 up to a height of 60 cm and another liquid having refractive index 1.6 is added to height H above first liquid. If viewed from above, the apparent shift in the position of bottom of container is 40 cm. The value of H is___cm. (Consider liquids are immiscible)",
+      "options": [],
+      "correctAnswer": "80",
+      "questionType": "NUMERICAL",
+      "chapter": "Optics",
+      "topic": "Refraction",
+      "concept": "Apparent depth",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "A wire of length 10 cm and diameter 0.5 mm is used in a bulb. The temperature of the wire is 1727°C and power radiated by the wire is 94.2 W. Its emissivity is x/8 where x =_____ (Given σ = 6.0 × 10⁻⁸ W m⁻² K⁻⁴, π = 3.14 and assume that the emissivity of wire material is same at all wavelength.)",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Heat Transfer",
+      "topic": "Thermal Radiation",
+      "concept": "Stefan-Boltzmann law",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "An ideal gas has undergone through the cyclic process as shown in the figure. Work done by the gas in the entire cycle is ______. (Take π = 3.14)",
+      "options": [],
+      "correctAnswer": "314",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Cyclic process work calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "CHEMISTRY",
+      "questionText": "An organic compound weighing 500 mg produced 220 mg of CO₂ on complete combustion. The percentage composition of carbon in the compound is ................... %. (nearest integer) (Given molar mass in g mol⁻¹ of C: 12, O: 16)",
+      "options": [],
+      "correctAnswer": "12",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Organic Analysis",
+      "concept": "Percentage composition calculation",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "Thyroxine, the hormone has given below structure. The percentage of iodine in thyroxine is ............ %. (nearest integer) (Given molar mass in g mol⁻¹, C:12, H:1, O:16, N:14, I:127)",
+      "options": [],
+      "correctAnswer": "65",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Biomolecules",
+      "concept": "Percentage composition of hormones",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "1 Faraday electricity was passed through (1.5M, 1 L) CuSO₄/Cu and 0.1 Faraday was passed through (0.2M, 1 L) AgNO₃/Ag electrolytic cells. After this the two cells were connected as shown below to make an electrochemical cell. The emf of the cell thus formed at 298 K is- Given: E°Cu²⁺/Cu = 0.34 V, E°Ag⁺/Ag = 0.8 V, 2.303RT/F = 0.06 V",
+      "options": [],
+      "correctAnswer": "400",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "concept": "EMF calculation using Nernst equation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "The percentage dissociation of a salt MX₃ solution at given temperature (van't Hoff factor i = 2) is________% (Nearest integer)",
+      "options": [],
+      "correctAnswer": "33",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Solutions",
+      "concept": "Degree of dissociation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of paramagnetic complex among [FeF₆]³⁻, [Fe(CN)₆]³⁻, [Mn(CN)₆]³⁻, [Co(C₂O₄)₃]³⁻, [MnCl₆]³⁻ and [CoF₆]³⁻, which involved d²sp³ hybridization is ________",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Coordination Compounds",
+      "concept": "Hybridization and magnetic properties",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T11:08:28.560Z"
+}

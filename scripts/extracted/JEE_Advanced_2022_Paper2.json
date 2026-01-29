@@ -1,0 +1,1236 @@
+{
+  "filename": "JEE_Advanced_2022_Paper2.pdf",
+  "examYear": 2022,
+  "examSession": "Paper 2",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "Let α and β be real numbers such that -π/4 < β < 0 < α < π/4. If sin(α + β) = 1/3 and cos(α - β) = 2/3, then the greatest integer less than or equal to (sinα/cosβ + cosβ/sinα + cosα/sinβ + sinβ/cosα)² is _____________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Identities",
+      "concept": "Sum and difference formulas",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "If y(x) is the solution of the differential equation xdy - (y² - 4y)dx = 0 for x > 0, y(1) = 2, and the slope of the curve y = y(x) is never zero, then the value of 10y(√2) is _____________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Differential Equations",
+      "topic": "First Order Differential Equations",
+      "concept": "Separable differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "The greatest integer less than or equal to ∫₁² log₂(x³ + 1) dx + ∫₁³ (2ˣ - 1) log₂(9) dx is _____________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Integral Calculus",
+      "topic": "Definite Integration",
+      "concept": "Integration of logarithmic and exponential functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "The product of all positive real values of x satisfying the equation x(16(log₅x)³ - 68log₅x) = 5⁻¹⁶ is __________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Algebra",
+      "topic": "Logarithmic Equations",
+      "concept": "Solving logarithmic equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "If β = lim(x→0) [eˣ³ - (1 - x³)^(1/3) + ((1 - x²)^(1/2) - 1)sinx] / [x sin²x], then the value of 6β is ___________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Limits and Continuity",
+      "topic": "Limits",
+      "concept": "L'Hôpital's rule and Taylor series",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Let β be a real number. Consider the matrix A = (β 0 1; 2 1 -2; 3 1 -2). If A⁷ - (β - 1)A⁶ - βA⁵ is a singular matrix, then the value of 9β is ___________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Matrices and Determinants",
+      "topic": "Matrix Operations",
+      "concept": "Singular matrices and characteristic equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the hyperbola x²/100 - y²/64 = 1 with foci at S and S₁, where S lies on the positive x-axis. Let P be a point on the hyperbola, in the first quadrant. Let ∠SPS₁ = α, with α < π/2. The straight line passing through the point S and having the same slope as that of the tangent at P to the hyperbola, intersects the straight line S₁P at P₁. Let δ be the distance of P from the straight line SP₁, and β = S₁P. Then the greatest integer less than or equal to (βδ/9)sin(α/2) is _____________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Coordinate Geometry",
+      "topic": "Hyperbola",
+      "concept": "Properties of hyperbola and geometric constructions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the functions f, g: ℝ → ℝ defined by f(x) = x² + 5/12 and g(x) = {2(1 - 4|x|/3), |x| ≤ 3/4; 0, |x| > 3/4}. If α is the area of the region {(x,y) ∈ ℝ × ℝ: |x| ≤ 3/4, 0 ≤ y ≤ min{f(x), g(x)}}, then the value of 9α is _____________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Coordinate Geometry",
+      "topic": "Area Under Curves",
+      "concept": "Area between curves and piecewise functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "Let α = Σ(k=1 to ∞) sin²ᵏ(π/6). Let g: [0,1] → ℝ be the function defined by g(x) = 2^(αx) + 2^(α(1-x)). Then, which of the following statements is/are TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The minimum value of g(x) is 2^(7/6)"
+        },
+        {
+          "id": "B",
+          "text": "The maximum value of g(x) is 1 + 2^(1/3)"
+        },
+        {
+          "id": "C",
+          "text": "The function g(x) attains its maximum at more than one point"
+        },
+        {
+          "id": "D",
+          "text": "The function g(x) attains its minimum at more than one point"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Functions",
+      "topic": "Extrema of Functions",
+      "concept": "Maximum and minimum values of exponential functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "Let z̅ denote the complex conjugate of a complex number z. If z is a non-zero complex number for which both real and imaginary parts of (z̅)² + 1/z² are integers, then which of the following is/are possible value(s) of |z|?",
+      "options": [
+        {
+          "id": "A",
+          "text": "((43+3√205)/2)^(1/4)"
+        },
+        {
+          "id": "B",
+          "text": "((7+√33)/4)^(1/4)"
+        },
+        {
+          "id": "C",
+          "text": "((9+√65)/4)^(1/4)"
+        },
+        {
+          "id": "D",
+          "text": "((7+√13)/6)^(1/4)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Complex Numbers",
+      "topic": "Modulus and Conjugate",
+      "concept": "Properties of complex conjugates",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "Let G be a circle of radius R > 0. Let G₁, G₂, ..., Gₙ be n circles of equal radius r > 0. Suppose each of the n circles G₁, G₂, ..., Gₙ touches the circle G externally. Also, for i = 1,2, ..., n-1, the circle Gᵢ touches Gᵢ₊₁ externally, and Gₙ touches G₁ externally. Then, which of the following statements is/are TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "If n = 4, then (√2 - 1)r < R"
+        },
+        {
+          "id": "B",
+          "text": "If n = 5, then r < R"
+        },
+        {
+          "id": "C",
+          "text": "If n = 8, then (√2 - 1)r < R"
+        },
+        {
+          "id": "D",
+          "text": "If n = 12, then √2(√3 + 1)r > R"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle",
+      "concept": "Tangent circles and geometric configurations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "Let î, ĵ and k̂ be the unit vectors along the three positive coordinate axes. Let a⃗ = 3î + ĵ - k̂, b⃗ = î + b₂ĵ + b₃k̂, b₂,b₃ ∈ ℝ, c⃗ = c₁î + c₂ĵ + c₃k̂, c₁,c₂,c₃ ∈ ℝ be three vectors such that b₂b₃ > 0, a⃗ · b⃗ = 0 and (0 -c₃ c₂; c₃ 0 -c₁; -c₂ c₁ 0)(1; b₂; b₃) = (3-c₁; 1-c₂; -1-c₃). Then, which of the following is/are TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "a⃗ · c⃗ = 0"
+        },
+        {
+          "id": "B",
+          "text": "b⃗ · c⃗ = 0"
+        },
+        {
+          "id": "C",
+          "text": "|b⃗| > √10"
+        },
+        {
+          "id": "D",
+          "text": "|c⃗| ≤ √11"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Vector Algebra",
+      "topic": "Vector Operations",
+      "concept": "Cross product matrix and vector relationships",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "For x ∈ ℝ, let the function y(x) be the solution of the differential equation dy/dx + 12y = cos(πx/12), y(0) = 0. Then, which of the following statements is/are TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "y(x) is an increasing function"
+        },
+        {
+          "id": "B",
+          "text": "y(x) is a decreasing function"
+        },
+        {
+          "id": "C",
+          "text": "There exists a real number β such that the line y = β intersects the curve y = y(x) at infinitely many points"
+        },
+        {
+          "id": "D",
+          "text": "y(x) is a periodic function"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Differential Equations",
+      "topic": "Linear Differential Equations",
+      "concept": "First order linear differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider 4 boxes, where each box contains 3 red balls and 2 blue balls. Assume that all 20 balls are distinct. In how many different ways can 10 balls be chosen from these 4 boxes so that from each box at least one red ball and one blue ball are chosen?",
+      "options": [
+        {
+          "id": "A",
+          "text": "21816"
+        },
+        {
+          "id": "B",
+          "text": "85536"
+        },
+        {
+          "id": "C",
+          "text": "12096"
+        },
+        {
+          "id": "D",
+          "text": "156816"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Combinatorics",
+      "topic": "Combinations",
+      "concept": "Constrained selection from multiple groups",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "If M = (5/2 3/2; -3/2 -1/2), then which of the following matrices is equal to M²⁰²²?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(3034 3033; -3033 -3032)"
+        },
+        {
+          "id": "B",
+          "text": "(3034 -3033; 3033 -3032)"
+        },
+        {
+          "id": "C",
+          "text": "(3033 3032; -3032 -3031)"
+        },
+        {
+          "id": "D",
+          "text": "(3032 3031; -3031 -3030)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Matrices and Determinants",
+      "topic": "Matrix Powers",
+      "concept": "Powers of 2x2 matrices",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "Suppose that Box-I contains 8 red, 3 blue and 5 green balls, Box-II contains 24 red, 9 blue and 15 green balls, Box-III contains 1 blue, 12 green and 3 yellow balls, Box-IV contains 10 green, 16 orange and 6 white balls. A ball is chosen randomly from Box-I; call this ball b. If b is red then a ball is chosen randomly from Box-II, if b is blue then a ball is chosen randomly from Box-III, and if b is green then a ball is chosen randomly from Box-IV. The conditional probability of the event 'one of the chosen balls is white' given that the event 'at least one of the chosen balls is green' has happened, is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "15/256"
+        },
+        {
+          "id": "B",
+          "text": "3/16"
+        },
+        {
+          "id": "C",
+          "text": "5/52"
+        },
+        {
+          "id": "D",
+          "text": "1/8"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Conditional Probability",
+      "concept": "Conditional probability with multiple stages",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "For positive integer n, define f(n) = n + (16+5n-3n²)/(4n+3n²) + (32+n-3n²)/(8n+3n²) + (48-3n-3n²)/(12n+3n²) + ... + (25n-7n²)/(7n²). Then, the value of lim(n→∞) f(n) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 + (4/3)log_e(7)"
+        },
+        {
+          "id": "B",
+          "text": "4 - (3/4)log_e(7/3)"
+        },
+        {
+          "id": "C",
+          "text": "4 - (4/3)log_e(7/3)"
+        },
+        {
+          "id": "D",
+          "text": "3 + (3/4)log_e(7)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Limits and Continuity",
+      "topic": "Limits of Series",
+      "concept": "Limit of infinite series",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "In a particular system of units, a physical quantity can be expressed in terms of the electric charge e, electron mass m_e, Planck's constant h, and Coulomb's constant k = 1/(4πε₀), where ε₀ is the permittivity of vacuum. In terms of these physical constants, the dimension of the magnetic field is [B] = [e]^α[m_e]^β[h]^γ[k]^δ. The value of α+β+γ+δ is ____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Units and Dimensions",
+      "topic": "Dimensional Analysis",
+      "concept": "Dimensional analysis of magnetic field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "Consider a configuration of n identical units, each consisting of three layers. The first layer is a column of air of height h = 4/3 cm, and the second and third layers are of equal thickness d = √3/2 cm, and refractive indices μ₁ = 4/3 and μ₂ = √3, respectively. A light source O is placed on the top of the first unit. A ray of light from O is incident on the second layer of the first unit at an angle of θ = 60° to the normal. For a specific value of n, the ray of light emerges from the bottom of the configuration at a distance l = 3√3 cm. The value of n is ____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Ray Optics",
+      "topic": "Refraction",
+      "concept": "Multiple refraction through layered media",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "A charge q is surrounded by a closed surface consisting of an inverted cone of height h and base radius R, and a hemisphere of radius R as shown in the figure. The electric flux through the conical surface is q/nε₀ (in SI units). The value of n is ________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Electrostatics",
+      "topic": "Gauss's Law",
+      "concept": "Electric flux through partial surfaces",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "On a frictionless horizontal plane, a bob of mass m = 0.1 kg is attached to a spring with natural length l₀ = 0.1 m. The spring constant is k₁ = 0.009 N m⁻¹ when the length of the spring l > l₀ and is k₂ = 0.016 N m⁻¹ when l < l₀. Initially the bob is released from l = 0.15 m. Assume that Hooke's law remains valid throughout the motion. If the time period of the full oscillation is T = (nπ) s, then the integer closest to n is ____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Simple Harmonic Motion",
+      "topic": "Non-uniform Spring Systems",
+      "concept": "SHM with variable spring constant",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "An object and a concave mirror of focal length f = 10 cm both move along the principal axis of the mirror with constant speeds. The object moves with speed V₀ = 15 cm s⁻¹ towards the mirror with respect to a laboratory frame. The distance between the object and the mirror at a given moment is denoted by u. When u = 30 cm, the speed of the mirror Vₘ is such that the image is instantaneously at rest with respect to the laboratory frame, and the object forms a real image. The magnitude of Vₘ is _____ cm s⁻¹.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Ray Optics",
+      "topic": "Mirror Formula",
+      "concept": "Moving mirrors and image formation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "In Circuit-1 and Circuit-2 shown in the figures, R₁ = 1 Ω, R₂ = 2 Ω and R₃ = 3 Ω. P₁ and P₂ are the power dissipations in Circuit-1 and Circuit-2 when the switches S₁ and S₂ are in open conditions, respectively. Q₁ and Q₂ are the power dissipations in Circuit-1 and Circuit-2 when the switches S₁ and S₂ are in closed conditions, respectively. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "When a voltage source of 6 V is connected across A and B in both circuits, P₁ < P₂."
+        },
+        {
+          "id": "B",
+          "text": "When a constant current source of 2 Amp is connected across A and B in both circuits, P₁ > P₂."
+        },
+        {
+          "id": "C",
+          "text": "When a voltage source of 6 V is connected across A and B in Circuit-1, Q₁ > P₁."
+        },
+        {
+          "id": "D",
+          "text": "When a constant current source of 2 Amp is connected across A and B in both circuits, Q₁ < Q₂."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Current Electricity",
+      "topic": "Circuit Analysis",
+      "concept": "Power dissipation in resistor networks",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "A bubble has surface tension S. The ideal gas inside the bubble has ratio of specific heats γ = 5/3. The bubble is exposed to the atmosphere and it always retains its spherical shape. When the atmospheric pressure is P₀₁, the radius of the bubble is found to be r₁ and the temperature of the enclosed gas is T₁. When the atmospheric pressure is P₀₂, the radius of the bubble and the temperature of the enclosed gas are r₂ and T₂, respectively. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "If the surface of the bubble is a perfect heat insulator, then r₁^γ T₁^-1 = r₂^γ T₂^-1 (P₀₁ + 4S/r₁)/(P₀₂ + 4S/r₂)."
+        },
+        {
+          "id": "B",
+          "text": "If the surface of the bubble is a perfect heat insulator, then the total internal energy of the bubble including its surface energy does not change with the external atmospheric pressure."
+        },
+        {
+          "id": "C",
+          "text": "If the surface of the bubble is a perfect heat conductor and the change in atmospheric temperature is negligible, then r₁ T₁^-1 = r₂ T₂^-1 (P₀₁ + 4S/r₁)/(P₀₂ + 4S/r₂)."
+        },
+        {
+          "id": "D",
+          "text": "If the surface of the bubble is a perfect heat insulator, then r₁^(γ+1) T₁^-1 = r₂^(γ+1) T₂^-1 (P₀₁ + 4S/r₁)/(P₀₂ + 4S/r₂)."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Thermodynamics",
+      "topic": "Surface Tension and Thermodynamics",
+      "concept": "Thermodynamic processes in soap bubbles",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "A disk of radius R with uniform positive charge density σ is placed on the xy plane with its center at the origin. The Coulomb potential along the z-axis is V(z) = (σ/2ε₀)(√(R² + z²) - z). A particle of positive charge q is placed initially at rest at a point on the z axis with z = z₀ and z₀ > 0. In addition to the Coulomb force, the particle experiences a vertical force F⃗ = -ck̂ with c > 0. Let β = cε₀/(σq). Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For β = 1/2 and z₀ = 2R/3, the particle reaches the origin."
+        },
+        {
+          "id": "B",
+          "text": "For β = 1/2 and z₀ = R/3, the particle reaches the origin."
+        },
+        {
+          "id": "C",
+          "text": "For β = 1/2 and z₀ = R/√3, the particle returns back to z = z₀."
+        },
+        {
+          "id": "D",
+          "text": "For β > 1 and z₀ > 0, the particle always reaches the origin."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Potential and Force",
+      "concept": "Motion of charged particles in electric field",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "A double slit setup is shown in the figure. One of the slits is in medium 2 of refractive index n₂. The other slit is at the interface of this medium with another medium 1 of refractive index n₁ (≠ n₂). The line joining the slits is perpendicular to the interface and the distance between the slits is d. The slit widths are much smaller than d. A monochromatic parallel beam of light is incident on the slits from medium 1. A detector is placed in medium 2 at a large distance from the slits, and at an angle θ from the line joining them, so that θ equals the angle of refraction of the beam. Consider two approximately parallel rays from the slits received by the detector. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The phase difference between the two rays is independent of d."
+        },
+        {
+          "id": "B",
+          "text": "The two rays interfere constructively at the detector."
+        },
+        {
+          "id": "C",
+          "text": "The phase difference between the two rays depends on n₂ but is independent of n₁."
+        },
+        {
+          "id": "D",
+          "text": "The phase difference between the two rays vanishes only for certain values of d and the angle of incidence of the beam, with θ being the corresponding angle of refraction."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Wave Optics",
+      "topic": "Interference",
+      "concept": "Double slit interference with different media",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "In the given P-V diagram, a monoatomic gas (γ = 5/3) is first compressed adiabatically from state A to state B. Then it expands isothermally from state B to state C. [Given: 2^(2/3) ≃ 0.5, ln 2 ≃ 0.7]. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The magnitude of the total work done in the process A→B→C is 144 kJ."
+        },
+        {
+          "id": "B",
+          "text": "The magnitude of the work done in the process B→C is 84 kJ."
+        },
+        {
+          "id": "C",
+          "text": "The magnitude of the work done in the process A→B is 60 kJ."
+        },
+        {
+          "id": "D",
+          "text": "The magnitude of the work done in the process C→A is zero."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Adiabatic and isothermal processes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "A flat surface of a thin uniform disk A of radius R is glued to a horizontal table. Another thin uniform disk B of mass M and with the same radius R rolls without slipping on the circumference of A, as shown in the figure. A flat surface of B also lies on the plane of the table. The center of mass of B has fixed angular speed ω about the vertical axis passing through the center of A. The angular momentum of B is nMωR² with respect to the center of A. Which of the following is the value of n?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "3/2"
+        },
+        {
+          "id": "D",
+          "text": "5/2"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Rotational Motion",
+      "topic": "Angular Momentum",
+      "concept": "Rolling motion and angular momentum",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "When light of a given wavelength is incident on a metallic surface, the minimum potential needed to stop the emitted photoelectrons is 6.0 V. This potential drops to 0.6 V if another source with wavelength four times that of the first one and intensity half of the first one is used. What are the wavelength of the first source and the work function of the metal, respectively? [Take hc/e = 1.24 × 10⁻⁶ J m C⁻¹.]",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.72 × 10⁻⁷ m, 1.20 eV"
+        },
+        {
+          "id": "B",
+          "text": "1.72 × 10⁻⁷ m, 5.60 eV"
+        },
+        {
+          "id": "C",
+          "text": "3.78 × 10⁻⁷ m, 5.60 eV"
+        },
+        {
+          "id": "D",
+          "text": "3.78 × 10⁻⁷ m, 1.20 eV"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Photoelectric Effect",
+      "concept": "Einstein's photoelectric equation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "Area of the cross-section of a wire is measured using a screw gauge. The pitch of the main scale is 0.5 mm. The circular scale has 100 divisions and for one full rotation of the circular scale, the main scale shifts by two divisions. The measured readings are listed below. What are the diameter and cross-sectional area of the wire measured using the screw gauge?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.22 ± 0.02 mm, π(1.23 ± 0.02) mm²"
+        },
+        {
+          "id": "B",
+          "text": "2.22 ± 0.01 mm, π(1.23 ± 0.01) mm²"
+        },
+        {
+          "id": "C",
+          "text": "2.14 ± 0.02 mm, π(1.14 ± 0.02) mm²"
+        },
+        {
+          "id": "D",
+          "text": "2.14 ± 0.01 mm, π(1.14 ± 0.01) mm²"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Measurements",
+      "topic": "Screw Gauge",
+      "concept": "Measurement using screw gauge and error analysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "Which one of the following options represents the magnetic field B⃗ at O due to the current flowing in the given wire segments lying on the xy plane?",
+      "options": [
+        {
+          "id": "A",
+          "text": "B⃗ = (μ₀I/4πL)[1 + 1/√2]k̂"
+        },
+        {
+          "id": "B",
+          "text": "B⃗ = -(μ₀I/4πL)[1 + 1/√2]k̂"
+        },
+        {
+          "id": "C",
+          "text": "B⃗ = (μ₀I/4πL)[1 + 1/√2]k̂"
+        },
+        {
+          "id": "D",
+          "text": "B⃗ = (μ₀I/4πL)[1 + 1/π]k̂"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Field",
+      "concept": "Magnetic field due to current-carrying wire segments",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 1,
+      "subject": "CHEMISTRY",
+      "questionText": "Concentration of H₂SO₄ and Na₂SO₄ in a solution is 1 M and 1.8 × 10⁻² M, respectively. Molar solubility of PbSO₄ in the same solution is X × 10⁻ʸ M (expressed in scientific notation). The value of Y is _________. [Given: Solubility product of PbSO₄ (Ksp) = 1.6 × 10⁻⁸. For H₂SO₄, Ka1 is very large and Ka2 = 1.2 × 10⁻²]",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Ionic Equilibrium",
+      "topic": "Solubility Product",
+      "concept": "Common ion effect on solubility",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "CHEMISTRY",
+      "questionText": "An aqueous solution is prepared by dissolving 0.1 mol of an ionic salt in 1.8 kg of water at 35°C. The salt remains 90% dissociated in the solution. The vapour pressure of the solution is 59.724 mm of Hg. Vapor pressure of water at 35°C is 60.000 mm of Hg. The number of ions present per formula unit of the ionic salt is _______.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Solutions",
+      "topic": "Colligative Properties",
+      "concept": "Vapor pressure lowering and ionic dissociation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the strong electrolytes ZmXn, UmYp and VmXn. Limiting molar conductivity (Λ⁰) of UmYp and VmXn are 250 and 440 S cm² mol⁻¹, respectively. The value of (m + n + p) is _______. Given: Ion Z^n+, U^p+, V^n+, X^m-, Y^m- have λ⁰ values of 50.0, 25.0, 100.0, 80.0, 100.0 S cm² mol⁻¹ respectively. λ⁰ is the limiting molar conductivity of ions. The plot of molar conductivity (Λ) of ZmXn vs c^(1/2) is given below.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Electrochemistry",
+      "topic": "Conductance",
+      "concept": "Limiting molar conductivity and strong electrolytes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "CHEMISTRY",
+      "questionText": "The reaction of Xe and O₂F₂ gives a Xe compound P. The number of moles of HF produced by the complete hydrolysis of 1 mol of P is _______.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "p-Block Elements",
+      "topic": "Noble Gas Compounds",
+      "concept": "Xenon compounds and hydrolysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "CHEMISTRY",
+      "questionText": "Thermal decomposition of AgNO₃ produces two paramagnetic gases. The total number of electrons present in the antibonding molecular orbitals of the gas that has the higher number of unpaired electrons is _______.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Chemical Bonding",
+      "topic": "Molecular Orbital Theory",
+      "concept": "Paramagnetic molecules and antibonding orbitals",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of isomeric tetraenes (NOT containing sp-hybridized carbon atoms) that can be formed from the following reaction sequence is ________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Organic Chemistry",
+      "topic": "Alkenes",
+      "concept": "Isomerism in tetraenes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of -CH₂- (methylene) groups in the product formed from the following reaction sequence is ________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Organic Chemistry",
+      "topic": "Organic Reactions",
+      "concept": "Methylene groups in organic products",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "CHEMISTRY",
+      "questionText": "The total number of chiral molecules formed from one molecule of P on complete ozonolysis (O₃, Zn/H₂O) is ________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "INTEGER",
+      "chapter": "Organic Chemistry",
+      "topic": "Stereochemistry",
+      "concept": "Chirality and ozonolysis products",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct option(s) about entropy (S) is(are) [R = gas constant, F = Faraday constant, T = Temperature]",
+      "options": [
+        {
+          "id": "A",
+          "text": "For the reaction, M(s) + 2H⁺(aq) → H₂(g) + M²⁺(aq), if dE_cell/dT = R/F, then the entropy change of the reaction is R (assume that entropy and internal energy changes are temperature independent)."
+        },
+        {
+          "id": "B",
+          "text": "The cell reaction, Pt(s) | H₂(g, 1bar) | H⁺(aq, 0.01M) || H⁺(aq, 0.1M) | H₂(g, 1bar) | Pt(s), is an entropy driven process."
+        },
+        {
+          "id": "C",
+          "text": "For racemization of an optically active compound, ΔS > 0."
+        },
+        {
+          "id": "D",
+          "text": "ΔS > 0, for [Ni(H₂O)₆]²⁺ + 3 en → [Ni(en)₃]²⁺ + 6H₂O (where en = ethylenediamine)."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Thermodynamics",
+      "topic": "Entropy",
+      "concept": "Entropy changes in chemical reactions",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "CHEMISTRY",
+      "questionText": "The compound(s) which react(s) with NH₃ to give boron nitride (BN) is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "B"
+        },
+        {
+          "id": "B",
+          "text": "B₂H₆"
+        },
+        {
+          "id": "C",
+          "text": "B₂O₃"
+        },
+        {
+          "id": "D",
+          "text": "HBF₄"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "p-Block Elements",
+      "topic": "Boron Compounds",
+      "concept": "Formation of boron nitride",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct option(s) related to the extraction of iron from its ore in the blast furnace operating in the temperature range 900 – 1500 K is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Limestone is used to remove silicate impurity."
+        },
+        {
+          "id": "B",
+          "text": "Pig iron obtained from blast furnace contains about 4% carbon."
+        },
+        {
+          "id": "C",
+          "text": "Coke (C) converts CO₂ to CO."
+        },
+        {
+          "id": "D",
+          "text": "Exhaust gases consist of NO₂ and CO."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Metallurgy",
+      "topic": "Extraction of Metals",
+      "concept": "Iron extraction in blast furnace",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "CHEMISTRY",
+      "questionText": "Considering the following reaction sequence, the correct statement(s) is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Compounds P and Q are carboxylic acids."
+        },
+        {
+          "id": "B",
+          "text": "Compound S decolorizes bromine water."
+        },
+        {
+          "id": "C",
+          "text": "Compounds P and S react with hydroxylamine to give the corresponding oximes."
+        },
+        {
+          "id": "D",
+          "text": "Compound R reacts with dialkylcadmium to give the corresponding tertiary alcohol."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Organic Reactions",
+      "concept": "Reaction sequences and product identification",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "CHEMISTRY",
+      "questionText": "Among the following, the correct statement(s) about polymers is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "The polymerization of chloroprene gives natural rubber."
+        },
+        {
+          "id": "B",
+          "text": "Teflon is prepared from tetrafluoroethene by heating it with persulphate catalyst at high pressures."
+        },
+        {
+          "id": "C",
+          "text": "PVC are thermoplastic polymers."
+        },
+        {
+          "id": "D",
+          "text": "Ethene at 350-570 K temperature and 1000-2000 atm pressure in the presence of a peroxide initiator yields high density polythene."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Polymers",
+      "topic": "Types of Polymers",
+      "concept": "Polymer synthesis and properties",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "CHEMISTRY",
+      "questionText": "Atom X occupies the fcc lattice sites as well as alternate tetrahedral voids of the same lattice. The packing efficiency (in %) of the resultant solid is closest to",
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "35"
+        },
+        {
+          "id": "C",
+          "text": "55"
+        },
+        {
+          "id": "D",
+          "text": "75"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solid State",
+      "topic": "Crystal Lattices",
+      "concept": "Packing efficiency in crystal structures",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "CHEMISTRY",
+      "questionText": "The reaction of HClO₃ with HCl gives a paramagnetic gas, which upon reaction with O₃ produces",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cl₂O"
+        },
+        {
+          "id": "B",
+          "text": "ClO₂"
+        },
+        {
+          "id": "C",
+          "text": "Cl₂O₆"
+        },
+        {
+          "id": "D",
+          "text": "Cl₂O₇"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "p-Block Elements",
+      "topic": "Halogens and their Compounds",
+      "concept": "Reactions of chlorine compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "CHEMISTRY",
+      "questionText": "The reaction of Pb(NO₃)₂ and NaCl in water produces a precipitate that dissolves upon the addition of HCl of appropriate concentration. The dissolution of the precipitate is due to the formation of",
+      "options": [
+        {
+          "id": "A",
+          "text": "PbCl₂"
+        },
+        {
+          "id": "B",
+          "text": "PbCl₄"
+        },
+        {
+          "id": "C",
+          "text": "[PbCl₄]²⁻"
+        },
+        {
+          "id": "D",
+          "text": "[PbCl₆]²⁻"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Complex Ion Formation",
+      "concept": "Complex ion formation and precipitation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "CHEMISTRY",
+      "questionText": "Treatment of D-glucose with aqueous NaOH results in a mixture of monosaccharides, which are",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Chemical structures shown - option A]"
+        },
+        {
+          "id": "B",
+          "text": "[Chemical structures shown - option B]"
+        },
+        {
+          "id": "C",
+          "text": "[Chemical structures shown - option C]"
+        },
+        {
+          "id": "D",
+          "text": "[Chemical structures shown - option D]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Biomolecules",
+      "topic": "Carbohydrates",
+      "concept": "Reactions of glucose with base",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T14:03:21.539Z"
+}

@@ -1,0 +1,169 @@
+{
+  "filename": "JEE_Main_2025_April_8.pdf",
+  "examYear": 2025,
+  "examSession": "April 8",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "An electron is released from rest near an infinite non-conducting sheet of uniform charge density 'σ'. The rate of change of de-Broglie wavelength associated with the electron varies inversely as n^th power of time. The numerical value of n is ____.",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Modern Physics",
+      "topic": "De-Broglie Wavelength",
+      "concept": "Variation of wavelength with time",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "A sample of a liquid is kept at 1 atm. It is compressed to 5 atm which leads to change of volume of 0.8 cm³. If the bulk modulus of the liquid is 2 GPa, the initial volume of the liquid was _______ litre. (Take 1 atm = 10⁵ Pa)",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Properties of Matter",
+      "topic": "Elasticity",
+      "concept": "Bulk modulus",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "Space between the plates of a parallel plate capacitor of plate area 4 cm² and separation of (d) 1.77 mm, is filled with uniform dielectric materials with dielectric constants (3 and 5) as shown in figure. Another capacitor of capacitance 7.5 pF is connected in parallel with it. The effective capacitance of this combination is _______ pF. (Given ε₀ = 8.85×10⁻¹² F/m)",
+      "options": [],
+      "correctAnswer": "15",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Capacitors",
+      "concept": "Parallel plate capacitor with dielectric",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "A thin solid disk of 1 kg is rotating along its diameter axis at the speed of 1800 rpm. By applying an external torque of 25πNm for 40 s, the speed increases to 2100 rpm. The diameter of the disk is______ m.",
+      "options": [],
+      "correctAnswer": "40",
+      "questionType": "NUMERICAL",
+      "chapter": "Rotational Mechanics",
+      "topic": "Rotational Dynamics",
+      "concept": "Angular acceleration and moment of inertia",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "A cube having a side of 10 cm with unknown mass and 200 gm mass were hung at two ends of an uniform rigid rod of 27 cm long. The rod along with masses was placed on a wedge keeping the distance between wedge point and 200 gm weight as 25 cm. Initially the masses were not at balance. A beaker is placed beneath the unknown mass and water is added slowly to it. At given point the masses were in balance and half volume of the unknown mass was inside the water. (Take the density of unknown mass is more than that of the water, the mass did not absorb water and water density is 1gm/cm³.) The unknown mass is ______ kg.",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Equilibrium",
+      "concept": "Principle of moments with buoyancy",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "CHEMISTRY",
+      "questionText": "Resonance in YX₂ can be represented as Y(X≡X)(g) + Y₂Y(g) → YX₂(g). The enthalpy of formation of YX₂ is 80 kJ·mol⁻¹. The magnitude of resonance energy of YX₂ is ______ kJ mol⁻¹ (nearest integer value). Given: Bond energies of X≡X, X=X, Y=Y and X=Y are 940, 410, 500 and 602 kJ mol⁻¹ respectively. X:3, Y:2 valence",
+      "options": [],
+      "correctAnswer": "98",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Bonding",
+      "topic": "Resonance",
+      "concept": "Resonance energy calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "The energy of an electron in first Bohr orbit of H-atom is -13.6 eV. The magnitude of energy value of electron in the first excited state of Be³⁺ is _______eV. (nearest integer value)",
+      "options": [],
+      "correctAnswer": "54",
+      "questionType": "NUMERICAL",
+      "chapter": "Atomic Structure",
+      "topic": "Bohr Model",
+      "concept": "Energy levels in hydrogen-like ions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "20 mL of sodium iodide solution gave 4.74 g silver iodide when treated with excess of silver nitrate solution. The molarity of the sodium iodide solution is _______ M. (Nearest Integer value) (Given: Na=23, I=127, Ag=108, N=14, O=16 g mol⁻¹)",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Molarity",
+      "concept": "Stoichiometric calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "The equilibrium constant for decomposition of H₂O(g) ⇌ H₂(g) + 1/2 O₂(g) (ΔG°=92.34 kJ mol⁻¹) is 8.0×10⁻³ at 2300 K and total pressure at equilibrium is 1 bar. Under this condition, the degree of dissociation (α) of water is _______ × 10⁻² (nearest integer value). [Assume α is negligible with respect to 1]",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Equilibrium",
+      "topic": "Equilibrium Constant",
+      "concept": "Degree of dissociation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following half cell reaction Cr₂O₇²⁻(aq) + 6e⁻ + 14H⁺(aq) → 2Cr³⁺(aq) + 7H₂O(l). The reaction was conducted with the ratio of [Cr³⁺]²/[Cr₂O₇²⁻] = 10⁻⁶. The pH value at which the EMF of the half cell will become zero is _______. (nearest integer value). Given: standard half cell reduction potential E° Cr₂O₇²⁻,H⁺/Cr³⁺ = 1.33 V, 2.303RT/F = 0.059 V",
+      "options": [],
+      "correctAnswer": "10",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Nernst Equation",
+      "concept": "pH calculation from electrode potential",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T11:15:37.068Z"
+}

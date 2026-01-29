@@ -1,0 +1,169 @@
+{
+  "filename": "JEE_Main_2025_April_7_Shift2.pdf",
+  "examYear": 2025,
+  "examSession": "April 7 Shift 2",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "A parallel plate capacitor has charge 5×10⁻⁶ C. A dielectric slab is inserted between the plates and almost fills the space between the plates. If the induced charge on one face of the slab is 4×10⁻⁶ C then the dielectric constant of the slab is ______.",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Capacitance with Dielectric",
+      "concept": "Induced charge on dielectric surface",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "An inductor of reactance 100Ω, a capacitor of reactance 50Ω, and a resistor of resistance 50Ω are connected in series with an AC source of 10 V, 50 Hz. Average power dissipated by the circuit is _______ W.",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Alternating Current",
+      "topic": "AC Circuit Analysis",
+      "concept": "Power dissipation in RLC circuit",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "Two cylindrical rods A and B made of different materials, are joined in a straight line. The ratio of lengths, radii and thermal conductivities of these rods are: L_A/L_B = 1/2, r_A/r_B = 2 and K_A/K_B = 1/2. The free ends of rods A and B are maintained at 400 K, 200 K respectively. The temperature of rods interface is ___________K, when equilibrium is established.",
+      "options": [],
+      "correctAnswer": "360",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermal Physics",
+      "topic": "Heat Transfer",
+      "concept": "Thermal conduction in composite rods",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "The electric field in a region is given by E = (2î + 4ĵ + 6k̂) × 10³ N/C. The flux of the field through a rectangular surface parallel to x-z plane is 6.0 Nm²/C⁻¹. The area of the surface is _____ cm².",
+      "options": [],
+      "correctAnswer": "15",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Electric Flux",
+      "concept": "Electric flux through a surface",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "M and R be the mass and radius of a disc. A small disc of radius R/3 is removed from the bigger disc as shown in figure. The moment of inertia of remaining part of bigger disc about an axis AB passing through the centre O and perpendicular to the plane of disc is (M/4)xR². The value of x is ________.",
+      "options": [],
+      "correctAnswer": "9",
+      "questionType": "NUMERICAL",
+      "chapter": "Rotational Motion",
+      "topic": "Moment of Inertia",
+      "concept": "Moment of inertia of composite body",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "CHEMISTRY",
+      "questionText": "Only one litre buffer solution was prepared by adding 0.10 mol each of NH₃ and NH₄Cl in deionised water. The change in pH on addition of 0.05 mol of HCl to the above solution is ____ × 10⁻², (Nearest integer) (Given: pKb of NH₃ = 4.745 and log₁₀3 = 0.477)",
+      "options": [],
+      "correctAnswer": "48",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Ionic Equilibrium",
+      "concept": "Buffer solution and Henderson-Hasselbalch equation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "In Dumas' method 292 mg of an organic compound released 50 mL of nitrogen gas at 300 K temperature and 715 mm Hg pressure. The percentage composition of 'N' in the organic compound is ________% (Nearest integer) (Aqueous tension at 300 K = 15 mm Hg)",
+      "options": [],
+      "correctAnswer": "18",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Quantitative Analysis",
+      "concept": "Dumas method for nitrogen estimation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "Butane reacts with oxygen to produce carbon dioxide and water following the equation given below: C₄H₁₀(g) + 13/2 O₂(g) → 4CO₂(g) + 5H₂O(l). If 174.0 kg of butane is mixed with 320.0 kg of O₂, the volume of water formed in litres is ________.(Nearest integer) [Given: (a) Molar mass of C,H,O are 12, 1, 16 g mol⁻¹ respectively, (b) Density of water = 1 g mL⁻¹]",
+      "options": [],
+      "correctAnswer": "138",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Stoichiometry",
+      "concept": "Limiting reagent and yield calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of paramagnetic metal complex species among [Co(NH₃)₆]³⁺, [Co(C₂O₄)₃]³⁻, [MnCl₆]³⁻, [Mn(CN)₆]³⁻, [CoF₆]³⁻, [Fe(CN)₆]³⁻, [FeF₆]³⁻ with same number of unpaired electrons is _______.",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Chemistry",
+      "topic": "Crystal Field Theory",
+      "concept": "Magnetic properties and unpaired electrons in complexes",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "Identify the structure of the final product (D) in the following sequence of the reactions: Total number of sp² hybridised carbon atoms in product D is.",
+      "options": [],
+      "correctAnswer": "7",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Multi-step organic synthesis and hybridization",
+      "difficulty": "HARD",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T11:11:54.457Z"
+}

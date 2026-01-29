@@ -6,16 +6,6 @@ datasource db {
   provider = "postgresql"
 }
 
-// ================================
-// Dataset Sources
-// ================================
-
-enum DatasetType {
-  LICENSED
-  OWNED
-  PUBLIC
-}
-
 model DatasetSource {
   id          String      @id @default(cuid())
   name        String      @unique
@@ -26,15 +16,163 @@ model DatasetSource {
   isActive    Boolean     @default(true)
   createdAt   DateTime    @default(now())
   updatedAt   DateTime    @updatedAt
-
-  questions Question[]
+  questions   Question[]
 
   @@map("dataset_sources")
 }
 
-// ================================
-// Questions (JEE Historical)
-// ================================
+model Question {
+  id              String        @id @default(cuid())
+  datasetSourceId String
+  examType        ExamType
+  examYear        Int
+  examSession     String?
+  subject         Subject
+  chapter         String
+  topic           String
+  concept         String
+  questionType    QuestionType
+  difficulty      Difficulty
+  skills          Skill[]
+  questionText    String
+  options         Json?
+  correctAnswer   String
+  solution        String?
+  isActive        Boolean       @default(true)
+  tags            String[]      @default([])
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+  datasetSource   DatasetSource @relation(fields: [datasetSourceId], references: [id])
+
+  @@index([subject])
+  @@index([examType, examYear])
+  @@index([chapter])
+  @@index([concept])
+  @@index([difficulty])
+  @@map("questions")
+}
+
+model DiagnosticItem {
+  id              String       @id @default(cuid())
+  subject         Subject
+  chapter         String
+  concept         String
+  questionType    QuestionType
+  difficulty      Difficulty
+  skills          Skill[]
+  questionText    String
+  options         Json
+  correctAnswer   String
+  solution        String?
+  hint            String?
+  frequencyWeight Float        @default(1.0)
+  priorityScore   Float        @default(1.0)
+  isActive        Boolean      @default(true)
+  createdAt       DateTime     @default(now())
+  updatedAt       DateTime     @updatedAt
+
+  @@index([subject])
+  @@index([difficulty])
+  @@index([concept])
+  @@map("diagnostic_items")
+}
+
+model DiagnosticAttempt {
+  id               String        @id @default(cuid())
+  leadId           String
+  reportToken      String        @unique @default(cuid())
+  status           AttemptStatus @default(IN_PROGRESS)
+  selectedItems    String[]
+  currentIndex     Int           @default(0)
+  answers          Json?
+  correctCount     Int           @default(0)
+  incorrectCount   Int           @default(0)
+  skippedCount     Int           @default(0)
+  physicsScore     Float?
+  chemistryScore   Float?
+  mathScore        Float?
+  readinessScore   Float?
+  strengthConcepts String[]      @default([])
+  weaknessConcepts String[]      @default([])
+  totalTimeSeconds Int?
+  startedAt        DateTime      @default(now())
+  completedAt      DateTime?
+  ipAddress        String?
+  fingerprint      String?
+  userAgent        String?
+  createdAt        DateTime      @default(now())
+  updatedAt        DateTime      @updatedAt
+  lead             Lead          @relation(fields: [leadId], references: [id])
+
+  @@index([leadId])
+  @@index([reportToken])
+  @@index([status])
+  @@map("diagnostic_attempts")
+}
+
+model Lead {
+  id                 String              @id @default(cuid())
+  name               String
+  email              String              @unique
+  phone              String?
+  class              String?
+  targetYear         Int?
+  city               String?
+  school             String?
+  termsAccepted      Boolean             @default(false)
+  marketingConsent   Boolean             @default(false)
+  whatsappConsent    Boolean             @default(false)
+  utmSource          String?
+  utmMedium          String?
+  utmCampaign        String?
+  utmTerm            String?
+  utmContent         String?
+  ipAddress          String?
+  fingerprint        String?
+  userAgent          String?
+  visitCount         Int                 @default(1)
+  firstVisitAt       DateTime            @default(now())
+  lastActivityAt     DateTime            @default(now())
+  createdAt          DateTime            @default(now())
+  updatedAt          DateTime            @updatedAt
+  diagnosticAttempts DiagnosticAttempt[]
+
+  @@index([email])
+  @@index([createdAt])
+  @@map("leads")
+}
+
+model AdminUser {
+  id          String    @id @default(cuid())
+  email       String    @unique
+  password    String
+  name        String
+  role        AdminRole @default(EDITOR)
+  isActive    Boolean   @default(true)
+  lastLoginAt DateTime?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  @@map("admin_users")
+}
+
+model RateLimitEntry {
+  id           String   @id @default(cuid())
+  identifier   String
+  endpoint     String
+  requestCount Int      @default(1)
+  windowStart  DateTime @default(now())
+
+  @@unique([identifier, endpoint])
+  @@index([windowStart])
+  @@map("rate_limit_entries")
+}
+
+enum DatasetType {
+  LICENSED
+  OWNED
+  PUBLIC
+}
 
 enum ExamType {
   MAIN
@@ -72,234 +210,15 @@ enum Skill {
   GRAPHICAL
 }
 
-model Question {
-  id              String       @id @default(cuid())
-  datasetSourceId String
-  datasetSource   DatasetSource @relation(fields: [datasetSourceId], references: [id])
-
-  // Exam Information
-  examType        ExamType
-  examYear        Int
-  examSession     String?      // "January", "April", "Session 1", etc.
-
-  // Subject & Topic
-  subject         Subject
-  chapter         String
-  topic           String
-  concept         String
-
-  // Question Details
-  questionType    QuestionType
-  difficulty      Difficulty
-  skills          Skill[]
-
-  // Content
-  questionText    String       @db.Text
-  options         Json?        // For MCQ: [{ "id": "A", "text": "..." }, ...]
-  correctAnswer   String       // "A", "B,C", "3.14", etc.
-  solution        String?      @db.Text
-
-  // Metadata
-  isActive        Boolean      @default(true)
-  tags            String[]     @default([])
-
-  createdAt       DateTime     @default(now())
-  updatedAt       DateTime     @updatedAt
-
-  @@index([subject])
-  @@index([examType, examYear])
-  @@index([chapter])
-  @@index([concept])
-  @@index([difficulty])
-  @@map("questions")
-}
-
-// ================================
-// Diagnostic Items (Zenith-authored)
-// ================================
-
-model DiagnosticItem {
-  id              String       @id @default(cuid())
-
-  // Subject & Topic
-  subject         Subject
-  chapter         String
-  concept         String
-
-  // Question Details
-  questionType    QuestionType
-  difficulty      Difficulty
-  skills          Skill[]
-
-  // Content
-  questionText    String       @db.Text
-  options         Json         // [{ "id": "A", "text": "..." }, ...]
-  correctAnswer   String
-  solution        String?      @db.Text
-  hint            String?
-
-  // Weighting for selection
-  frequencyWeight Float        @default(1.0)  // Higher = more likely to be selected
-  priorityScore   Float        @default(1.0)  // Based on JEE frequency
-
-  // Metadata
-  isActive        Boolean      @default(true)
-
-  createdAt       DateTime     @default(now())
-  updatedAt       DateTime     @updatedAt
-
-  @@index([subject])
-  @@index([difficulty])
-  @@index([concept])
-  @@map("diagnostic_items")
-}
-
-// ================================
-// Diagnostic Attempts
-// ================================
-
 enum AttemptStatus {
   IN_PROGRESS
   COMPLETED
   ABANDONED
 }
 
-model DiagnosticAttempt {
-  id              String       @id @default(cuid())
-  leadId          String
-  lead            Lead         @relation(fields: [leadId], references: [id])
-  reportToken     String       @unique @default(cuid())
-
-  // Status
-  status          AttemptStatus @default(IN_PROGRESS)
-
-  // Question Selection & Progress
-  selectedItems   String[]     // Array of DiagnosticItem IDs
-  currentIndex    Int          @default(0)
-  answers         Json?        // { "itemId": { "answer": "A", "isCorrect": true, "timeSeconds": 30 } }
-
-  // Scores
-  correctCount    Int          @default(0)
-  incorrectCount  Int          @default(0)
-  skippedCount    Int          @default(0)
-
-  physicsScore    Float?
-  chemistryScore  Float?
-  mathScore       Float?
-  readinessScore  Float?
-
-  // Analysis
-  strengthConcepts  String[]   @default([])
-  weaknessConcepts  String[]   @default([])
-
-  // Timing
-  totalTimeSeconds  Int?
-  startedAt         DateTime   @default(now())
-  completedAt       DateTime?
-
-  // Tracking
-  ipAddress         String?
-  fingerprint       String?
-  userAgent         String?
-
-  createdAt         DateTime   @default(now())
-  updatedAt         DateTime   @updatedAt
-
-  @@index([leadId])
-  @@index([reportToken])
-  @@index([status])
-  @@map("diagnostic_attempts")
-}
-
-// ================================
-// Leads
-// ================================
-
-model Lead {
-  id              String    @id @default(cuid())
-
-  // Contact Information
-  name            String
-  email           String    @unique
-  phone           String?
-
-  // Academic Information
-  class           String?   // "11", "12", "Dropper"
-  targetYear      Int?      // 2025, 2026, etc.
-  city            String?
-  school          String?
-
-  // Consent
-  termsAccepted     Boolean  @default(false)
-  marketingConsent  Boolean  @default(false)
-  whatsappConsent   Boolean  @default(false)
-
-  // UTM Tracking
-  utmSource       String?
-  utmMedium       String?
-  utmCampaign     String?
-  utmTerm         String?
-  utmContent      String?
-
-  // Session Tracking
-  ipAddress       String?
-  fingerprint     String?
-  userAgent       String?
-
-  // Engagement
-  visitCount      Int       @default(1)
-  firstVisitAt    DateTime  @default(now())
-  lastActivityAt  DateTime  @default(now())
-
-  createdAt       DateTime  @default(now())
-  updatedAt       DateTime  @updatedAt
-
-  diagnosticAttempts DiagnosticAttempt[]
-
-  @@index([email])
-  @@index([createdAt])
-  @@map("leads")
-}
-
-// ================================
-// Admin Users
-// ================================
-
 enum AdminRole {
   SUPER_ADMIN
   ADMIN
   EDITOR
   VIEWER
-}
-
-model AdminUser {
-  id          String    @id @default(cuid())
-  email       String    @unique
-  password    String    // bcrypt hashed
-  name        String
-  role        AdminRole @default(EDITOR)
-  isActive    Boolean   @default(true)
-
-  lastLoginAt DateTime?
-
-  createdAt   DateTime  @default(now())
-  updatedAt   DateTime  @updatedAt
-
-  @@map("admin_users")
-}
-
-// ================================
-// Rate Limiting
-// ================================
-
-model RateLimitEntry {
-  id            String   @id @default(cuid())
-  identifier    String   // IP address or fingerprint
-  endpoint      String   // API endpoint being rate limited
-  requestCount  Int      @default(1)
-  windowStart   DateTime @default(now())
-
-  @@unique([identifier, endpoint])
-  @@index([windowStart])
-  @@map("rate_limit_entries")
 }

@@ -1,0 +1,1207 @@
+{
+  "filename": "JEE_Advanced_2025_Paper2.pdf",
+  "examYear": 2025,
+  "examSession": "Paper 2",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "Let x₀ be the real number such that e^(x₀) + x₀ = 0. For a given real number α, define g(x) = (3xe^x + 3x - αe^x - αx)/(3(e^x + 1)) for all real numbers x. Then which one of the following statements is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For α = 2, lim(x→x₀) |g(x) + e^(x₀)/(x - x₀)| = 0"
+        },
+        {
+          "id": "B",
+          "text": "For α = 2, lim(x→x₀) |g(x) + e^(x₀)/(x - x₀)| = 1"
+        },
+        {
+          "id": "C",
+          "text": "For α = 3, lim(x→x₀) |g(x) + e^(x₀)/(x - x₀)| = 0"
+        },
+        {
+          "id": "D",
+          "text": "For α = 3, lim(x→x₀) |g(x) + e^(x₀)/(x - x₀)| = 2/3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Limits and Continuity",
+      "topic": "L'Hôpital's Rule",
+      "concept": "Complex limit evaluation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "Let ℝ denote the set of all real numbers. Then the area of the region {(x,y) ∈ ℝ×ℝ : x > 0, y > 1/x, 5x - 4y - 1 > 0, 4x + 4y - 17 < 0} is",
+      "options": [
+        {
+          "id": "A",
+          "text": "17/16 - logₑ4"
+        },
+        {
+          "id": "B",
+          "text": "33/8 - logₑ4"
+        },
+        {
+          "id": "C",
+          "text": "57/8 - logₑ4"
+        },
+        {
+          "id": "D",
+          "text": "17/2 - logₑ4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Area of regions",
+      "concept": "Area bounded by curves and inequalities",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "The total number of real solutions of the equation θ = tan⁻¹(2tanθ) - (1/2)sin⁻¹(6tanθ/(9 + tan²θ)) is (Here, the inverse trigonometric functions sin⁻¹x and tan⁻¹x assume values in [-π/2, π/2] and (-π/2, π/2), respectively.)",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inverse Trigonometry",
+      "topic": "Inverse trigonometric equations",
+      "concept": "Complex trigonometric equation solving",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S denote the locus of the point of intersection of the pair of lines 4x - 3y = 12α, 4αx + 3αy = 12, where α varies over the set of non-zero real numbers. Let T be the tangent to S passing through the points (p,0) and (0,q), q > 0, and parallel to the line 4x - (3/√2)y = 0. Then the value of pq is",
+      "options": [
+        {
+          "id": "A",
+          "text": "-6√2"
+        },
+        {
+          "id": "B",
+          "text": "-3√2"
+        },
+        {
+          "id": "C",
+          "text": "-9√2"
+        },
+        {
+          "id": "D",
+          "text": "-12√2"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Locus and tangents",
+      "concept": "Locus of intersection points and tangent conditions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Let I = (1 0; 0 1) and P = (2 0; 0 3). Let Q = (x y; z 4) for some non-zero real numbers x, y, and z, for which there is a 2×2 matrix R with all entries being non-zero real numbers, such that QR = RP. Then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The determinant of Q - 2I is zero"
+        },
+        {
+          "id": "B",
+          "text": "The determinant of Q - 6I is 12"
+        },
+        {
+          "id": "C",
+          "text": "The determinant of Q - 3I is 15"
+        },
+        {
+          "id": "D",
+          "text": "yz = 2"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Matrices",
+      "topic": "Matrix equations",
+      "concept": "Similar matrices and eigenvalues",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S denote the locus of the mid-points of those chords of the parabola y² = x, such that the area of the region enclosed between the parabola and the chord is 4/3. Let ℛ denote the region lying in the first quadrant, enclosed by the parabola y² = x, the curve S, and the lines x = 1 and x = 4. Then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(4, √3) ∈ S"
+        },
+        {
+          "id": "B",
+          "text": "(5, √2) ∈ S"
+        },
+        {
+          "id": "C",
+          "text": "Area of ℛ is 14/3 - 2√3"
+        },
+        {
+          "id": "D",
+          "text": "Area of ℛ is 14/3 - √3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola and locus",
+      "concept": "Locus of chord midpoints and area calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P(x₁,y₁) and Q(x₂,y₂) be two distinct points on the ellipse x²/9 + y²/4 = 1 such that y₁ > 0, and y₂ > 0. Let C denote the circle x² + y² = 9, and M be the point (3,0). Suppose the line x = x₁ intersects C at R, and the line x = x₂ intersects C at S, such that the y-coordinates of R and S are positive. Let ∠ROM = π/6 and ∠SOM = π/3, where O denotes the origin (0,0). Let |XY| denote the length of the line segment XY. Then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The equation of the line joining P and Q is 2x + 3y = 3(1 + √3)"
+        },
+        {
+          "id": "B",
+          "text": "The equation of the line joining P and Q is 2x + y = 3(1 + √3)"
+        },
+        {
+          "id": "C",
+          "text": "If N₂ = (x₂,0), then 3|N₂Q| = 2|N₂S|"
+        },
+        {
+          "id": "D",
+          "text": "If N₁ = (x₁,0), then 9|N₁P| = 4|N₁R|"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Ellipse and circle",
+      "concept": "Geometric relationships between ellipse and circle",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "Let ℝ denote the set of all real numbers. Let f: ℝ → ℝ be defined by f(x) = {(6x + sinx)/(2x + sinx) if x ≠ 0, 7/3 if x = 0}. Then which of the following statements is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The point x = 0 is a point of local maxima of f"
+        },
+        {
+          "id": "B",
+          "text": "The point x = 0 is a point of local minima of f"
+        },
+        {
+          "id": "C",
+          "text": "Number of points of local maxima of f in the interval [π, 6π] is 3"
+        },
+        {
+          "id": "D",
+          "text": "Number of points of local minima of f in the interval [2π, 4π] is 1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Differential Calculus",
+      "topic": "Maxima and minima",
+      "concept": "Local extrema of piecewise functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "Let y(x) be the solution of the differential equation x²(dy/dx) + xy = x² + y², x > 1/e, satisfying y(1) = 0. Then the value of 2(y(e))²/y(e²) is ___________.",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Differential Equations",
+      "topic": "First order differential equations",
+      "concept": "Nonlinear differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a₀, a₁, ..., a₂₃ be real numbers such that (1 + (2/5)x)²³ = Σ(i=0 to 23) aᵢxⁱ for every real number x. Let aᵣ be the largest among the numbers aⱼ for 0 ≤ j ≤ 23. Then the value of r is ___________.",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial coefficients",
+      "concept": "Maximum binomial coefficient",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "MATHEMATICS",
+      "questionText": "A factory has a total of three manufacturing units, M₁, M₂, and M₃, which produce bulbs independent of each other. The units M₁, M₂, and M₃ produce bulbs in the proportions of 2:2:1, respectively. It is known that 20% of the bulbs produced in the factory are defective. It is also known that, of all the bulbs produced by M₁, 15% are defective. Suppose that, if a randomly chosen bulb produced in the factory is found to be defective, the probability that it was produced by M₂ is 2/5. If a bulb is chosen randomly from the bulbs produced by M₃, then the probability that it is defective is ___________.",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Probability",
+      "topic": "Conditional probability",
+      "concept": "Bayes' theorem",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the vectors x⃗ = î + 2ĵ + 3k̂, y⃗ = 2î + 3ĵ + k̂, and z⃗ = 3î + ĵ + 2k̂. For two distinct positive real numbers α and β, define X⃗ = αx⃗ + βy⃗ - z⃗, Y⃗ = αy⃗ + βz⃗ - x⃗, and Z⃗ = αz⃗ + βx⃗ - y⃗. If the vectors X⃗, Y⃗, and Z⃗ lie in a plane, then the value of α + β - 3 is ___________.",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Vectors",
+      "topic": "Coplanar vectors",
+      "concept": "Condition for coplanarity",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "MATHEMATICS",
+      "questionText": "For a non-zero complex number z, let arg(z) denote the principal argument of z, with -π < arg(z) ≤ π. Let ω be the cube root of unity for which 0 < arg(ω) < π. Let α = arg(Σ(n=1 to 2025)(-ω)ⁿ). Then the value of 3α/π is ___________.",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Complex Numbers",
+      "topic": "Cube roots of unity",
+      "concept": "Sum of geometric series with complex numbers",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "MATHEMATICS",
+      "questionText": "Let ℝ denote the set of all real numbers. Let f: ℝ → ℝ and g: ℝ → (0,4) be functions defined by f(x) = logₑ(x² + 2x + 4), and g(x) = 4/(1 + e^(-2x)). Define the composite function f∘g⁻¹ by (f∘g⁻¹)(x) = f(g⁻¹(x)), where g⁻¹ is the inverse of the function g. Then the value of the derivative of the composite function f∘g⁻¹ at x = 2 is ___________.",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Differential Calculus",
+      "topic": "Composite functions and derivatives",
+      "concept": "Chain rule and inverse functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "Let α = 1/(sin60°sin61°) + 1/(sin62°sin63°) + ... + 1/(sin118°sin119°). Then the value of (cosec1°·α)² is ___________.",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric identities",
+      "concept": "Sum involving products of sines",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "If α = ∫[1/2 to 2] (tan⁻¹x)/(2x² - 3x + 2) dx, then the value of √7·tan(2α√7/π) is ___________. (Here, the inverse trigonometric function tan⁻¹x assumes values in (-π/2, π/2).)",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Integral Calculus",
+      "topic": "Integration of inverse trigonometric functions",
+      "concept": "Definite integration with inverse trigonometric functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "A temperature difference can generate e.m.f. in some materials. Let S be the e.m.f. produced per unit temperature difference between the ends of a wire, σ the electrical conductivity and κ the thermal conductivity of the material of the wire. Taking M, L, T, I and K as dimensions of mass, length, time, current and temperature, respectively, the dimensional formula of the quantity Z = S²σ/κ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "[M⁰L⁰T⁰I⁰K⁰]"
+        },
+        {
+          "id": "B",
+          "text": "[M⁰L⁰T⁰I⁰K⁻¹]"
+        },
+        {
+          "id": "C",
+          "text": "[M¹L²T⁻²I⁻¹K⁻¹]"
+        },
+        {
+          "id": "D",
+          "text": "[M¹L²T⁻⁴I⁻¹K⁻¹]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Dimensions",
+      "topic": "Dimensional analysis",
+      "concept": "Thermoelectric effects and dimensional formula",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "Two co-axial conducting cylinders of same length ℓ with radii √2R and 2R are kept, as shown in Fig. 1. The charge on the inner cylinder is Q and the outer cylinder is grounded. The annular region between the cylinders is filled with a material of dielectric constant κ = 5. Consider an imaginary plane of the same length ℓ at a distance R from the common axis of the cylinders. This plane is parallel to the axis of the cylinders. The cross-sectional view of this arrangement is shown in Fig. 2. Ignoring edge effects, the flux of the electric field through the plane is (ε₀ is the permittivity of free space):",
+      "options": [
+        {
+          "id": "A",
+          "text": "Q/(30ε₀)"
+        },
+        {
+          "id": "B",
+          "text": "Q/(15ε₀)"
+        },
+        {
+          "id": "C",
+          "text": "Q/(60ε₀)"
+        },
+        {
+          "id": "D",
+          "text": "Q/(120ε₀)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric flux and Gauss's law",
+      "concept": "Cylindrical capacitor with dielectric",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "PHYSICS",
+      "questionText": "As shown in the figures, a uniform rod OO' of length l is hinged at the point O and held in place vertically between two walls using two massless springs of same spring constant. The springs are connected at the midpoint and at the top-end (O') of the rod, as shown in Fig. 1 and the rod is made to oscillate by a small angular displacement. The frequency of oscillation of the rod is f₁. On the other hand, if both the springs are connected at the midpoint of the rod, as shown in Fig. 2 and the rod is made to oscillate by a small angular displacement, then the frequency of oscillation is f₂. Ignoring gravity and assuming motion only in the plane of the diagram, the value of f₁/f₂ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "√2"
+        },
+        {
+          "id": "C",
+          "text": "√5/2"
+        },
+        {
+          "id": "D",
+          "text": "√(2/5)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Oscillations",
+      "topic": "Oscillations of rigid bodies",
+      "concept": "Angular oscillations with springs",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "PHYSICS",
+      "questionText": "Consider a star of mass m₂ kg revolving in a circular orbit around another star of mass m₁ kg with m₁ ≫ m₂. The heavier star slowly acquires mass from the lighter star at a constant rate of γ kg/s. In this transfer process, there is no other loss of mass. If the separation between the centers of the stars is r, then its relative rate of change (1/r)(dr/dt) (in s⁻¹) is given by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-3γ/(2m₂)"
+        },
+        {
+          "id": "B",
+          "text": "-2γ/m₂"
+        },
+        {
+          "id": "C",
+          "text": "-2γ/m₁"
+        },
+        {
+          "id": "D",
+          "text": "-3γ/(2m₁)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Binary star systems",
+      "concept": "Mass transfer in binary systems",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "A positive point charge of 10⁻⁸ C is kept at a distance of 20 cm from the center of a neutral conducting sphere of radius 10 cm. The sphere is then grounded and the charge on the sphere is measured. The grounding is then removed and subsequently the point charge is moved by a distance of 10 cm further away from the center of the sphere along the radial direction. Taking 1/(4πε₀) = 9×10⁹ Nm²/C² (where ε₀ is the permittivity of free space), which of the following statements is/are correct:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Before the grounding, the electrostatic potential of the sphere is 450 V."
+        },
+        {
+          "id": "B",
+          "text": "Charge flowing from the sphere to the ground because of grounding is 5×10⁻⁹ C."
+        },
+        {
+          "id": "C",
+          "text": "After the grounding is removed, the charge on the sphere is -5×10⁻⁹ C."
+        },
+        {
+          "id": "D",
+          "text": "The final electrostatic potential of the sphere is 300 V."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electrostatics",
+      "topic": "Method of images",
+      "concept": "Conducting sphere in external field",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "Two identical concave mirrors each of focal length f are facing each other as shown in the schematic diagram. The focal length f is much larger than the size of the mirrors. A glass slab of thickness t and refractive index n₀ is kept equidistant from the mirrors and perpendicular to their common principal axis. A monochromatic point light source S is embedded at the center of the slab on the principal axis, as shown in the schematic diagram. For the image to be formed on S itself, which of the following distances between the two mirrors is/are correct:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4f + (1 - 1/n₀)t"
+        },
+        {
+          "id": "B",
+          "text": "2f + (1 - 1/n₀)t"
+        },
+        {
+          "id": "C",
+          "text": "4f + (n₀ - 1)t"
+        },
+        {
+          "id": "D",
+          "text": "2f + (n₀ - 1)t"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Optics",
+      "topic": "Spherical mirrors",
+      "concept": "Multiple reflections with glass slab",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "Six infinitely large and thin non-conducting sheets are fixed in configurations I and II. As shown in the figure, the sheets carry uniform surface charge densities which are indicated in terms of σ₀. The separation between any two consecutive sheets is 1 μm. The various regions between the sheets are denoted as 1, 2, 3, 4 and 5. If σ₀ = 9 μC/m², then which of the following statements is/are correct: (Take permittivity of free space ε₀ = 9×10⁻¹² F/m)",
+      "options": [
+        {
+          "id": "A",
+          "text": "In region 4 of the configuration I, the magnitude of the electric field is zero."
+        },
+        {
+          "id": "B",
+          "text": "In region 3 of the configuration II, the magnitude of the electric field is σ₀/ε₀."
+        },
+        {
+          "id": "C",
+          "text": "Potential difference between the first and the last sheets of the configuration I is 5 V."
+        },
+        {
+          "id": "D",
+          "text": "Potential difference between the first and the last sheets of the configuration II is zero."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric field due to charge sheets",
+      "concept": "Superposition of electric fields",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "The efficiency of a Carnot engine operating with a hot reservoir kept at a temperature of 1000 K is 0.4. It extracts 150 J of heat per cycle from the hot reservoir. The work extracted from this engine is being fully used to run a heat pump which has a coefficient of performance 10. The hot reservoir of the heat pump is at a temperature of 300 K. Which of the following statements is/are correct:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Work extracted from the Carnot engine in one cycle is 60 J."
+        },
+        {
+          "id": "B",
+          "text": "Temperature of the cold reservoir of the Carnot engine is 600 K."
+        },
+        {
+          "id": "C",
+          "text": "Temperature of the cold reservoir of the heat pump is 270 K."
+        },
+        {
+          "id": "D",
+          "text": "Heat supplied to the hot reservoir of the heat pump in one cycle is 540 J."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Thermodynamics",
+      "topic": "Heat engines and heat pumps",
+      "concept": "Carnot engine and heat pump efficiency",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "A conducting solid sphere of radius R and mass M carries a charge Q. The sphere is rotating about an axis passing through its center with a uniform angular speed ω. The ratio of the magnitudes of the magnetic dipole moment to the angular momentum about the same axis is given as α(Q/2M). The value of α is ___",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Magnetism",
+      "topic": "Magnetic dipole moment",
+      "concept": "Rotating charged sphere",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "PHYSICS",
+      "questionText": "A hydrogen atom, initially at rest in its ground state, absorbs a photon of frequency ν₁ and ejects the electron with a kinetic energy of 10 eV. The electron then combines with a positron at rest to form a positronium atom in its ground state and simultaneously emits a photon of frequency ν₂. The center of mass of the resulting positronium atom moves with a kinetic energy of 5 eV. It is given that positron has the same mass as that of electron and the positronium atom can be considered as a Bohr atom, in which the electron and the positron orbit around their center of mass. Considering no other energy loss during the whole process, the difference between the two photon energies (in eV) is ___",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Modern Physics",
+      "topic": "Atomic physics",
+      "concept": "Photoelectric effect and positronium formation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "PHYSICS",
+      "questionText": "An ideal monatomic gas of n moles is taken through a cycle WXYZW consisting of consecutive adiabatic and isobaric quasi-static processes, as shown in the schematic V-T diagram. The volume of the gas at W, X and Y points are, 64 cm³, 125 cm³ and 250 cm³, respectively. If the absolute temperature of the gas T_W at the point W is such that nRT_W = 1 J (R is the universal gas constant), then the amount of heat absorbed (in J) by the gas along the path XY is ___",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic cycles",
+      "concept": "Adiabatic and isobaric processes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "PHYSICS",
+      "questionText": "A geostationary satellite above the equator is orbiting around the earth at a fixed distance r₁ from the center of the earth. A second satellite is orbiting in the equatorial plane in the opposite direction to the earth's rotation, at a distance r₂ from the center of the earth, such that r₁ = 1.21r₂. The time period of the second satellite as measured from the geostationary satellite is 24/p hours. The value of p is ___",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Gravitation",
+      "topic": "Satellite motion",
+      "concept": "Relative motion of satellites",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "PHYSICS",
+      "questionText": "The left and right compartments of a thermally isolated container of length L are separated by a thermally conducting, movable piston of area A. The left and right compartments are filled with 3/2 and 1 moles of an ideal gas, respectively. In the left compartment the piston is attached by a spring with spring constant k and natural length 2L/5. In thermodynamic equilibrium, the piston is at a distance L/2 from the left and right edges of the container as shown in the figure. Under the above conditions, if the pressure in the right compartment is P = (kL/A)α, then the value of α is ____",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Thermal equilibrium",
+      "concept": "Gas equilibrium with mechanical constraint",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "PHYSICS",
+      "questionText": "In a Young's double slit experiment, a combination of two glass wedges A and B, having refractive indices 1.7 and 1.5, respectively, are placed in front of the slits, as shown in the figure. The separation between the slits is d = 2 mm and the shortest distance between the slits and the screen is D = 2 m. Thickness of the combination of the wedges is t = 12 μm. The value of l as shown in the figure is 1 mm. Neglect any refraction effect at the slanted interface of the wedges. Due to the combination of the wedges, the central maximum shifts (in mm) with respect to O by ____",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Optics",
+      "topic": "Interference",
+      "concept": "Young's double slit with glass wedges",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "subject": "PHYSICS",
+      "questionText": "A projectile of mass 200 g is launched in a viscous medium at an angle 60° with the horizontal, with an initial velocity of 270 m/s. It experiences a viscous drag force F⃗ = -cv⃗ where the drag coefficient c = 0.1 kg/s and v⃗ is the instantaneous velocity of the projectile. The projectile hits a vertical wall after 2 s. Taking e = 2.7, the horizontal distance of the wall from the point of projection (in m) is ____",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Projectile motion",
+      "concept": "Projectile motion with air resistance",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "PHYSICS",
+      "questionText": "An audio transmitter (T) and a receiver (R) are hung vertically from two identical massless strings of length 8 m with their pivots well separated along the X axis. They are pulled from the equilibrium position in opposite directions along the X axis by a small angular amplitude θ₀ = cos⁻¹(0.9) and released simultaneously. If the natural frequency of the transmitter is 660 Hz and the speed of sound in air is 330 m/s, the maximum variation in the frequency (in Hz) as measured by the receiver (Take the acceleration due to gravity g = 10 m/s²) is ___",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Doppler effect",
+      "concept": "Doppler effect with oscillating sources",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "CHEMISTRY",
+      "questionText": "During sodium nitroprusside test of sulphide ion in an aqueous solution, one of the ligands coordinated to the metal ion is converted to",
+      "options": [
+        {
+          "id": "A",
+          "text": "NOS⁻"
+        },
+        {
+          "id": "B",
+          "text": "SCN⁻"
+        },
+        {
+          "id": "C",
+          "text": "SNO⁻"
+        },
+        {
+          "id": "D",
+          "text": "NCS⁻"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Qualitative analysis",
+      "concept": "Sodium nitroprusside test",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "CHEMISTRY",
+      "questionText": "The complete hydrolysis of ICl, ClF₃ and BrF₅, respectively, gives",
+      "options": [
+        {
+          "id": "A",
+          "text": "IO⁻, ClO₂⁻ and BrO₃⁻"
+        },
+        {
+          "id": "B",
+          "text": "IO₃⁻, ClO₂⁻ and BrO₃⁻"
+        },
+        {
+          "id": "C",
+          "text": "IO⁻, ClO⁻ and BrO₂⁻"
+        },
+        {
+          "id": "D",
+          "text": "IO₃⁻, ClO₄⁻ and BrO₂⁻"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Halogens",
+      "topic": "Interhalogen compounds",
+      "concept": "Hydrolysis of interhalogen compounds",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "CHEMISTRY",
+      "questionText": "Monocyclic compounds P, Q, R and S are the major products formed in the reaction sequences given below. [Reaction sequences with organic compounds shown] The product having the highest number of unsaturated carbon atom(s) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "P"
+        },
+        {
+          "id": "B",
+          "text": "Q"
+        },
+        {
+          "id": "C",
+          "text": "R"
+        },
+        {
+          "id": "D",
+          "text": "S"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic compounds",
+      "concept": "Substitution reactions and cyclization",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct reaction/reaction sequence that would produce a dicarboxylic acid as the major product is",
+      "options": [
+        {
+          "id": "A",
+          "text": "HO-Cl + (i) NaCN (ii) HO⁻, H₂O (iii) H₃O⁺"
+        },
+        {
+          "id": "B",
+          "text": "CHO-(CHOH)₄-CH₂OH + Br₂, H₂O"
+        },
+        {
+          "id": "C",
+          "text": "Br-compound + (i) KOH, EtOH (ii) KMnO₄, H₂SO₄"
+        },
+        {
+          "id": "D",
+          "text": "Cyclic compound + H₂CrO₄"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Carboxylic acids",
+      "concept": "Synthesis of dicarboxylic acids",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct statement(s) about intermolecular forces is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "The potential energy between two point charges approaches zero more rapidly than the potential energy between a point dipole and a point charge as the distance between them approaches infinity."
+        },
+        {
+          "id": "B",
+          "text": "The average potential energy of two rotating polar molecules that are separated by a distance r has 1/r³ dependence."
+        },
+        {
+          "id": "C",
+          "text": "The dipole-induced dipole average interaction energy is independent of temperature."
+        },
+        {
+          "id": "D",
+          "text": "Nonpolar molecules attract one another even though neither has a permanent dipole moment."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Chemical Bonding",
+      "topic": "Intermolecular forces",
+      "concept": "Types and characteristics of intermolecular forces",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "CHEMISTRY",
+      "questionText": "The compound(s) with P-H bond(s) is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "H₃PO₄"
+        },
+        {
+          "id": "B",
+          "text": "H₃PO₃"
+        },
+        {
+          "id": "C",
+          "text": "H₄P₂O₇"
+        },
+        {
+          "id": "D",
+          "text": "H₃PO₂"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "p-Block Elements",
+      "topic": "Phosphorus compounds",
+      "concept": "Structure of phosphorus oxoacids",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "CHEMISTRY",
+      "questionText": "For the reaction sequence given below, the correct statement(s) is(are) [Reaction sequence with organic compounds shown]",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both X and Y are oxygen containing compounds."
+        },
+        {
+          "id": "B",
+          "text": "Y on heating with CHCl₃/KOH forms isocyanide."
+        },
+        {
+          "id": "C",
+          "text": "Z reacts with Hinsberg's reagent."
+        },
+        {
+          "id": "D",
+          "text": "Z is an aromatic primary amine."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Nitrogen compounds",
+      "concept": "Reactions of amines and related compounds",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "CHEMISTRY",
+      "questionText": "For the reaction sequence given below, the correct statement(s) is(are) [Reaction sequence shown with PhCO- compound]",
+      "options": [
+        {
+          "id": "A",
+          "text": "P is optically active."
+        },
+        {
+          "id": "B",
+          "text": "S gives Baeyer's test."
+        },
+        {
+          "id": "C",
+          "text": "Q gives effervescence with aq. NaHCO₃."
+        },
+        {
+          "id": "D",
+          "text": "R is an alkyne."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Carbonyl compounds",
+      "concept": "Reactions and properties of carbonyl derivatives",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "CHEMISTRY",
+      "questionText": "The density (in g cm⁻³) of the metal which forms a cubic close packed (ccp) lattice with an axial distance (edge length) equal to 400 pm is ______. Use: Atomic mass of metal = 105.6 amu and Avogadro's constant = 6×10²³ mol⁻¹",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Solid State",
+      "topic": "Crystal structures",
+      "concept": "Density calculation in cubic close packing",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "CHEMISTRY",
+      "questionText": "The solubility of barium iodate in an aqueous solution prepared by mixing 200 mL of 0.010 M barium nitrate with 100 mL of 0.10 M sodium iodate is X×10⁻⁶ mol dm⁻³. The value of X is ______. Use: Solubility product constant (Ksp) of barium iodate = 1.58×10⁻⁹",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Ionic Equilibrium",
+      "topic": "Solubility product",
+      "concept": "Common ion effect on solubility",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "CHEMISTRY",
+      "questionText": "Adsorption of phenol from its aqueous solution on to fly ash obeys Freundlich isotherm. At a given temperature, from 10 mg g⁻¹ and 16 mg g⁻¹ aqueous phenol solutions, the concentrations of adsorbed phenol are measured to be 4 mg g⁻¹ and 10 mg g⁻¹, respectively. At this temperature, the concentration (in mg g⁻¹) of adsorbed phenol from 20 mg g⁻¹ aqueous solution of phenol will be ______. Use: log₁₀ 2 = 0.3",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Surface Chemistry",
+      "topic": "Adsorption isotherms",
+      "concept": "Freundlich adsorption isotherm",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider a reaction A + R → Product. The rate of this reaction is measured to be k[A][R]. At the start of the reaction, the concentration of R, [R]₀, is 10-times the concentration of A, [A]₀. The reaction can be considered to be a pseudo first order reaction with assumption that k[R] = k' is constant. Due to this assumption, the relative error (in %) in the rate when this reaction is 40% complete, is ______. [k and k' represent corresponding rate constants]",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Kinetics",
+      "topic": "Pseudo first order reactions",
+      "concept": "Error analysis in pseudo first order kinetics",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "CHEMISTRY",
+      "questionText": "At 300 K, an ideal dilute solution of a macromolecule exerts osmotic pressure that is expressed in terms of the height (h) of the solution (density = 1.00 g cm⁻³) where h is equal to 2.00 cm. If the concentration of the dilute solution of the macromolecule is 2.00 g dm⁻³, the molar mass of the macromolecule is calculated to be X×10⁴ g mol⁻¹. The value of X is ______. Use: Universal gas constant (R) = 8.3 J K⁻¹ mol⁻¹ and acceleration due to gravity (g) = 10 m s⁻²",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Osmotic pressure",
+      "concept": "Determination of molar mass using osmotic pressure",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "CHEMISTRY",
+      "questionText": "An electrochemical cell is fueled by the combustion of butane at 1 bar and 298 K. Its cell potential is (X/F)×10³ volts, where F is the Faraday constant. The value of X is ______. Use: Standard Gibbs energies of formation at 298 K are: Δf G°CO₂ = -394 kJ mol⁻¹; Δf G°water = -237 kJ mol⁻¹; Δf G°butane = -18 kJ mol⁻¹",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Fuel cells",
+      "concept": "Cell potential from Gibbs energy",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "The sum of the spin only magnetic moment values (in B.M.) of [Mn(Br)₆]³⁻ and [Mn(CN)₆]³⁻ is _____.",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Compounds",
+      "topic": "Magnetic properties",
+      "concept": "Spin-only magnetic moment calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "A linear octasaccharide (molar mass = 1024 g mol⁻¹) on complete hydrolysis produces three monosaccharides: ribose, 2-deoxyribose and glucose. The amount of 2-deoxyribose formed is 58.26% (w/w) of the total amount of the monosaccharides produced in the hydrolyzed products. The number of ribose unit(s) present in one molecule of octasaccharide is ______. Use: Molar mass (in g mol⁻¹): ribose = 150, 2-deoxyribose = 134, glucose = 180; Atomic mass (in amu): H = 1, O = 16",
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Biomolecules",
+      "topic": "Carbohydrates",
+      "concept": "Hydrolysis of oligosaccharides",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T14:47:37.684Z"
+}

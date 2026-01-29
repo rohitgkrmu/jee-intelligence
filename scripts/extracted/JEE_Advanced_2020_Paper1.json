@@ -1,0 +1,1484 @@
+{
+  "filename": "JEE_Advanced_2020_Paper1.pdf",
+  "examYear": 2020,
+  "examSession": "Paper 1",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "A football of radius R is kept on a hole of radius r (r<R) made on a plank kept horizontally. One end of the plank is now lifted so that it gets tilted making an angle θ from the horizontal. The maximum value of θ so that the football does not start rolling down the plank satisfies:",
+      "options": [
+        {
+          "id": "A",
+          "text": "sin θ = r/R"
+        },
+        {
+          "id": "B",
+          "text": "tan θ = r/R"
+        },
+        {
+          "id": "C",
+          "text": "sin θ = r/(2R)"
+        },
+        {
+          "id": "D",
+          "text": "cos θ = r/(2R)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Statics and Equilibrium",
+      "concept": "Equilibrium on inclined plane",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "A light disc made of aluminium (a nonmagnetic material) is kept horizontally and is free to rotate about its axis. A strong magnet is held vertically at a point above the disc away from its axis. On revolving the magnet about the axis of the disc, the disc will:",
+      "options": [
+        {
+          "id": "A",
+          "text": "rotate in the direction opposite to the direction of magnet's motion"
+        },
+        {
+          "id": "B",
+          "text": "rotate in the same direction as the direction of magnet's motion"
+        },
+        {
+          "id": "C",
+          "text": "not rotate and its temperature will remain unchanged"
+        },
+        {
+          "id": "D",
+          "text": "not rotate but its temperature will slowly rise"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Eddy Currents",
+      "concept": "Lenz's law and eddy current heating",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "A small roller of diameter 20 cm has an axle of diameter 10 cm. It is on a horizontal floor and a meter scale is positioned horizontally on its axle with one edge of the scale on top of the axle. The scale is now pushed slowly on the axle so that it moves without slipping on the axle, and the roller starts rolling without slipping. After the roller has moved 50 cm, the position of the scale will look like:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option A configuration"
+        },
+        {
+          "id": "B",
+          "text": "Option B configuration"
+        },
+        {
+          "id": "C",
+          "text": "Option C configuration"
+        },
+        {
+          "id": "D",
+          "text": "Option D configuration"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Rolling Motion",
+      "concept": "Rolling without slipping condition",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "A circular coil of radius R and N turns has negligible resistance. Its two ends are connected to two wires and it is hanging by those wires with its plane being vertical. The wires are connected to a capacitor with charge Q through a switch. The coil is in a horizontal uniform magnetic field B₀ parallel to the plane of the coil. When the switch is closed, the capacitor gets discharged through the coil in a very short time. By the time the capacitor is discharged fully, magnitude of the angular momentum gained by the coil will be (assume that the discharge time is so short that the coil has hardly rotated during this time):",
+      "options": [
+        {
+          "id": "A",
+          "text": "(π/2)NQB₀R²"
+        },
+        {
+          "id": "B",
+          "text": "πNQB₀R²"
+        },
+        {
+          "id": "C",
+          "text": "2πNQB₀R²"
+        },
+        {
+          "id": "D",
+          "text": "4πNQB₀R²"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Torque on current carrying coil",
+      "concept": "Angular momentum from electromagnetic torque",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "A parallel beam of light strikes a piece of transparent glass having cross section as shown in the figure. Correct shape of the emergent wavefront will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option A wavefront"
+        },
+        {
+          "id": "B",
+          "text": "Option B wavefront"
+        },
+        {
+          "id": "C",
+          "text": "Option C wavefront"
+        },
+        {
+          "id": "D",
+          "text": "Option D wavefront"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Optics",
+      "topic": "Wave Optics",
+      "concept": "Wavefront refraction through varying thickness",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "An open-ended U-tube of uniform cross-sectional area contains water (density 10³ kg m⁻³). Initially the water level stands at 0.29 m from the bottom in each arm. Kerosene oil (a water-immiscible liquid) of density 800 kg m⁻³ is added to the left arm until its length is 0.1 m. The ratio (h₁/h₂) of the heights of the liquid in the two arms is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "15/14"
+        },
+        {
+          "id": "B",
+          "text": "35/33"
+        },
+        {
+          "id": "C",
+          "text": "7/6"
+        },
+        {
+          "id": "D",
+          "text": "5/4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Fluid Statics",
+      "concept": "Hydrostatic pressure equilibrium",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "A particle of mass m moves in circular orbits with potential energy V(r) = Fr, where F is a positive constant and r is its distance from the origin. Its energies are calculated using the Bohr model. If the radius of the particle's orbit is denoted by R and its speed and energy are denoted by v and E, respectively, then for the nth orbit (here h is the Planck's constant):",
+      "options": [
+        {
+          "id": "A",
+          "text": "R∝n¹/³ and v∝n²/³"
+        },
+        {
+          "id": "B",
+          "text": "R∝n²/³ and v∝n¹/³"
+        },
+        {
+          "id": "C",
+          "text": "E = (3/2)(n²h²F²/4π²m)¹/³"
+        },
+        {
+          "id": "D",
+          "text": "E = 2(n²h²F²/4π²m)¹/³"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Modern Physics",
+      "topic": "Bohr Model",
+      "concept": "Quantization with linear potential",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "The filament of a light bulb has surface area 64 mm². The filament can be considered as a black body at temperature 2500 K emitting radiation like a point source when viewed from far. At night the light bulb is observed from a distance of 100 m. Assume the pupil of the eyes of the observer to be circular with radius 3 mm. (Take Stefan-Boltzmann constant = 5.67×10⁻⁸ Wm⁻²K⁻⁴, Wien's displacement constant = 2.90×10⁻³ m-K, Planck's constant = 6.63×10⁻³⁴ Js, speed of light in vacuum = 3.00×10⁸ ms⁻¹)",
+      "options": [
+        {
+          "id": "A",
+          "text": "power radiated by the filament is in the range 642 W to 645 W"
+        },
+        {
+          "id": "B",
+          "text": "radiated power entering into one eye of the observer is in the range 3.15×10⁻⁸ W to 3.25×10⁻⁸ W"
+        },
+        {
+          "id": "C",
+          "text": "the wavelength corresponding to the maximum intensity of light is 1160 nm"
+        },
+        {
+          "id": "D",
+          "text": "taking the average wavelength of emitted radiation to be 1740 nm, the total number of photons entering per second into one eye of the observer is in the range 2.75×10¹¹ to 2.85×10¹¹"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Modern Physics",
+      "topic": "Blackbody Radiation",
+      "concept": "Stefan-Boltzmann law and Wien's law",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "Sometimes it is convenient to construct a system of units so that all quantities can be expressed in terms of only one physical quantity. In one such system, dimensions of different quantities are given in terms of a quantity X as follows: [position] = [X^α]; [speed] = [X^β]; [acceleration] = [X^p]; [linear momentum] = [X^q]; [force] = [X^r]. Then:",
+      "options": [
+        {
+          "id": "A",
+          "text": "α + p = 2β"
+        },
+        {
+          "id": "B",
+          "text": "p + q - r = β"
+        },
+        {
+          "id": "C",
+          "text": "p - q + r = α"
+        },
+        {
+          "id": "D",
+          "text": "p + q + r = β"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Units and Dimensions",
+      "topic": "Dimensional Analysis",
+      "concept": "Dimensional consistency",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "A uniform electric field, E⃗ = -400√3ŷ NC⁻¹ is applied in a region. A charged particle of mass m carrying positive charge q is projected in this region with an initial speed of 2√10×10⁶ ms⁻¹. This particle is aimed to hit a target T, which is 5 m away from its entry point into the field. Take q/m = 10¹⁰ Ckg⁻¹. Then:",
+      "options": [
+        {
+          "id": "A",
+          "text": "the particle will hit T if projected at an angle 45° from the horizontal"
+        },
+        {
+          "id": "B",
+          "text": "the particle will hit T if projected either at an angle 30° or 60° from the horizontal"
+        },
+        {
+          "id": "C",
+          "text": "time taken by the particle to hit T could be √5/6 μs as well as √5/2 μs"
+        },
+        {
+          "id": "D",
+          "text": "time taken by the particle to hit T is √5/3 μs"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electrostatics",
+      "topic": "Motion in Electric Field",
+      "concept": "Projectile motion in uniform electric field",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "Shown in the figure is a semicircular metallic strip that has thickness t and resistivity ρ. Its inner radius is R₁ and outer radius is R₂. If a voltage V₀ is applied between its two ends, a current I flows in it. In addition, it is observed that a transverse voltage ΔV develops between its inner and outer surfaces due to purely kinetic effects of moving electrons (ignore any role of the magnetic field due to the current). Then:",
+      "options": [
+        {
+          "id": "A",
+          "text": "I = V₀t/(πρ ln(R₂/R₁))"
+        },
+        {
+          "id": "B",
+          "text": "the outer surface is at a higher voltage than the inner surface"
+        },
+        {
+          "id": "C",
+          "text": "the outer surface is at a lower voltage than the inner surface"
+        },
+        {
+          "id": "D",
+          "text": "ΔV ∝ I²"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Current Electricity",
+      "topic": "Current in curved conductors",
+      "concept": "Resistance and centrifugal effects",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "As shown schematically in the figure, two vessels contain water solutions (at temperature T) of potassium permanganate (KMnO₄) of different concentrations n₁ and n₂ (n₁ > n₂) molecules per unit volume with Δn = (n₁ - n₂) ≪ n₁. When they are connected by a tube of small length l and cross-sectional area S, KMnO₄ starts to diffuse from the left to the right vessel through the tube. Consider the collection of molecules to behave as dilute ideal gases and the difference in their partial pressure in the two vessels causing the diffusion. The speed v of the molecules is limited by the viscous force -βv on each molecule, where β is a constant. Neglecting all terms of the order (Δn)², which of the following is/are correct? (k_B is the Boltzmann constant)",
+      "options": [
+        {
+          "id": "A",
+          "text": "the force causing the molecules to move across the tube is ΔnkBTS"
+        },
+        {
+          "id": "B",
+          "text": "force balance implies n₁βvl = ΔnkBT"
+        },
+        {
+          "id": "C",
+          "text": "total number of molecules going across the tube per sec is (Δn/l)(kBT/β)S"
+        },
+        {
+          "id": "D",
+          "text": "rate of molecules getting transferred through the tube does not change with time"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Kinetic Theory",
+      "topic": "Diffusion",
+      "concept": "Molecular diffusion with viscous drag",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "Put a uniform meter scale horizontally on your extended index fingers with the left one at 0.00 cm and the right one at 90.00 cm. When you attempt to move both the fingers slowly towards the center, initially only the left finger slips with respect to the scale and the right finger does not. After some distance, the left finger stops and the right one starts slipping. Then the right finger stops at a distance x_R from the center (50.00 cm) of the scale and the left one starts slipping again. This happens because of the difference in the frictional forces on the two fingers. If the coefficients of static and dynamic friction between the fingers and the scale are 0.40 and 0.32, respectively, the value of x_R (in cm) is ______.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Friction and Equilibrium",
+      "concept": "Static and kinetic friction balance",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "When water is filled carefully in a glass, one can fill it to a height h above the rim of the glass due to the surface tension of water. To calculate h just before water starts flowing, model the shape of the water above the rim as a disc of thickness h having semicircular edges. When the pressure of water at the bottom of this disc exceeds what can be withstood due to the surface tension, the water surface breaks near the rim and water starts flowing from there. If the density of water, its surface tension and the acceleration due to gravity are 10³ kg m⁻³, 0.07 Nm⁻¹ and 10 ms⁻², respectively, the value of h (in mm) is _________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Surface Tension",
+      "concept": "Hydrostatic pressure and surface tension balance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "One end of a spring of negligible unstretched length and spring constant k is fixed at the origin (0,0). A point particle of mass m carrying a positive charge q is attached at its other end. The entire system is kept on a smooth horizontal surface. When a point dipole p pointing towards the charge q is fixed at the origin, the spring gets stretched to a length l and attains a new equilibrium position. If the point mass is now displaced slightly by Δl ≪ l from its equilibrium position and released, it is found to oscillate at frequency (1/δ)√(k/m). The value of δ is ______.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Oscillations",
+      "topic": "SHM with variable force",
+      "concept": "Oscillations in combined electric and spring force",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "Consider one mole of helium gas enclosed in a container at initial pressure P₁ and volume V₁. It expands isothermally to volume 4V₁. After this, the gas expands adiabatically and its volume becomes 32V₁. The work done by the gas during isothermal and adiabatic expansion processes are W_iso and W_adia, respectively. If the ratio W_iso/W_adia = f ln2, then f is ______.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Work done in isothermal and adiabatic processes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "A stationary tuning fork is in resonance with an air column in a pipe. If the tuning fork is moved with a speed of 2 ms⁻¹ in front of the open end of the pipe and parallel to it, the length of the pipe should be changed for the resonance to occur with the moving tuning fork. If the speed of sound in air is 320 ms⁻¹, the smallest value of the percentage change required in the length of the pipe is ____________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Sound Waves and Doppler Effect",
+      "concept": "Doppler effect in resonance tubes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "A circular disc of radius R carries surface charge density σ(r) = σ₀(1 - r/R), where σ₀ is a constant and r is the distance from the center of the disc. Electric flux through a large spherical surface that encloses the charged disc completely is φ₀. Electric flux through another spherical surface of radius R/4 and concentric with the disc is φ. Then the ratio φ₀/φ is_________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Electric Flux and Gauss's Law",
+      "concept": "Electric flux through spherical surfaces",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "CHEMISTRY",
+      "questionText": "If the distribution of molecular speeds of a gas is as per the figure shown below, then the ratio of the most probable, the average, and the root mean square speeds, respectively, is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 1 : 1"
+        },
+        {
+          "id": "B",
+          "text": "1 : 1 : 1.224"
+        },
+        {
+          "id": "C",
+          "text": "1 : 1.128 : 1.224"
+        },
+        {
+          "id": "D",
+          "text": "1 : 1.128 : 1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinetic Theory of Gases",
+      "topic": "Maxwell-Boltzmann Distribution",
+      "concept": "Most probable, average and rms speeds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following liberates O₂ upon hydrolysis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pb₃O₄"
+        },
+        {
+          "id": "B",
+          "text": "KO₂"
+        },
+        {
+          "id": "C",
+          "text": "Na₂O₂"
+        },
+        {
+          "id": "D",
+          "text": "Li₂O₂"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "s-Block Elements",
+      "topic": "Oxides of Alkali and Alkaline Earth Metals",
+      "concept": "Hydrolysis of metal oxides",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "CHEMISTRY",
+      "questionText": "A colorless aqueous solution contains nitrates of two metals, X and Y. When it was added to an aqueous solution of NaCl, a white precipitate was formed. This precipitate was found to be partly soluble in hot water to give a residue P and a solution Q. The residue P was soluble in aq. NH₃ and also in excess sodium thiosulfate. The hot solution Q gave a yellow precipitate with KI. The metals X and Y, respectively, are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ag and Pb"
+        },
+        {
+          "id": "B",
+          "text": "Ag and Cd"
+        },
+        {
+          "id": "C",
+          "text": "Cd and Pb"
+        },
+        {
+          "id": "D",
+          "text": "Cd and Zn"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Qualitative Inorganic Analysis",
+      "topic": "Group I Cations",
+      "concept": "Separation and identification of Ag⁺ and Pb²⁺",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "CHEMISTRY",
+      "questionText": "Newman projections P, Q, R and S are shown below. Which one of the following options represents identical molecules?",
+      "options": [
+        {
+          "id": "A",
+          "text": "P and Q"
+        },
+        {
+          "id": "B",
+          "text": "Q and S"
+        },
+        {
+          "id": "C",
+          "text": "Q and R"
+        },
+        {
+          "id": "D",
+          "text": "R and S"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Stereochemistry",
+      "concept": "Newman projections and conformational analysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "CHEMISTRY",
+      "questionText": "Which one of the following structures has the IUPAC name 3-ethynyl-2-hydroxy-4-methylhex-3-en-5-ynoic acid?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure A"
+        },
+        {
+          "id": "B",
+          "text": "Structure B"
+        },
+        {
+          "id": "C",
+          "text": "Structure C"
+        },
+        {
+          "id": "D",
+          "text": "Structure D"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "IUPAC Nomenclature",
+      "concept": "Naming complex organic compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "CHEMISTRY",
+      "questionText": "The Fischer projection of D-erythrose is shown below. D-Erythrose and its isomers are listed as P, Q, R, and S in Column-I. Choose the correct relationship of P, Q, R, and S with D-erythrose from Column II.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P2, Q3, R2, S2"
+        },
+        {
+          "id": "B",
+          "text": "P3, Q1, R1, S2"
+        },
+        {
+          "id": "C",
+          "text": "P2, Q1, R1, S3"
+        },
+        {
+          "id": "D",
+          "text": "P2, Q3, R3, S1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Stereochemistry",
+      "concept": "Fischer projections and optical isomerism",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "CHEMISTRY",
+      "questionText": "In thermodynamics, the P-V work done is given by w = -∫dV P_ext. For a system undergoing a particular process, the work done is w = -∫dV (RT/(V-b) - a/V²). This equation is applicable to a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "system that satisfies the van der Waals equation of state"
+        },
+        {
+          "id": "B",
+          "text": "process that is reversible and isothermal"
+        },
+        {
+          "id": "C",
+          "text": "process that is reversible and adiabatic"
+        },
+        {
+          "id": "D",
+          "text": "process that is irreversible and at constant pressure"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Work done in van der Waals gas expansion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "CHEMISTRY",
+      "questionText": "With respect to the compounds I-V, choose the correct statement(s).",
+      "options": [
+        {
+          "id": "A",
+          "text": "The acidity of compound I is due to delocalization in the conjugate base"
+        },
+        {
+          "id": "B",
+          "text": "The conjugate base of compound IV is aromatic"
+        },
+        {
+          "id": "C",
+          "text": "Compound II becomes more acidic, when it has a -NO₂ substituent"
+        },
+        {
+          "id": "D",
+          "text": "The acidity of compounds follows the order I > IV > V > II > III"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Acidity and Basicity",
+      "concept": "Factors affecting acidity in organic compounds",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "CHEMISTRY",
+      "questionText": "In the reaction scheme shown below, Q, R, and S are the major products. The correct structure of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "S is given structure"
+        },
+        {
+          "id": "B",
+          "text": "Q is given structure"
+        },
+        {
+          "id": "C",
+          "text": "R is given structure"
+        },
+        {
+          "id": "D",
+          "text": "S is given structure"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Organic Reactions",
+      "concept": "Multi-step organic synthesis",
+      "difficulty": "HARD",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "CHEMISTRY",
+      "questionText": "Choose the correct statement(s) among the following:",
+      "options": [
+        {
+          "id": "A",
+          "text": "[FeCl₄]⁻ has tetrahedral geometry"
+        },
+        {
+          "id": "B",
+          "text": "[Co(en)(NH₃)₂Cl₂]⁺ has 2 geometrical isomers"
+        },
+        {
+          "id": "C",
+          "text": "[FeCl₄]⁻ has higher spin-only magnetic moment than [Co(en)(NH₃)₂Cl₂]⁺"
+        },
+        {
+          "id": "D",
+          "text": "The cobalt ion in [Co(en)(NH₃)₂Cl₂]⁺ has sp³d² hybridization"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Structure and Bonding",
+      "concept": "Geometry and magnetic properties of coordination complexes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "CHEMISTRY",
+      "questionText": "With respect to hypochlorite, chlorate and perchlorate ions, choose the correct statement(s):",
+      "options": [
+        {
+          "id": "A",
+          "text": "The hypochlorite ion is the strongest conjugate base"
+        },
+        {
+          "id": "B",
+          "text": "The molecular shape of only chlorate ion is influenced by the lone pair of electrons of Cl"
+        },
+        {
+          "id": "C",
+          "text": "The hypochlorite and chlorate ions disproportionate to give rise to identical set of ions"
+        },
+        {
+          "id": "D",
+          "text": "The hypochlorite ion oxidizes the sulfite ion"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "p-Block Elements",
+      "topic": "Oxoacids of Halogens",
+      "concept": "Structure and reactivity of chlorine oxoacids",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "CHEMISTRY",
+      "questionText": "The cubic unit cell structure of a compound containing cation M and anion X is shown below. When compared to the anion, the cation has smaller ionic radius. Choose the correct statement(s):",
+      "options": [
+        {
+          "id": "A",
+          "text": "The empirical formula of the compound is MX"
+        },
+        {
+          "id": "B",
+          "text": "The cation M and anion X have different coordination geometries"
+        },
+        {
+          "id": "C",
+          "text": "The ratio of M-X bond length to the cubic unit cell edge length is 0.866"
+        },
+        {
+          "id": "D",
+          "text": "The ratio of the ionic radii of cation M to anion X is 0.414"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Solid State",
+      "topic": "Crystal Structures",
+      "concept": "Ionic crystals and coordination numbers",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "subject": "CHEMISTRY",
+      "questionText": "5.00 mL of 0.10 M oxalic acid solution taken in a conical flask is titrated against NaOH from a burette using phenolphthalein indicator. The volume of NaOH required for the appearance of permanent faint pink color is tabulated below for five experiments. What is the concentration, in molarity, of the NaOH solution? Exp. No. 1: 12.5 mL, Exp. No. 2: 10.5 mL, Exp. No. 3: 9.0 mL, Exp. No. 4: 9.0 mL, Exp. No. 5: 9.0 mL",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Volumetric Analysis",
+      "topic": "Acid-Base Titrations",
+      "concept": "Titration calculations and data analysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the reaction A⇌B at 1000 K. At time t', the temperature of the system was increased to 2000 K and the system was allowed to reach equilibrium. Throughout this experiment the partial pressure of A was maintained at 1 bar. Given below is the plot of the partial pressure of B with time. What is the ratio of the standard Gibbs energy of the reaction at 1000 K to that at 2000 K?",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Equilibrium",
+      "topic": "Temperature Dependence of Equilibrium",
+      "concept": "Gibbs energy and temperature effects on equilibrium",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider a 70% efficient hydrogen-oxygen fuel cell working under standard conditions at 1 bar and 298 K. Its cell reaction is H₂(g) + ½O₂(g) → H₂O(l). The work derived from the cell on the consumption of 1.0×10⁻³ mol of H₂(g) is used to compress 1.00 mol of a monoatomic ideal gas in a thermally insulated container. What is the change in the temperature (in K) of the ideal gas? The standard reduction potentials are: O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l), E° = 1.23 V; 2H⁺(aq) + 2e⁻ → H₂(g), E° = 0.00 V. Use F = 96500 C mol⁻¹, R = 8.314 J mol⁻¹ K⁻¹.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Fuel Cells",
+      "concept": "Electrochemical work and thermodynamics",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "CHEMISTRY",
+      "questionText": "Aluminium reacts with sulfuric acid to form aluminium sulfate and hydrogen. What is the volume of hydrogen gas in liters (L) produced at 300 K and 1.0 atm pressure, when 5.4 g of aluminium and 50.0 mL of 5.0 M sulfuric acid are combined for the reaction? (Use molar mass of aluminium as 27.0 g mol⁻¹, R = 0.082 atm L mol⁻¹ K⁻¹)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Stoichiometry",
+      "topic": "Limiting Reagent",
+      "concept": "Gas volume calculations with limiting reagent",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "CHEMISTRY",
+      "questionText": "U₉₂²³⁸ is known to undergo radioactive decay to form Pb₈₂²⁰⁶ by emitting alpha and beta particles. A rock initially contained 68×10⁻⁶ g of U₉₂²³⁸. If the number of alpha particles that it would emit during its radioactive decay of U₉₂²³⁸ to Pb₈₂²⁰⁶ in three half-lives is Z×10¹⁸, then what is the value of Z?",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Nuclear Chemistry",
+      "topic": "Radioactive Decay",
+      "concept": "Alpha and beta decay calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "CHEMISTRY",
+      "questionText": "In the following reaction, compound Q is obtained from compound P via an ionic intermediate. What is the degree of unsaturation of Q?",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Degree of Unsaturation",
+      "concept": "Calculating degree of unsaturation from molecular formula",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "MATHEMATICS",
+      "questionText": "Suppose a,b denote the distinct real roots of the quadratic polynomial x² + 20x - 2020 and suppose c,d denote the distinct complex roots of the quadratic polynomial x² - 20x + 2020. Then the value of ac/(a-c) + ad/(a-d) + bc/(b-c) + bd/(b-d) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "8000"
+        },
+        {
+          "id": "C",
+          "text": "8080"
+        },
+        {
+          "id": "D",
+          "text": "16000"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Algebra",
+      "topic": "Quadratic Equations",
+      "concept": "Properties of roots of quadratic equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "MATHEMATICS",
+      "questionText": "If the function f:ℝ⟶ℝ is defined by f(x) = |x|(x - sin x), then which of the following statements is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "f is one-one, but NOT onto"
+        },
+        {
+          "id": "B",
+          "text": "f is onto, but NOT one-one"
+        },
+        {
+          "id": "C",
+          "text": "f is BOTH one-one and onto"
+        },
+        {
+          "id": "D",
+          "text": "f is NEITHER one-one NOR onto"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Properties of Functions",
+      "concept": "One-one and onto functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the functions f:ℝ⟶ℝ and g:ℝ⟶ℝ be defined by f(x) = e^(x-1) - e^(-|x-1|) and g(x) = ½(e^(x-1) + e^(1-x)). Then the area of the region in the first quadrant bounded by the curves y = f(x), y = g(x) and x = 0 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2-√3) + ½(e-e⁻¹)"
+        },
+        {
+          "id": "B",
+          "text": "(2+√3) + ½(e-e⁻¹)"
+        },
+        {
+          "id": "C",
+          "text": "(2-√3) + ½(e+e⁻¹)"
+        },
+        {
+          "id": "D",
+          "text": "(2+√3) + ½(e+e⁻¹)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integral Calculus",
+      "topic": "Area Under Curves",
+      "concept": "Area bounded by exponential functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a,b and λ be positive real numbers. Suppose P is an end point of the latus rectum of the parabola y² = 4λx, and suppose the ellipse x²/a² + y²/b² = 1 passes through the point P. If the tangents to the parabola and the ellipse at the point P are perpendicular to each other, then the eccentricity of the ellipse is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/√2"
+        },
+        {
+          "id": "B",
+          "text": "1/2"
+        },
+        {
+          "id": "C",
+          "text": "1/3"
+        },
+        {
+          "id": "D",
+          "text": "2/5"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Conic Sections",
+      "concept": "Parabola, ellipse and tangent properties",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "MATHEMATICS",
+      "questionText": "Let C₁ and C₂ be two biased coins such that the probabilities of getting head in a single toss are 2/3 and 1/3, respectively. Suppose α is the number of heads that appear when C₁ is tossed twice, independently, and suppose β is the number of heads that appear when C₂ is tossed twice, independently. Then the probability that the roots of the quadratic polynomial x² - αx + β are real and equal, is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "40/81"
+        },
+        {
+          "id": "B",
+          "text": "20/81"
+        },
+        {
+          "id": "C",
+          "text": "1/2"
+        },
+        {
+          "id": "D",
+          "text": "1/4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Conditional Probability",
+      "concept": "Probability with quadratic equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider all rectangles lying in the region {(x,y) ∈ ℝ×ℝ : 0 ≤ x ≤ π/2 and 0 ≤ y ≤ 2sin(2x)} and having one side on the x-axis. The area of the rectangle which has the maximum perimeter among all such rectangles, is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3π/2"
+        },
+        {
+          "id": "B",
+          "text": "π"
+        },
+        {
+          "id": "C",
+          "text": "π/(2√3)"
+        },
+        {
+          "id": "D",
+          "text": "π√3/2"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Maxima and Minima",
+      "concept": "Optimization problems with constraints",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the function f:ℝ→ℝ be defined by f(x) = x³ - x² + (x-1)sin x and let g:ℝ→ℝ be an arbitrary function. Let fg: ℝ→ℝ be the product function defined by (fg)(x) = f(x)g(x). Then which of the following statements is/are TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "If g is continuous at x = 1, then fg is differentiable at x = 1"
+        },
+        {
+          "id": "B",
+          "text": "If fg is differentiable at x = 1, then g is continuous at x = 1"
+        },
+        {
+          "id": "C",
+          "text": "If g is differentiable at x = 1, then fg is differentiable at x = 1"
+        },
+        {
+          "id": "D",
+          "text": "If fg is differentiable at x = 1, then g is differentiable at x = 1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Differential Calculus",
+      "topic": "Differentiability",
+      "concept": "Product rule and differentiability conditions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "MATHEMATICS",
+      "questionText": "Let M be a 3×3 invertible matrix with real entries and let I denote the 3×3 identity matrix. If M⁻¹ = adj(adj M), then which of the following statements is/are ALWAYS TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "M = I"
+        },
+        {
+          "id": "B",
+          "text": "det M = 1"
+        },
+        {
+          "id": "C",
+          "text": "M² = I"
+        },
+        {
+          "id": "D",
+          "text": "(adj M)² = I"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Matrices and Determinants",
+      "topic": "Properties of Matrices",
+      "concept": "Adjoint and inverse matrix relationships",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S be the set of all complex numbers z satisfying |z² + z + 1| = 1. Then which of the following statements is/are TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "|z + 1/2| ≤ 1/2 for all z ∈ S"
+        },
+        {
+          "id": "B",
+          "text": "|z| ≤ 2 for all z ∈ S"
+        },
+        {
+          "id": "C",
+          "text": "|z + 1/2| ≥ 1/2 for all z ∈ S"
+        },
+        {
+          "id": "D",
+          "text": "The set S has exactly four elements"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Complex Numbers",
+      "topic": "Complex Equations",
+      "concept": "Locus of complex numbers",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "MATHEMATICS",
+      "questionText": "Let x,y and z be positive real numbers. Suppose x,y and z are the lengths of the sides of a triangle opposite to its angles X,Y and Z, respectively. If tan(X/2) + tan(Z/2) = 2y/(x+y+z), then which of the following statements is/are TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2Y = X + Z"
+        },
+        {
+          "id": "B",
+          "text": "Y = X + Z"
+        },
+        {
+          "id": "C",
+          "text": "tan(X/2) = x/(y+z)"
+        },
+        {
+          "id": "D",
+          "text": "x² + z² - y² = xz"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Trigonometry",
+      "topic": "Properties of Triangles",
+      "concept": "Half-angle formulas in triangles",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "MATHEMATICS",
+      "questionText": "Let L₁ and L₂ be the following straight lines: L₁: (x-1)/1 = y/(-1) = (z-1)/3 and L₂: (x-1)/(-3) = y/(-1) = (z-1)/1. Suppose the straight line L: (x-α)/l = (y-1)/m = (z-γ)/(-2) lies in the plane containing L₁ and L₂, and passes through the point of intersection of L₁ and L₂. If the line L bisects the acute angle between the lines L₁ and L₂, then which of the following statements is/are TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "α - γ = 3"
+        },
+        {
+          "id": "B",
+          "text": "l + m = 2"
+        },
+        {
+          "id": "C",
+          "text": "α - γ = 1"
+        },
+        {
+          "id": "D",
+          "text": "l + m = 0"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "3D Geometry",
+      "topic": "Lines in 3D",
+      "concept": "Angle bisector of two lines in 3D",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "MATHEMATICS",
+      "questionText": "Which of the following inequalities is/are TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "∫₀¹ x cos x dx ≥ 3/8"
+        },
+        {
+          "id": "B",
+          "text": "∫₀¹ x sin x dx ≥ 3/10"
+        },
+        {
+          "id": "C",
+          "text": "∫₀¹ x² cos x dx ≥ 1/2"
+        },
+        {
+          "id": "D",
+          "text": "∫₀¹ x² sin x dx ≥ 2/9"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Integral Calculus",
+      "topic": "Definite Integration",
+      "concept": "Integration inequalities",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "MATHEMATICS",
+      "questionText": "Let m be the minimum possible value of log₃(3^y₁ + 3^y₂ + 3^y₃), where y₁, y₂, y₃ are real numbers for which y₁ + y₂ + y₃ = 9. Let M be the maximum possible value of (log₃ x₁ + log₃ x₂ + log₃ x₃), where x₁, x₂, x₃ are positive real numbers for which x₁ + x₂ + x₃ = 9. Then the value of log₂(m³) + log₃(M²) is _____",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Inequalities",
+      "topic": "AM-GM Inequality",
+      "concept": "Optimization using logarithmic functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a₁,a₂,a₃,... be a sequence of positive integers in arithmetic progression with common difference 2. Also, let b₁,b₂,b₃,... be a sequence of positive integers in geometric progression with common ratio 2. If a₁ = b₁ = c, then the number of all possible values of c, for which the equality 2(a₁ + a₂ + ⋯ + aₙ) = b₁ + b₂ + ⋯ + bₙ holds for some positive integer n, is _____",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Arithmetic and Geometric Progressions",
+      "concept": "Comparison of AP and GP sums",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f:[0,2]⟶ℝ be the function defined by f(x) = (3 - sin(2πx))sin(πx - π/4) - sin(3πx + π/4). If α,β ∈ [0,2] are such that {x ∈ [0,2] : f(x) ≥ 0} = [α,β], then the value of β - α is _____",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Functions",
+      "concept": "Sign analysis of trigonometric expressions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "MATHEMATICS",
+      "questionText": "In a triangle PQR, let a⃗ = QR⃗, b⃗ = RP⃗ and c⃗ = PQ⃗. If |a⃗| = 3, |b⃗| = 4 and (a⃗·(c⃗-b⃗))/(c⃗·(a⃗-b⃗)) = |a⃗|/(|a⃗|+|b⃗|), then the value of |a⃗×b⃗|² is _____",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Vectors",
+      "topic": "Vector Algebra",
+      "concept": "Cross product and dot product relationships",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "MATHEMATICS",
+      "questionText": "For a polynomial g(x) with real coefficients, let mₘ denote the number of distinct real roots of g(x). Suppose S is the set of polynomials with real coefficients defined by S = {(x²-1)²(a₀+a₁x+a₂x²+a₃x³) : a₀,a₁,a₂,a₃ ∈ ℝ}. For a polynomial f, let f' and f'' denote its first and second order derivatives, respectively. Then the minimum possible value of (m_{f'} + m_{f''}), where f ∈ S, is _____",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Polynomials",
+      "topic": "Roots of Polynomials",
+      "concept": "Analysis of polynomial derivatives",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "MATHEMATICS",
+      "questionText": "Let e denote the base of the natural logarithm. The value of the real number a for which the right hand limit lim_{x→0⁺} [(1-x)^(1/x) - e^(-1)]/x^a is equal to a nonzero real number, is _____",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Limits",
+      "topic": "L'Hôpital's Rule",
+      "concept": "Limits involving exponential expressions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T13:37:11.253Z"
+}

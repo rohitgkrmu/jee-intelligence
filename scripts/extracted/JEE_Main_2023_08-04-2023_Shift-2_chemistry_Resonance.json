@@ -3,6 +3,821 @@
   "examYear": 2023,
   "examSession": "",
   "examType": "MAIN",
-  "questions": [],
-  "extractedAt": "2026-01-29T07:41:56.942Z"
+  "questions": [
+    {
+      "questionNumber": 61,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements: Statement – I : In redox titration, the indicators used are sensitive to change in pH of the solution. Statement – II : In acid-base titration, the indicators used are sensitive to change in oxidation potential. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are incorrect"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is incorrect but Statement II is correct"
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are correct"
+        },
+        {
+          "id": "D",
+          "text": "Statement I is correct but Statement II is incorrect"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Analytical Chemistry",
+      "topic": "Titrations",
+      "concept": "Types of titrations and indicators",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "subject": "CHEMISTRY",
+      "questionText": "In Hall – Heroult process, the following is used for reducing Al2O3:",
+      "options": [
+        {
+          "id": "A",
+          "text": "CaF2"
+        },
+        {
+          "id": "B",
+          "text": "Na3AlF6"
+        },
+        {
+          "id": "C",
+          "text": "Graphite"
+        },
+        {
+          "id": "D",
+          "text": "Magnesium"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Metallurgy",
+      "topic": "Extraction of Aluminum",
+      "concept": "Hall-Heroult process",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following can reduce decomposition of H2O2 on exposure to light",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alkali"
+        },
+        {
+          "id": "B",
+          "text": "Dust"
+        },
+        {
+          "id": "C",
+          "text": "Urea"
+        },
+        {
+          "id": "D",
+          "text": "Glass containers"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Hydrogen",
+      "topic": "Hydrogen Peroxide",
+      "concept": "Stabilization of H2O2",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct reaction profile diagram for a positive catalyst reaction.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option (1)"
+        },
+        {
+          "id": "B",
+          "text": "Option (2)"
+        },
+        {
+          "id": "C",
+          "text": "Option (3)"
+        },
+        {
+          "id": "D",
+          "text": "Option (4)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Kinetics",
+      "topic": "Catalysis",
+      "concept": "Energy profile of catalyzed reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "subject": "CHEMISTRY",
+      "questionText": "The product (P) formed from the following multistep reaction is: NO2 with CH3 group undergoing (i) Br2 (ii) H2/Pd (iii) NaNO2, HCl, 0°C (iv) H3PO2",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option (1)"
+        },
+        {
+          "id": "B",
+          "text": "Option (2)"
+        },
+        {
+          "id": "C",
+          "text": "Option (3)"
+        },
+        {
+          "id": "D",
+          "text": "Option (4)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Diazotization and reduction",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "subject": "CHEMISTRY",
+      "questionText": "For a good quality cement, the ratio of lime to the total of the oxides of Si, Al and Fe should be as close as to",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "General Principles",
+      "topic": "Cement",
+      "concept": "Composition of cement",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "subject": "CHEMISTRY",
+      "questionText": "Henry Moseley studied characteristic X-ray spectra of elements. The graph which represents his observation correctly is Given v = frequency of X-ray emitted Z = atomic number",
+      "options": [
+        {
+          "id": "A",
+          "text": "v vs z (linear)"
+        },
+        {
+          "id": "B",
+          "text": "z vs v (linear)"
+        },
+        {
+          "id": "C",
+          "text": "v² vs z (linear)"
+        },
+        {
+          "id": "D",
+          "text": "√v vs z (linear)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Structure",
+      "topic": "X-ray Spectra",
+      "concept": "Moseley's law",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "subject": "CHEMISTRY",
+      "questionText": "A compound 'X' when treated with phthalic anhydride in presence of concentrated H2SO4 yields 'Y'. 'Y' is used as an acid/base indicator. 'X' and 'Y' are respectively",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anisole, methyl orange"
+        },
+        {
+          "id": "B",
+          "text": "Toludine, Phenolphthalein"
+        },
+        {
+          "id": "C",
+          "text": "Carbolic acid, Phenolphthalein"
+        },
+        {
+          "id": "D",
+          "text": "Salicylaldehyde, Phenolphthalein"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Phenols",
+      "concept": "Synthesis of phenolphthalein",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of these reactions is not a part of breakdown of ozone in stratosphere?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ClO₂(g) + Cl(g) → ClO(g)"
+        },
+        {
+          "id": "B",
+          "text": "CF₂Cl₂(g) → Cl(g) + CF₂Cl(g) (under UV)"
+        },
+        {
+          "id": "C",
+          "text": "ClO(g) + O(g) → Cl(g) + O₂(g)"
+        },
+        {
+          "id": "D",
+          "text": "Cl(g) + O₃(g) → ClO(g) + O₂(g)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Environmental Chemistry",
+      "topic": "Ozone Depletion",
+      "concept": "Ozone hole mechanism",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "subject": "CHEMISTRY",
+      "questionText": "Major product 'P' formed in the following reaction is: (phenol with Br₂/NaHCO₃)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option (1)"
+        },
+        {
+          "id": "B",
+          "text": "Option (2)"
+        },
+        {
+          "id": "C",
+          "text": "Option (3)"
+        },
+        {
+          "id": "D",
+          "text": "Option (4)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Phenols",
+      "concept": "Bromination of phenols",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II List I (Natural amino acid): A. Glutamic acid B. Glutamine C. Tyrosine D. Tryptophan List II (One letter code): I. Q II. W III. E IV. Y Choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-II, B-I, C-IV, D-III"
+        },
+        {
+          "id": "B",
+          "text": "A-III, B-IV, C-I, D-II"
+        },
+        {
+          "id": "C",
+          "text": "A-IV, B-III, C-I, D-II"
+        },
+        {
+          "id": "D",
+          "text": "A-III, B-I, C-IV, D-II"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Biomolecules",
+      "topic": "Amino Acids",
+      "concept": "Amino acid codes",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R Assertion A: Sodium is about 30 times as abundant as potassium in the oceans. Reason R: Potassium is bigger in size than sodium. In the light of the above statements, choose the correct answer from the options given below",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "B",
+          "text": "A is false but R is true"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "s-Block Elements",
+      "topic": "Alkali Metals",
+      "concept": "Abundance and ionic size",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct order of reactivity of following haloarenes towards nucleophilic substitution with aqueous NaOH is A. (chlorobenzene) B. (p-nitrochlorobenzene) C. (o-nitrochlorobenzene) D. (2,4-dinitrochlorobenzene) Choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A > B > D > C"
+        },
+        {
+          "id": "B",
+          "text": "C > A > D > B"
+        },
+        {
+          "id": "C",
+          "text": "D > C > B > A"
+        },
+        {
+          "id": "D",
+          "text": "D > B > A > C"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Haloarenes",
+      "concept": "Nucleophilic aromatic substitution",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "subject": "CHEMISTRY",
+      "questionText": "The statements which are true about antagonists from the following is/are: A. They bind to the receptor site. B. Get transferred inside the cell for their action. C. Inhibit the natural communication of the body. D. Mimic the natural messenger. Choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A and C"
+        },
+        {
+          "id": "B",
+          "text": "B only"
+        },
+        {
+          "id": "C",
+          "text": "A and B"
+        },
+        {
+          "id": "D",
+          "text": "A, C and D"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemistry in Everyday Life",
+      "topic": "Drugs and Medicines",
+      "concept": "Drug action mechanism",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "subject": "CHEMISTRY",
+      "questionText": "Arrange the following gases in increasing order of van der Waals constant 'a' A. Ar B. CH₄ C. H₂O D. C₆H₆ Choose the correct option from the following.",
+      "options": [
+        {
+          "id": "A",
+          "text": "B, C, D and A"
+        },
+        {
+          "id": "B",
+          "text": "D, C, B and A"
+        },
+        {
+          "id": "C",
+          "text": "A, B, C and D"
+        },
+        {
+          "id": "D",
+          "text": "C, D, B and A"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "States of Matter",
+      "topic": "Real Gases",
+      "concept": "van der Waals constants",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following have same number of significant figures? A. 0.00253 B. 1.0003 C. 15.0 D. 163 Choose the correct answer from the options given below",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, C and D only"
+        },
+        {
+          "id": "B",
+          "text": "B and C only"
+        },
+        {
+          "id": "C",
+          "text": "C and D only"
+        },
+        {
+          "id": "D",
+          "text": "A, B and C only"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Some Basic Concepts",
+      "topic": "Significant Figures",
+      "concept": "Rules of significant figures",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II List I (Coordination Complex): A. [Cr(CN)₆]³⁻ B. [Fe(H₂O)₆]²⁺ C. [Co(NH₃)₆]³⁺ D. [Ni(NH₃)₆]²⁺ List II (Number of unpaired electrons): I. 0 II. 3 III. 2 IV. 4 Choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-II, B-I, C-IV, D-III"
+        },
+        {
+          "id": "B",
+          "text": "A-II, B-IV, C-I, D-III"
+        },
+        {
+          "id": "C",
+          "text": "A-IV, B-III, C-II, D-I"
+        },
+        {
+          "id": "D",
+          "text": "A-III, B-IV, C-I, D-II"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Crystal Field Theory",
+      "concept": "Magnetic properties of complexes",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "subject": "CHEMISTRY",
+      "questionText": "The descending order of acidity for the following carboxylic acid is – A. CH₃COOH B. F₃C–COOH C. ClCH₂–COOH D. FCH₂–COOH E. BrCH₂–COOH Choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "B > D > C > E > A"
+        },
+        {
+          "id": "B",
+          "text": "B > C > D > E > A"
+        },
+        {
+          "id": "C",
+          "text": "E > D > B > A > C"
+        },
+        {
+          "id": "D",
+          "text": "D > B > A > E > C"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Carboxylic Acids",
+      "concept": "Effect of substituents on acidity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements: Statement – I : Methyl orange is a weak acid. Statement – II : The benzenoid form of methyl orange is more intense/deeply coloured than the quinonoid form. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is incorrect but Statement II is correct"
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are correct"
+        },
+        {
+          "id": "D",
+          "text": "Statement I is correct but Statement II is incorrect"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Analytical Chemistry",
+      "topic": "Acid-Base Indicators",
+      "concept": "Structure and properties of methyl orange",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct IUPAC nomenclature for the following compound is: (compound with COOH, CH₃, and C=O groups)",
+      "options": [
+        {
+          "id": "A",
+          "text": "5-Methyl-2-oxohexan-6-oic acid"
+        },
+        {
+          "id": "B",
+          "text": "2-Methyl-5-oxohexanoic acid"
+        },
+        {
+          "id": "C",
+          "text": "5-Formyl-2-methylhexanoic acid"
+        },
+        {
+          "id": "D",
+          "text": "2-Formyl-5-methylhexan-6-oic acid"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "IUPAC Nomenclature",
+      "concept": "Naming of multifunctional compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "subject": "CHEMISTRY",
+      "questionText": "If the boiling points of two solvents X and Y (having same molecular weights) are in the ratio 2:1 and their enthalpy of vaporizations are in the ratio 1:2, then the boiling point elevation constant of X is M times the boiling point elevation constant of Y. The value of m is ______________ (nearest integer).",
+      "options": [],
+      "correctAnswer": "8",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Colligative Properties",
+      "concept": "Boiling point elevation constant",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "subject": "CHEMISTRY",
+      "questionText": "The ratio of sigma and π bonds present in pyrophosphoric acid is ______________.",
+      "options": [],
+      "correctAnswer": "6",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Bonding",
+      "topic": "Types of Bonds",
+      "concept": "Sigma and pi bonds counting",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of atomic orbitals from the following having 5 radial nodes is _____________. 7s, 7p, 6s, 8p, 8d",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Atomic Structure",
+      "topic": "Atomic Orbitals",
+      "concept": "Radial nodes in orbitals",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "subject": "CHEMISTRY",
+      "questionText": "For complete combustion of ethane, C₂H₄(g) + 3O₂(g) → 2CO₂(g) + 2H₂O(l) the amount of heat produced as measured in bomb calorimeter is 1406 KJ mol⁻¹ at 300K. The minimum value of ΔS needed to reach equilibrium is (–) __________ KJ. (Nearest integer) Given : R = 8.3 JK⁻¹ mol⁻¹",
+      "options": [],
+      "correctAnswer": "1411",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Enthalpy and Entropy",
+      "concept": "Gibbs free energy at equilibrium",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "subject": "CHEMISTRY",
+      "questionText": "The solubility product of BaSO₄ is 1×10⁻¹⁰ at 298K. The solubility of BaSO₄ in 0.1 MK₂SO₄(aq) solution is ____________ × 10⁻⁹ gL⁻¹ (nearest integer). Given : Molar mass of BaSO₄ is 233 g mol⁻¹",
+      "options": [],
+      "correctAnswer": "233",
+      "questionType": "NUMERICAL",
+      "chapter": "Equilibrium",
+      "topic": "Solubility Product",
+      "concept": "Common ion effect",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "subject": "CHEMISTRY",
+      "questionText": "Coagulating value of the electrolytes AlCl₃ and NaCl for As₂S₃ are 0.09 and 50.04 respectively. The coagulating power of AlCl₃ is x times the coagulating power of NaCl. The value of x is __________.",
+      "options": [],
+      "correctAnswer": "556",
+      "questionType": "NUMERICAL",
+      "chapter": "Surface Chemistry",
+      "topic": "Colloids",
+      "concept": "Coagulation of colloids",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of incorrect statements from the following is __________ A. The electrical work that a reaction can perform at constant pressure and temperature is equal to the reaction Gibbs energy. B. E°cell is dependent on the pressure. C. ΔrS = -nF(dEcell/dT) D. A cell is operating reversibly if the cell potential is exactly balanced by an opposing source of potential difference.",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Galvanic Cells",
+      "concept": "Thermodynamics of cells",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "subject": "CHEMISTRY",
+      "questionText": "The observed magnetic moment of the complex [Mn(NCS)₆]ˣ⁻ is 6.06 BM. The numerical value of x is ___________.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Compounds",
+      "topic": "Magnetic Properties",
+      "concept": "Magnetic moment calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of species from the following carrying a single lone pair on central atom Xenon is ______. XeF₅⁺, XeO₃, XeO₂F₂, XeF₅⁻, XeO₃F₂, XeOF₄, XeF₄",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Bonding",
+      "topic": "Molecular Geometry",
+      "concept": "VSEPR theory and lone pairs",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "subject": "CHEMISTRY",
+      "questionText": "The sum of oxidation state of the metals in Fe(CO)₅, VO₂⁺ and WO₃ is ____________.",
+      "options": [],
+      "correctAnswer": "10",
+      "questionType": "NUMERICAL",
+      "chapter": "Redox Reactions",
+      "topic": "Oxidation States",
+      "concept": "Calculation of oxidation numbers",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T12:37:08.898Z"
 }

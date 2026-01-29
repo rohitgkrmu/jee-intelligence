@@ -1,0 +1,1649 @@
+{
+  "filename": "JEE_Main_2023_Jan_30_Shift2.pdf",
+  "examYear": 2023,
+  "examSession": "Jan 30 Shift 2",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "In the given circuit the resistance between terminals A and B is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 Ω"
+        },
+        {
+          "id": "B",
+          "text": "3/2 Ω"
+        },
+        {
+          "id": "C",
+          "text": "2/3 Ω"
+        },
+        {
+          "id": "D",
+          "text": "6 Ω"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Circuit Analysis",
+      "concept": "Equivalent Resistance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "A car travels 4 km distance with a speed of 3 km/h and next 4 km with a speed of 5 km/h. Find average speed of car.",
+      "options": [
+        {
+          "id": "A",
+          "text": "15/2 km/h"
+        },
+        {
+          "id": "B",
+          "text": "15/4 km/h"
+        },
+        {
+          "id": "C",
+          "text": "15 km/h"
+        },
+        {
+          "id": "D",
+          "text": "10 km/h"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Kinematics",
+      "concept": "Average Speed",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "A current 2 A is flowing through the sides of an equilateral triangular loop of side 4√3 m as shown. Find the magnetic field induction at the centroid of the triangle.",
+      "options": [
+        {
+          "id": "A",
+          "text": "3√3 × 10⁻⁷ T"
+        },
+        {
+          "id": "B",
+          "text": "3 × 10⁻⁷ T"
+        },
+        {
+          "id": "C",
+          "text": "2√3 × 10⁻⁷ T"
+        },
+        {
+          "id": "D",
+          "text": "5√3 × 10⁻⁷ T"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Field",
+      "concept": "Magnetic field due to current loop",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "A particle is released at a height equal to radius of the earth above the surface of the earth. Its velocity when it hits the surface of earth is equal to (Me: mass of earth, Re: Radius of earth)",
+      "options": [
+        {
+          "id": "A",
+          "text": "v = √(2GMe/Re)"
+        },
+        {
+          "id": "B",
+          "text": "v = √(2GMe/Re)"
+        },
+        {
+          "id": "C",
+          "text": "v = √(GMe/Re)"
+        },
+        {
+          "id": "D",
+          "text": "v = √(2GMe/3Re)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Gravitational Potential Energy",
+      "concept": "Conservation of Energy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "A faulty scale reads 5°C at melting point and 95°C at steam point. Find original temperature if this faulty scale reads 41°C.",
+      "options": [
+        {
+          "id": "A",
+          "text": "40°C"
+        },
+        {
+          "id": "B",
+          "text": "41°C"
+        },
+        {
+          "id": "C",
+          "text": "36°C"
+        },
+        {
+          "id": "D",
+          "text": "45°C"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Temperature Scales",
+      "concept": "Linear interpolation",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "A block stays in equilibrium as shown: Find the tension in the string if m = 3 kg",
+      "options": [
+        {
+          "id": "A",
+          "text": "3g N"
+        },
+        {
+          "id": "B",
+          "text": "√3g N"
+        },
+        {
+          "id": "C",
+          "text": "g/2 N"
+        },
+        {
+          "id": "D",
+          "text": "g/√3 N"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Equilibrium",
+      "concept": "Force balance",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "In the AC circuit shown in the figure the value of Irms is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "2A"
+        },
+        {
+          "id": "B",
+          "text": "2√2 A"
+        },
+        {
+          "id": "C",
+          "text": "4A"
+        },
+        {
+          "id": "D",
+          "text": "√2 A"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Alternating Current",
+      "topic": "AC Circuits",
+      "concept": "RMS current calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "A point charge Q is placed inside the cavity made in uniform conducting solid sphere as shown. EA, EB and EC are electric field magnitudes at points A, B and C respectively, Then",
+      "options": [
+        {
+          "id": "A",
+          "text": "EA = 0, EB = 0 and EC ≠ 0"
+        },
+        {
+          "id": "B",
+          "text": "EA ≠ 0, EB = 0 and EC ≠ 0"
+        },
+        {
+          "id": "C",
+          "text": "EA ≠ 0, EB = 0 and EC = 0"
+        },
+        {
+          "id": "D",
+          "text": "EA ≠ 0, EB ≠ 0 and EC ≠ 0"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Field",
+      "concept": "Electric field in conductors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "In the shown mass-spring system when it is set into oscillations along the spring, it has angular frequency ω₁, when m = 1 kg and ω₂ if m = 2 kg. Then value of ω₁/ω₂ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "√2"
+        },
+        {
+          "id": "C",
+          "text": "1/2"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Oscillations",
+      "topic": "Simple Harmonic Motion",
+      "concept": "Angular frequency of mass-spring system",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "For the given logic circuit which of the following truth table is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A=0,B=0,Y=0; A=0,B=1,Y=1; A=1,B=0,Y=1; A=1,B=1,Y=0"
+        },
+        {
+          "id": "B",
+          "text": "A=0,B=0,Y=1; A=0,B=1,Y=0; A=1,B=0,Y=0; A=1,B=1,Y=1"
+        },
+        {
+          "id": "C",
+          "text": "A=0,B=0,Y=0; A=0,B=1,Y=0; A=1,B=0,Y=1; A=1,B=1,Y=1"
+        },
+        {
+          "id": "D",
+          "text": "A=0,B=0,Y=1; A=0,B=1,Y=1; A=1,B=0,Y=0; A=1,B=1,Y=0"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electronics",
+      "topic": "Logic Gates",
+      "concept": "XOR gate",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "A particle of mass m is moving under a force whose delivered power P is constant. Initial velocity of particle is zero. Find position of particle at t = 4s.",
+      "options": [
+        {
+          "id": "A",
+          "text": "x = 16√(2P/3m)"
+        },
+        {
+          "id": "B",
+          "text": "x = 4√(2P/3m)"
+        },
+        {
+          "id": "C",
+          "text": "x = √(2P/3m)"
+        },
+        {
+          "id": "D",
+          "text": "x = 3√(10P/m)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Work and Energy",
+      "concept": "Constant power motion",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "Column-I list few physical quantities and column-II lists their dimensions. Choose the correct option matching the two lists correctly",
+      "options": [
+        {
+          "id": "A",
+          "text": "P-C, Q-A, R-B, S-D"
+        },
+        {
+          "id": "B",
+          "text": "P-C, Q-D, R-A, S-B"
+        },
+        {
+          "id": "C",
+          "text": "P-A, Q-D, R-B, S-C"
+        },
+        {
+          "id": "D",
+          "text": "P-A, Q-C, R-B, S-D"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Dimensions",
+      "topic": "Dimensional Analysis",
+      "concept": "Dimensions of physical quantities",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "Consider the following assertion & reason: Assertion (A): At sink temperature of –273°C, the efficiency of a Carnot engine will be 1. Reason (R): Efficiency of a Carnot engine is given by η = 1 - Tsink/Tsource.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) is correct, (R) is correct and correctly explains A"
+        },
+        {
+          "id": "B",
+          "text": "(A) is not correct, (R) is correct"
+        },
+        {
+          "id": "C",
+          "text": "Both (A) & (R) are incorrect"
+        },
+        {
+          "id": "D",
+          "text": "Both (A) & (R) are correct, (R) does not explain (A)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Heat Engines",
+      "concept": "Carnot engine efficiency",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "Electric field in a region is E⃗ = 2x²î - 4yĵ + 6zk̂. Find the charge inside the cuboid shown:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-8ε₀"
+        },
+        {
+          "id": "B",
+          "text": "36ε₀"
+        },
+        {
+          "id": "C",
+          "text": "12ε₀"
+        },
+        {
+          "id": "D",
+          "text": "24ε₀"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Gauss's Law",
+      "concept": "Electric flux calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "Find the ratio of de Broglie wavelength of proton, when it is accelerated across v and 3v potential difference.",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 : 1"
+        },
+        {
+          "id": "B",
+          "text": "1 : √3"
+        },
+        {
+          "id": "C",
+          "text": "1 : 3"
+        },
+        {
+          "id": "D",
+          "text": "√3 : 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Matter Waves",
+      "concept": "de Broglie wavelength",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "For the given electrical circuit, the potential difference between points B and C is zero. The value of x is _______.",
+      "correctAnswer": "0.50",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Circuit Analysis",
+      "concept": "Wheatstone bridge balance condition",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "Two waves of same intensity from sources in phase are made to superimpose at a point. If path difference between these two coherent waves is zero then resultant intensity is I₀. If this path difference is λ/2 where λ is wavelength of these waves, then resultant intensity is I₁, and if the path difference is λ/4 then resultant intensity is I₂. Value of (I₁+I₂)/I₀ is equal to",
+      "correctAnswer": "0.50",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Wave Interference",
+      "concept": "Intensity in wave interference",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "A bullet (mass 10 grams) is fired from a gun (mass 10 kg without the bullet) with a speed of 100 m/s. The recoil speed of gun is V/10 m/s. Find x.",
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Conservation of Momentum",
+      "concept": "Recoil velocity",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "The ratio of temperature (in K) of hydrogen and oxygen is 2 : 1. The ratio of their average kinetic energy per molecule is",
+      "correctAnswer": "2.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Kinetic Theory",
+      "topic": "Kinetic Energy of Gases",
+      "concept": "Average kinetic energy of molecules",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "The relation between velocity (v) and position (x) of a particle moving along x-axis is given by 4v² = 50 - x². The time period of the oscillatory motion of the particle is 88π/n seconds. Find n (use π²/22 = 7)",
+      "correctAnswer": "7.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Oscillations",
+      "topic": "Simple Harmonic Motion",
+      "concept": "Time period from energy equation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "PHYSICS",
+      "questionText": "Prism A has angle of prism equal to 6° and its material has refractive index 1.5. It is used in combination with prism B of refractive index 1.8 to produce dispersion without deviation. Prism angle of prism B is equal to _____ degrees.",
+      "correctAnswer": "3.75",
+      "questionType": "NUMERICAL",
+      "chapter": "Optics",
+      "topic": "Prisms",
+      "concept": "Dispersion without deviation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "CHEMISTRY",
+      "questionText": "Maximum no. of e⁻ in n = 4 shell",
+      "options": [
+        {
+          "id": "A",
+          "text": "72"
+        },
+        {
+          "id": "B",
+          "text": "50"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "32"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Structure",
+      "topic": "Electronic Configuration",
+      "concept": "Maximum electrons in shell",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "CHEMISTRY",
+      "questionText": "BOD value of a water sample is 3 ppm. Select the correct option about the given sample of water.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is highly polluted water"
+        },
+        {
+          "id": "B",
+          "text": "It is clean water"
+        },
+        {
+          "id": "C",
+          "text": "Concentration of oxygen in the given sample is very less"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Environmental Chemistry",
+      "topic": "Water Pollution",
+      "concept": "BOD values",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following chloride is more soluble in organic solvent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Be"
+        },
+        {
+          "id": "B",
+          "text": "K"
+        },
+        {
+          "id": "C",
+          "text": "Ca"
+        },
+        {
+          "id": "D",
+          "text": "Mg"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Bonding",
+      "topic": "Ionic and Covalent Character",
+      "concept": "Covalent character in chlorides",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct order of bond strength H₂O, H₂S, H₂Se, H₂Te",
+      "options": [
+        {
+          "id": "A",
+          "text": "H₂O > H₂S > H₂Se > H₂Te"
+        },
+        {
+          "id": "B",
+          "text": "H₂S > H₂O > H₂Se > H₂Te"
+        },
+        {
+          "id": "C",
+          "text": "H₂Te > H₂Se > H₂S > H₂O"
+        },
+        {
+          "id": "D",
+          "text": "H₂Te > H₂S > H₂O > H₂Se"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Bonding",
+      "topic": "Bond Strength",
+      "concept": "Periodic trends in bond strength",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct order of acidic strength of the following compounds is",
+      "options": [
+        {
+          "id": "A",
+          "text": "a > b > c > d"
+        },
+        {
+          "id": "B",
+          "text": "c > a > b > d"
+        },
+        {
+          "id": "C",
+          "text": "d > c > b > a"
+        },
+        {
+          "id": "D",
+          "text": "c > b > a > d"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Acidity",
+      "concept": "Effect of substituents on acidity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "CHEMISTRY",
+      "questionText": "What is Cl – Co – Cl bond angle in [Co(NH₃)₃Cl₃]?",
+      "options": [
+        {
+          "id": "A",
+          "text": "120° and 90°"
+        },
+        {
+          "id": "B",
+          "text": "90° and 180°"
+        },
+        {
+          "id": "C",
+          "text": "90°"
+        },
+        {
+          "id": "D",
+          "text": "180°"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "Geometry of Complexes",
+      "concept": "Bond angles in octahedral complexes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct decreasing order of stability of the following compounds is",
+      "options": [
+        {
+          "id": "A",
+          "text": "a > b > c > d"
+        },
+        {
+          "id": "B",
+          "text": "d > b > c > a"
+        },
+        {
+          "id": "C",
+          "text": "b > d > a > c"
+        },
+        {
+          "id": "D",
+          "text": "b > a > d > c"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Stability of Compounds",
+      "concept": "Relative stability comparison",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following is correct order of SN1 reaction?",
+      "options": [
+        {
+          "id": "A",
+          "text": "a > b > c > d"
+        },
+        {
+          "id": "B",
+          "text": "c > b > d > a"
+        },
+        {
+          "id": "C",
+          "text": "c > a > b > d"
+        },
+        {
+          "id": "D",
+          "text": "d > a > b > c"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Nucleophilic Substitution",
+      "concept": "SN1 reactivity order",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "CHEMISTRY",
+      "questionText": "Lead storage battery have 38% (w/w) H₂SO₄. Find the temperature at which the liquid of battery will freeze (i = 2.67); kf of water = 1.86 K kg/mole",
+      "options": [
+        {
+          "id": "A",
+          "text": "–3.1°C"
+        },
+        {
+          "id": "B",
+          "text": "–31°C"
+        },
+        {
+          "id": "C",
+          "text": "–0.31°C"
+        },
+        {
+          "id": "D",
+          "text": "–0.031°C"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solutions",
+      "topic": "Colligative Properties",
+      "concept": "Freezing point depression",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "CHEMISTRY",
+      "questionText": "KMnO₄ oxidises I⁻ in acidic & neutral medium in which form – respectively.",
+      "options": [
+        {
+          "id": "A",
+          "text": "IO₃⁻, IO⁻"
+        },
+        {
+          "id": "B",
+          "text": "IO₃⁻, IO₃⁻"
+        },
+        {
+          "id": "C",
+          "text": "IO₃⁻, I⁻"
+        },
+        {
+          "id": "D",
+          "text": "I₂, IO₃⁻"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Redox Reactions",
+      "topic": "Oxidation States",
+      "concept": "Oxidation products in different media",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following equation is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "LiNO₃ → Li + NO₂ + O₂"
+        },
+        {
+          "id": "B",
+          "text": "LiNO₃ → LiNO₂ + O₂"
+        },
+        {
+          "id": "C",
+          "text": "LiNO₃ → Li₂O + NO₂ + O₂"
+        },
+        {
+          "id": "D",
+          "text": "LiNO₃ → Li₂O + N₂O₄ + O₂"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Thermal Decomposition",
+      "concept": "Decomposition of nitrates",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "CHEMISTRY",
+      "questionText": "The option containing correct match is: A. Ni(CO)₄ (i) sp³, B. [Ni(CN)₄]²⁻ (ii) sp³d², C. [Cu(H₂O)₆]²⁺ (iii) d²sp³, D. [Fe(CN)₆]⁴⁻ (iv) dsp²",
+      "options": [
+        {
+          "id": "A",
+          "text": "A(i), B(iv), C(ii), D(iii)"
+        },
+        {
+          "id": "B",
+          "text": "A(iii), B(ii), C(iv), D(i)"
+        },
+        {
+          "id": "C",
+          "text": "A(ii), B(iii), C(iv), D(i)"
+        },
+        {
+          "id": "D",
+          "text": "A(iv), B(ii), C(i), D(iii)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "Hybridization",
+      "concept": "Hybridization in complexes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement 1: Antihistamine prevents the secretion of acid in stomach. Statement 2: Antiallergic and antacid work on same receptors",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 is correct, 2 is incorrect"
+        },
+        {
+          "id": "B",
+          "text": "Both are correct"
+        },
+        {
+          "id": "C",
+          "text": "1 is incorrect, 2 is correct"
+        },
+        {
+          "id": "D",
+          "text": "Both are incorrect"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemistry in Everyday Life",
+      "topic": "Drugs and Medicines",
+      "concept": "Mode of action of drugs",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "CHEMISTRY",
+      "questionText": "Statement-1: During hall-heroult process mixing of CaF₂ and Na₃AlF₆ decreases the M.P. of Al₂O₃. Statement-2: During electrolytic refining Anode is pure and cathode is impure.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both are correct"
+        },
+        {
+          "id": "B",
+          "text": "Statement-1 is correct, statement-2 is incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Both are incorrect"
+        },
+        {
+          "id": "D",
+          "text": "Statement-1 is incorrect, statement-2 is correct"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Metallurgy",
+      "topic": "Extraction of Metals",
+      "concept": "Hall-Heroult process and electrolytic refining",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "CHEMISTRY",
+      "questionText": "Nessler's reagent is",
+      "options": [
+        {
+          "id": "A",
+          "text": "K₂[HgI₄]"
+        },
+        {
+          "id": "B",
+          "text": "K₃[HgI₄]"
+        },
+        {
+          "id": "C",
+          "text": "Hg₂I₂"
+        },
+        {
+          "id": "D",
+          "text": "HgI₂"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Qualitative Analysis",
+      "topic": "Chemical Tests",
+      "concept": "Nessler's reagent formula",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "CHEMISTRY",
+      "questionText": "Boric acid is present in solid state while BF₃ is a gas at room temperature because",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hydrogen bonding is present in boric acid"
+        },
+        {
+          "id": "B",
+          "text": "Boric acid has more molar mass as compared to BF₃"
+        },
+        {
+          "id": "C",
+          "text": "BF₃ is polymeric in nature"
+        },
+        {
+          "id": "D",
+          "text": "Both (2) and (3)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Bonding",
+      "topic": "Intermolecular Forces",
+      "concept": "Hydrogen bonding effects",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "For given Ecell, X|X²⁺(0.001M)||Y²⁺(0.01M)|Y at 298 K, E°(X²⁺/X) = -0.76, E°(Y²⁺/Y) = +0.34, 2.303RT/F = 0.06. If Ecell = t, find 5t (closest integer).",
+      "correctAnswer": "6",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Nernst Equation",
+      "concept": "Cell potential calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "Find the number of formula units of FeO per unit cell (Round off to the nearest integer). Given that density = 4.0 gm/cm³, a = 5Å, NA = 6.0 × 10²³",
+      "correctAnswer": "4",
+      "questionType": "NUMERICAL",
+      "chapter": "Solid State",
+      "topic": "Crystal Structure",
+      "concept": "Formula units per unit cell",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "For 1st order reaction, 540 s is required for 60% completion, then the time for 90% completion is 1.35 × 10ˣ. Find x. (log 4 = 0.6)",
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Kinetics",
+      "topic": "First Order Reactions",
+      "concept": "Rate constant and time calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "1 mole of a gas undergoes adiabatic process given that CV = 20 JK⁻¹ mol⁻¹, w = 3 kJ, T₁ = 27°C, T₂ = ? (°C)",
+      "correctAnswer": "177",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Adiabatic Process",
+      "concept": "Work done in adiabatic process",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "CHEMISTRY",
+      "questionText": "Volume strength of H₂O₂ solution is 60 'V', strength of solution is______ g/L. (Round off to the nearest integer)",
+      "correctAnswer": "182",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Concentration Terms",
+      "concept": "Volume strength to mass concentration",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "MATHEMATICS",
+      "questionText": "Common tangent is drawn to y² = 16x and x² + y² = 8. Find square of distance between point of contact of common tangent on both the curves.",
+      "options": [
+        {
+          "id": "A",
+          "text": "78"
+        },
+        {
+          "id": "B",
+          "text": "72"
+        },
+        {
+          "id": "C",
+          "text": "42"
+        },
+        {
+          "id": "D",
+          "text": "76"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Tangents to Curves",
+      "concept": "Common tangent to parabola and circle",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f(x) = {x, x≠0; 1, x=0} and g(x) = {sin(x-1)/(x-1), x≠1; 1, x=1}. h(x) = 2[x] + f(x) ([] denotes greatest integer function) then limit(x→1) g(h(x-1)) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "sin1/1"
+        },
+        {
+          "id": "B",
+          "text": "sin2/2"
+        },
+        {
+          "id": "C",
+          "text": "-1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Limits and Continuity",
+      "topic": "Limits",
+      "concept": "Limit of composite functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "MATHEMATICS",
+      "questionText": "If |a⃗| = 1, |b⃗| = 2, a⃗·b⃗ = 4, c⃗ = 2(a⃗ + b⃗) - 3b⃗ then b⃗·c⃗ equals",
+      "options": [
+        {
+          "id": "A",
+          "text": "- 48"
+        },
+        {
+          "id": "B",
+          "text": "- 12"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "48"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vectors",
+      "topic": "Vector Operations",
+      "concept": "Dot product of vectors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "MATHEMATICS",
+      "questionText": "lim(n→∞) [√(n²+1)/2 + √(n²+2²)/2² + √(n²+3²)/2³ + ... + √(n²+n²)/2ⁿ - 3] is",
+      "options": [
+        {
+          "id": "A",
+          "text": "19"
+        },
+        {
+          "id": "B",
+          "text": "21"
+        },
+        {
+          "id": "C",
+          "text": "-19"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Limits and Continuity",
+      "topic": "Limits",
+      "concept": "Limit of infinite series",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f(x) = x³ - 3x² + x + 1. The range of f(x) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2-2√2, 10]"
+        },
+        {
+          "id": "B",
+          "text": "[-5, 10]"
+        },
+        {
+          "id": "C",
+          "text": "[-2, 7]"
+        },
+        {
+          "id": "D",
+          "text": "[-7, 10]"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Range of Functions",
+      "concept": "Finding range using calculus",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of tan⁻¹(1/(a₁+a₂)) + tan⁻¹(1/(a₂+a₃)) + ... + tan⁻¹(1/(a₂₀₂₁+a₂₀₂₂)) if a₁ = 1 and aᵢ are consecutive natural numbers",
+      "options": [
+        {
+          "id": "A",
+          "text": "cot⁻¹(2021) - π/4"
+        },
+        {
+          "id": "B",
+          "text": "cot⁻¹(2022) - π/4"
+        },
+        {
+          "id": "C",
+          "text": "tan⁻¹(2021) - π/4"
+        },
+        {
+          "id": "D",
+          "text": "tan⁻¹(2022) - π/4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inverse Trigonometric Functions",
+      "topic": "Summation of Inverse Functions",
+      "concept": "Sum of arctangent series",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P = (8+3√13)¹³⁹, Q = (6+2√9)⁹ then (where [ ] represents greatest integer function)",
+      "options": [
+        {
+          "id": "A",
+          "text": "[P] = Odd, [Q] = Even"
+        },
+        {
+          "id": "B",
+          "text": "[P] = Even, [Q] = Odd"
+        },
+        {
+          "id": "C",
+          "text": "[P] = Odd, [Q] = Odd"
+        },
+        {
+          "id": "D",
+          "text": "[P] + [Q] = Even"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Binomial Theorem",
+      "topic": "Applications of Binomial Theorem",
+      "concept": "Greatest integer function with binomial expansion",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "MATHEMATICS",
+      "questionText": "Let p : I am well. q : I will not take rest r : I will not sleep properly, then \"If I am not well then I will not take rest and I will not sleep properly\" is logically equivalent to",
+      "options": [
+        {
+          "id": "A",
+          "text": "(~ p → q) ∧ r"
+        },
+        {
+          "id": "B",
+          "text": "~ p → (q ∧ r)"
+        },
+        {
+          "id": "C",
+          "text": "(~ p ∧ q) → r"
+        },
+        {
+          "id": "D",
+          "text": "(~ p ∧ q) → r"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mathematical Logic",
+      "topic": "Logical Equivalence",
+      "concept": "Translation of statements to logic",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "MATHEMATICS",
+      "questionText": "q is maximum value of p lying in interval [0, 10], roots of x² - px + 5p/d = 0 are having rational roots. Find area of region S = {(x,y) : y ≥ 0, x ≤ q}",
+      "options": [
+        {
+          "id": "A",
+          "text": "243"
+        },
+        {
+          "id": "B",
+          "text": "723"
+        },
+        {
+          "id": "C",
+          "text": "81"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Quadratic Equations",
+      "topic": "Nature of Roots",
+      "concept": "Area calculation with constraint",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "subject": "MATHEMATICS",
+      "questionText": "If (x² + y²)dy/dx = (x² + y²)³ - 2xy, y(1) = 0 then f(x) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(x + y)²log(xy + x + y) = 0"
+        },
+        {
+          "id": "B",
+          "text": "(x + y)²log(xy + x - y) = 0"
+        },
+        {
+          "id": "C",
+          "text": "(x² + y²)³ = 3x²y + 3xy² + x³"
+        },
+        {
+          "id": "D",
+          "text": "(x² + y²)³ = 3xy² - 3x²y + x³"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Differential Equations",
+      "topic": "First Order Differential Equations",
+      "concept": "Solution of differential equation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "subject": "MATHEMATICS",
+      "questionText": "A bag contains 3 same balls and 3 different balls of three different colours. Two balls are drawn randomly with replacement. The probability they have same colour is m. Again four balls are drawn one by one with replacement, then probability of getting three same balls is n. The value of m.n is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/49"
+        },
+        {
+          "id": "B",
+          "text": "6/49"
+        },
+        {
+          "id": "C",
+          "text": "43/147"
+        },
+        {
+          "id": "D",
+          "text": "8/81"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Independent Events",
+      "concept": "Probability with replacement",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "subject": "MATHEMATICS",
+      "questionText": "Two A.P.'s are given as under 3, 7, 11, ...... 1, 6, 11, 16,.... Find 8th common term that is appearing in both the series",
+      "correctAnswer": "151",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Arithmetic Progression",
+      "concept": "Common terms in AP",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "subject": "MATHEMATICS",
+      "questionText": "Using 1, 2, 2, 2, 3, 3, 5 find number of 7-digit odd numbers that can be formed",
+      "correctAnswer": "240",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Permutations with Repetition",
+      "concept": "Counting with restrictions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "subject": "MATHEMATICS",
+      "questionText": "50th root of x is 12, 50th root of y is 18. Remainder when x + y is divided by 25.",
+      "correctAnswer": "23",
+      "questionType": "NUMERICAL",
+      "chapter": "Number Theory",
+      "topic": "Modular Arithmetic",
+      "concept": "Remainder calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a = {1, 3, 5, ... 99} and b = {2, 4, 6, ... 100}. The number of ordered pair (a, b) such that a + b when divided by 23 leaves remainder 2 is",
+      "correctAnswer": "108",
+      "questionType": "NUMERICAL",
+      "chapter": "Number Theory",
+      "topic": "Modular Arithmetic",
+      "concept": "Counting pairs with remainder condition",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a line parallel to x + 3y – 2z – 2 = 0 = x – y + 2z and passes through (2, 3, 1). If distance of point (5, 3, 8) from the line is δ, then 3δ² is",
+      "correctAnswer": "158",
+      "questionType": "NUMERICAL",
+      "chapter": "Three Dimensional Geometry",
+      "topic": "Lines in 3D",
+      "concept": "Distance from point to line",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "subject": "MATHEMATICS",
+      "questionText": "If area of the region bounded by the curves y = x², y = (1 – x)² and y = 2x(1 – x) is A, then find the value of 540A.",
+      "correctAnswer": "135",
+      "questionType": "NUMERICAL",
+      "chapter": "Integral Calculus",
+      "topic": "Area Under Curves",
+      "concept": "Area between multiple curves",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T10:56:13.973Z"
+}

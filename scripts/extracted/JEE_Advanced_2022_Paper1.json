@@ -1,0 +1,485 @@
+{
+  "filename": "JEE_Advanced_2022_Paper1.pdf",
+  "examYear": 2022,
+  "examSession": "Paper 1",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "Considering only the principal values of the inverse trigonometric functions, the value of (3/2)cos^(-1)(√2/2) + (π/2) + (1/4)sin^(-1)(2√2/π^2 + π/2) + tan^(-1)(√2/π) is __________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Inverse Trigonometric Functions",
+      "topic": "Principal values and calculations",
+      "concept": "Evaluation of inverse trigonometric expressions",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "Let α be a positive real number. Let f:ℝ → ℝ and g:(α,∞) → ℝ be the functions defined by f(x) = sin(πx/12) and g(x) = 2log_e(√x - √α)/log_e(e^√x - e^√α). Then the value of lim_{x→α+} f(g(x)) is __________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Limits and Continuity",
+      "topic": "Limit evaluation with composite functions",
+      "concept": "One-sided limits with logarithmic and exponential functions",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "In a study about a pandemic, data of 900 persons was collected. It was found that 190 persons had symptom of fever, 220 persons had symptom of cough, 220 persons had symptom of breathing problem, 330 persons had symptom of fever or cough or both, 350 persons had symptom of cough or breathing problem or both, 340 persons had symptom of fever or breathing problem or both, 30 persons had all three symptoms (fever, cough and breathing problem). If a person is chosen randomly from these 900 persons, then the probability that the person has at most one symptom is ___________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Probability",
+      "topic": "Probability with sets",
+      "concept": "Inclusion-exclusion principle in probability",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let z be a complex number with non-zero imaginary part. If (2 + 3z + 4z²)/(2 - 3z + 4z²) is a real number, then the value of |z|² is ___________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Complex Numbers",
+      "topic": "Real complex expressions",
+      "concept": "Conditions for complex fraction to be real",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Let z̄ denote the complex conjugate of a complex number z and let i = √(-1). In the set of complex numbers, the number of distinct roots of the equation z̄ - z² = i(z̄ + z²) is ___________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Complex Numbers",
+      "topic": "Complex equations",
+      "concept": "Finding roots of complex equations with conjugates",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Let l₁,l₂,...,l₁₀₀ be consecutive terms of an arithmetic progression with common difference d₁, and let w₁,w₂,...,w₁₀₀ be consecutive terms of another arithmetic progression with common difference d₂, where d₁d₂ = 10. For each i = 1,2,...,100, let Rᵢ be a rectangle with length lᵢ, width wᵢ and area Aᵢ. If A₅₁ - A₅₀ = 1000, then the value of A₁₀₀ - A₉₀ is ___________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Arithmetic progressions",
+      "concept": "Applications of arithmetic progressions to geometric problems",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of 4-digit integers in the closed interval [2022, 4482] formed by using the digits 0,2,3,4,6,7 is ___________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Counting problems",
+      "concept": "Counting integers with restrictions using specific digits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "Let ABC be the triangle with AB = 1, AC = 3 and ∠BAC = π/2. If a circle of radius r > 0 touches the sides AB, AC and also touches internally the circumcircle of the triangle ABC, then the value of r is ___________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles and triangles",
+      "concept": "Internal tangent circles to triangles",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "A medium having dielectric constant K > 1 fills the space between the plates of a parallel plate capacitor. The plates have large area, and the distance between them is d. The capacitor is connected to a battery of voltage V. Now, both the plates are moved by a distance of d/2 from their original positions. In the process of going from configuration (a) to configuration (b), which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The electric field inside the dielectric material is reduced by a factor of 2K."
+        },
+        {
+          "id": "B",
+          "text": "The capacitance is decreased by a factor of (K+1)/2."
+        },
+        {
+          "id": "C",
+          "text": "The voltage between the capacitor plates is increased by a factor of (K+1)."
+        },
+        {
+          "id": "D",
+          "text": "The work done in the process DOES NOT depend on the presence of the dielectric material."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electrostatics",
+      "topic": "Capacitors with dielectric",
+      "concept": "Effects of changing plate separation in dielectric-filled capacitors",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "The figure shows a circuit having eight resistances of 1 Ω each, labelled R₁ to R₈, and two ideal batteries with voltages ℰ₁ = 12 V and ℰ₂ = 6 V. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The magnitude of current flowing through R₁ is 7.2 A."
+        },
+        {
+          "id": "B",
+          "text": "The magnitude of current flowing through R₂ is 1.2 A."
+        },
+        {
+          "id": "C",
+          "text": "The magnitude of current flowing through R₃ is 4.8 A."
+        },
+        {
+          "id": "D",
+          "text": "The magnitude of current flowing through R₄ is 2.4 A."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Current Electricity",
+      "topic": "Complex circuits",
+      "concept": "Current distribution in complex resistor networks with multiple batteries",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "An ideal gas of density ρ = 0.2 kg m⁻³ enters a chimney of height h at the rate of α = 0.8 kg s⁻¹ from its lower end, and escapes through the upper end. The cross-sectional area of the lower end is A₁ = 0.1 m² and the upper end is A₂ = 0.4 m². The pressure and the temperature of the gas at the lower end are 600 Pa and 300 K, respectively, while its temperature at the upper end is 150 K. The chimney is heat insulated so that the gas undergoes adiabatic expansion. Take g = 10 m s⁻² and the ratio of specific heats of the gas γ = 2. Ignore atmospheric pressure. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The pressure of the gas at the upper end of the chimney is 300 Pa."
+        },
+        {
+          "id": "B",
+          "text": "The velocity of the gas at the lower end of the chimney is 40 m s⁻¹ and at the upper end is 20 m s⁻¹."
+        },
+        {
+          "id": "C",
+          "text": "The height of the chimney is 590 m."
+        },
+        {
+          "id": "D",
+          "text": "The density of the gas at the upper end is 0.05 kg m⁻³."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Thermodynamics",
+      "topic": "Adiabatic processes",
+      "concept": "Gas flow through varying cross-section with adiabatic expansion",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "Three plane mirrors form an equilateral triangle with each side of length L. There is a small hole at a distance l > 0 from one of the corners. A ray of light is passed through the hole at an angle θ and can only come out through the same hole. The cross section of the mirror configuration and the ray of light lie on the same plane. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ray of light will come out for θ = 30°, for 0 < l < L."
+        },
+        {
+          "id": "B",
+          "text": "There is an angle for l = L/2 at which the ray of light will come out after two reflections."
+        },
+        {
+          "id": "C",
+          "text": "The ray of light will NEVER come out for θ = 60°, and l = L/2."
+        },
+        {
+          "id": "D",
+          "text": "The ray of light will come out for θ = 60°, and 0 < l < L/2 after six reflections."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Geometrical Optics",
+      "topic": "Reflection",
+      "concept": "Multiple reflections in triangular mirror systems",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "Six charges are placed around a regular hexagon of side length a. Five of them have charge q, and the remaining one has charge x. The perpendicular from each charge to the nearest hexagon side passes through the center O of the hexagon and is bisected by the side. Which of the following statement(s) is(are) correct in SI units?",
+      "options": [
+        {
+          "id": "A",
+          "text": "When x = q, the magnitude of the electric field at O is zero."
+        },
+        {
+          "id": "B",
+          "text": "When x = -q, the magnitude of the electric field at O is 2q/(πε₀a²)."
+        },
+        {
+          "id": "C",
+          "text": "When x = 2q, the potential at O is 6q/(√3πε₀a)."
+        },
+        {
+          "id": "D",
+          "text": "When x = -3q, the potential at O is -2q/(√3πε₀a)."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric field and potential",
+      "concept": "Electric field and potential due to multiple charges in symmetric configuration",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "The binding energy of nucleons in a nucleus can be affected by the pairwise Coulomb repulsion. Assume that all nucleons are uniformly distributed inside the nucleus. Let the binding energy of a proton be E_p^b and the binding energy of a neutron be E_n^b in the nucleus. Which of the following statement(s) is(are) correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "E_p^b - E_n^b is proportional to Z(Z-1) where Z is the atomic number of the nucleus."
+        },
+        {
+          "id": "B",
+          "text": "E_p^b - E_n^b is proportional to A^(2/3) where A is the mass number of the nucleus."
+        },
+        {
+          "id": "C",
+          "text": "E_p^b - E_n^b is positive."
+        },
+        {
+          "id": "D",
+          "text": "E_p^b increases if the nucleus undergoes a beta decay emitting a positron."
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Nuclear Physics",
+      "topic": "Nuclear binding energy",
+      "concept": "Coulomb repulsion effects on nucleon binding energies",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the following lists: List-I contains sets of solutions to trigonometric equations, List-II contains the number of elements in each set. Match the sets with their cardinalities.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(I) → (P); (II) → (S); (III) → (P); (IV) → (S)"
+        },
+        {
+          "id": "B",
+          "text": "(I) → (P); (II) → (P); (III) → (T); (IV) → (R)"
+        },
+        {
+          "id": "C",
+          "text": "(I) → (Q); (II) → (P); (III) → (T); (IV) → (S)"
+        },
+        {
+          "id": "D",
+          "text": "(I) → (Q); (II) → (S); (III) → (P); (IV) → (R)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric equations",
+      "concept": "Counting solutions of trigonometric equations in given intervals",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "MATHEMATICS",
+      "questionText": "Two players, P₁ and P₂, play a game against each other. In every round of the game, each player rolls a fair die once. Let x and y denote the readings on the die rolled by P₁ and P₂, respectively. Scoring rules and probability calculations for various scenarios after multiple rounds.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(I) → (Q); (II) → (R); (III) → (T); (IV) → (S)"
+        },
+        {
+          "id": "B",
+          "text": "(I) → (Q); (II) → (R); (III) → (T); (IV) → (T)"
+        },
+        {
+          "id": "C",
+          "text": "(I) → (P); (II) → (R); (III) → (Q); (IV) → (S)"
+        },
+        {
+          "id": "D",
+          "text": "(I) → (P); (II) → (R); (III) → (Q); (IV) → (T)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Games of chance",
+      "concept": "Probability calculations in multi-round dice games",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "MATHEMATICS",
+      "questionText": "Let p,q,r be nonzero real numbers that are, respectively, the 10th, 100th and 1000th terms of a harmonic progression. Consider the system of linear equations with various conditions on the ratios of these terms.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(I) → (T); (II) → (R); (III) → (S); (IV) → (T)"
+        },
+        {
+          "id": "B",
+          "text": "(I) → (Q); (II) → (S); (III) → (S); (IV) → (R)"
+        },
+        {
+          "id": "C",
+          "text": "(I) → (Q); (II) → (R); (III) → (P); (IV) → (R)"
+        },
+        {
+          "id": "D",
+          "text": "(I) → (T); (II) → (S); (III) → (P); (IV) → (T)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Linear Algebra",
+      "topic": "System of linear equations",
+      "concept": "Solutions of linear systems with parameters from harmonic progression",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the ellipse x²/4 + y²/3 = 1. Let H(α,0), 0 < α < 2, be a point. Various geometric constructions involving tangents, auxiliary circles, and area calculations of triangles formed.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(I) → (R); (II) → (S); (III) → (Q); (IV) → (P)"
+        },
+        {
+          "id": "B",
+          "text": "(I) → (R); (II) → (T); (III) → (S); (IV) → (P)"
+        },
+        {
+          "id": "C",
+          "text": "(I) → (Q); (II) → (T); (III) → (S); (IV) → (P)"
+        },
+        {
+          "id": "D",
+          "text": "(I) → (Q); (II) → (S); (III) → (Q); (IV) → (P)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Ellipse",
+      "concept": "Geometric constructions with ellipse, tangents, and auxiliary circle",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T14:00:00.557Z"
+}

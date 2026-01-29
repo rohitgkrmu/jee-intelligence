@@ -1,0 +1,173 @@
+{
+  "filename": "JEE_Main_2022.pdf",
+  "examYear": 2022,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "The bulk modulus of a liquid is 3 × 10² N m⁻². The pressure required to reduce the volume of liquid by 2% is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 × 10⁸ N m⁻²"
+        },
+        {
+          "id": "B",
+          "text": "9 × 10⁸ N m⁻²"
+        },
+        {
+          "id": "C",
+          "text": "6 × 10⁸ N m⁻²"
+        },
+        {
+          "id": "D",
+          "text": "12 × 10⁸ N m⁻²"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanical Properties of Solids",
+      "topic": "Bulk Modulus",
+      "concept": "Volume change under pressure",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): In an uniform magnetic field, speed and energy remains the same for a moving charged particle. Reason (R): Moving charged particle experiences magnetic force perpendicular to its direction of motion.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)."
+        },
+        {
+          "id": "B",
+          "text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)."
+        },
+        {
+          "id": "C",
+          "text": "(A) is true but (R) is false."
+        },
+        {
+          "id": "D",
+          "text": "(A) is false but (R) is true."
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Moving Charges and Magnetism",
+      "topic": "Magnetic Force",
+      "concept": "Force on charged particle in magnetic field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "Two identical cells each of emf 1.5 V are connected in parallel across a parallel combination of two resistors each of resistance 20Ω. A voltmeter connected in the circuit measures 1.2 V. The internal resistance of each cell is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.5Ω"
+        },
+        {
+          "id": "B",
+          "text": "4Ω"
+        },
+        {
+          "id": "C",
+          "text": "5Ω"
+        },
+        {
+          "id": "D",
+          "text": "10Ω"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Cells in Parallel",
+      "concept": "Internal resistance of cells",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "Identify the pair of physical quantities which have different dimensions:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wave number and Rydberg's constant"
+        },
+        {
+          "id": "B",
+          "text": "Stress and Coefficient of elasticity"
+        },
+        {
+          "id": "C",
+          "text": "Coercivity and Magnetisation"
+        },
+        {
+          "id": "D",
+          "text": "Specific heat capacity and Latent heat"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Units and Measurements",
+      "topic": "Dimensional Analysis",
+      "concept": "Dimensions of physical quantities",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "A projectile is projected with velocity of 25 m/s at an angle θ with the horizontal. After t seconds its inclination with horizontal becomes zero. If R represents horizontal range of the projectile, the value of θ will be: [Use g = 10 m/s²]",
+      "options": [
+        {
+          "id": "A",
+          "text": "sin⁻¹(15t²/24R)"
+        },
+        {
+          "id": "B",
+          "text": "sin⁻¹(14R/25t²)"
+        },
+        {
+          "id": "C",
+          "text": "tan⁻¹(4t²/5R)"
+        },
+        {
+          "id": "D",
+          "text": "cot⁻¹(R/20t²)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Motion in a Plane",
+      "topic": "Projectile Motion",
+      "concept": "Projectile trajectory analysis",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T10:38:54.308Z"
+}

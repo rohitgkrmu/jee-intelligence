@@ -1,0 +1,169 @@
+{
+  "filename": "JEE_Main_2025_April_4_Shift2.pdf",
+  "examYear": 2025,
+  "examSession": "April 4 Shift 2",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "A particle of charge 1.6μC and mass 16μg is present in a strong magnetic field of 6.28 T. The particle is then fired perpendicular to magnetic field. The time required for the particle to return to original location for the first time is ______s. (π = 3.14)",
+      "options": [],
+      "correctAnswer": "0.01",
+      "questionType": "NUMERICAL",
+      "chapter": "Magnetic Effects of Current",
+      "topic": "Motion in Magnetic Field",
+      "concept": "Cyclotron motion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "A solid sphere with uniform density and radius R is rotating initially with constant angular velocity ω₁ about its diameter. After some time during the rotation its starts loosing mass at a uniform rate, with no change in its shape. The angular velocity of the sphere when its radius become R/2 is xω₁. The value of x is ______.",
+      "options": [],
+      "correctAnswer": "32",
+      "questionType": "NUMERICAL",
+      "chapter": "Rotational Motion",
+      "topic": "Angular Momentum",
+      "concept": "Conservation of angular momentum",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "If an optical medium possesses a relative permeability of 10/π and relative permittivity of 0.0885, then the velocity of light is greater in vacuum than that in this medium by _____ times. (μ₀ = 4π × 10⁻⁷ H/m, ε₀ = 8.85 × 10⁻¹² F/m, c = 3 × 10⁸ m/s)",
+      "options": [],
+      "correctAnswer": "6",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Electromagnetic Waves in Media",
+      "concept": "Refractive index",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "In a Young's double slit experiment, two slits are located 1.5 mm apart. The distance of screen from slits is 2 m and the wavelength of the source is 400 nm. If the 20 maxima of the double slit pattern are contained within the centre maximum of the single slit diffraction pattern, then the width of each slit is x × 10⁻³ cm, where x-value is______.",
+      "options": [],
+      "correctAnswer": "15",
+      "questionType": "NUMERICAL",
+      "chapter": "Wave Optics",
+      "topic": "Interference and Diffraction",
+      "concept": "Double slit experiment",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "An inductor of self inductance 1 H connected in series with a resistor of 100π ohm and an ac supply of 100π volt, 50 Hz. Maximum current flowing in the circuit is _______ A.",
+      "options": [],
+      "correctAnswer": "1",
+      "questionType": "NUMERICAL",
+      "chapter": "Alternating Current",
+      "topic": "AC Circuits",
+      "concept": "LR circuit",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "CHEMISTRY",
+      "questionText": "Sea water, which can be considered as a 6 molar (6 M) solution of NaCl, has a density of 2 g mL⁻¹. The concentration of dissolved oxygen (O₂) in sea water is 5.8 ppm. Then the concentration of dissolved oxygen in sea water, is x × 10⁻⁴ m. x = ______. (Nearest integer) Given: Molar mass of NaCl is 58.5 g mol⁻¹, Molar mass of O₂ is 32 g mol⁻¹",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Concentration Units",
+      "concept": "Molality calculation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "The amount of calcium oxide produced on heating 150 kg limestone (75% pure) is ______ kg. (Nearest integer) Given: Molar mass (in g mol⁻¹) of Ca-40, O-16, C-12",
+      "options": [],
+      "correctAnswer": "63",
+      "questionType": "NUMERICAL",
+      "chapter": "General Principles",
+      "topic": "Stoichiometry",
+      "concept": "Percentage purity calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "A metal complex with a formula MCℓ₄·3NH₃ is involved in sp³d² hybridisation. It upon reaction with excess of AgNO₃ solution gives 'x' moles of AgCl. Consider 'x' is equal to the number of lone pairs of electron present in central atom of BrF₅. Then the number of geometrical isomers exhibited by the complex is ________",
+      "options": [],
+      "correctAnswer": "2",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Chemistry",
+      "topic": "Isomerism",
+      "concept": "Geometrical isomerism in complexes",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "The molar conductance of an infinitely dilute solution of ammonium chloride was found to be 185 S cm² mol⁻¹ and the ionic conductance of hydroxyl and chloride ions are 170 and 70 S cm² mol⁻¹, respectively. If molar conductance of 0.02 M solution of ammonium hydroxide is 85.5 S cm² mol⁻¹, its degree of dissociation is given by x × 10⁻¹. The value of x is ______. (Nearest integer)",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Conductance",
+      "concept": "Degree of dissociation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "x mg of Mg(OH)₂ (molar mass = 58) is required to be dissolved in 1.0 L of water to produce a pH of 10.0 at 298 K. The value of x is ______ mg. (Nearest integer) (Given: Mg(OH)₂ is assumed to dissociate completely in H₂O)",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Equilibrium",
+      "topic": "Ionic Equilibrium",
+      "concept": "pH calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T11:04:47.588Z"
+}

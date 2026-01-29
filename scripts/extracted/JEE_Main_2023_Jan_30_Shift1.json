@@ -1,0 +1,1825 @@
+{
+  "filename": "JEE_Main_2023_Jan_30_Shift1.pdf",
+  "examYear": 2023,
+  "examSession": "Jan 30 Shift 1",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "Bob P is released from the position of rest at the moment shown. If it collides elastically with an identical bob Q hanging freely then velocity of Q, just after collision is (g = 10 m/s²)",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 m/s"
+        },
+        {
+          "id": "B",
+          "text": "4 m/s"
+        },
+        {
+          "id": "C",
+          "text": "2 m/s"
+        },
+        {
+          "id": "D",
+          "text": "8 m/s"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Collisions",
+      "concept": "Elastic collision between pendulum bobs",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "Choose the option showing the correct relation between Poisson's ratio (σ), Bulk modulus (B) and modulus of rigidity (G).",
+      "options": [
+        {
+          "id": "A",
+          "text": "σ = (3B - 2G)/(2G + 6B)"
+        },
+        {
+          "id": "B",
+          "text": "σ = (6B + 2G)/(3B - 2G)"
+        },
+        {
+          "id": "C",
+          "text": "σ = (9BG)/(3B + G)"
+        },
+        {
+          "id": "D",
+          "text": "σ = (3G - B)/(6G + 2B)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanical Properties of Matter",
+      "topic": "Elastic Moduli",
+      "concept": "Relationship between elastic constants",
+      "difficulty": "HARD",
+      "skills": [
+        "DERIVATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "Two conducting solid spheres (A & B) are placed at a very large distance with charge densities and radii as shown. When the key K is closed, find the ratio of final charge densities.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 : 1"
+        },
+        {
+          "id": "B",
+          "text": "1 : 2"
+        },
+        {
+          "id": "C",
+          "text": "2 : 1"
+        },
+        {
+          "id": "D",
+          "text": "1 : 4"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Conductors in Electrostatic Equilibrium",
+      "concept": "Charge distribution on connected conductors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "Position-time graph for a particle is parabolic and is as shown. Choose the corresponding v – t graph",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1"
+        },
+        {
+          "id": "B",
+          "text": "Option 2"
+        },
+        {
+          "id": "C",
+          "text": "Option 3"
+        },
+        {
+          "id": "D",
+          "text": "Option 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinematics",
+      "topic": "Motion Graphs",
+      "concept": "Relationship between position and velocity graphs",
+      "difficulty": "EASY",
+      "skills": [
+        "GRAPHICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "For a system undergoing isothermal process, heat energy is supplied to the system. Choose the option showing correct statements: (a) Internal energy will increase (b) Internal energy will decrease (c) Work done by system is positive (d) Work done by system is negative (e) Internal energy remains constant",
+      "options": [
+        {
+          "id": "A",
+          "text": "(a), (c), (e)"
+        },
+        {
+          "id": "B",
+          "text": "(b), (d)"
+        },
+        {
+          "id": "C",
+          "text": "(c), (e)"
+        },
+        {
+          "id": "D",
+          "text": "(a), (d), (e)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Isothermal process and first law of thermodynamics",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "The heat passing through the cross-section of a conductor, varies with time 't' as Q(t) = αt - βt² + γt³. (α, β and γ are positive constants.) The minimum heat current through the conductor is",
+      "options": [
+        {
+          "id": "A",
+          "text": "α - β²/(2γ)"
+        },
+        {
+          "id": "B",
+          "text": "α - β²/(3γ)"
+        },
+        {
+          "id": "C",
+          "text": "α - β²/γ"
+        },
+        {
+          "id": "D",
+          "text": "α - β²/(3γ)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Heat Transfer",
+      "topic": "Heat Current",
+      "concept": "Calculus application to find minimum heat current",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "Momentum-time graph of an object moving along a straight line is as shown in figure. If (P₂ - P₁) < P₁ and (t₂ - t₁) = t₁ < (t₃ - t₂) then at which points among A, B and C the magnitude of force experienced by the object is maximum and minimum respectively.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B"
+        },
+        {
+          "id": "B",
+          "text": "A, C"
+        },
+        {
+          "id": "C",
+          "text": "B, C"
+        },
+        {
+          "id": "D",
+          "text": "B, A"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Force and Motion",
+      "concept": "Force as rate of change of momentum",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "A particle moving in unidirectional motion travels half of the total distance with a constant speed of 15 m/s. Now first half of the journey time it travels at 10 m/s and second half of the remaining journey time it travels at 5 m/s. Average speed of the particle is",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 m/s"
+        },
+        {
+          "id": "B",
+          "text": "10 m/s"
+        },
+        {
+          "id": "C",
+          "text": "7 m/s"
+        },
+        {
+          "id": "D",
+          "text": "9 m/s"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinematics",
+      "topic": "Average Speed",
+      "concept": "Average speed calculation for multi-segment motion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "A bullet strikes a stationary ball kept at a height as shown. After collision, range of bullet is 120 m and that of ball is 30 m. Find initial speed of bullet. Collision is along horizontal direction. Take g = 10 m/s²",
+      "options": [
+        {
+          "id": "A",
+          "text": "150 m/s"
+        },
+        {
+          "id": "B",
+          "text": "90 m/s"
+        },
+        {
+          "id": "C",
+          "text": "240 m/s"
+        },
+        {
+          "id": "D",
+          "text": "360 m/s"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Collisions and Projectile Motion",
+      "concept": "Conservation of momentum in collision",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "If an inductor with inductive reactance, Xₗ = R is connected in series with resistor R across an A.C voltage, power factor comes out to be P₁. Now, if a capacitor with capacitive reactance, Xc = R is also connected in series with inductor and resistor in the same circuit, power factor becomes P₂. Find P₁/P₂",
+      "options": [
+        {
+          "id": "A",
+          "text": "√2 : 1"
+        },
+        {
+          "id": "B",
+          "text": "1 : √2"
+        },
+        {
+          "id": "C",
+          "text": "1 : 1"
+        },
+        {
+          "id": "D",
+          "text": "1 : 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Alternating Current",
+      "topic": "AC Circuits",
+      "concept": "Power factor in LRC circuits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "Electromagnetic wave beam of power 20 mW is incident on a perfectly absorbing body for 300 ns. The total momentum transferred by the beam to the body is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 × 10⁻¹⁷ Ns"
+        },
+        {
+          "id": "B",
+          "text": "1 × 10⁻¹⁷ Ns"
+        },
+        {
+          "id": "C",
+          "text": "3 × 10⁻¹⁷ Ns"
+        },
+        {
+          "id": "D",
+          "text": "5 × 10⁻¹⁷ Ns"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Waves",
+      "topic": "Radiation Pressure",
+      "concept": "Momentum of electromagnetic waves",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "The velocity of an electron in the seventh orbit of hydrogen-like atom is 3.6 × 10⁶ m/s. Find the velocity of the electron in the 3rd orbit.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.2 × 10⁶ m/s"
+        },
+        {
+          "id": "B",
+          "text": "8.4 × 10⁶ m/s"
+        },
+        {
+          "id": "C",
+          "text": "2.1 × 10⁶ m/s"
+        },
+        {
+          "id": "D",
+          "text": "3.6 × 10⁶ m/s"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Physics",
+      "topic": "Bohr Model",
+      "concept": "Velocity of electron in hydrogen-like atoms",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "Electric field in a region is given by E = (a/x²)î + (b/y³)ĵ, where x & y are co-ordinates. Find SI units of a & b.",
+      "options": [
+        {
+          "id": "A",
+          "text": "a – Nm²C⁻¹, b – Nm³C⁻¹"
+        },
+        {
+          "id": "B",
+          "text": "a – Nm³C⁻¹, b – Nm²C⁻¹"
+        },
+        {
+          "id": "C",
+          "text": "a – NmC⁻¹, b – Nm²C⁻¹"
+        },
+        {
+          "id": "D",
+          "text": "a – Nm²C⁻¹, b – Nm²C⁻¹"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Field",
+      "concept": "Dimensional analysis of electric field",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "Coil A of radius 10 cm has Nₐ number of turns and Iₐ current is flowing through it. Coil B of radius 20 cm has Nᵦ number of turns and Iᵦ current is flowing through it. If magnetic dipole moment of both the coils is same then",
+      "options": [
+        {
+          "id": "A",
+          "text": "IₐNₐ = 4IᵦNᵦ"
+        },
+        {
+          "id": "B",
+          "text": "IₐNₐ = (1/4)IᵦNᵦ"
+        },
+        {
+          "id": "C",
+          "text": "IₐNₐ = 2IᵦNᵦ"
+        },
+        {
+          "id": "D",
+          "text": "IₐNₐ = (1/2)IᵦNᵦ"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Dipole Moment",
+      "concept": "Magnetic dipole moment of current loops",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "An ideal gas undergoes a thermodynamic process following the relation PT² = constant. Assuming symbols have their usual meaning then volume expansion coefficient of the gas is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "2/T"
+        },
+        {
+          "id": "B",
+          "text": "3/T"
+        },
+        {
+          "id": "C",
+          "text": "1/(2T)"
+        },
+        {
+          "id": "D",
+          "text": "1/T"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Volume expansion coefficient in polytropic process",
+      "difficulty": "HARD",
+      "skills": [
+        "DERIVATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "Consider a combination of gates as shown:",
+      "options": [
+        {
+          "id": "A",
+          "text": "OR gate"
+        },
+        {
+          "id": "B",
+          "text": "AND gate"
+        },
+        {
+          "id": "C",
+          "text": "NOR gate"
+        },
+        {
+          "id": "D",
+          "text": "NAND gate"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electronic Devices",
+      "topic": "Logic Gates",
+      "concept": "Combination of logic gates",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "For the given YDSE setup. Find the number of fringes by which the central maxima gets shifted from point O. (Given d = 1 mm, D = 1 m, λ = 5000 Å)",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "15"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Optics",
+      "topic": "Young's Double Slit Experiment",
+      "concept": "Fringe shift in YDSE with glass plates",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "PHYSICS",
+      "questionText": "In a part of a circuit shown: Find Vₐ - Vᵦ in volts. It is given that current is decreasing at a rate of 1 ampere/s.",
+      "options": [],
+      "correctAnswer": "18.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Self Inductance",
+      "concept": "Voltage across inductor",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "PHYSICS",
+      "questionText": "A particle undergoing SHM follows the position-time equation given as x = A sin(ωt + π/3). If the SHM motion has a time period of T, then velocity will be maximum at time t = T/β for first time after t = 0. Value of β is equal to",
+      "options": [],
+      "correctAnswer": "03.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Oscillations",
+      "topic": "Simple Harmonic Motion",
+      "concept": "Phase and velocity in SHM",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "PHYSICS",
+      "questionText": "A block of mass 1 g is equilibrium with the help of a current carrying square loop which is partially lying in constant magnetic field (B) as shown. Resistance of the loop is 10 Ω. Find the voltage (V) (in volts) of the battery in the loop.",
+      "options": [],
+      "correctAnswer": "10.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Magnetic Effects of Current",
+      "topic": "Force on Current Carrying Conductor",
+      "concept": "Equilibrium of conductor in magnetic field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "PHYSICS",
+      "questionText": "Initial volume of 1 mole of a monoatomic gas is 2 litres. It is expanded isothermally to a volume of 6 litres. Change in internal energy is xR. Find x.",
+      "options": [],
+      "correctAnswer": "00.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Internal energy change in isothermal process",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "PHYSICS",
+      "questionText": "An object is placed at a distance of 40 cm from the pole of a converging mirror. The image is formed at a distance of 120 cm from the mirror on the same side. If the focal length is measured with a scale where each 1 cm has 20 equal divisions. If the fractional error in the measurement of focal length is 1/(10k) Find k.",
+      "options": [],
+      "correctAnswer": "60.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Ray Optics",
+      "topic": "Spherical Mirrors",
+      "concept": "Error analysis in mirror formula",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "PHYSICS",
+      "questionText": "In two circuit shown above the value of current I₁ (in amperes) is equal to (5-y)/5. Value of y is equal to",
+      "options": [],
+      "correctAnswer": "11.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Kirchhoff's Laws",
+      "concept": "Circuit analysis using Kirchhoff's laws",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "CHEMISTRY",
+      "questionText": "Caprolactam when heated at high temperature, gives",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nylon 6, 6"
+        },
+        {
+          "id": "B",
+          "text": "Dacron"
+        },
+        {
+          "id": "C",
+          "text": "Teflon"
+        },
+        {
+          "id": "D",
+          "text": "Nylon 6"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Polymers",
+      "topic": "Addition Polymerization",
+      "concept": "Formation of nylon polymers",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "CHEMISTRY",
+      "questionText": "Molarity of CO₂ in soft drink is 0.01 M. The volume of soft drink is 300 mL. Mass of CO₂ in soft drink is",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.132 g"
+        },
+        {
+          "id": "B",
+          "text": "0.481 g"
+        },
+        {
+          "id": "C",
+          "text": "0.312 g"
+        },
+        {
+          "id": "D",
+          "text": "0.190 g"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solutions",
+      "topic": "Molarity",
+      "concept": "Calculation of mass from molarity",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "CHEMISTRY",
+      "questionText": "During the qualitative analysis of SO₃²⁻ using dilute H₂SO₄, SO₂ gas evolved which turns K₂Cr₂O₇ solution (acidified H₂SO₄)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Green"
+        },
+        {
+          "id": "B",
+          "text": "Black"
+        },
+        {
+          "id": "C",
+          "text": "Blue"
+        },
+        {
+          "id": "D",
+          "text": "Red"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Qualitative Analysis",
+      "topic": "Anion Analysis",
+      "concept": "Reduction of dichromate by SO₂",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "CHEMISTRY",
+      "questionText": "Number of lone pair of electrons on central atom? Match the following: Column-I (A) IF₇ (B) ICl₄⁻ (C) XeF₂ (D) XeF₆ with Column-II (P) 0 (Q) 1 (R) 2 (S) 3",
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)→(P); (B)→(Q); (C)→(R); (D)→(S)"
+        },
+        {
+          "id": "B",
+          "text": "(A)→(P); (B)→(R); (C)→(S); (D)→(Q)"
+        },
+        {
+          "id": "C",
+          "text": "(A)→(R); (B)→(S); (C)→(P); (D)→(Q)"
+        },
+        {
+          "id": "D",
+          "text": "(A)→(S); (B)→(R); (C)→(Q); (D)→(P)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Bonding",
+      "topic": "VSEPR Theory",
+      "concept": "Lone pairs in molecular geometry",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "subject": "CHEMISTRY",
+      "questionText": "Which one of the following is water soluble? (a) BeSO₄ (b) MgSO₄ (c) CaSO₄ (d) SrSO₄ (e) BaSO₄",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only a and b"
+        },
+        {
+          "id": "B",
+          "text": "Only a, b, c"
+        },
+        {
+          "id": "C",
+          "text": "Only d and e"
+        },
+        {
+          "id": "D",
+          "text": "Only a and e"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "s-Block Elements",
+      "topic": "Group 2 Elements",
+      "concept": "Solubility trends in alkaline earth metal sulfates",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "CHEMISTRY",
+      "questionText": "Shape of OF₂ molecule is?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bent"
+        },
+        {
+          "id": "B",
+          "text": "Linear"
+        },
+        {
+          "id": "C",
+          "text": "Tetrahedral"
+        },
+        {
+          "id": "D",
+          "text": "T-shaped"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Bonding",
+      "topic": "Molecular Geometry",
+      "concept": "VSEPR theory and molecular shapes",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "CHEMISTRY",
+      "questionText": "Inhibitor of cancer growth",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cisplatin"
+        },
+        {
+          "id": "B",
+          "text": "EDTA"
+        },
+        {
+          "id": "C",
+          "text": "Cobalt"
+        },
+        {
+          "id": "D",
+          "text": "Ethane 1, 2 - diamine"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Applications of Coordination Compounds",
+      "concept": "Medicinal applications of coordination compounds",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "CHEMISTRY",
+      "questionText": "Speed of e⁻ in 7th orbit is 3.6 × 10⁶ m/s then find the speed in 3rd orbit",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.6 × 10⁶ m/s"
+        },
+        {
+          "id": "B",
+          "text": "8.4 × 10⁶ m/s"
+        },
+        {
+          "id": "C",
+          "text": "7.5 × 10⁶ m/s"
+        },
+        {
+          "id": "D",
+          "text": "1.8 × 10⁶ m/s"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Atomic Structure",
+      "topic": "Bohr Model",
+      "concept": "Velocity of electron in Bohr orbits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "CHEMISTRY",
+      "questionText": "Match the following: Atomic Number (i) 52 (ii) 37 (iii) 65 (iv) 74 with (p) s-block (q) p-block (r) d-block (s) f-block",
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) → (q); (ii) → (p); (iii) → (r); (iv) → (s)"
+        },
+        {
+          "id": "B",
+          "text": "(i) → (q); (ii) → (p); (iii) → (s); (iv) → (r)"
+        },
+        {
+          "id": "C",
+          "text": "(i) → (s); (ii) → (r); (iii) → (p); (iv) → (q)"
+        },
+        {
+          "id": "D",
+          "text": "(i) → (r); (ii) → (p); (iii) → (q); (iv) → (s)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Periodic Table",
+      "topic": "Classification of Elements",
+      "concept": "Block classification based on electronic configuration",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following reactions: NO₂ --UV--> A + B; A + O₂ --> C; B + C --NO₂+O₂--> NO + O₃. A, B and C are respectively",
+      "options": [
+        {
+          "id": "A",
+          "text": "O, NO, O₃"
+        },
+        {
+          "id": "B",
+          "text": "NO, O, O₃"
+        },
+        {
+          "id": "C",
+          "text": "NO, O₃, O"
+        },
+        {
+          "id": "D",
+          "text": "O₃, O, NO"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Environmental Chemistry",
+      "topic": "Atmospheric Chemistry",
+      "concept": "Ozone layer reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following option contains the correct match: (List-I) Reactions (A) Wurtz (B) Fittig (C) Wurtz Fittig (D) Sandmeyer with (List-II) Products (P) Ar-Ar (Q) R-R (R) Ar-R (S) Ar-X",
+      "options": [
+        {
+          "id": "A",
+          "text": "A → Q; B → P; C → R; D → S"
+        },
+        {
+          "id": "B",
+          "text": "A → P; B → Q; C → R; D → S"
+        },
+        {
+          "id": "C",
+          "text": "A → S; B → R; C → Q; D → P"
+        },
+        {
+          "id": "D",
+          "text": "A → R; B → S; C → P; D → Q"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Named Organic Reactions",
+      "concept": "Products of Wurtz, Fittig, Wurtz-Fittig and Sandmeyer reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "CHEMISTRY",
+      "questionText": "If volume of ideal gas is increased isothermally, then its internal energy",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increased"
+        },
+        {
+          "id": "B",
+          "text": "Remains constant"
+        },
+        {
+          "id": "C",
+          "text": "Is decreased"
+        },
+        {
+          "id": "D",
+          "text": "Can be increased or decreased"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Internal Energy",
+      "concept": "Internal energy dependence on temperature for ideal gas",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "CHEMISTRY",
+      "questionText": "Arrange the following ligands according to their increasing order of field strength: S²⁻, CO₃²⁻, NH₃, en, CO",
+      "options": [
+        {
+          "id": "A",
+          "text": "S²⁻ < CO₃²⁻ < NH₃ < en < CO"
+        },
+        {
+          "id": "B",
+          "text": "S²⁻ < NH₃ < en < CO₃²⁻ < CO"
+        },
+        {
+          "id": "C",
+          "text": "S²⁻ < CO₃²⁻ < NH₃ < en < CO"
+        },
+        {
+          "id": "D",
+          "text": "CO < en < NH₃ < CO₃²⁻ < S²⁻"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Crystal Field Theory",
+      "concept": "Spectrochemical series of ligands",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following molecule. Select the correct order of acidic strength",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hₐ > H_D > Hᵦ > H_C"
+        },
+        {
+          "id": "B",
+          "text": "Hᵦ > Hₐ > H_D > H_C"
+        },
+        {
+          "id": "C",
+          "text": "Hₐ > Hᵦ > H_C > H_D"
+        },
+        {
+          "id": "D",
+          "text": "H_C > Hᵦ > H_D > Hₐ"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Acidity and Basicity",
+      "concept": "Effect of substituents on acidity",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following compound is used as the antacid?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ranitidine"
+        },
+        {
+          "id": "B",
+          "text": "Prontosil"
+        },
+        {
+          "id": "C",
+          "text": "Norethindrone"
+        },
+        {
+          "id": "D",
+          "text": "Codeine"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemistry in Everyday Life",
+      "topic": "Drugs and Medicines",
+      "concept": "Classification of drugs",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "CHEMISTRY",
+      "questionText": "The role of SiO₂ in Cu extraction is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Converts FeO to FeSiO₃"
+        },
+        {
+          "id": "B",
+          "text": "Converts CaO to CaSiO₃"
+        },
+        {
+          "id": "C",
+          "text": "Reduces Cu₂S to Cu"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Metallurgy",
+      "topic": "Extraction of Metals",
+      "concept": "Role of flux in metallurgy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "CHEMISTRY",
+      "questionText": "Assertion: Ketoses gives seliwanoff test. Reason: Ketoses undergo β-elimination to form furfural.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Assertion and reason both are correct and reason is the correct explanation of assertion"
+        },
+        {
+          "id": "B",
+          "text": "Assertion and reason both are correct but reason is not the correct explanation of assertion"
+        },
+        {
+          "id": "C",
+          "text": "Assertion is correct and reason is incorrect"
+        },
+        {
+          "id": "D",
+          "text": "Assertion is incorrect but reason is correct"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Biomolecules",
+      "topic": "Carbohydrates",
+      "concept": "Chemical tests for carbohydrates",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following reactions. The products P and Q respectively are?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1"
+        },
+        {
+          "id": "B",
+          "text": "Option 2"
+        },
+        {
+          "id": "C",
+          "text": "Option 3 and HCOOH"
+        },
+        {
+          "id": "D",
+          "text": "HCOOH and Option 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Organic Reactions",
+      "concept": "Oxidation and reduction reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "CHEMISTRY",
+      "questionText": "For given cell, at T K: Pt | H₂(g) | H⁺ || Fe³⁺; Fe²⁺ | Pt (1bar) (1M). E_cell = .712 V, E°_cell = .770 V. If (2.303 RT/F) × log([Fe²⁺]/[Fe³⁺]) is t × .058, then find t/5",
+      "options": [],
+      "correctAnswer": "02.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrochemistry",
+      "topic": "Nernst Equation",
+      "concept": "Application of Nernst equation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "CHEMISTRY",
+      "questionText": "How many moles of electrons are required to reduce 1 mole of permanganate ions into manganese dioxide",
+      "options": [],
+      "correctAnswer": "03.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Redox Reactions",
+      "topic": "Balancing Redox Reactions",
+      "concept": "Electron transfer in redox reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "CHEMISTRY",
+      "questionText": "600 mL of 0.04 M HCl is mixed with 400 mL of 0.02 M H₂SO₄. Find out the pH of resulting solution (Nearest integer).",
+      "options": [],
+      "correctAnswer": "01.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Ionic Equilibrium",
+      "topic": "pH Calculations",
+      "concept": "pH of mixed acid solutions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "CHEMISTRY",
+      "questionText": "A solution of 2 g of a solute and 20 g water has boiling point 373.52 K. Then find the molar mass of solute in grams? [Given: Kb = 0.52 K kg/mole and solute is non-electrolyte].",
+      "options": [],
+      "correctAnswer": "100.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Solutions",
+      "topic": "Colligative Properties",
+      "concept": "Elevation in boiling point",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "CHEMISTRY",
+      "questionText": "When first order kinetic, rate constant is 2.011 × 10⁻³ sec⁻¹, the time taken in decomposition of substance from 7 g to 2 g will be. [Use log7 = 0.845 and log2 = 0.301]",
+      "options": [],
+      "correctAnswer": "623.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Chemical Kinetics",
+      "topic": "First Order Reactions",
+      "concept": "Integrated rate law for first order reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "MATHEMATICS",
+      "questionText": "Coefficient of x³⁰¹ in (1 + x)⁵⁰⁰ + x(1 + x)⁴⁹⁹ + x²(1 + x)⁴⁹⁸ + ..... + x⁵⁰⁰ is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "C₅₀₆³⁰⁶"
+        },
+        {
+          "id": "B",
+          "text": "C₅₀₁³⁰⁰"
+        },
+        {
+          "id": "C",
+          "text": "C₅₀₁³⁰¹"
+        },
+        {
+          "id": "D",
+          "text": "C₅₀₀³⁰⁰"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Binomial Theorem",
+      "topic": "Binomial Coefficients",
+      "concept": "Coefficient extraction in binomial expansions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "MATHEMATICS",
+      "questionText": "If (tan15° + tan195°)/(tan165° + tan105°) = a, then value of (1 + a)/a is",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 - 2√3"
+        },
+        {
+          "id": "B",
+          "text": "4/3"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "(5√3 - 3)/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Ratios",
+      "concept": "Properties of trigonometric functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "MATHEMATICS",
+      "questionText": "If set A = {a, b, c}, R : A → A, R = {(a, b), (b, c)}. How many elements should be added for making it symmetric and transitive.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Relations and Functions",
+      "topic": "Types of Relations",
+      "concept": "Symmetric and transitive relations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P(h, k) be two points on x² = 4y which is at shortest distance from Q(0, 33) then difference of distances of P(h, k) from directrix of y² = 4(x + y) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Conic Sections",
+      "topic": "Parabola",
+      "concept": "Distance from point to parabola and directrix",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "MATHEMATICS",
+      "questionText": "Area bounded by larger part in I quadrant by x = 4y², x = 2 and y = x is A then 3A equals",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1/32)(6√2 + 2)"
+        },
+        {
+          "id": "B",
+          "text": "(1/96)(2√2 + 2/3)"
+        },
+        {
+          "id": "C",
+          "text": "2√2/3"
+        },
+        {
+          "id": "D",
+          "text": "96"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Applications of Integrals",
+      "topic": "Area Under Curves",
+      "concept": "Area bounded by curves",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "MATHEMATICS",
+      "questionText": "A die with points (2, 1, 0, -1, -2, 3) is thrown 5 times. The probability that the product of outcomes on all throws is positive is",
+      "options": [
+        {
+          "id": "A",
+          "text": "521/2592"
+        },
+        {
+          "id": "B",
+          "text": "16/81"
+        },
+        {
+          "id": "C",
+          "text": "41/288"
+        },
+        {
+          "id": "D",
+          "text": "28/81"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Independent Events",
+      "concept": "Probability of positive product",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S = {1, 2, 3, 4, 5}. If f : S → P(S), where P(S) is power set of S. Then number of one-one functions f can be made is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(32)⁵"
+        },
+        {
+          "id": "B",
+          "text": "32!/27!"
+        },
+        {
+          "id": "C",
+          "text": "C₃₂²⁷"
+        },
+        {
+          "id": "D",
+          "text": "P₃₂²⁷"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Relations and Functions",
+      "topic": "Types of Functions",
+      "concept": "One-one functions and permutations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "MATHEMATICS",
+      "questionText": "A line is cutting x axis and y axis at two points A and B, respectively, where OA = a, OB = b. A perpendicular is drawn from O (origin) to AB at an angle of π/6 from positive x-axis. If area of triangle OAB is (98√3)/3 sq. units, then a³ + b is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "28"
+        },
+        {
+          "id": "B",
+          "text": "14"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Straight Lines",
+      "concept": "Distance from point to line and area calculations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "MATHEMATICS",
+      "questionText": "For solution of differential equation (x³ - 1)/(x⁶ + 1) · dy/dx + y = (x¹³ - 6x³)/(3x⁶ + 3) - tan⁻¹(x³), given that y(0) = 0 then y(1) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "e⁻⁴ - 1/2"
+        },
+        {
+          "id": "B",
+          "text": "(1/e²)(e⁴ - 2) - 1"
+        },
+        {
+          "id": "C",
+          "text": "e⁻²/4 - e⁻²"
+        },
+        {
+          "id": "D",
+          "text": "e⁴/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Differential Equations",
+      "topic": "Linear Differential Equations",
+      "concept": "Solution of first order linear differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "MATHEMATICS",
+      "questionText": "∫₋₂³ e²ˣ[x]dx equals",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 - e⁻⁴"
+        },
+        {
+          "id": "B",
+          "text": "8 - e⁻¹"
+        },
+        {
+          "id": "C",
+          "text": "8 - e⁻⁴"
+        },
+        {
+          "id": "D",
+          "text": "9 - e⁻¹"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Integrals",
+      "topic": "Definite Integration",
+      "concept": "Integration with greatest integer function",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "subject": "MATHEMATICS",
+      "questionText": "n̂ is a vector, a > 0, b > 0. If n̂ ⊥ c, a = b · n̂ and b · c = 12 then the value of |c - (a × b)| equals (where n̂ represents unit vector in the direction of n)",
+      "options": [
+        {
+          "id": "A",
+          "text": "144"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "24"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vectors",
+      "topic": "Scalar and Vector Products",
+      "concept": "Vector operations and magnitude calculations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "subject": "MATHEMATICS",
+      "questionText": "lim_{x→0} (∫₀ˣ t⁶dt)/(4x³ + 1) equals",
+      "options": [],
+      "correctAnswer": "12.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Limits and Derivatives",
+      "topic": "L'Hôpital's Rule",
+      "concept": "Application of L'Hôpital's rule with integrals",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "subject": "MATHEMATICS",
+      "questionText": "If aₙ = (n - 2)/(n² - 4n + 15) and a₁ + a₂ + a₃ + .... = m/n where m and n are coprime, then the value of m + n is",
+      "options": [],
+      "correctAnswer": "191.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Infinite Series",
+      "concept": "Sum of infinite series using partial fractions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "subject": "MATHEMATICS",
+      "questionText": "If z = 1 + i and z₁ = ((1 + i)(z - 1))/(z(z - i)), then find the value of 12 arg(z₁).",
+      "options": [],
+      "correctAnswer": "03.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Complex Numbers",
+      "topic": "Argument of Complex Numbers",
+      "concept": "Calculation of argument in complex number operations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "subject": "MATHEMATICS",
+      "questionText": "Mean & Variance of 7 observations are 8 & 16 respectively, if number 14 is omitted then a & b are new mean & variance. The value of a + b is",
+      "options": [],
+      "correctAnswer": "19.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Statistics",
+      "topic": "Mean and Variance",
+      "concept": "Effect of removing data point on mean and variance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "subject": "MATHEMATICS",
+      "questionText": "If coefficient of x¹⁵ in expansion of (ax³ + b/x^(1/3))¹⁵ is equal to coefficient of x⁻¹⁵ in expansion of (a/x^(1/3) + bx³)¹⁵ then |ab - 5| is equal to",
+      "options": [],
+      "correctAnswer": "04.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Binomial Theorem",
+      "topic": "General Term",
+      "concept": "Coefficient comparison in binomial expansions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "subject": "MATHEMATICS",
+      "questionText": "Using 1, 2, 3, 5, 4-digit numbers are formed, where repetition is allowed. How many of them is divisible by 15?",
+      "options": [],
+      "correctAnswer": "21.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Counting Principles",
+      "concept": "Numbers divisible by 15 with given digits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "subject": "MATHEMATICS",
+      "questionText": "If f(x + y)⁵ = f(x) · f(y) and f(3) = 320, then the value of f(1) is",
+      "options": [],
+      "correctAnswer": "20.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Relations and Functions",
+      "topic": "Functional Equations",
+      "concept": "Solving functional equations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "subject": "MATHEMATICS",
+      "questionText": "If for log_cos x (cot x) - 4 log_cot x (sin x) = 1, sin⁻¹(x) + α = π/2. Find (α + β), given x ∈ (0, π/2)",
+      "options": [],
+      "correctAnswer": "04.00",
+      "questionType": "NUMERICAL",
+      "chapter": "Logarithms",
+      "topic": "Logarithmic Equations",
+      "concept": "Solving logarithmic equations with trigonometric functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T10:53:16.657Z"
+}

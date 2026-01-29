@@ -1,0 +1,297 @@
+{
+  "filename": "JEE_Main_2023.pdf",
+  "examYear": 2023,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 21,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f(x) = ∫(2x)/(3x² + 4√(x⁴ - 3)) dx. If f(0) = 0 and f(1) = (1/3)tan⁻¹(α/β), α > 0, β > 0, then α² + β² is equal to _______.",
+      "options": [],
+      "correctAnswer": "28",
+      "questionType": "NUMERICAL",
+      "chapter": "Integral Calculus",
+      "topic": "Integration",
+      "concept": "Substitution in integration",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "MATHEMATICS",
+      "questionText": "Let an ellipse with center (1, 0) and latus rectum of length 1/2 have its major axis along x-axis. If its minor axis subtends an angle 60° at the foci, then the square of the sum of the lengths of its minor and major axes is equal to _______.",
+      "options": [],
+      "correctAnswer": "9",
+      "questionType": "NUMERICAL",
+      "chapter": "Conic Sections",
+      "topic": "Ellipse",
+      "concept": "Properties of ellipse",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "MATHEMATICS",
+      "questionText": "A person forgets his 4-digit ATM pin code. But he remembers that in the code all the digits are different, the greatest digit is 7 and the sum of the first two digits is equal to the sum of the last two digits. Then the maximum number of trials necessary to obtain the correct code is________.",
+      "options": [],
+      "correctAnswer": "72",
+      "questionType": "NUMERICAL",
+      "chapter": "Permutations and Combinations",
+      "topic": "Counting",
+      "concept": "Constraints on arrangements",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the triangles with vertices A(2, 1), B(0, 0) and C(t, 4), t ∈ [0, 4]. If the maximum and the minimum perimeters of such triangles are obtained at t = α and t = β respectively, then 6α + 21β is equal to ___________.",
+      "options": [],
+      "correctAnswer": "48",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "Distance Formula",
+      "concept": "Optimization of perimeter",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "MATHEMATICS",
+      "questionText": "If the area bounded by the curve 2y² = 3x, lines x + y = 3, y = 0 and outside the circle (x - 3)² + y² = 2 is A, then 4(π + 4A) is equal to __________.",
+      "options": [],
+      "correctAnswer": "42",
+      "questionType": "NUMERICAL",
+      "chapter": "Integral Calculus",
+      "topic": "Area under curves",
+      "concept": "Area calculation with constraints",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "MATHEMATICS",
+      "questionText": "If the line x = y = z intersects the line xsinA + ysinB + zsinC - 18 = 0 = xsin2A + ysin2B + zsin2C - 9, where A, B, C are the angles of a triangle ABC, then 80 sin(A/2)sin(B/2)sin(C/2) is equal to __________.",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric identities",
+      "concept": "Triangle properties",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "MATHEMATICS",
+      "questionText": "If the sum of the series (1/2 - 1/3) + (1/2² - 1/(2·3) + 1/3²) + (1/2³ - 1/(2²·3) + 1/(2·3²) - 1/3³) + ... is α/β, where α and β are co-prime, then α + 3β is equal to _________.",
+      "options": [],
+      "correctAnswer": "7",
+      "questionType": "NUMERICAL",
+      "chapter": "Sequences and Series",
+      "topic": "Infinite series",
+      "concept": "Sum of infinite geometric series",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "MATHEMATICS",
+      "questionText": "Let the plane P contain the line 2x + y - z - 3 = 0 = 5x - 3y + 4z + 9 and be parallel to the line (x + 2)/3 = (y - 7)/(-4) = (z - 5)/5. Then the distance of the point A(8, -1, -19) from the plane P measured parallel to the line (x - 5)/(-3) = (y + 2)/4 = (z - 12)/(-12) is equal to ___________.",
+      "options": [],
+      "correctAnswer": "26",
+      "questionType": "NUMERICAL",
+      "chapter": "3D Geometry",
+      "topic": "Planes in 3D",
+      "concept": "Distance from point to plane",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "PHYSICS",
+      "questionText": "The fundamental frequency of vibration of a string between two rigid support is 50 Hz. The mass of the string is 18 g and its linear mass density is 20 g/m. The speed of the transverse waves so produced in the string is _______ ms⁻¹.",
+      "options": [],
+      "correctAnswer": "90",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Standing Waves",
+      "concept": "Wave speed in strings",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "PHYSICS",
+      "questionText": "A block of mass 10 kg is moving along x-axis under the action of force F = 5x N. The work done by the force in moving the block from x = 2 m to 4 m will be _______ J.",
+      "options": [],
+      "correctAnswer": "30",
+      "questionType": "NUMERICAL",
+      "chapter": "Work, Energy and Power",
+      "topic": "Work Done",
+      "concept": "Work by variable force",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "PHYSICS",
+      "questionText": "A solid sphere and a solid cylinder of same mass and radius are rolling on a horizontal surface without slipping. The ratio of their radius of gyrations respectively (k_sph : k_cyl) is √2:x. The value of x is _______.",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Rotational Mechanics",
+      "topic": "Moment of Inertia",
+      "concept": "Radius of gyration",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "PHYSICS",
+      "questionText": "An electron in a hydrogen atom revolves around its nucleus with a speed of 6.76 × 10⁶ ms⁻¹ in an orbit of radius 0.52 Å. The magnetic field produced at the nucleus of the hydrogen atom is _______ T.",
+      "options": [],
+      "correctAnswer": "40",
+      "questionType": "NUMERICAL",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Field",
+      "concept": "Magnetic field due to circular current",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "subject": "PHYSICS",
+      "questionText": "There is an air bubble of radius 1.0 mm in a liquid of surface tension 0.075 Nm⁻¹ and density 1000 kg m⁻³ at a depth of 10 cm below the free surface. The amount by which the pressure inside the bubble is greater than the atmospheric pressure is _______ Pa (g = 10 ms⁻²)",
+      "options": [],
+      "correctAnswer": "1150",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanical Properties of Fluids",
+      "topic": "Surface Tension",
+      "concept": "Pressure inside bubble",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "subject": "PHYSICS",
+      "questionText": "In the given figure the total charge stored in the combination of capacitors is 100 μC. The value of 'x' is ______________.",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrostatics",
+      "topic": "Capacitors",
+      "concept": "Charge distribution in capacitors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "subject": "PHYSICS",
+      "questionText": "A 20 cm long metallic rod is rotated with 210 rpm about an axis normal to the rod passing through its one end. The other end of the rod is in contact with a circular metallic ring. A constant and uniform magnetic field 0.2 T parallel to the axis exists everywhere. The emf developed between the centre and the ring is _________mV. Take π = 22/7",
+      "options": [],
+      "correctAnswer": "88",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Motional EMF",
+      "concept": "EMF in rotating conductor",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "subject": "PHYSICS",
+      "questionText": "As per given figure A, B and C are the first, second and third excited energy levels of hydrogen atom respectively. If the ratio of the two wavelengths λ₁/λ₂ is 7/(4n), then the value of n will be _______",
+      "options": [],
+      "correctAnswer": "5",
+      "questionType": "NUMERICAL",
+      "chapter": "Atoms",
+      "topic": "Hydrogen Spectrum",
+      "concept": "Energy levels and transitions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "subject": "PHYSICS",
+      "questionText": "The refractive index of a transparent liquid filled in an equilateral hollow prism is √2. The angle of minimum deviation for the liquid will be _______°.",
+      "options": [],
+      "correctAnswer": "30",
+      "questionType": "NUMERICAL",
+      "chapter": "Ray Optics",
+      "topic": "Refraction through Prism",
+      "concept": "Minimum deviation condition",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "subject": "PHYSICS",
+      "questionText": "A network of four resistances is connected to 9 V battery, as shown in figure. The magnitude of voltage difference between the points A and B is __________ V.",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "NUMERICAL",
+      "chapter": "Current Electricity",
+      "topic": "Electric Circuits",
+      "concept": "Potential difference in circuits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T10:49:29.777Z"
+}

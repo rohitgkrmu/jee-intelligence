@@ -28,9 +28,9 @@
       ],
       "correctAnswer": "D",
       "questionType": "MCQ_SINGLE",
-      "chapter": "Periodic Properties",
+      "chapter": "s-Block Elements",
       "topic": "Alkali Metals",
-      "concept": "Melting point trend in alkali metals",
+      "concept": "Periodic trends in melting points",
       "difficulty": "EASY",
       "skills": [
         "CONCEPTUAL"
@@ -60,9 +60,9 @@
       ],
       "correctAnswer": "B",
       "questionType": "MCQ_SINGLE",
-      "chapter": "Chemical Bonding",
+      "chapter": "s-Block Elements",
       "topic": "Hydrides",
-      "concept": "Stability of hydrides",
+      "concept": "Stability of hydrides and polymeric structures",
       "difficulty": "MEDIUM",
       "skills": [
         "CONCEPTUAL",
@@ -93,10 +93,10 @@
       ],
       "correctAnswer": "A",
       "questionType": "MCQ_SINGLE",
-      "chapter": "Coordination Chemistry",
+      "chapter": "Coordination Compounds",
       "topic": "Magnetic Properties",
-      "concept": "Spin-only magnetic moment",
-      "difficulty": "MEDIUM",
+      "concept": "Crystal field theory and magnetic moment calculation",
+      "difficulty": "HARD",
       "skills": [
         "NUMERICAL",
         "CONCEPTUAL"
@@ -105,7 +105,7 @@
     {
       "questionNumber": 64,
       "subject": "CHEMISTRY",
-      "questionText": "A solution is prepared by adding 2 g of X to 1 mole of water. Mass percent of X in the solution is",
+      "questionText": "A solution is prepared by adding 2 g of X to 1 mole of water. Mass percent of \"X\" in the solution is",
       "options": [
         {
           "id": "A",
@@ -127,17 +127,442 @@
       "correctAnswer": "C",
       "questionType": "MCQ_SINGLE",
       "chapter": "Solutions",
-      "topic": "Concentration Terms",
-      "concept": "Mass percentage",
+      "topic": "Mass Percent",
+      "concept": "Calculation of mass percent in solutions",
       "difficulty": "EASY",
       "skills": [
         "NUMERICAL"
       ]
     },
     {
+      "questionNumber": 65,
+      "subject": "CHEMISTRY",
+      "questionText": "Compound from the following that will not produce precipitate on reaction with AgNO₃ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1 (structure not clear)"
+        },
+        {
+          "id": "B",
+          "text": "Option 2 (structure not clear)"
+        },
+        {
+          "id": "C",
+          "text": "Option 3 (structure not clear)"
+        },
+        {
+          "id": "D",
+          "text": "Option 4 (structure not clear)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Halogen Compounds",
+      "concept": "Reactivity of vinylic halides with AgNO₃",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements. one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: [compound] can be subjected to Wolff-Kishner reduction to give [product]\nReason R: Wolff-Kishner reduction is used to convert into [product]\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is false but R is true"
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Name Reactions",
+      "concept": "Wolff-Kishner reduction mechanism and scope",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "subject": "CHEMISTRY",
+      "questionText": "For a chemical reaction A + B → Product, the order is 1 with respect to A and B. What is the value of x and y?",
+      "options": [
+        {
+          "id": "A",
+          "text": "80 and 4"
+        },
+        {
+          "id": "B",
+          "text": "160 and 4"
+        },
+        {
+          "id": "C",
+          "text": "40 and 4"
+        },
+        {
+          "id": "D",
+          "text": "80 and 2"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Kinetics",
+      "topic": "Rate Laws",
+      "concept": "Determination of rate constant and order",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "subject": "CHEMISTRY",
+      "questionText": "One mole of P₄ reacts with 8 moles of SOCl₂ to give 4 moles of A, x mole of SO₂ and 2 moles of B. A, B and x respectively are",
+      "options": [
+        {
+          "id": "A",
+          "text": "POCl₃, S₂Cl₂ and 4"
+        },
+        {
+          "id": "B",
+          "text": "PCl₃, S₂Cl₂ and 2"
+        },
+        {
+          "id": "C",
+          "text": "PCl₃, S₂Cl₂ and 4"
+        },
+        {
+          "id": "D",
+          "text": "POCl₃, S₂Cl₂ and 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "p-Block Elements",
+      "topic": "Phosphorus Compounds",
+      "concept": "Reaction of phosphorus with thionyl chloride",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements. one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: A solution of the product obtained by heating a mole of glycine with a mole of chlorine in presence of red phosphorous generates chiral carbon atom.\nReason R: A molecule with 2 chiral carbons is always optically active.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Stereochemistry",
+      "concept": "Chirality and optical activity",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "subject": "CHEMISTRY",
+      "questionText": "Product [X] formed in the above reaction is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1 (structure not clear)"
+        },
+        {
+          "id": "B",
+          "text": "H₃C–CH₂–CH=CH₂"
+        },
+        {
+          "id": "C",
+          "text": "H₃C–CH=CH–CH₃"
+        },
+        {
+          "id": "D",
+          "text": "Option 4 (structure not clear)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Grignard reagent reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following compounds is an example of Freon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "C₂Cl₂F₂"
+        },
+        {
+          "id": "B",
+          "text": "C₂HF₃"
+        },
+        {
+          "id": "C",
+          "text": "C₂F₄"
+        },
+        {
+          "id": "D",
+          "text": "C₂H₂F₂"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "p-Block Elements",
+      "topic": "Halogen Compounds",
+      "concept": "Chlorofluorocarbons and their applications",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements:\nStatement I: Ethene at 333 to 343 K and 6-7 atm pressure in the presence of AlEt₃ and TiCl₄ undergoes addition polymerization to give LDP.\nStatement II: Caprolactam at 533-543 K in H₂O through step growth polymerizes to give Nylon 6.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are false"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is true but Statement II is false"
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are true"
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false but Statement II is true"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Polymers",
+      "topic": "Polymerization",
+      "concept": "Addition and condensation polymerization",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "subject": "CHEMISTRY",
+      "questionText": "If Ni²⁻ is replaced by Pt²⁻ in the complex [NiCl₂Br₂]²⁻, which of the following properties are expected to get changed?\nA. Geometry\nB. Geometrical isomerism\nC. Optical isomerism\nD. Magnetic properties",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B and C"
+        },
+        {
+          "id": "B",
+          "text": "B and D"
+        },
+        {
+          "id": "C",
+          "text": "B and C"
+        },
+        {
+          "id": "D",
+          "text": "A, B and D"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Isomerism and Properties",
+      "concept": "Effect of metal ion change on complex properties",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "subject": "CHEMISTRY",
+      "questionText": "Match List I with List II",
+      "options": [
+        {
+          "id": "A",
+          "text": "A-II, B-IV, C-I, D-III"
+        },
+        {
+          "id": "B",
+          "text": "A-II, B-III, C-I, D-IV"
+        },
+        {
+          "id": "C",
+          "text": "A-III, B-IV, C-II, D-I"
+        },
+        {
+          "id": "D",
+          "text": "A-II, B-III, C-IV, D-I"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "General Chemistry",
+      "topic": "Factual Knowledge",
+      "concept": "Matching chemical concepts",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "subject": "CHEMISTRY",
+      "questionText": "The major product formed in the following reaction is",
+      "options": [
+        {
+          "id": "A",
+          "text": "C only"
+        },
+        {
+          "id": "B",
+          "text": "A only"
+        },
+        {
+          "id": "C",
+          "text": "D only"
+        },
+        {
+          "id": "D",
+          "text": "B only"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reduction Reactions",
+      "concept": "Clemmensen reduction mechanism",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "subject": "CHEMISTRY",
+      "questionText": "Which one of the following pairs is an example of polar molecular solids?",
+      "options": [
+        {
+          "id": "A",
+          "text": "HCl (s), AlN (s)"
+        },
+        {
+          "id": "B",
+          "text": "MgO (s), SO₂(s)"
+        },
+        {
+          "id": "C",
+          "text": "SO₂(s), NH₃(s)"
+        },
+        {
+          "id": "D",
+          "text": "SO₂(s), CO₂(s)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solid State",
+      "topic": "Types of Solids",
+      "concept": "Classification of molecular solids",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements:\nStatement I: In the metallurgy process, sulphide ore is converted to oxide before reduction.\nStatement II: Oxide ores in general are easier to reduce.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are correct"
+        },
+        {
+          "id": "B",
+          "text": "Statement I is correct but Statement II is incorrect"
+        },
+        {
+          "id": "C",
+          "text": "Statement I is incorrect but Statement II is correct"
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are incorrect"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Metallurgy",
+      "topic": "Extraction of Metals",
+      "concept": "Roasting and reduction processes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
       "questionNumber": 78,
       "subject": "CHEMISTRY",
-      "questionText": "What weight of glucose must be dissolved in 100 g of water to lower the vapour pressure by 0.20 mm Hg? (Assume dilute solution is being formed) Given: Vapour pressure of pure water is 54.2 mm Hg at room temperature. Molar mass of glucose is 180 g mol⁻¹.",
+      "questionText": "What weight of glucose must be dissolved in 100 g of water to lower the vapour pressure by 0.20 mm Hg?\n(Assume dilute solution is being formed)\nGiven: Vapour pressure of pure water is 54.2 mm Hg at room temperature. Molar mass of glucose is 180 g mol⁻¹.",
       "options": [
         {
           "id": "A",
@@ -160,54 +585,230 @@
       "questionType": "MCQ_SINGLE",
       "chapter": "Solutions",
       "topic": "Colligative Properties",
-      "concept": "Vapour pressure lowering",
-      "difficulty": "MEDIUM",
+      "concept": "Relative lowering of vapour pressure",
+      "difficulty": "HARD",
       "skills": [
         "NUMERICAL",
         "APPLICATION"
       ]
     },
     {
+      "questionNumber": 79,
+      "subject": "CHEMISTRY",
+      "questionText": "[Reaction mechanism question - structures not clearly visible]",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option 1"
+        },
+        {
+          "id": "B",
+          "text": "Option 2"
+        },
+        {
+          "id": "C",
+          "text": "Option 3"
+        },
+        {
+          "id": "D",
+          "text": "Option 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Diazotization and coupling reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "subject": "CHEMISTRY",
+      "questionText": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: [CoCl(NH₃)₅]²⁻ absorbs at lower wavelength of light with respect to [Co(NH₃)₅(H₂O)]³⁺\nReason R: It is because the wavelength of the light absorbed depends on the oxidation state of the metal ion.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Crystal Field Theory",
+      "concept": "Spectrochemical series and light absorption",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
       "questionNumber": 81,
       "subject": "CHEMISTRY",
-      "questionText": "Mg(NO₃)₂·XH₂O and Ba(NO₃)₂·YH₂O, represent formula of the crystalline forms of nitrate salts. Sum of X and Y is _____.",
+      "questionText": "Mg(NO₃)₂·XH₂O and Ba(NO₃)₂·YH₂O, represent formula of the crystalline forms of nitrate salts. Sum of X and Y is _________.",
       "options": [],
       "correctAnswer": "6",
-      "questionType": "NUMERICAL",
-      "chapter": "Inorganic Chemistry",
-      "topic": "Hydrated Salts",
-      "concept": "Water of crystallization",
+      "questionType": "INTEGER",
+      "chapter": "s-Block Elements",
+      "topic": "Salts and Hydrates",
+      "concept": "Water of crystallization in nitrate salts",
       "difficulty": "EASY",
       "skills": [
         "CONCEPTUAL"
       ]
     },
     {
+      "questionNumber": 82,
+      "subject": "CHEMISTRY",
+      "questionText": "The total number of intensive properties from the following is __________\nVolume, Molar heat capacity, Molarity, E° cell, Gibbs free energy change, Molar mass, Mole",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "INTEGER",
+      "chapter": "Physical Chemistry",
+      "topic": "Properties of Matter",
+      "concept": "Classification of intensive vs extensive properties",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "subject": "CHEMISTRY",
+      "questionText": "The maximum number of lone pairs of electron on the central atom from the following species is ___________\nClO₃⁻, XeF₄, SF₄ and I₃⁻",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "INTEGER",
+      "chapter": "Chemical Bonding",
+      "topic": "Molecular Geometry",
+      "concept": "VSEPR theory and lone pair determination",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of correct statements from the following is ______\nA. E°cell is an intensive parameter\nB. A negative E° means that the redox couple is a stronger reducing agent than the H⁺-H₂ couple.\nC. The amount of electricity required for oxidation or reduction depends on the stoichiometry of the electrode reaction.\nD. The amount of chemical reaction which occurs at any electrode during electrolysis by a current is proportional to the quantity of electricity passed through the electrolyte.",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "INTEGER",
+      "chapter": "Electrochemistry",
+      "topic": "Electrochemical Cells",
+      "concept": "Properties of electrochemical parameters",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of correct statements about modern adsorption theory of heterogeneous catalysis from the following is _______\nA. The catalyst is diffused over the surface of reactants.\nB. Reactants are adsorbed on the surface of the catalyst.\nC. Occurrence of chemical reaction on the catalysts surface through formation of an intermediate.\nD. It is a combination of intermediate compound formation theory and the old adsorption theory\nE. It explains the action of the catalyst as well as those of catalytic promoters and poisons.",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "INTEGER",
+      "chapter": "Surface Chemistry",
+      "topic": "Catalysis",
+      "concept": "Modern adsorption theory of heterogeneous catalysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "subject": "CHEMISTRY",
+      "questionText": "Number of compounds from the following which will not produce orange red precipitate with Benedict solution is ____________\nGlucose, maltose, sucrose, ribose, 2-deoxyribose, amylose, lactose",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "INTEGER",
+      "chapter": "Biomolecules",
+      "topic": "Carbohydrates",
+      "concept": "Reducing and non-reducing sugars",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of correct statement from the following is _________.\nA. For 1s orbital, the probability density is maximum at the nucleus\nB. For 2s orbital, the probability density first increases to maximum and then decreases sharply to zero.\nC. Boundary surface diagram of the orbitals encloses a region of 100% probability of finding the electron.\nD. p and d-orbitals have 1 and 2 angular nodes respectively\nE. probability density of p-orbital is zero at the nucleus",
+      "options": [],
+      "correctAnswer": "3",
+      "questionType": "INTEGER",
+      "chapter": "Structure of Atom",
+      "topic": "Atomic Orbitals",
+      "concept": "Probability density and orbital characteristics",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
       "questionNumber": 88,
       "subject": "CHEMISTRY",
-      "questionText": "The volume of hydrogen liberated at STP by treating 2.4 g of magnesium with excess of hydrochloric acid is _____ × 10⁻² L. Given: Molar volume of gas is 22.4 L at STP. Molar mass of magnesium is 24 g mol⁻¹",
+      "questionText": "The volume of hydrogen liberated at STP by treating 2.4 g of magnesium with excess of hydrochloric acid is _________ × 10⁻² L\nGiven: Molar volume of gas is 22.4 L at STP. Molar mass of magnesium is 24 g mol⁻¹",
       "options": [],
       "correctAnswer": "224",
-      "questionType": "NUMERICAL",
-      "chapter": "Stoichiometry",
-      "topic": "Gas Laws",
-      "concept": "Volume calculation at STP",
-      "difficulty": "MEDIUM",
+      "questionType": "INTEGER",
+      "chapter": "s-Block Elements",
+      "topic": "Chemical Reactions",
+      "concept": "Gas evolution reactions and stoichiometry",
+      "difficulty": "EASY",
       "skills": [
         "NUMERICAL",
         "APPLICATION"
       ]
     },
     {
+      "questionNumber": 89,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of possible isomeric products formed when 3-chloro-1-butene reacts with HCl through carbocation formation is ___________",
+      "options": [],
+      "correctAnswer": "4",
+      "questionType": "INTEGER",
+      "chapter": "Organic Chemistry",
+      "topic": "Alkenes",
+      "concept": "Carbocation rearrangement and stereoisomerism",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
       "questionNumber": 90,
       "subject": "CHEMISTRY",
-      "questionText": "4.5 moles each of hydrogen and iodine is heated in a sealed ten litre vessel. At equilibrium, 3 moles of HI were found. The equilibrium constant for H₂(g) + I₂(g) ⇌ 2HI(g) is _____.",
+      "questionText": "4.5 moles each of hydrogen and iodine is heated in a sealed ten litre vessel. At equilibrium, 3 moles of HI were found. The equilibrium constant for H₂(g) + I₂(g) ⇌ 2HI(g) is _____________.",
       "options": [],
       "correctAnswer": "1",
-      "questionType": "NUMERICAL",
+      "questionType": "INTEGER",
       "chapter": "Chemical Equilibrium",
       "topic": "Equilibrium Constant",
-      "concept": "Calculation of Kc",
+      "concept": "Calculation of equilibrium constant from equilibrium concentrations",
       "difficulty": "MEDIUM",
       "skills": [
         "NUMERICAL",
@@ -215,5 +816,5 @@
       ]
     }
   ],
-  "extractedAt": "2026-01-29T07:58:19.123Z"
+  "extractedAt": "2026-01-29T12:42:04.821Z"
 }

@@ -55,6 +55,8 @@ interface ExtractionResult {
  *   JEE_Main_2025_April_2_Shift1.pdf -> { year: 2025, session: "April 2 Shift 1", type: "MAIN" }
  *   JEE_Main_2024_April_4_Shift2.pdf -> { year: 2024, session: "April 4 Shift 2", type: "MAIN" }
  *   JEE_Main_2007.pdf -> { year: 2007, session: null, type: "MAIN" }
+ *   JEE_Advanced_2024_Paper1.pdf -> { year: 2024, session: "Paper 1", type: "ADVANCED" }
+ *   JEE_Advanced_2024_Paper2.pdf -> { year: 2024, session: "Paper 2", type: "ADVANCED" }
  */
 function parseFilename(filename: string): {
   year: number;
@@ -71,12 +73,22 @@ function parseFilename(filename: string): {
   const yearMatch = name.match(/(\d{4})/);
   const year = yearMatch ? parseInt(yearMatch[1]) : 0;
 
-  // Extract session info
+  let session: string | null = null;
+
+  // Handle JEE Advanced papers: JEE_Advanced_2024_Paper1
+  if (type === "ADVANCED") {
+    const paperMatch = name.match(/Paper(\d)/);
+    if (paperMatch) {
+      session = `Paper ${paperMatch[1]}`;
+    }
+    return { year, session, type };
+  }
+
+  // Extract session info for JEE Main
   // Pattern: JEE_Main_2025_April_2_Shift1 or JEE_Main_2025_Jan_22_Shift2
   const sessionMatch = name.match(
     /\d{4}_([A-Za-z]+)_(\d+)(?:_Shift(\d+))?/
   );
-  let session: string | null = null;
 
   if (sessionMatch) {
     const month = sessionMatch[1];
@@ -124,23 +136,31 @@ For JEE Main papers:
 - Questions 51-70 are typically Mathematics (may include 5 numerical type)
 - Questions 71-75 are typically Mathematics numerical
 
-However, some papers have different distributions. Use context clues (formulas, terminology) to determine the subject:
-- Physics: mechanics, waves, optics, thermodynamics, electromagnetism, modern physics
-- Chemistry: organic, inorganic, physical chemistry, periodic table, reactions
-- Mathematics: calculus, algebra, trigonometry, coordinate geometry, vectors, probability
+For JEE Advanced papers:
+- Both Paper 1 and Paper 2 have Physics, Chemistry, and Mathematics sections
+- Each section typically has 18 questions (total 54 per paper)
+- Question types vary: single correct MCQ, multiple correct MCQ, integer type, matrix matching, paragraph-based
+- Sections may be organized by type (e.g., Section 1: MCQ Single, Section 2: MCQ Multiple, Section 3: Numerical)
+- Use context clues to determine subject and question type
+
+Use context clues (formulas, terminology) to determine the subject:
+- Physics: mechanics, waves, optics, thermodynamics, electromagnetism, modern physics, rotational motion
+- Chemistry: organic, inorganic, physical chemistry, periodic table, reactions, coordination compounds
+- Mathematics: calculus, algebra, trigonometry, coordinate geometry, vectors, probability, complex numbers
 
 Question types:
 - MCQ_SINGLE: Multiple choice with single correct answer (options A, B, C, D)
-- MCQ_MULTIPLE: Multiple correct answers possible
+- MCQ_MULTIPLE: Multiple correct answers possible (more than one option can be correct)
 - NUMERICAL: Answer is a decimal/integer value (no options)
-- INTEGER: Answer is a single integer
+- INTEGER: Answer is a single integer (0-9 typically)
 
 When extracting:
 1. Preserve mathematical notation as much as possible (use LaTeX-like notation)
 2. Include ALL options for MCQ questions
 3. Extract the correct answer from the answer key section if present
 4. Mark difficulty based on complexity: EASY (direct formula), MEDIUM (multi-step), HARD (complex reasoning)
-5. Identify the chapter/topic when possible`;
+5. Identify the chapter/topic when possible
+6. For JEE Advanced, pay attention to section headers to determine question type`;
 
   const userPrompt = `Parse the following JEE ${metadata.type} ${metadata.year}${metadata.session ? ` (${metadata.session})` : ""} exam paper text and extract all questions as structured JSON.
 
