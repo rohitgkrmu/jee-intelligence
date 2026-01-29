@@ -2,17 +2,25 @@ import { Metadata } from "next";
 import { DiagnosticStartForm } from "./start-form";
 
 export const metadata: Metadata = {
-  title: "Free JEE Diagnostic Test - Check Your JEE Readiness in 10 Minutes",
+  title: "Free JEE Mock Test 2025 - Check Your Preparation Level",
   description:
-    "Take our free 12-question JEE diagnostic test. Assess your Physics, Chemistry & Maths preparation in 10 minutes. Get instant AI-powered analysis and personalized study recommendations.",
+    "Free JEE Main mock test with instant results. 12 questions covering Physics, Chemistry & Maths high weightage topics. Get AI-powered analysis, know your weak areas & personalized study plan. No signup required.",
   alternates: {
     canonical: "/diagnostic",
   },
   openGraph: {
-    title: "Free JEE Diagnostic Test - Check Your Readiness",
+    title: "Free JEE Mock Test 2025 | Instant Results & Analysis",
     description:
-      "12-question JEE diagnostic test. Get instant AI analysis and personalized study plan in 10 minutes. 100% free.",
+      "Take free JEE diagnostic test. 12 questions, instant AI analysis, personalized recommendations. Know your JEE preparation level in 10 minutes.",
   },
+  keywords: [
+    "JEE mock test free",
+    "JEE Main practice test",
+    "JEE preparation test",
+    "free JEE test series",
+    "JEE readiness test",
+    "JEE Main 2025 mock test",
+  ],
 };
 
 export default function DiagnosticPage() {

@@ -16,17 +16,25 @@ import {
 import { InsightsSection } from "./insights-section";
 
 export const metadata: Metadata = {
-  title: "JEE Trend Analysis 2025 - Chapter Weightage, Rising Topics & Patterns",
+  title: "JEE Main Chapter Wise Weightage 2025 - Physics, Chemistry, Maths",
   description:
-    "Free JEE Main & Advanced trend analysis with AI. Discover chapter weightage, high-frequency concepts, rising topics, and difficulty patterns from 5+ years of data. 500+ questions analyzed.",
+    "JEE Main 2025 chapter wise weightage for Physics, Chemistry & Maths. Know high weightage topics like Calculus, Organic Chemistry, Modern Physics. AI analysis of 500+ JEE questions. Free preparation guide.",
   alternates: {
     canonical: "/jee-intelligence",
   },
   openGraph: {
-    title: "JEE Trend Analysis 2025 - Chapter Weightage & Rising Topics",
+    title: "JEE Main Chapter Wise Weightage 2025 | Physics, Chemistry, Maths",
     description:
-      "AI-powered JEE pattern analysis. Chapter weightage, rising concepts, and study recommendations from 500+ analyzed questions.",
+      "Complete JEE Main 2025 chapter wise weightage. High weightage topics, rising concepts & important chapters. Based on 5 years of NTA JEE analysis.",
   },
+  keywords: [
+    "JEE Main chapter wise weightage 2025",
+    "JEE Main Physics weightage",
+    "JEE Main Chemistry weightage",
+    "JEE Main Maths weightage",
+    "high weightage chapters JEE",
+    "important topics JEE Main 2025",
+  ],
 };
 
 export const revalidate = 3600; // Revalidate every hour

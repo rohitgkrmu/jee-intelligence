@@ -2,9 +2,9 @@ import { permanentRedirect } from "next/navigation";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "JEE Pulse - AI-Powered JEE Main & Advanced Trend Analysis | ZenithSchool.ai",
+  title: "JEE Main 2025 Chapter Wise Weightage | Free Analysis & Mock Test",
   description:
-    "Free AI-powered JEE trend intelligence. Analyze 5+ years of JEE Main & Advanced patterns, chapter weightage, and get personalized study recommendations. Take free diagnostic tests.",
+    "Free JEE Main 2025 chapter wise weightage analysis. High weightage topics in Physics, Chemistry & Maths. AI-powered trend analysis from 500+ questions. Take free JEE mock test.",
   alternates: {
     canonical: "/jee-intelligence",
   },

@@ -27,11 +27,11 @@ export function JsonLd({ type = "website" }: JsonLdProps) {
   const websiteSchema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "JEE Pulse",
-    alternateName: "JEE Pulse by ZenithSchool.ai",
+    name: "JEE Pulse - JEE Main Chapter Wise Weightage",
+    alternateName: "JEE Main 2025 Weightage Analysis",
     url: BASE_URL,
     description:
-      "AI-powered JEE trend intelligence and diagnostic testing platform. Analyze JEE Main and Advanced patterns, chapter weightage, and get personalized study recommendations.",
+      "Free JEE Main 2025 chapter wise weightage for Physics, Chemistry & Maths. AI analysis of high weightage topics, rising concepts, and free JEE mock test with instant results.",
     publisher: {
       "@type": "Organization",
       name: "ZenithSchool.ai",
@@ -49,7 +49,7 @@ export function JsonLd({ type = "website" }: JsonLdProps) {
   const educationalAppSchema = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    name: "JEE Pulse Diagnostic Test",
+    name: "JEE Main Mock Test - Free Diagnostic",
     applicationCategory: "EducationalApplication",
     operatingSystem: "Web",
     offers: {
@@ -65,7 +65,7 @@ export function JsonLd({ type = "website" }: JsonLdProps) {
       worstRating: "1",
     },
     description:
-      "Free 12-question JEE readiness diagnostic test with AI-powered analysis and personalized study recommendations",
+      "Free JEE Main mock test covering high weightage topics from Physics, Chemistry & Maths. 12 questions with instant AI-powered results, subject-wise analysis, and personalized JEE 2025 preparation recommendations.",
   };
 
   const faqSchema = {
@@ -74,34 +74,34 @@ export function JsonLd({ type = "website" }: JsonLdProps) {
     mainEntity: [
       {
         "@type": "Question",
-        name: "What is JEE Pulse?",
+        name: "What is JEE Main chapter wise weightage?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "JEE Pulse is an AI-powered platform that analyzes 5+ years of JEE Main and Advanced exam papers to provide trend intelligence, chapter weightage analysis, and personalized study recommendations for JEE aspirants.",
+          text: "JEE Main chapter wise weightage shows how many questions come from each chapter in Physics, Chemistry, and Maths. High weightage chapters include Calculus (12-15 questions), Organic Chemistry (10-12 questions), and Modern Physics (8-10 questions). JEE Pulse analyzes 500+ questions from 5 years of JEE papers to show exact weightage patterns.",
         },
       },
       {
         "@type": "Question",
-        name: "Is the JEE diagnostic test free?",
+        name: "Which are the high weightage chapters for JEE Main 2025?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Yes, the 12-question JEE readiness diagnostic test is completely free. You get instant results with personalized recommendations without any payment required.",
+          text: "High weightage chapters for JEE Main 2025: Physics - Modern Physics, Electrostatics, Current Electricity, Optics. Chemistry - Organic Chemistry (Aldehydes, Ketones), Physical Chemistry (Equilibrium, Thermodynamics), p-Block elements. Maths - Calculus, 3D Geometry, Matrices, Coordinate Geometry. These topics contribute 65-70% of the paper.",
         },
       },
       {
         "@type": "Question",
-        name: "How accurate is the JEE trend analysis?",
+        name: "Is the JEE mock test on JEE Pulse free?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Our AI analyzes 500+ questions from JEE Main and Advanced papers spanning 5+ years, achieving 95% accuracy in predicting high-frequency concepts and chapter weightage patterns.",
+          text: "Yes, the JEE diagnostic test is 100% free. It includes 12 questions covering high weightage topics from Physics, Chemistry, and Maths. You get instant AI-powered analysis, subject-wise score breakdown, and personalized study recommendations without any payment or signup.",
         },
       },
       {
         "@type": "Question",
-        name: "What subjects are covered in JEE Pulse?",
+        name: "How to use JEE Main chapter wise weightage for preparation?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "JEE Pulse covers all three subjects tested in JEE: Physics, Chemistry, and Mathematics. Each subject includes detailed chapter weightage, rising/declining concepts, and difficulty analysis.",
+          text: "Start with high weightage chapters that appear frequently - Calculus and Algebra cover 65-70% of Maths, Organic Chemistry dominates Chemistry section. Focus on NCERT first, then practice previous year questions. Use JEE Pulse to identify rising concepts that are appearing more frequently in recent exams.",
         },
       },
     ],
