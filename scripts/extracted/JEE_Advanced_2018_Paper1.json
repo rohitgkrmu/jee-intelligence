@@ -1,0 +1,1416 @@
+{
+  "filename": "JEE_Advanced_2018_Paper1.pdf",
+  "examYear": 2018,
+  "examSession": "Paper 1",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "The potential energy of a particle of mass m at a distance r from a fixed point O is given by V(r) = kr²/2, where k is a positive constant of appropriate dimensions. This particle is moving in a circular orbit of radius R about the point O. If v is the speed of the particle and L is the magnitude of its angular momentum about O, which of the following statements is (are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "v = √(k/2m) R"
+        },
+        {
+          "id": "B",
+          "text": "v = √(k/m) R"
+        },
+        {
+          "id": "C",
+          "text": "L = √(mk) R²"
+        },
+        {
+          "id": "D",
+          "text": "L = √(mk/2) R²"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Mechanics",
+      "topic": "Circular Motion",
+      "concept": "Potential energy and circular orbits",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "Consider a body of mass 1.0 kg at rest at the origin at time t = 0. A force F⃗ = (αt î + β ĵ) is applied on the body, where α = 1.0 N s⁻¹ and β = 1.0 N. The torque acting on the body about the origin at time t = 1.0 s is τ⃗. Which of the following statements is (are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "|τ⃗| = 1/3 N m"
+        },
+        {
+          "id": "B",
+          "text": "The torque τ⃗ is in the direction of the unit vector +k̂"
+        },
+        {
+          "id": "C",
+          "text": "The velocity of the body at t = 1 s is v⃗ = (1/2)(î + 2ĵ) m s⁻¹"
+        },
+        {
+          "id": "D",
+          "text": "The magnitude of displacement of the body at t = 1 s is 1/6 m"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Mechanics",
+      "topic": "Dynamics",
+      "concept": "Force, torque and motion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "A uniform capillary tube of inner radius r is dipped vertically into a beaker filled with water. The water rises to a height h in the capillary tube above the water surface in the beaker. The surface tension of water is σ. The angle of contact between water and the wall of the capillary tube is θ. Ignore the mass of water in the meniscus. Which of the following statements is (are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For a given material of the capillary tube, h decreases with increase in r"
+        },
+        {
+          "id": "B",
+          "text": "For a given material of the capillary tube, h is independent of σ"
+        },
+        {
+          "id": "C",
+          "text": "If this experiment is performed in a lift going up with a constant acceleration, then h decreases"
+        },
+        {
+          "id": "D",
+          "text": "h is proportional to contact angle θ"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Surface Tension",
+      "concept": "Capillary rise",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "In the figure below, the switches S₁ and S₂ are closed simultaneously at t = 0 and a current starts to flow in the circuit. Both the batteries have the same magnitude of the electromotive force (emf) and the polarities are as indicated in the figure. Ignore mutual inductance between the inductors. The current I in the middle wire reaches its maximum magnitude I_{max} at time t = τ. Which of the following statements is (are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "I_{max} = V/(2R)"
+        },
+        {
+          "id": "B",
+          "text": "I_{max} = V/(4R)"
+        },
+        {
+          "id": "C",
+          "text": "τ = (L/R)ln2"
+        },
+        {
+          "id": "D",
+          "text": "τ = (2L/R)ln2"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electromagnetism",
+      "topic": "LR Circuits",
+      "concept": "Transient current in RL circuits",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "Two infinitely long straight wires lie in the xy-plane along the lines x = ±R. The wire located at x = +R carries a constant current I₁ and the wire located at x = -R carries a constant current I₂. A circular loop of radius R is suspended with its centre at (0,0,√3R) and in a plane parallel to the xy-plane. This loop carries a constant current I in the clockwise direction as seen from above the loop. The current in the wire is taken to be positive if it is in the +ĵ direction. Which of the following statements regarding the magnetic field B⃗ is (are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "If I₁ = I₂, then B⃗ cannot be equal to zero at the origin (0,0,0)"
+        },
+        {
+          "id": "B",
+          "text": "If I₁ > 0 and I₂ < 0, then B⃗ can be equal to zero at the origin (0,0,0)"
+        },
+        {
+          "id": "C",
+          "text": "If I₁ < 0 and I₂ > 0, then B⃗ can be equal to zero at the origin (0,0,0)"
+        },
+        {
+          "id": "D",
+          "text": "If I₁ = I₂, then the z-component of the magnetic field at the centre of the loop is (-μ₀I)/(2R)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electromagnetism",
+      "topic": "Magnetic Field",
+      "concept": "Magnetic field due to current carrying wires and loops",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "One mole of a monatomic ideal gas undergoes a cyclic process as shown in the figure (where V is the volume and T is the temperature). Which of the statements below is (are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Process I is an isochoric process"
+        },
+        {
+          "id": "B",
+          "text": "In process II, gas absorbs heat"
+        },
+        {
+          "id": "C",
+          "text": "In process IV, gas releases heat"
+        },
+        {
+          "id": "D",
+          "text": "Processes I and III are not isobaric"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Thermodynamics",
+      "topic": "Cyclic Processes",
+      "concept": "Thermodynamic processes for ideal gas",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "GRAPHICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "Two vectors A⃗ and B⃗ are defined as A⃗ = a î and B⃗ = a(cosωt î + sinωt ĵ), where a is a constant and ω = π/6 rad s⁻¹. If |A⃗ + B⃗| = √3|A⃗ - B⃗| at time t = τ for the first time, the value of τ, in seconds, is __________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Vectors",
+      "topic": "Vector Addition",
+      "concept": "Vector magnitude and time-dependent vectors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "Two men are walking along a horizontal straight line in the same direction. The man in front walks at a speed 1.0 m s⁻¹ and the man behind walks at a speed 2.0 m s⁻¹. A third man is standing at a height 12 m above the same horizontal line such that all three men are in a vertical plane. The two walking men are blowing identical whistles which emit a sound of frequency 1430 Hz. The speed of sound in air is 330 m s⁻¹. At the instant, when the moving men are 10 m apart, the stationary man is equidistant from them. The frequency of beats in Hz, heard by the stationary man at this instant, is __________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Waves",
+      "topic": "Doppler Effect",
+      "concept": "Beat frequency with Doppler shift",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "A ring and a disc are initially at rest, side by side, at the top of an inclined plane which makes an angle 60° with the horizontal. They start to roll without slipping at the same instant of time along the shortest path. If the time difference between their reaching the ground is (2-√3)/√10 s, then the height of the top of the inclined plane, in metres, is __________. Take g = 10 m s⁻².",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Rolling motion on inclined plane",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "A spring-block system is resting on a frictionless floor as shown in the figure. The spring constant is 2.0 N m⁻¹ and the mass of the block is 2.0 kg. Ignore the mass of the spring. Initially the spring is in an unstretched condition. Another block of mass 1.0 kg moving with a speed of 2.0 m s⁻¹ collides elastically with the first block. The collision is such that the 2.0 kg block does not hit the wall. The distance, in metres, between the two blocks when the spring returns to its unstretched position for the first time after the collision is _______.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Collisions and Oscillations",
+      "concept": "Elastic collision and spring-mass system",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "Three identical capacitors C₁, C₂ and C₃ have a capacitance of 1.0 μF each and they are uncharged initially. They are connected in a circuit as shown in the figure and C₁ is then filled completely with a dielectric material of relative permittivity εᵣ. The cell electromotive force (emf) V₀ = 8 V. First the switch S₁ is closed while the switch S₂ is kept open. When the capacitor C₃ is fully charged, S₁ is opened and S₂ is closed simultaneously. When all the capacitors reach equilibrium, the charge on C₃ is found to be 5 μC. The value of εᵣ = ____________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetism",
+      "topic": "Capacitors",
+      "concept": "Capacitor networks with dielectrics",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "In the xy-plane, the region y > 0 has a uniform magnetic field B₁k̂ and the region y < 0 has another uniform magnetic field B₂k̂. A positively charged particle is projected from the origin along the positive y-axis with speed v₀ = π m s⁻¹ at t = 0, as shown in the figure. Neglect gravity in this problem. Let t = T be the time when the particle crosses the x-axis from below for the first time. If B₂ = 4B₁, the average speed of the particle, in m s⁻¹, along the x-axis in the time interval T is __________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetism",
+      "topic": "Magnetic Force",
+      "concept": "Charged particle motion in magnetic field",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "Sunlight of intensity 1.3 kW m⁻² is incident normally on a thin convex lens of focal length 20 cm. Ignore the energy loss of light due to the lens and assume that the lens aperture size is much smaller than its focal length. The average intensity of light, in kW m⁻², at a distance 22 cm from the lens on the other side is __________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Optics",
+      "topic": "Lens",
+      "concept": "Light intensity and lens focusing",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "Two conducting cylinders of equal length but different radii are connected in series between two heat baths kept at temperatures T₁ = 300 K and T₂ = 100 K, as shown in the figure. The radius of the bigger cylinder is twice that of the smaller one and the thermal conductivities of the materials of the smaller and the larger cylinders are K₁ and K₂ respectively. If the temperature at the junction of the two cylinders in the steady state is 200 K, then K₁/K₂ = __________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Heat Conduction",
+      "concept": "Steady state heat conduction through cylinders",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "The relation between [E] and [B] is",
+      "options": [
+        {
+          "id": "A",
+          "text": "[E] = [B][L][T]"
+        },
+        {
+          "id": "B",
+          "text": "[E] = [B][L]⁻¹[T]"
+        },
+        {
+          "id": "C",
+          "text": "[E] = [B][L][T]⁻¹"
+        },
+        {
+          "id": "D",
+          "text": "[E] = [B][L]⁻¹[T]⁻¹"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetism",
+      "topic": "Dimensional Analysis",
+      "concept": "Dimensions of electric and magnetic fields",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "The relation between [ε₀] and [μ₀] is",
+      "options": [
+        {
+          "id": "A",
+          "text": "[μ₀] = [ε₀][L]²[T]⁻²"
+        },
+        {
+          "id": "B",
+          "text": "[μ₀] = [ε₀][L]⁻²[T]²"
+        },
+        {
+          "id": "C",
+          "text": "[μ₀] = [ε₀]⁻¹[L]²[T]⁻²"
+        },
+        {
+          "id": "D",
+          "text": "[μ₀] = [ε₀]⁻¹[L]⁻²[T]²"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetism",
+      "topic": "Dimensional Analysis",
+      "concept": "Dimensions of permittivity and permeability",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "Consider the ratio r = (1-a)/(1+a) to be determined by measuring a dimensionless quantity a. If the error in the measurement of a is Δa (Δa/a≪1), then what is the error Δr in determining r?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Δa/(1+a)²"
+        },
+        {
+          "id": "B",
+          "text": "2Δa/(1+a)²"
+        },
+        {
+          "id": "C",
+          "text": "2Δa/(1-a²)"
+        },
+        {
+          "id": "D",
+          "text": "2aΔa/(1-a²)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Measurements",
+      "topic": "Error Analysis",
+      "concept": "Propagation of errors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "In an experiment the initial number of radioactive nuclei is 3000. It is found that 1000±40 nuclei decayed in the first 1.0 s. For |x|≪1, ln(1+x) = x up to first power in x. The error Δλ, in the determination of the decay constant λ, in s⁻¹, is",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.04"
+        },
+        {
+          "id": "B",
+          "text": "0.03"
+        },
+        {
+          "id": "C",
+          "text": "0.02"
+        },
+        {
+          "id": "D",
+          "text": "0.01"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Radioactive Decay",
+      "concept": "Error in decay constant determination",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "CHEMISTRY",
+      "questionText": "The compound(s) which generate(s) N₂ gas upon thermal decomposition below 300°C is (are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "NH₄NO₃"
+        },
+        {
+          "id": "B",
+          "text": "(NH₄)₂Cr₂O₇"
+        },
+        {
+          "id": "C",
+          "text": "Ba(N₃)₂"
+        },
+        {
+          "id": "D",
+          "text": "Mg₃N₂"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Nitrogen Compounds",
+      "concept": "Thermal decomposition of nitrogen compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct statement(s) regarding the binary transition metal carbonyl compounds is (are) (Atomic numbers: Fe = 26, Ni = 28)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Total number of valence shell electrons at metal centre in Fe(CO)₅ or Ni(CO)₄ is 16"
+        },
+        {
+          "id": "B",
+          "text": "These are predominantly low spin in nature"
+        },
+        {
+          "id": "C",
+          "text": "Metal–carbon bond strengthens when the oxidation state of the metal is lowered"
+        },
+        {
+          "id": "D",
+          "text": "The carbonyl C−O bond weakens when the oxidation state of the metal is increased"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordination Chemistry",
+      "topic": "Organometallic Compounds",
+      "concept": "Metal carbonyl compounds",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "CHEMISTRY",
+      "questionText": "Based on the compounds of group 15 elements, the correct statement(s) is (are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bi₂O₅ is more basic than N₂O₅"
+        },
+        {
+          "id": "B",
+          "text": "NF₃ is more covalent than BiF₃"
+        },
+        {
+          "id": "C",
+          "text": "PH₃ boils at lower temperature than NH₃"
+        },
+        {
+          "id": "D",
+          "text": "The N−N single bond is stronger than the P−P single bond"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "p-Block Elements",
+      "concept": "Group 15 elements properties",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "CHEMISTRY",
+      "questionText": "In the following reaction sequence, the correct structure(s) of X is (are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure A"
+        },
+        {
+          "id": "B",
+          "text": "Structure B"
+        },
+        {
+          "id": "C",
+          "text": "Structure C"
+        },
+        {
+          "id": "D",
+          "text": "Structure D"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Organic reaction sequences",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "CHEMISTRY",
+      "questionText": "The reaction(s) leading to the formation of 1,3,5-trimethylbenzene is (are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reaction A"
+        },
+        {
+          "id": "B",
+          "text": "Reaction B"
+        },
+        {
+          "id": "C",
+          "text": "Reaction C"
+        },
+        {
+          "id": "D",
+          "text": "Reaction D"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Synthesis of substituted benzenes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "CHEMISTRY",
+      "questionText": "A reversible cyclic process for an ideal gas is shown below. Here, P, V, and T are pressure, volume and temperature, respectively. The thermodynamic parameters q, w, H and U are heat, work, enthalpy and internal energy, respectively. The correct option(s) is (are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "q_{AC} = ΔU_{BC} and w_{AB} = P₂(V₂-V₁)"
+        },
+        {
+          "id": "B",
+          "text": "w_{BC} = P₂(V₂-V₁) and q_{BC} = ΔH_{AC}"
+        },
+        {
+          "id": "C",
+          "text": "ΔH_{CA} < ΔU_{CA} and q_{AC} = ΔU_{BC}"
+        },
+        {
+          "id": "D",
+          "text": "q_{BC} = ΔH_{AC} and ΔH_{CA} > ΔU_{CA}"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Thermodynamics",
+      "concept": "Cyclic processes and thermodynamic relations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "CHEMISTRY",
+      "questionText": "Among the species given below, the total number of diamagnetic species is ___. H atom, NO₂ monomer, O₂⁻ (superoxide), dimeric sulphur in vapour phase, Mn₃O₄, (NH₄)₂[FeCl₄], (NH₄)₂[NiCl₄], K₂MnO₄, K₂CrO₄",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Chemistry",
+      "topic": "Magnetic Properties",
+      "concept": "Diamagnetic and paramagnetic species",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "CHEMISTRY",
+      "questionText": "The ammonia prepared by treating ammonium sulphate with calcium hydroxide is completely used by NiCl₂.6H₂O to form a stable coordination compound. Assume that both the reactions are 100% complete. If 1584 g of ammonium sulphate and 952 g of NiCl₂.6H₂O are used in the preparation, the combined weight (in grams) of gypsum and the nickel-ammonia coordination compound thus produced is ____. (Atomic weights in g mol⁻¹: H = 1, N = 14, O = 16, S = 32, Cl = 35.5, Ca = 40, Ni = 59)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordination Chemistry",
+      "topic": "Complex Formation",
+      "concept": "Stoichiometry of coordination compound formation",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider an ionic solid MX with NaCl structure. Construct a new structure (Z) whose unit cell is constructed from the unit cell of MX following the sequential instructions given below. Neglect the charge balance. (i) Remove all the anions (X) except the central one (ii) Replace all the face centered cations (M) by anions (X) (iii) Remove all the corner cations (M) (iv) Replace the central anion (X) with cation (M). The value of (number of anions)/(number of cations) in Z is ____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Solid State Chemistry",
+      "topic": "Crystal Structures",
+      "concept": "Unit cell transformations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "CHEMISTRY",
+      "questionText": "For the electrochemical cell, Mg(s) | Mg²⁺(aq, 1 M) || Cu²⁺(aq, 1 M) | Cu(s) the standard emf of the cell is 2.70 V at 300 K. When the concentration of Mg²⁺ is changed to x M, the cell potential changes to 2.67 V at 300 K. The value of x is ____. (given, F/R = 11500 K V⁻¹, where F is the Faraday constant and R is the gas constant, ln(10) = 2.30)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "concept": "Nernst equation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "CHEMISTRY",
+      "questionText": "A closed tank has two compartments A and B, both filled with oxygen (assumed to be ideal gas). The partition separating the two compartments is fixed and is a perfect heat insulator (Figure 1). If the old partition is replaced by a new partition which can slide and conduct heat but does NOT allow the gas to leak across (Figure 2), the volume (in m³) of the compartment A after the system attains equilibrium is ____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Thermodynamics",
+      "concept": "Equilibrium of gases in connected compartments",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "CHEMISTRY",
+      "questionText": "Liquids A and B form ideal solution over the entire range of composition. At temperature T, equimolar binary solution of liquids A and B has vapour pressure 45 Torr. At the same temperature, a new solution of A and B having mole fractions x_A and x_B, respectively, has vapour pressure of 22.5 Torr. The value of x_A/x_B in the new solution is ____. (given that the vapour pressure of pure liquid A is 20 Torr at temperature T)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Solutions",
+      "concept": "Raoult's law for ideal solutions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "subject": "CHEMISTRY",
+      "questionText": "The solubility of a salt of weak acid (AB) at pH 3 is Y×10⁻³ mol L⁻¹. The value of Y is ____. (Given that the value of solubility product of AB (K_sp) = 2×10⁻¹⁰ and the value of ionization constant of HB (K_a) = 1×10⁻⁸)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Ionic Equilibrium",
+      "concept": "Solubility of salt of weak acid",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "CHEMISTRY",
+      "questionText": "The plot given below shows P−T curves (where P is the pressure and T is the temperature) for two solvents X and Y and isomolal solutions of NaCl in these solvents. NaCl completely dissociates in both the solvents. On addition of equal number of moles of a non-volatile solute S in equal amount (in kg) of these solvents, the elevation of boiling point of solvent X is three times that of solvent Y. Solute S is known to undergo dimerization in these solvents. If the degree of dimerization is 0.7 in solvent Y, the degree of dimerization in solvent X is ____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Solutions",
+      "concept": "Colligative properties and association/dissociation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "CHEMISTRY",
+      "questionText": "The compound Y is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure A"
+        },
+        {
+          "id": "B",
+          "text": "Structure B"
+        },
+        {
+          "id": "C",
+          "text": "Structure C"
+        },
+        {
+          "id": "D",
+          "text": "Structure D"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Friedel-Crafts reactions and subsequent transformations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "CHEMISTRY",
+      "questionText": "The compound Z is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure A"
+        },
+        {
+          "id": "B",
+          "text": "Structure B"
+        },
+        {
+          "id": "C",
+          "text": "Structure C"
+        },
+        {
+          "id": "D",
+          "text": "Structure D"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Reduction and rearrangement reactions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "CHEMISTRY",
+      "questionText": "The compound R is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure A"
+        },
+        {
+          "id": "B",
+          "text": "Structure B"
+        },
+        {
+          "id": "C",
+          "text": "Structure C"
+        },
+        {
+          "id": "D",
+          "text": "Structure D"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Oxidation and polymer precursor identification",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "CHEMISTRY",
+      "questionText": "The compound S is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure A"
+        },
+        {
+          "id": "B",
+          "text": "Structure B"
+        },
+        {
+          "id": "C",
+          "text": "Structure C"
+        },
+        {
+          "id": "D",
+          "text": "Structure D"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Multi-step organic synthesis",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "MATHEMATICS",
+      "questionText": "For a non-zero complex number z, let arg(z) denote the principal argument with -π < arg(z) ≤ π. Then, which of the following statement(s) is (are) FALSE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "arg(-1-i) = π/4, where i = √(-1)"
+        },
+        {
+          "id": "B",
+          "text": "The function f: ℝ → (-π,π], defined by f(t) = arg(-1+it) for all t ∈ ℝ, is continuous at all points of ℝ, where i = √(-1)"
+        },
+        {
+          "id": "C",
+          "text": "For any two non-zero complex numbers z₁ and z₂, arg(z₁z₂) - arg(z₁) + arg(z₂) is an integer multiple of 2π"
+        },
+        {
+          "id": "D",
+          "text": "For any three given distinct complex numbers z₁, z₂ and z₃, the locus of the point z satisfying the condition arg((z-z₁)(z₂-z₃)/((z-z₃)(z₂-z₁))) = π, lies on a straight line"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Complex Numbers",
+      "topic": "Arguments of Complex Numbers",
+      "concept": "Principal argument and its properties",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "MATHEMATICS",
+      "questionText": "In a triangle PQR, let ∠PQR = 30° and the sides PQ and QR have lengths 10√3 and 10, respectively. Then, which of the following statement(s) is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "∠QPR = 45°"
+        },
+        {
+          "id": "B",
+          "text": "The area of the triangle PQR is 25√3 and ∠QRP = 120°"
+        },
+        {
+          "id": "C",
+          "text": "The radius of the incircle of the triangle PQR is 10√3 - 15"
+        },
+        {
+          "id": "D",
+          "text": "The area of the circumcircle of the triangle PQR is 100π"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Trigonometry",
+      "topic": "Properties of Triangles",
+      "concept": "Triangle solution and associated circles",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P₁: 2x + y - z = 3 and P₂: x + 2y + z = 2 be two planes. Then, which of the following statement(s) is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The line of intersection of P₁ and P₂ has direction ratios 1, 2, -1"
+        },
+        {
+          "id": "B",
+          "text": "The line (3x-4)/9 = (1-3y)/9 = z/3 is perpendicular to the line of intersection of P₁ and P₂"
+        },
+        {
+          "id": "C",
+          "text": "The acute angle between P₁ and P₂ is 60°"
+        },
+        {
+          "id": "D",
+          "text": "If P₃ is the plane passing through the point (4,2,-2) and perpendicular to the line of intersection of P₁ and P₂, then the distance of the point (2,1,1) from the plane P₃ is 2/√3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "3D Geometry",
+      "topic": "Planes and Lines",
+      "concept": "Intersection of planes and perpendicular distances",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "MATHEMATICS",
+      "questionText": "For every twice differentiable function f: ℝ → [-2,2] with (f(0))² + (f'(0))² = 85, which of the following statement(s) is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "There exist r,s ∈ ℝ, where r < s, such that f is one-one on the open interval (r,s)"
+        },
+        {
+          "id": "B",
+          "text": "There exists x₀ ∈ (-4,0) such that |f'(x₀)| ≤ 1"
+        },
+        {
+          "id": "C",
+          "text": "lim_{x→∞} f(x) = 1"
+        },
+        {
+          "id": "D",
+          "text": "There exists α ∈ (-4,4) such that f(α) + f''(α) = 0 and f'(α) ≠ 0"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Function Properties",
+      "concept": "Bounded functions and their derivatives",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f: ℝ → ℝ and g: ℝ → ℝ be two non-constant differentiable functions. If f'(x) = (e^(f(x)-g(x)))g'(x) for all x ∈ ℝ, and f(1) = g(2) = 1, then which of the following statement(s) is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "f(2) < 1 - log_e 2"
+        },
+        {
+          "id": "B",
+          "text": "f(2) > 1 - log_e 2"
+        },
+        {
+          "id": "C",
+          "text": "g(1) > 1 - log_e 2"
+        },
+        {
+          "id": "D",
+          "text": "g(1) < 1 - log_e 2"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Differential Equations",
+      "concept": "Functional differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f: [0,∞) → ℝ be a continuous function such that f(x) = 1 - 2x + ∫₀ˣ e^(x-t) f(t) dt for all x ∈ [0,∞). Then, which of the following statement(s) is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The curve y = f(x) passes through the point (1,2)"
+        },
+        {
+          "id": "B",
+          "text": "The curve y = f(x) passes through the point (2,-1)"
+        },
+        {
+          "id": "C",
+          "text": "The area of the region {(x,y) ∈ [0,1] × ℝ: f(x) ≤ y ≤ √(1-x²)} is (π-2)/4"
+        },
+        {
+          "id": "D",
+          "text": "The area of the region {(x,y) ∈ [0,1] × ℝ: f(x) ≤ y ≤ √(1-x²)} is (π-1)/4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Integral Equations",
+      "concept": "Volterra integral equations and area computation",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of ((log₂ 9)²)^(1/(log₂(log₂ 9))) × (√7)^(1/(log₄ 7)) is ______.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Algebra",
+      "topic": "Logarithms",
+      "concept": "Complex logarithmic expressions",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of 5 digit numbers which are divisible by 4, with digits from the set {1,2,3,4,5} and the repetition of digits is allowed, is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Combinatorics",
+      "topic": "Counting",
+      "concept": "Counting with divisibility constraints",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "MATHEMATICS",
+      "questionText": "Let X be the set consisting of the first 2018 terms of the arithmetic progression 1,6,11,... , and Y be the set consisting of the first 2018 terms of the arithmetic progression 9,16,23,... . Then, the number of elements in the set X∪Y is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Sets and Sequences",
+      "topic": "Arithmetic Progressions",
+      "concept": "Union of arithmetic progression sets",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "MATHEMATICS",
+      "questionText": "The number of real solutions of the equation sin⁻¹(∑ xⁱ⁺¹ from i=1 to ∞ - x∑(x²)ⁱ from i=1 to ∞) = π/2 - cos⁻¹(∑(-x²)ⁱ from i=1 to ∞ - ∑(-x)ⁱ from i=1 to ∞) lying in the interval (-1/2, 1/2) is _____. (Here, the inverse trigonometric functions sin⁻¹x and cos⁻¹x assume values in [-π/2, π/2] and [0,π], respectively.)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Trigonometry and Series",
+      "topic": "Infinite Series and Inverse Trigonometry",
+      "concept": "Geometric series in trigonometric equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "MATHEMATICS",
+      "questionText": "For each positive integer n, let y_n = (1/n)((n+1)(n+2)⋯(n+n))^(1/n). For x ∈ ℝ, let [x] be the greatest integer less than or equal to x. If lim_{n→∞} y_n = L, then the value of [L] is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Limits",
+      "concept": "Limit of sequence involving products",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a⃗ and b⃗ be two unit vectors such that a⃗⋅b⃗ = 0. For some x,y ∈ ℝ, let c⃗ = xa⃗ + yb⃗ + (a⃗×b⃗). If |c⃗| = 2 and the vector c⃗ is inclined at the same angle α to both a⃗ and b⃗, then the value of 8cos²α is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Vectors",
+      "topic": "Vector Operations",
+      "concept": "Vector combinations and angles",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a,b,c be three non-zero real numbers such that the equation √3 a cos x + 2 b sin x = c, x ∈ [-π/2, π/2], has two distinct real roots α and β with α + β = π/3. Then, the value of b/a is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations",
+      "concept": "Roots of trigonometric equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "MATHEMATICS",
+      "questionText": "A farmer F₁ has a land in the shape of a triangle with vertices at P(0,0), Q(1,1) and R(2,0). From this land, a neighbouring farmer F₂ takes away the region which lies between the side PQ and a curve of the form y = xⁿ (n > 1). If the area of the region taken away by the farmer F₂ is exactly 30% of the area of ΔPQR, then the value of n is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Area Under Curves",
+      "concept": "Area between curve and line",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "MATHEMATICS",
+      "questionText": "Let E₁E₂ and F₁F₂ be the chords of S passing through the point P₀(1,1) and parallel to the x-axis and the y-axis, respectively. Let G₁G₂ be the chord of S passing through P₀ and having slope -1. Let the tangents to S at E₁ and E₂ meet at E₃, the tangents to S at F₁ and F₂ meet at F₃, and the tangents to S at G₁ and G₂ meet at G₃. Then, the points E₃, F₃, and G₃ lie on the curve",
+      "options": [
+        {
+          "id": "A",
+          "text": "x + y = 4"
+        },
+        {
+          "id": "B",
+          "text": "(x-4)² + (y-4)² = 16"
+        },
+        {
+          "id": "C",
+          "text": "(x-4)(y-4) = 4"
+        },
+        {
+          "id": "D",
+          "text": "xy = 4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle",
+      "concept": "Chord properties and tangent intersections",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P be a point on the circle S with both coordinates being positive. Let the tangent to S at P intersect the coordinate axes at the points M and N. Then, the mid-point of the line segment MN must lie on the curve",
+      "options": [
+        {
+          "id": "A",
+          "text": "(x+y)² = 3xy"
+        },
+        {
+          "id": "B",
+          "text": "x^(2/3) + y^(2/3) = 2^(4/3)"
+        },
+        {
+          "id": "C",
+          "text": "x² + y² = 2xy"
+        },
+        {
+          "id": "D",
+          "text": "x² + y² = x²y²"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle",
+      "concept": "Tangent properties and locus",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "MATHEMATICS",
+      "questionText": "The probability that, on the examination day, the student S₁ gets the previously allotted seat R₁, and NONE of the remaining students gets the seat previously allotted to him/her is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/40"
+        },
+        {
+          "id": "B",
+          "text": "1/8"
+        },
+        {
+          "id": "C",
+          "text": "7/40"
+        },
+        {
+          "id": "D",
+          "text": "1/5"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Permutations and Derangements",
+      "concept": "Conditional probability with derangements",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "MATHEMATICS",
+      "questionText": "For i = 1,2,3,4, let Tᵢ denote the event that the students Sᵢ and Sᵢ₊₁ do NOT sit adjacent to each other on the day of the examination. Then, the probability of the event T₁∩T₂∩T₃∩T₄ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/15"
+        },
+        {
+          "id": "B",
+          "text": "1/10"
+        },
+        {
+          "id": "C",
+          "text": "7/60"
+        },
+        {
+          "id": "D",
+          "text": "1/5"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Arrangements",
+      "concept": "Probability of non-adjacent arrangements",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T15:30:36.884Z"
+}

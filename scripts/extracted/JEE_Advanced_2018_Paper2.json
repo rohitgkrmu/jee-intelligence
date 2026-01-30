@@ -1,0 +1,1388 @@
+{
+  "filename": "JEE_Advanced_2018_Paper2.pdf",
+  "examYear": 2018,
+  "examSession": "Paper 2",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "A particle of mass m is initially at rest at the origin. It is subjected to a force and starts moving along the x-axis. Its kinetic energy K changes with time as γ = dt/dK, where γ is a positive constant of appropriate dimensions. Which of the following statements is (are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The force applied on the particle is constant"
+        },
+        {
+          "id": "B",
+          "text": "The speed of the particle is proportional to time"
+        },
+        {
+          "id": "C",
+          "text": "The distance of the particle from the origin increases linearly with time"
+        },
+        {
+          "id": "D",
+          "text": "The force is conservative"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Mechanics",
+      "topic": "Work-Energy Theorem",
+      "concept": "Kinetic energy variation with time",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "Consider a thin square plate floating on a viscous liquid in a large tank. The height h of the liquid in the tank is much less than the width of the tank. The floating plate is pulled horizontally with a constant velocity u₀. Which of the following statements is (are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The resistive force of liquid on the plate is inversely proportional to h"
+        },
+        {
+          "id": "B",
+          "text": "The resistive force of liquid on the plate is independent of the area of the plate"
+        },
+        {
+          "id": "C",
+          "text": "The tangential (shear) stress on the floor of the tank increases with u₀"
+        },
+        {
+          "id": "D",
+          "text": "The tangential (shear) stress on the plate varies linearly with the viscosity η of the liquid"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Viscosity",
+      "concept": "Viscous drag force",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "An infinitely long thin non-conducting wire is parallel to the z-axis and carries a uniform line charge density λ. It pierces a thin non-conducting spherical shell of radius R in such a way that the arc QP subtends an angle 120° at the centre O of the spherical shell, as shown in the figure. The permittivity of free space is ε₀. Which of the following statements is (are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The electric flux through the shell is λR/(√3ε₀)"
+        },
+        {
+          "id": "B",
+          "text": "The z-component of the electric field is zero at all the points on the surface of the shell"
+        },
+        {
+          "id": "C",
+          "text": "The electric flux through the shell is λR/(√2ε₀)"
+        },
+        {
+          "id": "D",
+          "text": "The electric field is normal to the surface of the shell at all points"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Flux",
+      "concept": "Gauss's law application",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "A wire is bent in the shape of a right angled triangle and is placed in front of a concave mirror of focal length f, as shown in the figure. Which of the figures shown in the four options qualitatively represent(s) the shape of the image of the bent wire? (These figures are not to scale.)",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Option A figure]"
+        },
+        {
+          "id": "B",
+          "text": "[Option B figure]"
+        },
+        {
+          "id": "C",
+          "text": "[Option C figure]"
+        },
+        {
+          "id": "D",
+          "text": "[Option D figure]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Optics",
+      "topic": "Concave Mirror",
+      "concept": "Image formation by curved mirrors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "In a radioactive decay chain, Th₂₃₂⁹⁰ nucleus decays to Pb₂₁₂⁸² nucleus. Let Nα and Nβ be the number of α and β⁻ particles, respectively, emitted in this decay process. Which of the following statements is (are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nα = 5"
+        },
+        {
+          "id": "B",
+          "text": "Nα = 6"
+        },
+        {
+          "id": "C",
+          "text": "Nβ = 2"
+        },
+        {
+          "id": "D",
+          "text": "Nβ = 4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Modern Physics",
+      "topic": "Radioactive Decay",
+      "concept": "Alpha and beta decay",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "In an experiment to measure the speed of sound by a resonating air column, a tuning fork of frequency 500 Hz is used. The length of the air column is varied by changing the level of water in the resonance tube. Two successive resonances are heard at air columns of length 50.7 cm and 83.9 cm. Which of the following statements is (are) true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The speed of sound determined from this experiment is 332 m/s"
+        },
+        {
+          "id": "B",
+          "text": "The end correction in this experiment is 0.9 cm"
+        },
+        {
+          "id": "C",
+          "text": "The wavelength of the sound wave is 66.4 cm"
+        },
+        {
+          "id": "D",
+          "text": "The resonance at 50.7 cm corresponds to the fundamental harmonic"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Waves and Sound",
+      "topic": "Resonance",
+      "concept": "Air column resonance",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "A solid horizontal surface is covered with a thin layer of oil. A rectangular block of mass m = 0.4 kg is at rest on this surface. An impulse of 1.0 Ns is applied to the block at time t = 0 so that it starts moving along the x-axis with a velocity v(t) = v₀e^(-t/τ), where v₀ is a constant and τ = 4s. The displacement of the block, in metres, at t = τ is __________. Take e^(-1) = 0.37.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Motion with Friction",
+      "concept": "Exponential decay of velocity",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "A ball is projected from the ground at an angle of 45° with the horizontal surface. It reaches a maximum height of 120 m and returns to the ground. Upon hitting the ground for the first time, it loses half of its kinetic energy. Immediately after the bounce, the velocity of the ball makes an angle of 30° with the horizontal surface. The maximum height it reaches after the bounce, in metres, is ___________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Projectile Motion",
+      "concept": "Projectile motion with energy loss",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "A particle, of mass 10⁻³ kg and charge 1.0 C, is initially at rest. At time t = 0, the particle comes under the influence of an electric field E(t) = E₀ sin(ωt)î, where E₀ = 1.0 N/C and ω = 10³ rad/s. Consider the effect of only the electrical force on the particle. Then the maximum speed, in m/s, attained by the particle at subsequent times is ____________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electrodynamics",
+      "topic": "Motion in Electric Field",
+      "concept": "Particle motion in oscillating electric field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "A moving coil galvanometer has 50 turns and each turn has an area 2×10⁻⁴ m². The magnetic field produced by the magnet inside the galvanometer is 0.02 T. The torsional constant of the suspension wire is 10⁻⁴ Nm/rad. When a current flows through the galvanometer, a full scale deflection occurs if the coil rotates by 0.2 rad. The resistance of the coil of the galvanometer is 50 Ω. This galvanometer is to be converted into an ammeter capable of measuring current in the range 0-1.0 A. For this purpose, a shunt resistance is to be added in parallel to the galvanometer. The value of this shunt resistance, in ohms, is __________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Electromagnetism",
+      "topic": "Galvanometer",
+      "concept": "Converting galvanometer to ammeter",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "A steel wire of diameter 0.5 mm and Young's modulus 2×10¹¹ N/m² carries a load of mass M. The length of the wire with the load is 1.0 m. A vernier scale with 10 divisions is attached to the end of this wire. Next to the steel wire is a reference wire to which a main scale, of least count 1.0 mm, is attached. The 10 divisions of the vernier scale correspond to 9 divisions of the main scale. Initially, the zero of vernier scale coincides with the zero of main scale. If the load on the steel wire is increased by 1.2 kg, the vernier scale division which coincides with a main scale division is __________. Take g = 10 m/s² and π = 3.2.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Mechanics",
+      "topic": "Elasticity",
+      "concept": "Young's modulus and strain measurement",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "One mole of a monatomic ideal gas undergoes an adiabatic expansion in which its volume becomes eight times its initial value. If the initial temperature of the gas is 100 K and the universal gas constant R = 8.0 J mol⁻¹ K⁻¹, the decrease in its internal energy, in Joule, is__________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Thermodynamics",
+      "topic": "Adiabatic Process",
+      "concept": "Internal energy change in adiabatic expansion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "In a photoelectric experiment a parallel beam of monochromatic light with power of 200 W is incident on a perfectly absorbing cathode of work function 6.25 eV. The frequency of light is just above the threshold frequency so that the photoelectrons are emitted with negligible kinetic energy. Assume that the photoelectron emission efficiency is 100%. A potential difference of 500 V is applied between the cathode and the anode. All the emitted electrons are incident normally on the anode and are absorbed. The anode experiences a force F = n×10⁻⁴ N due to the impact of the electrons. The value of n is __________. Mass of the electron mₑ = 9×10⁻³¹ kg and 1.0 eV = 1.6×10⁻¹⁹ J.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Modern Physics",
+      "topic": "Photoelectric Effect",
+      "concept": "Force due to electron impact",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "Consider a hydrogen-like ionized atom with atomic number Z with a single electron. In the emission spectrum of this atom, the photon emitted in the n = 2 to n = 1 transition has energy 74.8 eV higher than the photon emitted in the n = 3 to n = 2 transition. The ionization energy of the hydrogen atom is 13.6 eV. The value of Z is __________.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Modern Physics",
+      "topic": "Atomic Spectra",
+      "concept": "Hydrogen-like atoms energy levels",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "The electric field E is measured at a point P(0,0,d) generated due to various charge distributions and the dependence of E on d is found to be different for different charge distributions. List-I contains different relations between E and d. List-II describes different electric charge distributions, along with their locations. Match the functions in List-I with the related charge distributions in List-II.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 5; Q → 3, 4; R → 1; S → 2"
+        },
+        {
+          "id": "B",
+          "text": "P → 5; Q → 3; R → 1, 4; S → 2"
+        },
+        {
+          "id": "C",
+          "text": "P → 5; Q → 3; R → 1, 2; S → 4"
+        },
+        {
+          "id": "D",
+          "text": "P → 4; Q → 2, 3; R → 1; S → 5"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Field",
+      "concept": "Electric field dependence on distance",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "A planet of mass M, has two natural satellites with masses m₁ and m₂. The radii of their circular orbits are R₁ and R₂ respectively. Ignore the gravitational force between the satellites. Define v₁, L₁, K₁ and T₁ to be, respectively, the orbital speed, angular momentum, kinetic energy and time period of revolution of satellite 1; and v₂, L₂, K₂ and T₂ to be the corresponding quantities of satellite 2. Given m₁/m₂ = 2 and R₁/R₂ = 1/4, match the ratios in List-I to the numbers in List-II.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 4; Q → 2; R → 1; S → 3"
+        },
+        {
+          "id": "B",
+          "text": "P → 3; Q → 2; R → 4; S → 1"
+        },
+        {
+          "id": "C",
+          "text": "P → 2; Q → 3; R → 1; S → 4"
+        },
+        {
+          "id": "D",
+          "text": "P → 2; Q → 3; R → 4; S → 1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Satellite Motion",
+      "concept": "Orbital parameters of satellites",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "One mole of a monatomic ideal gas undergoes four thermodynamic processes as shown schematically in the PV-diagram below. Among these four processes, one is isobaric, one is isochoric, one is isothermal and one is adiabatic. Match the processes mentioned in List-1 with the corresponding statements in List-II.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 4; Q → 3; R → 1; S → 2"
+        },
+        {
+          "id": "B",
+          "text": "P → 1; Q → 3; R → 2; S → 4"
+        },
+        {
+          "id": "C",
+          "text": "P → 3; Q → 4; R → 1; S → 2"
+        },
+        {
+          "id": "D",
+          "text": "P → 3; Q → 4; R → 2; S → 1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Thermodynamic Processes",
+      "concept": "Identification of thermodynamic processes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "In the List-I below, four different paths of a particle are given as functions of time. In these functions, α and β are positive constants of appropriate dimensions and β ≠ α. In each case, the force acting on the particle is either zero or conservative. In List-II, five physical quantities of the particle are mentioned: p⃗ is the linear momentum, L⃗ is the angular momentum about the origin, K is the kinetic energy, U is the potential energy and E is the total energy. Match each path in List-I with those quantities in List-II, which are conserved for that path.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 1, 2, 3, 4, 5; Q → 2, 5; R → 2, 3, 4, 5; S → 5"
+        },
+        {
+          "id": "B",
+          "text": "P → 1, 2, 3, 4, 5; Q → 3, 5; R → 2, 3, 4, 5; S → 2, 5"
+        },
+        {
+          "id": "C",
+          "text": "P → 2, 3, 4; Q → 5; R → 1, 2, 4; S → 2, 5"
+        },
+        {
+          "id": "D",
+          "text": "P → 1, 2, 3, 5; Q → 2, 5; R →2, 3, 4, 5; S → 2, 5"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Conservation Laws",
+      "concept": "Conservation of physical quantities",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct option(s) regarding the complex [Co(en)(NH₃)₃(H₂O)]³⁺ (en = H₂NCH₂CH₂NH₂) is (are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has two geometrical isomers"
+        },
+        {
+          "id": "B",
+          "text": "It will have three geometrical isomers if bidentate 'en' is replaced by two cyanide ligands"
+        },
+        {
+          "id": "C",
+          "text": "It is paramagnetic"
+        },
+        {
+          "id": "D",
+          "text": "It absorbs light at longer wavelength as compared to [Co(en)(NH₃)₄]³⁺"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Geometrical Isomerism",
+      "concept": "Isomerism in coordination complexes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct option(s) to distinguish nitrate salts of Mn²⁺ and Cu²⁺ taken separately is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mn²⁺ shows the characteristic green colour in the flame test"
+        },
+        {
+          "id": "B",
+          "text": "Only Cu²⁺ shows the formation of precipitate by passing H₂S in acidic medium"
+        },
+        {
+          "id": "C",
+          "text": "Only Mn²⁺ shows the formation of precipitate by passing H₂S in faintly basic medium"
+        },
+        {
+          "id": "D",
+          "text": "Cu²⁺/Cu has higher reduction potential than Mn²⁺/Mn (measured under similar conditions)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Qualitative Analysis",
+      "concept": "Identification of metal ions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "CHEMISTRY",
+      "questionText": "Aniline reacts with mixed acid (conc. HNO₃ and conc. H₂SO₄) at 288 K to give P (51 %), Q (47%) and R (2%). The major product(s) of the following reaction sequence is (are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Chemical structure A]"
+        },
+        {
+          "id": "B",
+          "text": "[Chemical structure B]"
+        },
+        {
+          "id": "C",
+          "text": "[Chemical structure C]"
+        },
+        {
+          "id": "D",
+          "text": "[Chemical structure D]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "concept": "Nitration of aniline",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "CHEMISTRY",
+      "questionText": "The Fischer presentation of D-glucose is given below. The correct structure(s) of β-L-glucopyranose is (are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Chemical structure A]"
+        },
+        {
+          "id": "B",
+          "text": "[Chemical structure B]"
+        },
+        {
+          "id": "C",
+          "text": "[Chemical structure C]"
+        },
+        {
+          "id": "D",
+          "text": "[Chemical structure D]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Carbohydrates",
+      "concept": "Stereochemistry of glucose",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "CHEMISTRY",
+      "questionText": "For a first order reaction A(g) → 2B(g) + C(g) at constant volume and 300 K, the total pressure at the beginning (t = 0) and at time t are P₀ and Pₜ, respectively. Initially, only A is present with concentration [A]₀, and t₁/₃ is the time required for the partial pressure of A to reach 1/3rd of its initial value. The correct option(s) is (are) (Assume that all these gases behave as ideal gases)",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Mathematical expression A]"
+        },
+        {
+          "id": "B",
+          "text": "[Mathematical expression B]"
+        },
+        {
+          "id": "C",
+          "text": "[Mathematical expression C]"
+        },
+        {
+          "id": "D",
+          "text": "[Mathematical expression D]"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Kinetics",
+      "concept": "First order reactions with ideal gases",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "CHEMISTRY",
+      "questionText": "For a reaction, A ⇌ P, the plots of [A] and [P] with time at temperatures T₁ and T₂ are given below. If T₂ > T₁, the correct statement(s) is (are) (Assume ΔH° and ΔS° are independent of temperature and ratio of lnK at T₁ to lnK at T₂ is greater than T₂/T₁. Here H, S, G and K are enthalpy, entropy, Gibbs energy and equilibrium constant, respectively.)",
+      "options": [
+        {
+          "id": "A",
+          "text": "ΔH° < 0, ΔS° < 0"
+        },
+        {
+          "id": "B",
+          "text": "ΔG° < 0, ΔH° > 0"
+        },
+        {
+          "id": "C",
+          "text": "ΔG° < 0, ΔS° < 0"
+        },
+        {
+          "id": "D",
+          "text": "ΔG° < 0, ΔS° > 0"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Equilibrium",
+      "concept": "Temperature dependence of equilibrium",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "CHEMISTRY",
+      "questionText": "The total number of compounds having at least one bridging oxo group among the molecules given below is ____. N₂O₃, N₂O₅, P₄O₆, P₄O₇, H₄P₂O₅, H₅P₃O₁₀, H₂S₂O₃, H₂S₂O₅",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Chemical Bonding",
+      "concept": "Bridging oxo groups",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "CHEMISTRY",
+      "questionText": "Galena (an ore) is partially oxidized by passing air through it at high temperature. After some time, the passage of air is stopped, but the heating is continued in a closed furnace such that the contents undergo self-reduction. The weight (in kg) of Pb produced per kg of O₂ consumed is ____. (Atomic weights in g mol⁻¹: O = 16, S = 32, Pb = 207)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Metallurgy",
+      "concept": "Extraction of lead",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "CHEMISTRY",
+      "questionText": "To measure the quantity of MnCl₂ dissolved in an aqueous solution, it was completely converted to KMnO₄ using the reaction, MnCl₂ + K₂S₂O₈ + H₂O → KMnO₄ + H₂SO₄ + HCl (equation not balanced). Few drops of concentrated HCl were added to this solution and gently warmed. Further, oxalic acid (225 mg) was added in portions till the colour of the permanganate ion disappeared. The quantity of MnCl₂ (in mg) present in the initial solution is ____. (Atomic weights in g mol⁻¹: Mn = 55, Cl = 35.5)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Redox Reactions",
+      "concept": "Volumetric analysis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "CHEMISTRY",
+      "questionText": "For the given compound X, the total number of optically active stereoisomers is ____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Stereochemistry",
+      "concept": "Optical isomerism",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "CHEMISTRY",
+      "questionText": "In the following reaction sequence, the amount of D (in g) formed from 10 moles of acetophenone is ____. (Atomic weights in g mol⁻¹: H = 1, C = 12, N = 14, O = 16, Br = 80. The yield (%) corresponding to the product in each step is given in the parenthesis)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Organic Chemistry",
+      "topic": "Organic Synthesis",
+      "concept": "Multi-step synthesis yield calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "CHEMISTRY",
+      "questionText": "The surface of copper gets tarnished by the formation of copper oxide. N₂ gas was passed to prevent the oxide formation during heating of copper at 1250 K. However, the N₂ gas contains 1 mole % of water vapour as impurity. The water vapour oxidises copper as per the reaction given below: 2Cu(s) + H₂O(g) ⇌ Cu₂O(s) + H₂(g). pH₂ is the minimum partial pressure of H₂ (in bar) needed to prevent the oxidation at 1250 K. The value of ln(pH₂) is ____. (Given: total pressure = 1 bar, R (universal gas constant) = 8 J K⁻¹ mol⁻¹, ln(10) = 2.3. Cu(s) and Cu₂O(s) are mutually immiscible. At 1250 K: 2Cu(s) + ½ O₂(g) ⇌ Cu₂O(s); ΔG° = -78,000 J mol⁻¹, H₂(g) + ½ O₂(g) ⇌ H₂O(g); ΔG° = -1,78,000 J mol⁻¹; G is the Gibbs energy)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Equilibrium",
+      "concept": "Gibbs free energy and equilibrium",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider the following reversible reaction, A(g) + B(g) ⇌ AB(g). The activation energy of the backward reaction exceeds that of the forward reaction by 2RT (in J mol⁻¹). If the pre-exponential factor of the forward reaction is 4 times that of the reverse reaction, the absolute value of ΔG° (in J mol⁻¹) for the reaction at 300 K is ____. (Given; ln(2) = 0.7, RT = 2500 J mol⁻¹ at 300 K and G is the Gibbs energy)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Kinetics",
+      "concept": "Relation between kinetics and thermodynamics",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider an electrochemical cell: A(s) | Aⁿ⁺(aq, 2 M) || B²ⁿ⁺(aq, 1 M) | B(s). The value of ΔH° for the cell reaction is twice that of ΔG° at 300 K. If the emf of the cell is zero, the ΔS° (in J K⁻¹ mol⁻¹) of the cell reaction per mole of B formed at 300 K is ____. (Given: ln(2) = 0.7, R (universal gas constant) = 8.3 J K⁻¹ mol⁻¹. H, S and G are enthalpy, entropy and Gibbs energy, respectively.)",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Physical Chemistry",
+      "topic": "Electrochemistry",
+      "concept": "Thermodynamics of electrochemical cells",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "CHEMISTRY",
+      "questionText": "Match each set of hybrid orbitals from LIST–I with complex(es) given in LIST–II.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 5; Q → 4,6; R → 2,3; S → 1"
+        },
+        {
+          "id": "B",
+          "text": "P → 5,6; Q → 4; R → 3; S → 1,2"
+        },
+        {
+          "id": "C",
+          "text": "P → 6; Q → 4,5; R → 1; S → 2,3"
+        },
+        {
+          "id": "D",
+          "text": "P → 4,6; Q → 5,6; R → 1,2; S → 3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Hybridization",
+      "concept": "Hybridization in coordination complexes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "CHEMISTRY",
+      "questionText": "The desired product X can be prepared by reacting the major product of the reactions in LIST-I with one or more appropriate reagents in LIST-II. (given, order of migratory aptitude: aryl > alkyl > hydrogen)",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 1; Q → 2,3; R → 1,4; S → 2,4"
+        },
+        {
+          "id": "B",
+          "text": "P → 1,5; Q → 3,4; R → 4,5; S → 3"
+        },
+        {
+          "id": "C",
+          "text": "P → 1,5; Q → 3,4; R → 5; S → 2,4"
+        },
+        {
+          "id": "D",
+          "text": "P → 1,5; Q → 2,3; R → 1,5; S → 2,3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Organic Reactions",
+      "concept": "Rearrangement reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "CHEMISTRY",
+      "questionText": "LIST-I contains reactions and LIST-II contains major products. Match each reaction in LIST-I with one or more products in LIST-II and choose the correct option.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 1,5; Q → 2; R → 3; S → 4"
+        },
+        {
+          "id": "B",
+          "text": "P → 1,4; Q → 2; R → 4; S → 3"
+        },
+        {
+          "id": "C",
+          "text": "P → 1,4; Q → 1,2; R → 3,4; S → 4"
+        },
+        {
+          "id": "D",
+          "text": "P → 4,5; Q → 4; R → 4; S → 3,4"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Organic Reactions",
+      "concept": "Reaction mechanisms and products",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "CHEMISTRY",
+      "questionText": "Dilution processes of different aqueous solutions, with water, are given in LIST-I. The effects of dilution of the solutions on [H⁺] are given in LIST-II. (Note: Degree of dissociation (α) of weak acid and weak base is << 1; degree of hydrolysis of salt <<1; [H⁺] represents the concentration of H⁺ ions) Match each process given in LIST-I with one or more effect(s) in LIST-II.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 4; Q → 2; R → 3; S → 1"
+        },
+        {
+          "id": "B",
+          "text": "P → 4; Q → 3; R → 2; S → 3"
+        },
+        {
+          "id": "C",
+          "text": "P → 1; Q → 4; R → 5; S → 3"
+        },
+        {
+          "id": "D",
+          "text": "P → 1; Q → 5; R → 4; S → 1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Ionic Equilibrium",
+      "concept": "Effect of dilution on pH",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "MATHEMATICS",
+      "questionText": "For any positive integer n, define fₙ:(0,∞)→ℝ as fₙ(x) = Σⱼ₌₁ⁿ tan⁻¹(1/(1+(x+j)(x+j-1))) for all x∈(0,∞). (Here, the inverse trigonometric function tan⁻¹x assumes values in (-π/2,π/2).) Then, which of the following statement(s) is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Σⱼ₌₁⁵ tan²(fⱼ(0)) = 55"
+        },
+        {
+          "id": "B",
+          "text": "Σⱼ₌₁¹⁰ (1+fⱼ'(0))sec²(fⱼ(0)) = 10"
+        },
+        {
+          "id": "C",
+          "text": "For any fixed positive integer n, lim_{x→∞} tan(fₙ(x)) = 1/n"
+        },
+        {
+          "id": "D",
+          "text": "For any fixed positive integer n, lim_{x→∞} sec²(fₙ(x)) = 1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Inverse Trigonometric Functions",
+      "concept": "Limits and derivatives of inverse trigonometric functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "MATHEMATICS",
+      "questionText": "Let T be the line passing through the points P(-2,7) and Q(2,-5). Let F₁ be the set of all pairs of circles (S₁,S₂) such that T is tangent to S₁ at P and tangent to S₂ at Q, and also such that S₁ and S₂ touch each other at a point, say, M. Let E₁ be the set representing the locus of M as the pair (S₁,S₂) varies in F₁. Let the set of all straight line segments joining a pair of distinct points of E₁ and passing through the point R(1,1) be F₂. Let E₂ be the set of the mid-points of the line segments in the set F₂. Then, which of the following statement(s) is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The point (-2,7) lies in E₁"
+        },
+        {
+          "id": "B",
+          "text": "The point (4/5,7/5) does NOT lie in E₂"
+        },
+        {
+          "id": "C",
+          "text": "The point (1/2,1) lies in E₂"
+        },
+        {
+          "id": "D",
+          "text": "The point (0,3/2) does NOT lie in E₁"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circle",
+      "concept": "Locus of points related to tangent circles",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S be the set of all column matrices [b₁ b₂ b₃]ᵀ such that b₁,b₂,b₃∈ℝ and the system of equations (in real variables) x-2y+5z=b₁, 2x-4y+3z=b₂, x-2y+2z=b₃ has at least one solution. Then, which of the following system(s) (in real variables) has (have) at least one solution for each [b₁ b₂ b₃]ᵀ∈S?",
+      "options": [
+        {
+          "id": "A",
+          "text": "x+2y+3z=b₁, 4x+5y+z=b₂, and x+2y+6z=b₃"
+        },
+        {
+          "id": "B",
+          "text": "x+y+3z=b₁, 5x+2y+6z=b₂, and -2x-y-3z=b₃"
+        },
+        {
+          "id": "C",
+          "text": "x+2y-5z=b₁, 2x-4y+10z=b₂, and x-2y+5z=b₃"
+        },
+        {
+          "id": "D",
+          "text": "x+2y+5z=b₁, 2x+3z=b₂, and x+4y-5z=b₃"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Linear Algebra",
+      "topic": "System of Linear Equations",
+      "concept": "Consistency of linear systems",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "ALGEBRAIC"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider two straight lines, each of which is tangent to both the circle x²+y²=1/2 and the parabola y²=4x. Let these lines intersect at the point Q. Consider the ellipse whose center is at the origin O(0,0) and whose semi-major axis is OQ. If the length of the minor axis of this ellipse is √2, then which of the following statement(s) is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For the ellipse, the eccentricity is 1/√2 and the length of the latus rectum is 1"
+        },
+        {
+          "id": "B",
+          "text": "For the ellipse, the eccentricity is 1/2 and the length of the latus rectum is 1/2"
+        },
+        {
+          "id": "C",
+          "text": "The area of the region bounded by the ellipse between the lines x=1/√2 and x=1 is (1/4)√2(π-2)"
+        },
+        {
+          "id": "D",
+          "text": "The area of the region bounded by the ellipse between the lines x=1/√2 and x=1 is (1/16)(π-2)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Conic Sections",
+      "concept": "Common tangents to circle and parabola",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "MATHEMATICS",
+      "questionText": "Let r,s,t be non-zero complex numbers and L be the set of solutions z=x+iy (x,y∈ℝ, i=√(-1)) of the equation sz+tz̄+r=0, where z̄=x-iy. Then, which of the following statement(s) is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "If L has exactly one element, then |s|≠|t|"
+        },
+        {
+          "id": "B",
+          "text": "If |s|=|t|, then L has infinitely many elements"
+        },
+        {
+          "id": "C",
+          "text": "The number of elements in L∩{z:|z-1+i|=5} is at most 2"
+        },
+        {
+          "id": "D",
+          "text": "If L has more than one element, then L has infinitely many elements"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Complex Numbers",
+      "topic": "Complex Equations",
+      "concept": "Solutions of linear equations in complex plane",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "ALGEBRAIC"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f:(0,π)→ℝ be a twice differentiable function such that lim_{t→x} (f(x)sint-f(t)sinx)/(t-x) = sin²x for all x∈(0,π). If f(π/6)=-π/12, then which of the following statement(s) is (are) TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "f(π/4) = π/(4√2)"
+        },
+        {
+          "id": "B",
+          "text": "f(x) < x⁴/6 - x²/2 for all x∈(0,π)"
+        },
+        {
+          "id": "C",
+          "text": "There exists α∈(0,π) such that f'(α)=0"
+        },
+        {
+          "id": "D",
+          "text": "f''(π/2)+f(π/2)=0"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Differentiation",
+      "concept": "L'Hopital's rule and differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "MATHEMATICS",
+      "questionText": "The value of the integral ∫₀^(1/2) ((1+√3)/((x+1)²(1-x)⁶))^(1/4) dx is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Integration",
+      "concept": "Definite integration with algebraic functions",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P be a matrix of order 3×3 such that all the entries in P are from the set {-1,0,1}. Then, the maximum possible value of the determinant of P is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Linear Algebra",
+      "topic": "Determinants",
+      "concept": "Maximum value of determinant with constrained entries",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "MATHEMATICS",
+      "questionText": "Let X be a set with exactly 5 elements and Y be a set with exactly 7 elements. If α is the number of one-one functions from X to Y and β is the number of onto functions from Y to X, then the value of (1/5!)(α-β) is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Combinatorics",
+      "topic": "Functions",
+      "concept": "One-one and onto functions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "COMBINATORIAL"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f:ℝ→ℝ be a differentiable function with f(0)=0. If y=f(x) satisfies the differential equation dy/dx = (2+5y)(5y-2), then the value of lim_{x→-∞} f(x) is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Differential Equations",
+      "concept": "Separable differential equations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f:ℝ→ℝ be a differentiable function with f(0)=1 and satisfying the equation f(x+y) = f(x)f'(y) + f'(x)f(y) for all x,y∈ℝ. Then, the value of log_e(f(4)) is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Calculus",
+      "topic": "Functional Equations",
+      "concept": "Functional differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "MATHEMATICS",
+      "questionText": "Let P be a point in the first octant, whose image Q in the plane x+y=3 (that is, the line segment PQ is perpendicular to the plane x+y=3 and the mid-point of PQ lies in the plane x+y=3) lies on the z-axis. Let the distance of P from the x-axis be 5. If R is the image of P in the xy-plane, then the length of PR is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Coordinate Geometry",
+      "topic": "3D Geometry",
+      "concept": "Reflection of points in 3D",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GEOMETRICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "MATHEMATICS",
+      "questionText": "Consider the cube in the first octant with sides OP, OQ and OR of length 1, along the x-axis, y-axis and z-axis, respectively, where O(0,0,0) is the origin. Let S(1/2,1/2,1/2) be the centre of the cube and T be the vertex of the cube opposite to the origin O such that S lies on the diagonal OT. If p⃗=SP⃗, q⃗=SQ⃗, r⃗=SR⃗ and t⃗=ST⃗, then the value of |(p⃗×q⃗)×(r⃗×t⃗)| is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Vector Algebra",
+      "topic": "Vector Product",
+      "concept": "Cross product of vectors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "VECTORIAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "MATHEMATICS",
+      "questionText": "Let X = (₁₀C₁)² + 2(₁₀C₂)² + 3(₁₀C₃)² + ⋯ + 10(₁₀C₁₀)², where ₁₀Cᵣ, r∈{1,2,⋯,10} denote binomial coefficients. Then, the value of X/1430 is _____.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "NUMERICAL",
+      "chapter": "Combinatorics",
+      "topic": "Binomial Theorem",
+      "concept": "Sum involving binomial coefficients",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "COMBINATORIAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "MATHEMATICS",
+      "questionText": "Let E₁ = {x∈ℝ: x≠1 and x/(x-1) > 0} and E₂ = {x∈E₁: sin⁻¹(log_e(x/(x-1))) is a real number}. (Here, the inverse trigonometric function sin⁻¹x assumes values in [-π/2,π/2].) Let f:E₁→ℝ be the function defined by f(x) = log_e(x/(x-1)) and g:E₂→ℝ be the function defined by g(x) = sin⁻¹(log_e(x/(x-1))). Match the statements in List-I with List-II.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 4; Q → 2; R → 1; S → 1"
+        },
+        {
+          "id": "B",
+          "text": "P → 3; Q → 3; R → 6; S → 5"
+        },
+        {
+          "id": "C",
+          "text": "P → 4; Q → 2; R → 1; S → 6"
+        },
+        {
+          "id": "D",
+          "text": "P → 4; Q → 3; R → 6; S → 5"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Functions",
+      "topic": "Domain and Range",
+      "concept": "Domain and range of composite functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "FUNCTIONAL"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "MATHEMATICS",
+      "questionText": "In a high school, a committee has to be formed from a group of 6 boys M₁,M₂,M₃,M₄,M₅,M₆ and 5 girls G₁,G₂,G₃,G₄,G₅. Match the values α₁, α₂, α₃, α₄ in List-I with the correct numbers in List-II.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 4; Q → 6; R → 2; S → 1"
+        },
+        {
+          "id": "B",
+          "text": "P → 1; Q → 4; R → 2; S → 3"
+        },
+        {
+          "id": "C",
+          "text": "P → 4; Q → 6; R → 5; S → 2"
+        },
+        {
+          "id": "D",
+          "text": "P → 4; Q → 2; R → 3; S → 1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Combinatorics",
+      "topic": "Combinations",
+      "concept": "Committee formation with constraints",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "COMBINATORIAL"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "MATHEMATICS",
+      "questionText": "Let H: x²/a² - y²/b² = 1, where a>0, b>0 be a hyperbola in the xy-plane whose conjugate axis LM subtends an angle of 60° at one of its vertices N. Let the area of the triangle NML be 4√3. Match the properties of hyperbola H in List-I with the correct values in List-II.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 4; Q → 2; R → 1; S → 3"
+        },
+        {
+          "id": "B",
+          "text": "P → 4; Q → 3; R → 1; S → 2"
+        },
+        {
+          "id": "C",
+          "text": "P → 4; Q → 1; R → 3; S → 2"
+        },
+        {
+          "id": "D",
+          "text": "P → 3; Q → 4; R → 2; S → 1"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Hyperbola",
+      "concept": "Properties of hyperbola",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GEOMETRICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f₁:ℝ→ℝ, f₂:(-π/2,π/2)→ℝ, f₃:(-1,e^(π/2)-2)→ℝ and f₄:ℝ→ℝ be functions defined by various expressions. Match the continuity and differentiability properties of these functions at x=0 in List-I with List-II.",
+      "options": [
+        {
+          "id": "A",
+          "text": "P → 2; Q → 3; R → 1; S → 4"
+        },
+        {
+          "id": "B",
+          "text": "P → 4; Q → 1; R → 2; S → 3"
+        },
+        {
+          "id": "C",
+          "text": "P → 4; Q → 2; R → 1; S → 3"
+        },
+        {
+          "id": "D",
+          "text": "P → 2; Q → 1; R → 4; S → 3"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Continuity and Differentiability",
+      "concept": "Continuity and differentiability at a point",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "FUNCTIONAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T15:34:27.278Z"
+}

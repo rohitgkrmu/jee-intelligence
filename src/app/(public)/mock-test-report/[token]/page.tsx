@@ -120,30 +120,30 @@ export default async function MockTestReportPage({ params }: Props) {
     candidateName: attempt.lead.name,
 
     // Overall scores
-    totalScore: attempt.totalScore,
+    totalScore: attempt.totalScore ?? 0,
     maxScore,
     percentile,
     rank: null,
 
     // Subject scores
-    physicsScore: attempt.physicsScore,
-    chemistryScore: attempt.chemistryScore,
-    mathScore: attempt.mathScore,
+    physicsScore: attempt.physicsScore ?? 0,
+    chemistryScore: attempt.chemistryScore ?? 0,
+    mathScore: attempt.mathScore ?? 0,
 
     // Counts
     totalQuestions:
       attempt.physicsQuestions.length +
       attempt.chemistryQuestions.length +
       attempt.mathQuestions.length,
-    correctCount: attempt.correctCount,
-    incorrectCount: attempt.incorrectCount,
-    unansweredCount: attempt.unansweredCount,
+    correctCount: attempt.correctCount ?? 0,
+    incorrectCount: attempt.incorrectCount ?? 0,
+    unansweredCount: attempt.unansweredCount ?? 0,
 
     // Time
-    totalTimeSeconds: attempt.totalTimeSeconds,
+    totalTimeSeconds: attempt.totalTimeSeconds ?? 0,
     duration: attempt.mockTest.duration,
     startedAt: attempt.startedAt.toISOString(),
-    completedAt: attempt.completedAt?.toISOString(),
+    completedAt: attempt.completedAt?.toISOString() ?? "",
 
     // Detailed analysis
     questions: {

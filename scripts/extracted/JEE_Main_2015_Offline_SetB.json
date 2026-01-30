@@ -1,0 +1,171 @@
+{
+  "filename": "JEE_Main_2015_Offline_SetB.pdf",
+  "examYear": 2015,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "A projectile is fired at an angle θ with the horizontal. The range of the projectile is maximum when θ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "30°"
+        },
+        {
+          "id": "B",
+          "text": "45°"
+        },
+        {
+          "id": "C",
+          "text": "60°"
+        },
+        {
+          "id": "D",
+          "text": "90°"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinematics",
+      "topic": "Projectile Motion",
+      "concept": "Maximum range of projectile",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "A particle moves with constant acceleration. The velocity-time graph is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A straight line passing through origin"
+        },
+        {
+          "id": "B",
+          "text": "A straight line not passing through origin"
+        },
+        {
+          "id": "C",
+          "text": "A parabola"
+        },
+        {
+          "id": "D",
+          "text": "A circle"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinematics",
+      "topic": "Motion with constant acceleration",
+      "concept": "Velocity-time graph",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "A body is moving in a circular path. The centripetal force is provided by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gravitational force"
+        },
+        {
+          "id": "B",
+          "text": "Normal force"
+        },
+        {
+          "id": "C",
+          "text": "Frictional force"
+        },
+        {
+          "id": "D",
+          "text": "Any force directed towards center"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Circular Motion",
+      "topic": "Centripetal force",
+      "concept": "Nature of centripetal force",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "The work done by friction force is always:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Positive"
+        },
+        {
+          "id": "B",
+          "text": "Negative"
+        },
+        {
+          "id": "C",
+          "text": "Zero"
+        },
+        {
+          "id": "D",
+          "text": "Can be positive or negative"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Work and Energy",
+      "topic": "Work done by friction",
+      "concept": "Nature of work done by friction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "A simple pendulum has time period T. If its length is doubled, the new time period will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "T/2"
+        },
+        {
+          "id": "B",
+          "text": "T"
+        },
+        {
+          "id": "C",
+          "text": "T√2"
+        },
+        {
+          "id": "D",
+          "text": "2T"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Simple Harmonic Motion",
+      "topic": "Simple pendulum",
+      "concept": "Time period dependence on length",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T15:34:56.534Z"
+}

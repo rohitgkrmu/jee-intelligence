@@ -1,0 +1,1811 @@
+{
+  "filename": "JEE_Advanced_2017_Paper1.pdf",
+  "examYear": 2017,
+  "examSession": "Paper 1",
+  "examType": "ADVANCED",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "Consider an expanding sphere of instantaneous radius R whose total mass remains constant. The expansion is such that the instantaneous density ρ remains uniform throughout the volume. The rate of fractional change in density (1/ρ)(dρ/dt) is constant. The velocity v of any point on the surface of the expanding sphere is proportional to",
+      "options": [
+        {
+          "id": "A",
+          "text": "R"
+        },
+        {
+          "id": "B",
+          "text": "R²"
+        },
+        {
+          "id": "C",
+          "text": "1/R"
+        },
+        {
+          "id": "D",
+          "text": "R^(1/2)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Kinematics",
+      "concept": "Expanding sphere dynamics",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "Consider regular polygons with number of sides n=3,4,5... as shown in the figure. The center of mass of all the polygons is at height h from the ground. They roll on a horizontal surface about the leading vertex without slipping and sliding as depicted. The maximum increase in height of the locus of the center of mass for each polygon is Δ. Then Δ depends on n and h as",
+      "options": [
+        {
+          "id": "A",
+          "text": "Δ = h sin(π/n)"
+        },
+        {
+          "id": "B",
+          "text": "Δ = h(1/cos(π/n) - 1)"
+        },
+        {
+          "id": "C",
+          "text": "Δ = h sin(2π/n)"
+        },
+        {
+          "id": "D",
+          "text": "Δ = h tan(π/(n-1))"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Rolling Motion",
+      "concept": "Center of mass trajectory",
+      "difficulty": "HARD",
+      "skills": [
+        "GEOMETRICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "A photoelectric material having work-function φ₀ is illuminated with light of wavelength λ (λ < hc/φ₀). The fastest photoelectron has a de Broglie wavelength λ_d. A change in wavelength of the incident light by Δλ results in a change Δλ_d in λ_d. Then the ratio Δλ_d/Δλ is proportional to",
+      "options": [
+        {
+          "id": "A",
+          "text": "λ_d/λ"
+        },
+        {
+          "id": "B",
+          "text": "λ_d²/λ²"
+        },
+        {
+          "id": "C",
+          "text": "λ_d³/λ"
+        },
+        {
+          "id": "D",
+          "text": "λ_d³/λ²"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Photoelectric Effect",
+      "concept": "de Broglie wavelength variation",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "A symmetric star shaped conducting wire loop is carrying a steady state current I as shown in the figure. The distance between the diametrically opposite vertices of the star is 4a. The magnitude of the magnetic field at the center of the loop is",
+      "options": [
+        {
+          "id": "A",
+          "text": "(μ₀I/4πa)[6(√3-1)]"
+        },
+        {
+          "id": "B",
+          "text": "(μ₀I/4πa)[6(√3+1)]"
+        },
+        {
+          "id": "C",
+          "text": "(μ₀I/4πa)[3(√3-1)]"
+        },
+        {
+          "id": "D",
+          "text": "(μ₀I/4πa)[3(2-√3)]"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetism",
+      "topic": "Magnetic Field",
+      "concept": "Biot-Savart law for complex geometry",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "Three vectors P, Q and R are shown in the figure. Let S be any point on the vector R. The distance between the points P and S is b|R|. The general relation among vectors P, Q and S is",
+      "options": [
+        {
+          "id": "A",
+          "text": "S = (1-b)P + bQ"
+        },
+        {
+          "id": "B",
+          "text": "S = (b-1)P + bQ"
+        },
+        {
+          "id": "C",
+          "text": "S = (1-b²)P + bQ"
+        },
+        {
+          "id": "D",
+          "text": "S = (1-b)P + b²Q"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vector Analysis",
+      "topic": "Vector Geometry",
+      "concept": "Position vectors and geometric relations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "GEOMETRICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "A rocket is launched normal to the surface of the Earth, away from the Sun, along the line joining the Sun and the Earth. The Sun is 3×10⁵ times heavier than the Earth and is at a distance 2.5×10⁴ times larger than the radius of the Earth. The escape velocity from Earth's gravitational field is v_e = 11.2 km s⁻¹. The minimum initial velocity (v₀) required for the rocket to be able to leave the Sun-Earth system is closest to (Ignore the rotation and revolution of the Earth and the presence of any other planet)",
+      "options": [
+        {
+          "id": "A",
+          "text": "v₀ = 22 km s⁻¹"
+        },
+        {
+          "id": "B",
+          "text": "v₀ = 42 km s⁻¹"
+        },
+        {
+          "id": "C",
+          "text": "v₀ = 62 km s⁻¹"
+        },
+        {
+          "id": "D",
+          "text": "v₀ = 72 km s⁻¹"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Escape Velocity",
+      "concept": "Multi-body gravitational escape",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "A person measures the depth of a well by measuring the time interval between dropping a stone and receiving the sound of impact with the bottom of the well. The error in his measurement of time is δT = 0.01 seconds and he measures the depth of the well to be L = 20 meters. Take the acceleration due to gravity g = 10 ms⁻² and the velocity of sound is 300 ms⁻¹. Then the fractional error in the measurement, δL/L, is closest to",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.2%"
+        },
+        {
+          "id": "B",
+          "text": "1%"
+        },
+        {
+          "id": "C",
+          "text": "3%"
+        },
+        {
+          "id": "D",
+          "text": "5%"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Measurement and Error",
+      "topic": "Error Analysis",
+      "concept": "Propagation of errors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "A uniform magnetic field B exists in the region between x=0 and x=3R/2 (region 2 in the figure) pointing normally into the plane of the paper. A particle with charge +Q and momentum p directed along x-axis enters region 2 from region 1 at point P₁ (y=-R). Which of the following option(s) is/are correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For B > 2p/(3QR), the particle will re-enter region 1"
+        },
+        {
+          "id": "B",
+          "text": "For B = 2p/(3QR), the particle will enter region 3 through the point P₂ on x-axis"
+        },
+        {
+          "id": "C",
+          "text": "When the particle re-enters region 1 through the longest possible path in region 2, the magnitude of the change in its linear momentum between point P₁ and the farthest point from y-axis is p/2"
+        },
+        {
+          "id": "D",
+          "text": "For a fixed B, particles of same charge Q and same velocity v, the distance between the point P₁ and the point of re-entry into region 1 is inversely proportional to the mass of the particle"
+        }
+      ],
+      "correctAnswer": "A,B",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electromagnetism",
+      "topic": "Charged Particle Motion",
+      "concept": "Circular motion in magnetic field",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "The instantaneous voltages at three terminals marked X, Y and Z are given by V_X = V₀sinωt, V_Y = V₀sin(ωt + 2π/3) and V_Z = V₀sin(ωt + 4π/3). An ideal voltmeter is configured to read rms value of the potential difference between its terminals. It is connected between points X and Y and then between Y and Z. The reading(s) of the voltmeter will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "V_rms = V₀√3/2"
+        },
+        {
+          "id": "B",
+          "text": "V_rms = V₀/√2"
+        },
+        {
+          "id": "C",
+          "text": "V_rms = V₀"
+        },
+        {
+          "id": "D",
+          "text": "independent of the choice of the two terminals"
+        }
+      ],
+      "correctAnswer": "A,D",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "AC Circuits",
+      "topic": "Three-Phase Systems",
+      "concept": "RMS voltage in balanced three-phase system",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "A point charge +Q is placed just outside an imaginary hemispherical surface of radius R as shown in the figure. Which of the following statements is/are correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The electric flux passing through the curved surface of the hemisphere is -Q/(2ε₀)(1-1/√2)"
+        },
+        {
+          "id": "B",
+          "text": "Total flux through the curved and the flat surfaces is Q/ε₀"
+        },
+        {
+          "id": "C",
+          "text": "The component of the electric field normal to the flat surface is constant over the surface"
+        },
+        {
+          "id": "D",
+          "text": "The circumference of the flat surface is an equipotential"
+        }
+      ],
+      "correctAnswer": "A,D",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Flux",
+      "concept": "Gauss's law and electric field geometry",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "Two coherent monochromatic point sources S₁ and S₂ of wavelength λ = 600 nm are placed symmetrically on either side of the center of the circle as shown. The sources are separated by a distance d = 1.8 mm. This arrangement produces interference fringes visible as alternate bright and dark spots on the circumference of the circle. The angular separation between two consecutive bright spots is Δθ. Which of the following options is/are correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A dark spot will be formed at the point P₁"
+        },
+        {
+          "id": "B",
+          "text": "At P₂ the order of the fringe will be maximum"
+        },
+        {
+          "id": "C",
+          "text": "The total number of fringes produced between P₁ and P₂ in the first quadrant is close to 3000"
+        },
+        {
+          "id": "D",
+          "text": "The angular separation between two consecutive bright spots decreases as we move from P₁ to P₂ along the first quadrant"
+        }
+      ],
+      "correctAnswer": "B,C",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Wave Optics",
+      "topic": "Interference",
+      "concept": "Two-source interference on circular geometry",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL",
+        "GEOMETRICAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "A source of constant voltage V is connected to a resistance R and two ideal inductors L₁ and L₂ through a switch S as shown. There is no mutual inductance between the two inductors. The switch S is initially open. At t=0, the switch is closed and current begins to flow. Which of the following options is/are correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "After a long time, the current through L₁ will be VL₂/(R(L₁+L₂))"
+        },
+        {
+          "id": "B",
+          "text": "After a long time, the current through L₂ will be VL₁/(R(L₁+L₂))"
+        },
+        {
+          "id": "C",
+          "text": "The ratio of the currents through L₁ and L₂ is fixed at all times (t>0)"
+        },
+        {
+          "id": "D",
+          "text": "At t=0, the current through the resistance R is V/R"
+        }
+      ],
+      "correctAnswer": "A,B,C",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Electromagnetism",
+      "topic": "RL Circuits",
+      "concept": "Transient behavior in inductor circuits",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "A rigid uniform bar AB of length L is slipping from its vertical position on a frictionless floor (as shown in the figure). At some instant of time, the angle made by the bar with the vertical is θ. Which of the following statements about its motion is/are correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The midpoint of the bar will fall vertically downward"
+        },
+        {
+          "id": "B",
+          "text": "The trajectory of the point A is a parabola"
+        },
+        {
+          "id": "C",
+          "text": "Instantaneous torque about the point in contact with the floor is proportional to sinθ"
+        },
+        {
+          "id": "D",
+          "text": "When the bar makes an angle θ with the vertical, the displacement of its midpoint from the initial position is proportional to (1-cosθ)"
+        }
+      ],
+      "correctAnswer": "A,C,D",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Slipping rod dynamics",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "A wheel of radius R and mass M is placed at the bottom of a fixed step of height R as shown in the figure. A constant force is continuously applied on the surface of the wheel so that it just climbs the step without slipping. Consider the torque τ about an axis normal to the plane of the paper passing through the point Q. Which of the following options is/are correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "If the force is applied at point P tangentially then τ decreases continuously as the wheel climbs"
+        },
+        {
+          "id": "B",
+          "text": "If the force is applied normal to the circumference at point X then τ is constant"
+        },
+        {
+          "id": "C",
+          "text": "If the force is applied normal to the circumference at point P then τ is zero"
+        },
+        {
+          "id": "D",
+          "text": "If the force is applied tangentially at point S then τ≠0 but the wheel never climbs the step"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Dynamics",
+      "concept": "Torque analysis for wheel climbing",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "In Process 1, the energy stored in the capacitor E_C and heat dissipated across resistance E_D are related by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "E_C = E_D"
+        },
+        {
+          "id": "B",
+          "text": "E_C = E_D ln2"
+        },
+        {
+          "id": "C",
+          "text": "E_C = (1/2)E_D"
+        },
+        {
+          "id": "D",
+          "text": "E_C = 2E_D"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetism",
+      "topic": "RC Circuits",
+      "concept": "Energy dissipation in capacitor charging",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "In Process 2, total energy dissipated across the resistance E_D is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "E_D = (1/6)CV₀²"
+        },
+        {
+          "id": "B",
+          "text": "E_D = (3/2)CV₀²"
+        },
+        {
+          "id": "C",
+          "text": "E_D = (5/18)CV₀²"
+        },
+        {
+          "id": "D",
+          "text": "E_D = 3CV₀²"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetism",
+      "topic": "RC Circuits",
+      "concept": "Multi-step capacitor charging",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "The total kinetic energy of the ring is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mω₀²R²"
+        },
+        {
+          "id": "B",
+          "text": "(1/2)Mω₀²(R-r)²"
+        },
+        {
+          "id": "C",
+          "text": "Mω₀²(R-r)²"
+        },
+        {
+          "id": "D",
+          "text": "(3/2)Mω₀²(R-r)²"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Rolling motion kinematics",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GEOMETRICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "The minimum value of ω₀ below which the ring will drop down is",
+      "options": [
+        {
+          "id": "A",
+          "text": "√[g/(R-r)]"
+        },
+        {
+          "id": "B",
+          "text": "√[μg/(R-r)]"
+        },
+        {
+          "id": "C",
+          "text": "√[μg/(μ(R-r))]"
+        },
+        {
+          "id": "D",
+          "text": "√[g/(μ(R-r))]"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Circular Motion",
+      "concept": "Critical angular velocity for circular motion",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "CHEMISTRY",
+      "questionText": "Pure water freezes at 273 K and 1 bar. The addition of 34.5 g of ethanol to 500 g of water changes the freezing point of the solution. Use the freezing point depression constant of water as 2 K kg mol⁻¹. The figures shown below represent plots of vapour pressure (V.P.) versus temperature (T). [molecular weight of ethanol is 46 g mol⁻¹] Among the following, the option representing change in the freezing point is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Graph A"
+        },
+        {
+          "id": "B",
+          "text": "Graph B"
+        },
+        {
+          "id": "C",
+          "text": "Graph C"
+        },
+        {
+          "id": "D",
+          "text": "Graph D"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Solutions",
+      "topic": "Colligative Properties",
+      "concept": "Freezing point depression",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "GRAPHICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "CHEMISTRY",
+      "questionText": "For the following cell, Zn(s)|ZnSO₄(aq)||CuSO₄(aq)|Cu(s) when the concentration of Zn²⁺ is 10 times the concentration of Cu²⁺, the expression for ΔG (in J mol⁻¹) is [F is Faraday constant; R is gas constant; T is temperature; E°cell = 1.1 V]",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.1F"
+        },
+        {
+          "id": "B",
+          "text": "2.303RT - 2.2F"
+        },
+        {
+          "id": "C",
+          "text": "2.303RT + 1.1F"
+        },
+        {
+          "id": "D",
+          "text": "-2.2F"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrochemistry",
+      "topic": "Galvanic Cells",
+      "concept": "Nernst equation and Gibbs free energy",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "subject": "CHEMISTRY",
+      "questionText": "The standard state Gibbs free energies of formation of C(graphite) and C(diamond) at T = 298 K are ΔG°f[C(graphite)] = 0 kJ mol⁻¹ and ΔG°f[C(diamond)] = 2.9 kJ mol⁻¹. The standard state means that the pressure should be 1 bar, and substance should be pure at a given temperature. The conversion of graphite [C(graphite)] to diamond [C(diamond)] reduces its volume by 2×10⁻⁶ m³ mol⁻¹. If C(graphite) is converted to C(diamond) isothermally at T = 298 K, the pressure at which C(graphite) is in equilibrium with C(diamond), is [Useful information: 1 J = 1 kg m² s⁻²; 1 Pa = 1 kg m⁻¹ s⁻²; 1 bar = 10⁵ Pa]",
+      "options": [
+        {
+          "id": "A",
+          "text": "14501 bar"
+        },
+        {
+          "id": "B",
+          "text": "58001 bar"
+        },
+        {
+          "id": "C",
+          "text": "1450 bar"
+        },
+        {
+          "id": "D",
+          "text": "29001 bar"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Phase Equilibria",
+      "concept": "Pressure dependence of phase transition",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "subject": "CHEMISTRY",
+      "questionText": "Which of the following combination will produce H₂ gas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fe metal and conc. HNO₃"
+        },
+        {
+          "id": "B",
+          "text": "Cu metal and conc. HNO₃"
+        },
+        {
+          "id": "C",
+          "text": "Zn metal and NaOH(aq)"
+        },
+        {
+          "id": "D",
+          "text": "Au metal and NaCN(aq) in the presence of air"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "General Chemistry",
+      "topic": "Redox Reactions",
+      "concept": "Hydrogen gas evolution reactions",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "subject": "CHEMISTRY",
+      "questionText": "The order of the oxidation state of the phosphorus atom in H₃PO₂, H₃PO₄, H₃PO₃, and H₄P₂O₆ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "H₃PO₃ > H₃PO₂ > H₃PO₄ > H₄P₂O₆"
+        },
+        {
+          "id": "B",
+          "text": "H₃PO₄ > H₃PO₂ > H₃PO₃ > H₄P₂O₆"
+        },
+        {
+          "id": "C",
+          "text": "H₃PO₄ > H₄P₂O₆ > H₃PO₃ > H₃PO₂"
+        },
+        {
+          "id": "D",
+          "text": "H₃PO₂ > H₃PO₃ > H₄P₂O₆ > H₃PO₄"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Oxidation States",
+      "concept": "Phosphorus compounds oxidation states",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "subject": "CHEMISTRY",
+      "questionText": "The major product of the following reaction is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Product A"
+        },
+        {
+          "id": "B",
+          "text": "Product B"
+        },
+        {
+          "id": "C",
+          "text": "Product C"
+        },
+        {
+          "id": "D",
+          "text": "Product D"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "concept": "Organic synthesis",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "subject": "CHEMISTRY",
+      "questionText": "The order of basicity among the following compounds is",
+      "options": [
+        {
+          "id": "A",
+          "text": "II > I > IV > III"
+        },
+        {
+          "id": "B",
+          "text": "IV > II > III > I"
+        },
+        {
+          "id": "C",
+          "text": "IV > I > II > III"
+        },
+        {
+          "id": "D",
+          "text": "I > IV > III > II"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Nitrogen Compounds",
+      "concept": "Basicity comparison",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "subject": "CHEMISTRY",
+      "questionText": "The correct statement(s) about surface properties is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adsorption is accompanied by decrease in enthalpy and decrease in entropy of the system"
+        },
+        {
+          "id": "B",
+          "text": "The critical temperatures of ethane and nitrogen are 563 K and 126 K, respectively. The adsorption of ethane will be more than that of nitrogen on same amount of activated charcoal at a given temperature"
+        },
+        {
+          "id": "C",
+          "text": "Cloud is an emulsion type of colloid in which liquid is dispersed phase and gas is dispersion medium"
+        },
+        {
+          "id": "D",
+          "text": "Brownian motion of colloidal particles does not depend on the size of the particles but depends on viscosity of the solution"
+        }
+      ],
+      "correctAnswer": "A,B",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Surface Chemistry",
+      "concept": "Adsorption and colloidal properties",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "subject": "CHEMISTRY",
+      "questionText": "For a reaction taking place in a container in equilibrium with its surroundings, the effect of temperature on its equilibrium constant K in terms of change in entropy is described by",
+      "options": [
+        {
+          "id": "A",
+          "text": "With increase in temperature, the value of K for exothermic reaction decreases because the entropy change of the system is positive"
+        },
+        {
+          "id": "B",
+          "text": "With increase in temperature, the value of K for endothermic reaction increases because unfavourable change in entropy of the surroundings decreases"
+        },
+        {
+          "id": "C",
+          "text": "With increase in temperature, the value of K for endothermic reaction increases because the entropy change of the system is negative"
+        },
+        {
+          "id": "D",
+          "text": "With increase in temperature, the value of K for exothermic reaction decreases because favourable change in entropy of the surroundings decreases"
+        }
+      ],
+      "correctAnswer": "B,D",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Equilibrium",
+      "concept": "Temperature dependence of equilibrium constant",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "subject": "CHEMISTRY",
+      "questionText": "In a bimolecular reaction, the steric factor P was experimentally determined to be 4.5. The correct option(s) among the following is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "The activation energy of the reaction is unaffected by the value of the steric factor"
+        },
+        {
+          "id": "B",
+          "text": "Experimentally determined value of frequency factor is higher than that predicted by Arrhenius equation"
+        },
+        {
+          "id": "C",
+          "text": "Since P = 4.5, the reaction will not proceed unless an effective catalyst is used"
+        },
+        {
+          "id": "D",
+          "text": "The value of frequency factor predicted by Arrhenius equation is higher than that determined experimentally"
+        }
+      ],
+      "correctAnswer": "A,B",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Physical Chemistry",
+      "topic": "Chemical Kinetics",
+      "concept": "Collision theory and steric factor",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "subject": "CHEMISTRY",
+      "questionText": "For the following compounds, the correct statement(s) with respect to nucleophilic substitution reactions is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "I and III follow SN1 mechanism"
+        },
+        {
+          "id": "B",
+          "text": "I and II follow SN2 mechanism"
+        },
+        {
+          "id": "C",
+          "text": "Compound IV undergoes inversion of configuration"
+        },
+        {
+          "id": "D",
+          "text": "The order of reactivity for I, III and IV is: IV > I > III"
+        }
+      ],
+      "correctAnswer": "A,B,C",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Nucleophilic Substitution",
+      "concept": "SN1 and SN2 mechanisms",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "subject": "CHEMISTRY",
+      "questionText": "Among the following, the correct statement(s) is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Al(CH₃)₃ has the three-centre two-electron bonds in its dimeric structure"
+        },
+        {
+          "id": "B",
+          "text": "BH₃ has the three-centre two-electron bonds in its dimeric structure"
+        },
+        {
+          "id": "C",
+          "text": "AlCl₃ has the three-centre two-electron bonds in its dimeric structure"
+        },
+        {
+          "id": "D",
+          "text": "The Lewis acidity of BCl₃ is greater than that of AlCl₃"
+        }
+      ],
+      "correctAnswer": "A,B,D",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Chemical Bonding",
+      "concept": "Three-center two-electron bonds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "subject": "CHEMISTRY",
+      "questionText": "The option(s) with only amphoteric oxides is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cr₂O₃, BeO, SnO, SnO₂"
+        },
+        {
+          "id": "B",
+          "text": "Cr₂O₃, CrO, SnO, PbO"
+        },
+        {
+          "id": "C",
+          "text": "NO, B₂O₃, PbO, SnO₂"
+        },
+        {
+          "id": "D",
+          "text": "ZnO, Al₂O₃, PbO, PbO₂"
+        }
+      ],
+      "correctAnswer": "A,D",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Oxides",
+      "concept": "Amphoteric nature of oxides",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "subject": "CHEMISTRY",
+      "questionText": "Compounds P and R upon ozonolysis produce Q and S, respectively. The molecular formula of Q and S is C₈H₈O. Q undergoes Cannizzaro reaction but not haloform reaction, whereas S undergoes haloform reaction but not Cannizzaro reaction. The option(s) with suitable combination of P and R, respectively, is(are)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option A"
+        },
+        {
+          "id": "B",
+          "text": "Option B"
+        },
+        {
+          "id": "C",
+          "text": "Option C"
+        },
+        {
+          "id": "D",
+          "text": "Option D"
+        }
+      ],
+      "correctAnswer": "A,B",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Ozonolysis",
+      "concept": "Ozonolysis products and reactions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "subject": "CHEMISTRY",
+      "questionText": "W and X are, respectively",
+      "options": [
+        {
+          "id": "A",
+          "text": "O₃ and P₄O₆"
+        },
+        {
+          "id": "B",
+          "text": "O₂ and P₄O₆"
+        },
+        {
+          "id": "C",
+          "text": "O₂ and P₄O₁₀"
+        },
+        {
+          "id": "D",
+          "text": "O₃ and P₄O₁₀"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Non-metals",
+      "concept": "Oxygen and phosphorus compounds",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "subject": "CHEMISTRY",
+      "questionText": "Y and Z are, respectively",
+      "options": [
+        {
+          "id": "A",
+          "text": "N₂O₃ and H₃PO₄"
+        },
+        {
+          "id": "B",
+          "text": "N₂O₅ and HPO₃"
+        },
+        {
+          "id": "C",
+          "text": "N₂O₄ and HPO₃"
+        },
+        {
+          "id": "D",
+          "text": "N₂O₄ and H₃PO₃"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Non-metals",
+      "concept": "Nitrogen and phosphorus oxides",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "subject": "CHEMISTRY",
+      "questionText": "The product S is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Product A"
+        },
+        {
+          "id": "B",
+          "text": "Product B"
+        },
+        {
+          "id": "C",
+          "text": "Product C"
+        },
+        {
+          "id": "D",
+          "text": "Product D"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Friedel-Crafts Reactions",
+      "concept": "Aromatic substitution reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "subject": "CHEMISTRY",
+      "questionText": "The reactions, Q to R and R to S, are",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dehydration and Friedel-Crafts acylation"
+        },
+        {
+          "id": "B",
+          "text": "Aromatic sulfonation and Friedel-Crafts acylation"
+        },
+        {
+          "id": "C",
+          "text": "Friedel-Crafts alkylation, dehydration and Friedel-Crafts acylation"
+        },
+        {
+          "id": "D",
+          "text": "Friedel-Crafts alkylation and Friedel-Crafts acylation"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Friedel-Crafts Reactions",
+      "concept": "Sequential organic reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "subject": "MATHEMATICS",
+      "questionText": "The equation of the plane passing through the point (1, 1, 1) and perpendicular to the planes 2x+y-2z=5 and 3x-6y-2z=7, is",
+      "options": [
+        {
+          "id": "A",
+          "text": "14x+2y-15z=1"
+        },
+        {
+          "id": "B",
+          "text": "14x-2y+15z=27"
+        },
+        {
+          "id": "C",
+          "text": "14x+2y+15z=31"
+        },
+        {
+          "id": "D",
+          "text": "-14x+2y+15z=3"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "3D Geometry",
+      "topic": "Planes",
+      "concept": "Equation of plane perpendicular to two planes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "subject": "MATHEMATICS",
+      "questionText": "Let O be the origin and let PQR be an arbitrary triangle. The point S is such that OP⋅OQ + OR⋅OS = OR⋅OP + OQ⋅OS = OQ⋅OR + OP⋅OS. Then the triangle PQR has S as its",
+      "options": [
+        {
+          "id": "A",
+          "text": "centroid"
+        },
+        {
+          "id": "B",
+          "text": "circumcentre"
+        },
+        {
+          "id": "C",
+          "text": "incentre"
+        },
+        {
+          "id": "D",
+          "text": "orthocenter"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Triangle Properties",
+      "concept": "Special points of triangle",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "subject": "MATHEMATICS",
+      "questionText": "If y=y(x) satisfies the differential equation 8x√(9+x) dy = (4+9+x)^(-1) dx, x>0 and y(0)=7, then y(256) =",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "9"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "80"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Differential Equations",
+      "topic": "Variable Separable",
+      "concept": "Solving differential equations",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "subject": "MATHEMATICS",
+      "questionText": "If f:ℝ→ℝ is a twice differentiable function such that f''(x)>0 for all x∈ℝ, and f(1/2)=1/2, f(1)=1, then",
+      "options": [
+        {
+          "id": "A",
+          "text": "f'(1)≤0"
+        },
+        {
+          "id": "B",
+          "text": "0<f'(1)≤1/2"
+        },
+        {
+          "id": "C",
+          "text": "1/2<f'(1)≤1"
+        },
+        {
+          "id": "D",
+          "text": "f'(1)>1"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Application of Derivatives",
+      "concept": "Convex functions and derivatives",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "subject": "MATHEMATICS",
+      "questionText": "How many 3×3 matrices M with entries from {0,1,2} are there, for which the sum of the diagonal entries of M^T M is 5?",
+      "options": [
+        {
+          "id": "A",
+          "text": "126"
+        },
+        {
+          "id": "B",
+          "text": "198"
+        },
+        {
+          "id": "C",
+          "text": "162"
+        },
+        {
+          "id": "D",
+          "text": "135"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Matrices",
+      "topic": "Matrix Operations",
+      "concept": "Matrix transpose and products",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "subject": "MATHEMATICS",
+      "questionText": "Let S={1,2,3,...,9}. For k=1,2,...,5, let N_k be the number of subsets of S, each containing five elements out of which exactly k are odd. Then N_1+N_2+N_3+N_4+N_5 =",
+      "options": [
+        {
+          "id": "A",
+          "text": "210"
+        },
+        {
+          "id": "B",
+          "text": "252"
+        },
+        {
+          "id": "C",
+          "text": "125"
+        },
+        {
+          "id": "D",
+          "text": "126"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Combinatorics",
+      "topic": "Combinations",
+      "concept": "Counting subsets with conditions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "subject": "MATHEMATICS",
+      "questionText": "Three randomly chosen nonnegative integers x,y and z are found to satisfy the equation x+y+z=10. Then the probability that z is even, is",
+      "options": [
+        {
+          "id": "A",
+          "text": "36/66"
+        },
+        {
+          "id": "B",
+          "text": "6/11"
+        },
+        {
+          "id": "C",
+          "text": "1/2"
+        },
+        {
+          "id": "D",
+          "text": "5/11"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Basic Probability",
+      "concept": "Probability with constraints",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "subject": "MATHEMATICS",
+      "questionText": "If g(x) = ∫[cos^(-1)(x) to cos^(-1)(-x)] sin^(-1)(t) dt, then",
+      "options": [
+        {
+          "id": "A",
+          "text": "g'(1/2) = -2π"
+        },
+        {
+          "id": "B",
+          "text": "g'(-1/2) = 2π"
+        },
+        {
+          "id": "C",
+          "text": "g'(1/2) = 2π"
+        },
+        {
+          "id": "D",
+          "text": "g'(-1/2) = -2π"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Integration",
+      "concept": "Differentiation under integral sign",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "subject": "MATHEMATICS",
+      "questionText": "Let α and β be nonzero real numbers such that 2cosβ-cosα+cosαcosβ=1. Then which of the following is/are true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "tan²(α/2) + 3tan²(β/2) = 0"
+        },
+        {
+          "id": "B",
+          "text": "3tan²(α/2) + tan²(β/2) = 0"
+        },
+        {
+          "id": "C",
+          "text": "tan²(α/2) - 3tan²(β/2) = 0"
+        },
+        {
+          "id": "D",
+          "text": "3tan²(α/2) - tan²(β/2) = 0"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations",
+      "concept": "Solving trigonometric equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "ALGEBRAIC"
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "subject": "MATHEMATICS",
+      "questionText": "If f:ℝ→ℝ is a differentiable function such that f'(x)>2f(x) for all x∈ℝ, and f(0)=1, then",
+      "options": [
+        {
+          "id": "A",
+          "text": "f(x) is increasing in (0,∞)"
+        },
+        {
+          "id": "B",
+          "text": "f(x) is decreasing in (0,∞)"
+        },
+        {
+          "id": "C",
+          "text": "f(x)>e^(2x) in (0,∞)"
+        },
+        {
+          "id": "D",
+          "text": "f'(x)<e^(2x) in (0,∞)"
+        }
+      ],
+      "correctAnswer": "A,C",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Differential Inequalities",
+      "concept": "Function inequalities and growth",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f(x) = [(x²-1-|x-1|)/|x-1|] cos(π/(x-1)) for x≠1. Then",
+      "options": [
+        {
+          "id": "A",
+          "text": "lim(x→1⁺) f(x) = 0"
+        },
+        {
+          "id": "B",
+          "text": "lim(x→1⁺) f(x) does not exist"
+        },
+        {
+          "id": "C",
+          "text": "lim(x→1⁻) f(x) = 0"
+        },
+        {
+          "id": "D",
+          "text": "lim(x→1⁻) f(x) does not exist"
+        }
+      ],
+      "correctAnswer": "A,D",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Limits",
+      "concept": "One-sided limits",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "subject": "MATHEMATICS",
+      "questionText": "If f(x) = |cos(2x) cos(2x) sin(2x); -cosx cosx -sinx; sinx sinx cosx|, then",
+      "options": [
+        {
+          "id": "A",
+          "text": "f'(x)=0 at exactly three points in (-π,π)"
+        },
+        {
+          "id": "B",
+          "text": "f'(x)=0 at more than three points in (-π,π)"
+        },
+        {
+          "id": "C",
+          "text": "f(x) attains its maximum at x=0"
+        },
+        {
+          "id": "D",
+          "text": "f(x) attains its minimum at x=0"
+        }
+      ],
+      "correctAnswer": "B,C",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Determinants and Optimization",
+      "concept": "Critical points of determinant functions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "subject": "MATHEMATICS",
+      "questionText": "If the line x=α divides the area of region R={(x,y)∈ℝ²: x³≤y≤x, 0≤x≤1} into two equal parts, then",
+      "options": [
+        {
+          "id": "A",
+          "text": "0<α≤1/2"
+        },
+        {
+          "id": "B",
+          "text": "1/2<α<1"
+        },
+        {
+          "id": "C",
+          "text": "2α⁴-4α³+1=0"
+        },
+        {
+          "id": "D",
+          "text": "α⁴+4α³-1=0"
+        }
+      ],
+      "correctAnswer": "B,C",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Applications of Integration",
+      "concept": "Area bisection by vertical line",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "subject": "MATHEMATICS",
+      "questionText": "If I = ∫₁⁹⁹ [ln(x+1)/(x(x+1))] dx, then",
+      "options": [
+        {
+          "id": "A",
+          "text": "I > log₂(99)"
+        },
+        {
+          "id": "B",
+          "text": "I < log₂(99)"
+        },
+        {
+          "id": "C",
+          "text": "I < 49/50"
+        },
+        {
+          "id": "D",
+          "text": "I > 49/50"
+        }
+      ],
+      "correctAnswer": "B,D",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Calculus",
+      "topic": "Definite Integration",
+      "concept": "Integral inequalities",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "subject": "MATHEMATICS",
+      "questionText": "Let O be the origin, and OX, OY, OZ be three unit vectors in the directions of the sides QR, RP, PQ, respectively, of a triangle PQR. Then |OX×OY| =",
+      "options": [
+        {
+          "id": "A",
+          "text": "sin(P+Q)"
+        },
+        {
+          "id": "B",
+          "text": "sin(2R)"
+        },
+        {
+          "id": "C",
+          "text": "sin(P+R)"
+        },
+        {
+          "id": "D",
+          "text": "sin(Q+R)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vector Analysis",
+      "topic": "Cross Product",
+      "concept": "Cross product magnitude in triangle",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GEOMETRICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "subject": "MATHEMATICS",
+      "questionText": "If the triangle PQR varies, then the minimum value of cos(P+Q)+cos(Q+R)+cos(R+P) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "-3/2"
+        },
+        {
+          "id": "B",
+          "text": "-3/2"
+        },
+        {
+          "id": "C",
+          "text": "3/2"
+        },
+        {
+          "id": "D",
+          "text": "1/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Trigonometry",
+      "topic": "Optimization",
+      "concept": "Extrema of trigonometric expressions",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "OPTIMIZATION"
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "subject": "MATHEMATICS",
+      "questionText": "Let p, q be integers and let α, β be the roots of the equation, x²-x-1=0, where α≠β. For n=0,1,2,..., let aₙ = pαⁿ + qβⁿ. Given that α and β are rational numbers and a+b√5=0, then a=0=b. Then a₁₂ =",
+      "options": [
+        {
+          "id": "A",
+          "text": "a₁₁ - a₁₀"
+        },
+        {
+          "id": "B",
+          "text": "a₁₁ + a₁₀"
+        },
+        {
+          "id": "C",
+          "text": "2a₁₁ + a₁₀"
+        },
+        {
+          "id": "D",
+          "text": "a₁₁ + 2a₁₀"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sequences and Series",
+      "topic": "Recurrence Relations",
+      "concept": "Fibonacci-like sequences",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "ALGEBRAIC"
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "subject": "MATHEMATICS",
+      "questionText": "If a₄ = 28, then p + 2q =",
+      "options": [
+        {
+          "id": "A",
+          "text": "21"
+        },
+        {
+          "id": "B",
+          "text": "14"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Sequences and Series",
+      "topic": "Recurrence Relations",
+      "concept": "Finding coefficients in recurrence",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ALGEBRAIC"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-29T15:20:24.525Z"
+}

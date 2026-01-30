@@ -10,14 +10,14 @@ import { CollapsibleAnalysis } from "./collapsible-analysis";
 export const metadata: Metadata = {
   title: "JEE Main & Advanced Chapter Wise Weightage 2026 - Physics, Chemistry, Maths",
   description:
-    "JEE Main & Advanced 2026 chapter wise weightage comparison. Find critical chapters for Physics (Mechanics 16%, Optics 9%), Chemistry (Organic 23%), Maths (Calculus 18%). Based on 1300+ JEE questions analysis.",
+    "JEE Main & Advanced 2026 chapter wise weightage comparison. Find critical chapters for Physics (Mechanics 16%, Optics 9%), Chemistry (Organic 23%), Maths (Calculus 18%). Based on 1400+ JEE questions analysis.",
   alternates: {
     canonical: "/jee-intelligence",
   },
   openGraph: {
     title: "JEE Main vs Advanced Chapter Weightage 2026 | Critical Chapters Comparison",
     description:
-      "Complete JEE Main & Advanced chapter importance comparison. Know which chapters matter more in each exam. Based on analysis of 1300+ JEE questions from 2019-2026.",
+      "Complete JEE Main & Advanced chapter importance comparison. Know which chapters matter more in each exam. Based on analysis of 1400+ JEE questions from 2019-2026.",
   },
   keywords: [
     "JEE Main chapter wise weightage 2026",

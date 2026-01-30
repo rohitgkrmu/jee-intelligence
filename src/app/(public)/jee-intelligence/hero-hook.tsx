@@ -50,7 +50,7 @@ export function HeroHook() {
         console.error("Error fetching hero stat:", error);
         // Fallback stat
         setHeroStat({
-          totalQuestions: 1147,
+          totalQuestions: 1400,
           criticalChapters: 12,
           highChapters: 18,
           topChapter: "Mechanics",
